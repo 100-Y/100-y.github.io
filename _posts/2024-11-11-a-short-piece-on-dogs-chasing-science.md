@@ -6,9 +6,8 @@ excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 image: /media/your-image.webp
 thumbnail: /assets/img/thumb.jpg
-categories: AI-Assisted
+categories: Notes
 tags: [tag1, tag2, tag3]
-    - Notes
 ---
 
 夜深，废弃的广场上，一团漂浮的“科学”悄然现身，像一段未解的公式，摇曳在月光下。一群流浪狗缓缓围拢过来，眼中闪着迷惘的光芒。科学时而飘忽，时而停驻，像在挑衅，又似在引诱。狗们缓慢地追逐，瘦骨嶙峋的身影在光圈里拉得长长，仿佛紧抓着某种命运的尾巴。
