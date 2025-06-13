@@ -66,6 +66,281 @@ ninja.data = [{
             window.location.href = "/blog/2025/pigs-utopia/";
           
         },
+      },{id: "post-毕业赠",
+        
+          title: "毕业赠",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2014/e6af95e4b89ae8b5a0/";
+          
+        },
+      },{id: "post-唐宋后裔-祭",
+        
+          title: "唐宋后裔（祭）",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2013/e59490e5ae8be5908ee8a394efbc88e7a5adefbc89/";
+          
+        },
+      },{id: "post-花香-fragrance-of-flowers",
+        
+          title: "花香——Fragrance of Flowers",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/fragrance-of-flowers/";
+          
+        },
+      },{id: "post-夏夜-summer-nights",
+        
+          title: "夏夜——Summer Nights",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/summer-nights/";
+          
+        },
+      },{id: "post-秋风独座-a-seat-alone-in-autumn-wind",
+        
+          title: "秋风独座——A Seat Alone in Autumn Wind",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/a-seat-alone-in-autumn-wind/";
+          
+        },
+      },{id: "post-思念的温度-warmth-of-yearning",
+        
+          title: "思念的温度——Warmth of Yearning",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/warmth-of-yearning/";
+          
+        },
+      },{id: "post-一种幸福-a-kind-of-happiness",
+        
+          title: "一种幸福——A Kind of Happiness",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/a-kind-of-happiness/";
+          
+        },
+      },{id: "post-大街-big-street",
+        
+          title: "大街——Big Street",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/big-street/";
+          
+        },
+      },{id: "post-静心-quiet-heart",
+        
+          title: "静心——Quiet Heart",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/quiet-heart/";
+          
+        },
+      },{id: "post-玉泉-滴水岩-yuquan-dishuiyan",
+        
+          title: "玉泉-滴水岩——YuQuan DiShuiYan",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/yuquan-dishuiyan/";
+          
+        },
+      },{id: "post-黑夜里的太阳-the-sun-in-the-nights",
+        
+          title: "黑夜里的太阳——The Sun in the Nights",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/the-sun-in-the-nights/";
+          
+        },
+      },{id: "post-乐活的树子-funny-tree-2",
+        
+          title: "乐活的树子——Funny Tree 2",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/funny-tree-2/";
+          
+        },
+      },{id: "post-乐活的树子-funny-tree-1",
+        
+          title: "乐活的树子——Funny Tree 1",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/funny-tree-1/";
+          
+        },
+      },{id: "post-攀大-panzhihua-university",
+        
+          title: "攀大——Panzhihua University",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/panzhihua-university/";
+          
+        },
+      },{id: "post-春日-days-of-spring",
+        
+          title: "春日——Days of Spring",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/days-of-spring/";
+          
+        },
+      },{id: "post-神龟-divine-turtles",
+        
+          title: "神龟——Divine Turtles",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2012/divine-turtles/";
+          
+        },
+      },{id: "post-鹰-eagles",
+        
+          title: "鹰——Eagles",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2011/eagles/";
+          
+        },
+      },{id: "post-夜孤沉筒-fishing-alone-at-night",
+        
+          title: "夜孤沉筒——Fishing Alone at Night",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2011/fishing-alone-at-night/";
+          
+        },
+      },{id: "post-微凉的风-cool-winds",
+        
+          title: "微凉的风——Cool Winds",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2011/cool-winds/";
+          
+        },
+      },{id: "post-寂静的夜-silent-nights",
+        
+          title: "寂静的夜——Silent Nights",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2011/silent-nights/";
+          
+        },
+      },{id: "post-茶园-tea-garden",
+        
+          title: "茶园——Tea Garden",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2011/tea-garden/";
+          
+        },
+      },{id: "post-纯情梦想-pure-dreams",
+        
+          title: "纯情梦想——Pure Dreams",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2011/pure-dreams/";
+          
+        },
+      },{id: "post-平静的心-peaceful-heart",
+        
+          title: "平静的心——Peaceful Heart",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2011/peaceful-heart/";
+          
+        },
+      },{id: "post-视听与表象-audiovisual-and-appearance",
+        
+          title: "视听与表象——Audiovisual and Appearance",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2011/audiovisual-and-appearance/";
+          
+        },
+      },{id: "post-羊皮古书-the-ancient-parchment",
+        
+          title: "羊皮古书——The Ancient Parchment",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2011/the-ancient-parchment/";
+          
+        },
       },{id: "post-凡星-ordinary-stars",
         
           title: "凡星——Ordinary Stars",
