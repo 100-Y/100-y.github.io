@@ -1,0 +1,16 @@
+---
+layout: post
+title: '孤独的月亮——The Lonely Moon'
+date: 2016-10-25
+excerpt: '（这里写摘要）'
+description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
+image: /media/your-image.webp
+thumbnail: /assets/img/thumb.jpg
+categories: Phrases
+tags: [tag1, tag2, tag3]
+related_posts: true
+---
+
+月亮是夜晚的伤口，唯有孤独恒常如新。
+
+- Moon is the wound of the night, only loneliness is always new.
