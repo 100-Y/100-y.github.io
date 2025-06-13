@@ -1,1 +1,1 @@
-<a href='https://alshedivat.github.io/al-folio//'>al-folio</a>
+<a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a>
