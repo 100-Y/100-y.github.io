@@ -55,6 +55,17 @@ ninja.data = [{
             window.open("https://github.com/100-Y", "_blank");
           
         },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/2017-10-12-rivers-in-life-ghost-and-me/";
+          
+        },
       },{id: "post-被托管的世界-猪的乌托邦",
         
           title: "被托管的世界：猪的乌托邦",
@@ -64,6 +75,325 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/pigs-utopia/";
+          
+        },
+      },{id: "post-钱和理想-money-and-ideals",
+        
+          title: "钱和理想——Money and Ideals",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/money-and-ideals/";
+          
+        },
+      },{id: "post-鸡汤和爱情-chicken-soup-and-love",
+        
+          title: "鸡汤和爱情——Chicken Soup and Love",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/chicken-soup-and-love/";
+          
+        },
+      },{id: "post-人物关系-大洋居民-characters-relationship-ocean-residents",
+        
+          title: "人物关系：大洋居民——Characters Relationship: Ocean Residents",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/characters-relationship-ocean-residents/";
+          
+        },
+      },{id: "post-这是爱情啊-更是诗歌-this-is-love-but-also-poetry",
+        
+          title: "这是爱情啊，更是诗歌——This is Love, but also Poetry",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/this-is-love-but-also-poetry/";
+          
+        },
+      },{id: "post-王子如梦记-princes-amp-8217-dream-4-1",
+        
+          title: "王子如梦记｜Princes&amp;#8217; Dream (4-1)",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/princes-dream/";
+          
+        },
+      },{id: "post-冬雪寒-winter-snow-and-cold-plum",
+        
+          title: "冬雪寒——Winter Snow and Cold Plum",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/winter-snow-and-cold-plum/";
+          
+        },
+      },{id: "post-八月-花儿与微风-august-flowers-and-breeze",
+        
+          title: "八月、花儿与微风——August, Flowers and Breeze",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/august-flowers-and-breeze/";
+          
+        },
+      },{id: "post-国王-马修之墓-king-and-matthew-amp-8217-s-cemetery-3-100",
+        
+          title: "国王、马修之墓——King and Matthew&amp;#8217;s Cemetery (3-100)",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/king-and-matthews-cemetery/";
+          
+        },
+      },{id: "post-给蟋蟀们的赞歌-hymn-for-crickets",
+        
+          title: "给蟋蟀们的赞歌——Hymn for Crickets",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/hymn-for-crickets/";
+          
+        },
+      },{id: "post-苦难人的爱情-love-of-victims",
+        
+          title: "苦难人的爱情——Love of Victims",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/love-of-victims/";
+          
+        },
+      },{id: "post-现实世界我是一个哑巴-i-m-a-mute-in-real-world",
+        
+          title: "现实世界我是一个哑巴——I’m a Mute in Real World",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/im-a-mute-in-real-world/";
+          
+        },
+      },{id: "post-马修的形体-matthew-amp-8217-s-body-4",
+        
+          title: "马修的形体——Matthew&amp;#8217;s Body (4-)",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/matthews-body/";
+          
+        },
+      },{id: "post-灵魂伴侣-soulmate",
+        
+          title: "灵魂伴侣——Soulmate",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/soulmate/";
+          
+        },
+      },{id: "post-爱你的人-one-loves-you",
+        
+          title: "爱你的人——One Loves You",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/one-loves-you/";
+          
+        },
+      },{id: "post-王子的情劫-love-robbery-of-prince-4",
+        
+          title: "王子的情劫——Love Robbery of Prince (4-)",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/love-robbery-of-prince/";
+          
+        },
+      },{id: "post-征程开始-on-the-journey-4",
+        
+          title: "征程开始——On the Journey (4-)",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/on-the-journey/";
+          
+        },
+      },{id: "post-思考和想象力-thinking-and-imagination",
+        
+          title: "思考和想象力——Thinking and Imagination",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/thinking-and-imagination/";
+          
+        },
+      },{id: "post-六月的风-wind-in-june",
+        
+          title: "六月的风——Wind in June",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/e585ade69c88e79a84e9a38e-wind-in-june/";
+          
+        },
+      },{id: "post-离开-leaving",
+        
+          title: "离开——Leaving",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/leaving/";
+          
+        },
+      },{id: "post-像是抑郁-depression",
+        
+          title: "像是抑郁——Depression",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/depression/";
+          
+        },
+      },{id: "post-中华新韵到底是怎么一回事-what-exactly-is-the-new-chinese-rhyme-system",
+        
+          title: "中华新韵到底是怎么一回事？——What Exactly is the New Chinese Rhyme System?",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/what-exactly-is-the-new-chinese-rhyme-system/";
+          
+        },
+      },{id: "post-韵发展史略-a-brief-history-of-the-development-of-rhymes",
+        
+          title: "韵发展史略——A Brief History of the Development of Rhymes",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/a-brief-history-of-the-development-of-rhymes/";
+          
+        },
+      },{id: "post-3月8日成都的雨-march-8th-rain-in-chengdu",
+        
+          title: "3月8日成都的雨——March 8th, Rain in Chengdu",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/march-8th-rain-in-chengdu/";
+          
+        },
+      },{id: "post-吾系不知汝-i-don-amp-8217-t-know-you",
+        
+          title: "吾系不知汝——I Don&amp;#8217;t Know You",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/i-dont-know-you/";
+          
+        },
+      },{id: "post-黑暗痛苦-dark-pains",
+        
+          title: "黑暗痛苦——Dark Pains",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/dark-pains/";
+          
+        },
+      },{id: "post-浪仙-wandering-immortal",
+        
+          title: "浪仙——Wandering Immortal",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/wandering-immortal/";
+          
+        },
+      },{id: "post-孤独的月亮-the-lonely-moon",
+        
+          title: "孤独的月亮——The Lonely Moon",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/the-lonely-moon/";
+          
+        },
+      },{id: "post-恰似冬风-just-like-winter-wind",
+        
+          title: "恰似冬风——Just Like Winter Wind",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/just-like-winter-wind/";
+          
+        },
+      },{id: "post-如果明天我离开-if-i-die-tomorrow",
+        
+          title: "如果明天我离开——If I Die Tomorrow",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/if-i-die-tomorrow/";
           
         },
       },{id: "post-过去式-past-tense",
