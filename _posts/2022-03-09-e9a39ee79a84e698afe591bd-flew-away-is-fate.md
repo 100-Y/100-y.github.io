@@ -1,0 +1,16 @@
+---
+layout: post
+title: '飞的是命——Flew away is Fate'
+date: 2022-03-09
+excerpt: '（这里写摘要）'
+description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
+image: /media/your-image.webp
+thumbnail: /assets/img/thumb.jpg
+categories: Phrases
+tags: [tag1, tag2, tag3]
+related_posts: true
+---
+
+时运不济、渡劫飞升，要与命抗争，不曾想、到最后，丢的是自己，飞的是命；命在，自己却没了。
+
+- Unlucky, crossing the calamity and ascending, to fight against the fate, never thought, that in the end, lost oneself, flew away is fate; fate is here, but self is gone.
