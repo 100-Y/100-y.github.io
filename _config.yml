@@ -144,11 +144,11 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false  #不能删，只能true改false，且news（项）被删掉的情况。前后，books、projects都一样。
   projects:
     output: true
 
