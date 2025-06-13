@@ -330,17 +330,6 @@ ninja.data = [{
             window.location.href = "/blog/2021/diagrams/";
           
         },
-      },{id: "post-a-post-with-twitter",
-        
-          title: "a post with twitter",
-        
-        description: "an example of a blog post with twitter",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2020/twitter/";
-          
-        },
       },{id: "post-凡星-ordinary-stars",
         
           title: "凡星——Ordinary Stars",
