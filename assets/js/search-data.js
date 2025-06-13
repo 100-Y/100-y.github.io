@@ -446,6 +446,17 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
+      },{id: "post-凡星-ordinary-stars",
+        
+          title: "凡星——Ordinary Stars",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2010/ordinary-stars/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
