@@ -1,0 +1,18 @@
+---
+layout: post
+title: '樵牧——Woodcutters and Herders'
+date: 2016-03-06
+excerpt: '（这里写摘要）'
+description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
+image: /media/your-image.webp
+thumbnail: /assets/img/thumb.jpg
+categories: Poems
+tags: [tag1, tag2, tag3]
+related_posts: true
+---
+
+樵牧、踏野径，  
+渔，垂竿陂塘。
+
+- Woodcutters and herders, tread on wild paths,
+- Fish, rod vertical in ponds.
