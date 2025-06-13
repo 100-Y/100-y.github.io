@@ -209,6 +209,534 @@ ninja.data = [{
             window.location.href = "/blog/2025/pigs-utopia/";
           
         },
+      },{id: "post-香蕉和牛奶的狂欢-a-carnival-of-bananas-and-milk",
+        
+          title: "香蕉和牛奶的狂欢——A Carnival of Bananas and Milk",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/a-carnival-of-bananas-and-milk/";
+          
+        },
+      },{id: "post-谁动了奶酪-who-moved-the-cheese",
+        
+          title: "谁动了奶酪？——Who Moved the Cheese?",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/who-moved-the-cheese/";
+          
+        },
+      },{id: "post-将-10-美元转入-fiat24-账户的完整指南",
+        
+          title: "将 10 美元转入 Fiat24 账户的完整指南",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/a-complete-guide-to-depositing-10-dollars-into-your-fiat24-account/";
+          
+        },
+      },{id: "post-思想入骨-肉身觉醒-thought-to-the-bone-the-body-awakens",
+        
+          title: "思想入骨，肉身觉醒——Thought to the Bone, the Body Awakens",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/thought-to-the-bone-the-body-awakens/";
+          
+        },
+      },{id: "post-无知者无罪-the-ignorant-are-not-guilty",
+        
+          title: "无知者无罪——The Ignorant are not Guilty",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-ignorant-are-not-guilty/";
+          
+        },
+      },{id: "post-存在的裂缝-the-fracture-of-existence",
+        
+          title: "存在的裂缝——The Fracture of Existence",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-fracture-of-existence/";
+          
+        },
+      },{id: "post-燃尽之书-the-burnt-book",
+        
+          title: "燃尽之书——The Burnt Book",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-burnt-book/";
+          
+        },
+      },{id: "post-剥皮点灯-flayed-to-light-the-lamp",
+        
+          title: "剥皮点灯——Flayed to Light the Lamp",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/flayed-to-light-the-lamp/";
+          
+        },
+      },{id: "post-一篇-deta-surf-的产品使用介绍",
+        
+          title: "一篇 deta-surf 的产品使用介绍",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/an-introduction-to-the-use-of-deta-surf-product/";
+          
+        },
+      },{id: "post-谁能被点名-谁须要供奉-who-bears-a-name-and-who-bears-the-altar",
+        
+          title: "谁能被点名，谁须要供奉——Who Bears a Name, and Who Bears the Altar",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/who-bears-a-name-and-who-bears-the-altar/";
+          
+        },
+      },{id: "post-体能训练与营养补给-癌症干预的生活式可能",
+        
+          title: "体能训练与营养补给：癌症干预的生活式可能",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/exercise-and-nutrition-a-lifestyle-path-to-cancer-intervention/";
+          
+        },
+      },{id: "post-程序即治理-program-as-governance",
+        
+          title: "程序即治理——Program as Governance",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/program-as-governance/";
+          
+        },
+      },{id: "post-信任的单向流动-制度化服从与觉醒的隐喻",
+        
+          title: "信任的单向流动：制度化服从与觉醒的隐喻",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/one-way-passage/";
+          
+        },
+      },{id: "post-镜墙后的回声-echoes-behind-the-mirror-wall",
+        
+          title: "镜墙后的回声——Echoes Behind the Mirror Wall",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/echoes-behind-the-mirror-wall/";
+          
+        },
+      },{id: "post-ai-内容生成与分发聚合系统",
+        
+          title: "AI 内容生成与分发聚合系统",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ai-content-generation-and-distribution-system/";
+          
+        },
+      },{id: "post-遗言-ipsri的终幕-final-testament-the-last-curtain-of-ipsri",
+        
+          title: "遗言：IPSRI的终幕——Final Testament: The Last Curtain of IPSRI",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/final-testament-the-last-curtain-of-ipsri/";
+          
+        },
+      },{id: "post-删句的-在编史-the-one-who-deletes-is-writing-history",
+        
+          title: "删句的，在编史——The One Who Deletes Is Writing History",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-one-who-deletes-is-writing-history/";
+          
+        },
+      },{id: "post-影子秩序之下-beneath-the-shadow-order",
+        
+          title: "影子秩序之下——Beneath the Shadow Order",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/beneath-the-shadow-order/";
+          
+        },
+      },{id: "post-执行力的真相-the-truth-of-execution",
+        
+          title: "执行力的真相——The Truth of Execution",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-truth-of-execution/";
+          
+        },
+      },{id: "post-制度的手指-the-fingers-of-the-system",
+        
+          title: "制度的手指——The Fingers of the System",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-fingers-of-the-system/";
+          
+        },
+      },{id: "post-36525-day-个人ip与内容变现行动方案",
+        
+          title: "36525.day：个人IP与内容变现行动方案",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/36525-day-personal-ip-and-content-monetization-action-plan/";
+          
+        },
+      },{id: "post-你将获得你所求的一切-you-shall-have-what-you-seek",
+        
+          title: "你将获得你所求的一切——You Shall Have What You Seek",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/you-shall-have-what-you-seek/";
+          
+        },
+      },{id: "post-乱世生存五法则-如何在风暴中保持自我",
+        
+          title: "乱世生存五法则：如何在风暴中保持自我",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/survival-manual/";
+          
+        },
+      },{id: "post-新域名计划-new-domain-plan",
+        
+          title: "新域名计划——New Domain Plan",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/new-domain-plan/";
+          
+        },
+      },{id: "post-荣耀的重量-the-weight-of-glory",
+        
+          title: "荣耀的重量——The Weight of Glory",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-weight-of-glory/";
+          
+        },
+      },{id: "post-在喧哗中看见结构-seeing-structure-in-the-noise",
+        
+          title: "在喧哗中看见结构——Seeing Structure in the Noise",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/seeing-structure-in-the-noise/";
+          
+        },
+      },{id: "post-36525天-yaniék-雅捏克-яниэк-يانيك-百年-新词-跨文化的构造逻辑",
+        
+          title: "36525天，Yaniék—雅捏克—Яниэк—يانيك：“百年”新词，跨文化的构造逻辑",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cross-cultural-construction-logic-of-a-new-word-yaniek/";
+          
+        },
+      },{id: "post-教育是口锅-education-is-an-old-pot",
+        
+          title: "教育是口锅——Education is an Old Pot",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/education-is-an-old-pot/";
+          
+        },
+      },{id: "post-个人出海-personal-going-overseas",
+        
+          title: "个人出海——Personal Going Overseas",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/personal-going-overseas/";
+          
+        },
+      },{id: "post-流动中的意义暴力-the-fluid-violence-of-meaning",
+        
+          title: "流动中的意义暴力——The Fluid Violence of Meaning",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-fluid-violence-of-meaning/";
+          
+        },
+      },{id: "post-符号的囚笼-the-cage-of-symbols",
+        
+          title: "符号的囚笼——The Cage of Symbols",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-cage-of-symbols/";
+          
+        },
+      },{id: "post-顺从的建筑学-the-architecture-of-obedience",
+        
+          title: "顺从的建筑学——The Architecture of Obedience",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-architecture-of-obedience/";
+          
+        },
+      },{id: "post-科学上网-scientific-internet-surfing",
+        
+          title: "科学上网——Scientific Internet Surfing",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/scientific-internet-surfing/";
+          
+        },
+      },{id: "post-无名之境-the-nameless-realm",
+        
+          title: "无名之境——The Nameless Realm",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-nameless-realm/";
+          
+        },
+      },{id: "post-伤口上的盐-salt-on-the-wound",
+        
+          title: "伤口上的盐——Salt on the Wound",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/salt-on-the-wound/";
+          
+        },
+      },{id: "post-光的楔子-wedges-of-light",
+        
+          title: "光的楔子——Wedges of Light",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/holidays-and-time/";
+          
+        },
+      },{id: "post-那个精致利己的毛左-that-left-egoism-maoist",
+        
+          title: "那个精致利己的毛左——That Left Egoism Maoist",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/that-left-egoism-maoist/";
+          
+        },
+      },{id: "post-初心-the-original-aspiration",
+        
+          title: "初心——The Original Aspiration",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-original-aspiration/";
+          
+        },
+      },{id: "post-权力擦边的过程-the-edge-walking-of-power",
+        
+          title: "权力擦边的过程——The Edge-Walking of Power",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-edge-walking-of-power/";
+          
+        },
+      },{id: "post-不是树-而是森林-not-a-tree-but-a-forest",
+        
+          title: "不是树，而是森林——Not a Tree, But a Forest",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/not-a-tree-but-a-forest/";
+          
+        },
+      },{id: "post-人民之词-the-word-people",
+        
+          title: "人民之词——The Word People",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-word-people/";
+          
+        },
+      },{id: "post-挺胸和收腹-chest-out-and-stomach-in",
+        
+          title: "挺胸和收腹——Chest out and Stomach in",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/chest-out-and-stomach-in/";
+          
+        },
+      },{id: "post-不再等待-no-longer-waiting",
+        
+          title: "不再等待——No Longer Waiting",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/no-longer-waiting/";
+          
+        },
+      },{id: "post-历史正确的一边-the-right-side-of-history",
+        
+          title: "历史正确的一边——The Right Side of History",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-right-side-of-history/";
+          
+        },
+      },{id: "post-晨间失衡-morning-disorientation",
+        
+          title: "晨间失衡——Morning Disorientation",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/morning-disorientation/";
+          
+        },
+      },{id: "post-速度的泪腺-在光的断层中失明-tear-duct-of-speed-going-blind-in-the-faultline-of-light",
+        
+          title: "速度的泪腺：在光的断层中失明——Tear Duct of Speed: Going Blind in the Faultline of Light",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/tear-duct-of-speed-going-blind-in-the-faultline-of-light/";
+          
+        },
+      },{id: "post-抑郁的个体-the-depressed-individual",
+        
+          title: "抑郁的个体——The Depressed Individual",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-depressed-individual/";
+          
+        },
+      },{id: "post-钱与人-money-and-people",
+        
+          title: "钱与人——Money and People",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/money-and-people/";
+          
+        },
       },{id: "post-亡者-路的尽头-end-road-of-deceased",
         
           title: "亡者，路的尽头——End Road of Deceased",
