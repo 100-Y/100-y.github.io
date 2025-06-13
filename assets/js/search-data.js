@@ -66,6 +66,281 @@ ninja.data = [{
             window.location.href = "/blog/2025/pigs-utopia/";
           
         },
+      },{id: "post-夜半三更-late-at-night",
+        
+          title: "夜半三更——Late at Night",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/late-at-night/";
+          
+        },
+      },{id: "post-白云-white-clouds",
+        
+          title: "白云——White Clouds",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/white-clouds/";
+          
+        },
+      },{id: "post-谎言-lies",
+        
+          title: "谎言——Lies",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/lies/";
+          
+        },
+      },{id: "post-与其-不如-instead-and-it-is-better",
+        
+          title: "与其、不如——Instead and it is Better",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/instead-and-it-is-better/";
+          
+        },
+      },{id: "post-醉酒鬼-drunkards",
+        
+          title: "醉酒鬼——Drunkards",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/drunkards/";
+          
+        },
+      },{id: "post-大雪与少年-heavy-snow-and-boy",
+        
+          title: "大雪与少年——Heavy Snow and Boy",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/heavy-snow-and-boy/";
+          
+        },
+      },{id: "post-僵化的思想-rigid-thoughts",
+        
+          title: "僵化的思想——Rigid Thoughts",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/rigid-thoughts/";
+          
+        },
+      },{id: "post-思想-thoughts",
+        
+          title: "思想——Thoughts",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/thoughts/";
+          
+        },
+      },{id: "post-25岁时的爱情-love-at-25",
+        
+          title: "25岁时的爱情——Love at 25",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/love-at-25/";
+          
+        },
+      },{id: "post-佛的心境-buddha-amp-8217-s-mind",
+        
+          title: "佛的心境——Buddha&amp;#8217;s Mind",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/buddhas-mind/";
+          
+        },
+      },{id: "post-梦的集合-collection-of-dreams-1",
+        
+          title: "梦的集合——Collection of Dreams 1",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/collection-of-dreams-1/";
+          
+        },
+      },{id: "post-梦醒-dream-over",
+        
+          title: "梦醒——Dream Over",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/dream-over/";
+          
+        },
+      },{id: "post-煮稀饭-cooking-porridge",
+        
+          title: "煮稀饭——Cooking Porridge",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/cooking-porridge/";
+          
+        },
+      },{id: "post-青春记忆-memory-of-youth",
+        
+          title: "青春记忆——Memory of Youth",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/memory-of-youth/";
+          
+        },
+      },{id: "post-情感-emotions",
+        
+          title: "情感——Emotions",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/emotions/";
+          
+        },
+      },{id: "post-诱惑与自我-temptations-and-oneself",
+        
+          title: "诱惑与自我——Temptations and Oneself",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/temptations-and-oneself/";
+          
+        },
+      },{id: "post-唾沫星子-spittle",
+        
+          title: "唾沫星子——Spittle",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/spittle/";
+          
+        },
+      },{id: "post-悲伤的眼泪-tears-of-sadness",
+        
+          title: "悲伤的眼泪——Tears of Sadness",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/tears-of-sadness/";
+          
+        },
+      },{id: "post-红灯笼-red-lanterns",
+        
+          title: "红灯笼——Red Lanterns",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/red-lanterns/";
+          
+        },
+      },{id: "post-杜撰-林则徐之死-apocryphal-death-of-lin-zexu",
+        
+          title: "杜撰，林则徐之死——Apocryphal Death of Lin Zexu",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/apocryphal-death-of-lin-zexu/";
+          
+        },
+      },{id: "post-生活琐事-trivialities-of-life",
+        
+          title: "生活琐事——Trivialities of Life",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/trivialities-of-life/";
+          
+        },
+      },{id: "post-寸头-buzz-cut",
+        
+          title: "寸头——Buzz Cut",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2014/buzz-cut/";
+          
+        },
+      },{id: "post-梦的回响-echoes-of-dream",
+        
+          title: "梦的回响——Echoes of Dream",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2014/echoes-of-dream/";
+          
+        },
+      },{id: "post-真的伤口-the-real-wound",
+        
+          title: "真的伤口——The Real Wound",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2014/the-real-wound/";
+          
+        },
+      },{id: "post-黄昏-黎明-the-dusk-the-dawn",
+        
+          title: "黄昏、黎明——The Dusk, The Dawn",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2014/the-dusk-the-dawn/";
+          
+        },
       },{id: "post-毕业赠",
         
           title: "毕业赠",
