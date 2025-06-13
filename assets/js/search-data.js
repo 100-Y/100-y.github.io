@@ -77,6 +77,666 @@ ninja.data = [{
             window.location.href = "/blog/2025/pigs-utopia/";
           
         },
+      },{id: "post-中国不会亡-china-will-not-perish",
+        
+          title: "中国不会亡——China will not Perish",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/china-will-not-perish/";
+          
+        },
+      },{id: "post-未即当下-future-is-now",
+        
+          title: "未即当下——Future is Now",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/future-is-now/";
+          
+        },
+      },{id: "post-浪漫星空-romantic-starry-sky",
+        
+          title: "浪漫星空——Romantic Starry Sky",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/romantic-starry-sky/";
+          
+        },
+      },{id: "post-前进的苦楚-pains-of-moving-forward",
+        
+          title: "前进的苦楚——Pains of Moving Forward",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/pains-of-moving-forward/";
+          
+        },
+      },{id: "post-新造人-ncp",
+        
+          title: "新造人——NCP",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/ncp/";
+          
+        },
+      },{id: "post-史记世系表",
+        
+          title: "史记世系表",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/shiji/";
+          
+        },
+      },{id: "post-退守迷蒙森林-retreat-to-misty-forest-3-99",
+        
+          title: "退守迷蒙森林——Retreat to Misty Forest (3-99)",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/retreat-to-misty-forest/";
+          
+        },
+      },{id: "post-城墙与人心-wall-and-human-heart-3",
+        
+          title: "城墙与人心——Wall and Human Heart (3-)",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/wall-and-human-heart/";
+          
+        },
+      },{id: "post-爱是什么-what-is-a-love",
+        
+          title: "爱是什么——What is a Love",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/what-is-a-love/";
+          
+        },
+      },{id: "post-希雅-海神的女儿-sea-daughter-of-ocean-4",
+        
+          title: "希雅，海神的女儿——Sea, Daughter of Ocean (4-)",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/sea-daughter-of-ocean/";
+          
+        },
+      },{id: "post-寻找海盗-looking-for-the-pirates-4",
+        
+          title: "寻找海盗——Looking for the Pirates (4-)",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/looking-for-the-pirates/";
+          
+        },
+      },{id: "post-每个人的负重-everyone-s-burden",
+        
+          title: "每个人的负重——Everyone’s Burden",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/everyones-burden/";
+          
+        },
+      },{id: "post-爱人与护己-love-others-and-protect-oneself",
+        
+          title: "爱人与护己——Love Others and Protect Oneself",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/love-others-and-protect-oneself/";
+          
+        },
+      },{id: "post-要过的日子-days-to-live",
+        
+          title: "要过的日子——Days to Live",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/days-to-live/";
+          
+        },
+      },{id: "post-黑暗中的星-stars-in-darkness",
+        
+          title: "黑暗中的星——Stars in Darkness",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/stars-in-darkness/";
+          
+        },
+      },{id: "post-最终结局-the-final-end",
+        
+          title: "最终结局——The Final End",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/the-final-end/";
+          
+        },
+      },{id: "post-地图的一些讲解-explanations-of-the-map",
+        
+          title: "地图的一些讲解——Explanations of the Map",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/explanations-of-the-map/";
+          
+        },
+      },{id: "post-线装书的制法-method-of-making-thread-bound-books",
+        
+          title: "线装书的制法——Method of Making Thread Bound Books",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/method-of-making-thread-bound-books/";
+          
+        },
+      },{id: "post-关于爱情-about-love",
+        
+          title: "关于爱情——About Love",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/about-love/";
+          
+        },
+      },{id: "post-于你无内的诗-poem-without-u",
+        
+          title: "于你无内的诗——Poem Without U",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/poem-without-u/";
+          
+        },
+      },{id: "post-下跪与爱情-kneel-and-love",
+        
+          title: "下跪与爱情——Kneel and Love",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/kneel-and-love/";
+          
+        },
+      },{id: "post-她的无知-我的愚昧-her-ignorance-and-mine",
+        
+          title: "她的无知，我的愚昧——Her Ignorance and mine",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/her-ignorance-and-mine/";
+          
+        },
+      },{id: "post-迷茫道路-confusion-road",
+        
+          title: "迷茫道路——Confusion Road",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/confusion-road/";
+          
+        },
+      },{id: "post-爱的艺术-art-of-love",
+        
+          title: "爱的艺术——Art of Love",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/art-of-love/";
+          
+        },
+      },{id: "post-黑夜过后-after-night",
+        
+          title: "黑夜过后——After Night",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/after-night/";
+          
+        },
+      },{id: "post-地狱-生命的海洋-hell-the-ocean-of-life-1-2",
+        
+          title: "地狱，生命的海洋——Hell, the Ocean of Life (1-2)",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/hell-the-ocean-of-life/";
+          
+        },
+      },{id: "post-诗人的海洋-poet-s-ocean",
+        
+          title: "诗人的海洋——Poet’s Ocean",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/poets-ocean/";
+          
+        },
+      },{id: "post-天空坠落一粒尘埃-a-dust-falling-from-sky-1-1",
+        
+          title: "天空坠落一粒尘埃——A Dust Falling from Sky (1-1)",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/a-dust-falling-from-sky/";
+          
+        },
+      },{id: "post-平和-我的心",
+        
+          title: "平和，我的心",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/peace-my-heart/";
+          
+        },
+      },{id: "post-生活-诗和远方-life-poetry-and-distance",
+        
+          title: "生活、诗和远方——Life, Poetry and Distance",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/life-poetry-and-distance/";
+          
+        },
+      },{id: "post-缘分-岁月-fate-years",
+        
+          title: "缘分、岁月——Fate, Years",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/fate-years/";
+          
+        },
+      },{id: "post-死亡和希望-death-and-hope",
+        
+          title: "死亡和希望——Death and Hope",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/death-and-hope/";
+          
+        },
+      },{id: "post-百年鸿沟-a-gap-of-a-hundred-years",
+        
+          title: "百年鸿沟——A Gap of a Hundred Years",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/a-gap-of-a-hundred-years/";
+          
+        },
+      },{id: "post-前言-序",
+        
+          title: "前言、序",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/qianyan-xu/";
+          
+        },
+      },{id: "post-乩学初知",
+        
+          title: "乩学初知",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/jixue/";
+          
+        },
+      },{id: "post-香山菩萨传",
+        
+          title: "香山菩萨传",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e9a699e5b1b1e88fa9e890a8e4bca0/";
+          
+        },
+      },{id: "post-饮中八仙联诗",
+        
+          title: "饮中八仙联诗",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e9a5aee4b8ade585abe4bb99e88194e8af97/";
+          
+        },
+      },{id: "post-逍遥文",
+        
+          title: "逍遥文",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e9808de981a5e69687/";
+          
+        },
+      },{id: "post-舟子挽船诗",
+        
+          title: "舟子挽船诗",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e8889fe5ad90e68cbde888b9e8af97/";
+          
+        },
+      },{id: "post-瑶池内侍仙姬传",
+        
+          title: "瑶池内侍仙姬传",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e791b6e6b1a0e58685e4be8de4bb99e5a7ace4bca0/";
+          
+        },
+      },{id: "post-理事-坛规-凡例",
+        
+          title: "理事、坛规、凡例",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e79086e4ba8be38081e59d9be8a784e38081e587a1e4be8b/";
+          
+        },
+      },{id: "post-清秋咏月醉仙家赋-以题为韵",
+        
+          title: "清秋咏月醉仙家赋（以题为韵）",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e6b885e7a78be5928fe69c88e98689e4bb99e5aeb6e8b58befbc88e4bba5e9a298e4b8bae99fb5efbc89/";
+          
+        },
+      },{id: "post-海蝉仙歌",
+        
+          title: "海蝉仙歌",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e6b5b7e89d89e4bb99e6ad8c/";
+          
+        },
+      },{id: "post-张宋二公联诗-二月十五日",
+        
+          title: "张宋二公联诗（二月十五日）",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e5bca0e5ae8be4ba8ce585ace88194e8af97efbc88e4ba8ce69c88e58d81e4ba94e697a5efbc89/";
+          
+        },
+      },{id: "post-张-宋二公传",
+        
+          title: "张、宋二公传",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e5bca0e38081e5ae8be4ba8ce585ace4bca0/";
+          
+        },
+      },{id: "post-开坛降",
+        
+          title: "开坛降",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e5bc80e59d9be9998d/";
+          
+        },
+      },{id: "post-岳武穆王诗歌",
+        
+          title: "岳武穆王诗歌",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e5b2b3e6ada6e7a986e78e8be8af97e6ad8c/";
+          
+        },
+      },{id: "post-宋公愚人自愚说",
+        
+          title: "宋公愚人自愚说",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e5ae8be585ace6849ae4babae887aae6849ae8afb4/";
+          
+        },
+      },{id: "post-原集目录",
+        
+          title: "原集目录",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e58e9fe99b86e79baee5bd95/";
+          
+        },
+      },{id: "post-南华老人排律诗",
+        
+          title: "南华老人排律诗",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e58d97e58d8ee88081e4babae68e92e5be8be8af97/";
+          
+        },
+      },{id: "post-八天君联诗",
+        
+          title: "八天君联诗",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/e585abe5a4a9e5909be88194e8af97/";
+          
+        },
+      },{id: "post-词语释义",
+        
+          title: "词语释义",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/ciyu/";
+          
+        },
+      },{id: "post-孤山处士述梦",
+        
+          title: "孤山处士述梦",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/chushi-shumeng/";
+          
+        },
+      },{id: "post-时间线-time-line",
+        
+          title: "时间线——Time Line",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/time-line/";
+          
+        },
+      },{id: "post-相关介质-以及结局-medium-and-ending",
+        
+          title: "相关介质、以及结局——Medium and Ending",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/medium-and-ending/";
+          
+        },
+      },{id: "post-昨夜-今日-last-night-today",
+        
+          title: "昨夜、今日——Last Night, Today",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/last-night-today/";
+          
+        },
+      },{id: "post-当你沉睡时-when-you-are-asleep",
+        
+          title: "当你沉睡时——When You are Asleep",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/e5bd93e4bda0e6b289e79da1e697b6-when-you-are-asleep/";
+          
+        },
+      },{id: "post-人物关系-城墙内的居民-characters-relationship-residents-inside-the-wall",
+        
+          title: "人物关系：城墙内的居民——Characters Relationship: Residents inside the Wall",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/characters-relationship-residents-inside-the-wall/";
+          
+        },
+      },{id: "post-创作计划-writing-plan",
+        
+          title: "创作计划——Writing Plan",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/writing-plan/";
+          
+        },
+      },{id: "post-繁忙的地下世界-the-busy-underworld",
+        
+          title: "繁忙的地下世界——The Busy Underworld",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/the-busy-underworld/";
+          
+        },
       },{id: "post-钱和理想-money-and-ideals",
         
           title: "钱和理想——Money and Ideals",
