@@ -55,149 +55,6 @@ ninja.data = [{
             window.open("https://github.com/100-Y", "_blank");
           
         },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-17-the-act-of-social-revenge/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-14-the-cultural-syndrome-of-universal-xianzhong/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-13-wisdom-of-feigning-simplicity/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-13-intuition-the-art-of-transforming-perception-into-inspiration/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-13-family-scandal/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-12-the-echo-of-the-lost/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-12-li-ziqis-work/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-11-the-interpretation-of-random-mass-incidents-and-their-social-implications/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-11-a-short-piece-on-dogs-chasing-science/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-10-if-lu-xun-is-the-black-of-chinese-then-what-is-hu-shi/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-08-the-illiterate-may-not-read-but-a-diploma-will-be-fine/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2024-11-08-distant-gentleness/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2017-10-12-rivers-in-life-ghost-and-me/";
-          
-        },
       },{id: "post-被托管的世界-猪的乌托邦",
         
           title: "被托管的世界：猪的乌托邦",
@@ -1089,6 +946,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/the-power-of-shut-up/";
           
         },
+      },{id: "post-报复社会的行为-the-act-of-social-revenge",
+        
+          title: "报复社会的行为——The Act of Social Revenge",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-act-of-social-revenge/";
+          
+        },
       },{id: "post-空想的良药-remedy-for-delusion",
         
           title: "空想的良药——Remedy for Delusion",
@@ -1100,6 +968,28 @@ ninja.data = [{
             window.location.href = "/blog/2024/remedy-for-delusion/";
           
         },
+      },{id: "post-遍地献忠-的文化症候-the-cultural-syndrome-of-universal-xianzhong",
+        
+          title: "“遍地献忠”的文化症候——The Cultural Syndrome of Universal Xianzhong",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-cultural-syndrome-of-universal-xianzhong/";
+          
+        },
+      },{id: "post-出门装瓜娃儿-的智慧-wisdom-of-feigning-simplicity",
+        
+          title: "“出门装瓜娃儿”的智慧——Wisdom of Feigning Simplicity",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/wisdom-of-feigning-simplicity/";
+          
+        },
       },{id: "post-理解的界限-the-limit-of-understandings",
         
           title: "理解的界限——The Limit of Understandings",
@@ -1109,6 +999,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/the-limit-of-understandings/";
+          
+        },
+      },{id: "post-直觉-从感知到灵感的艺术-intuition-the-art-of-transforming-perception-into-inspiration",
+        
+          title: "直觉：从感知到灵感的艺术——Intuition: The Art of Transforming Perception into Inspiration",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/intuition-the-art-of-transforming-perception-into-inspiration/";
+          
+        },
+      },{id: "post-家丑-family-scandal",
+        
+          title: "家丑——Family Scandal",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/family-scandal/";
           
         },
       },{id: "post-不可预知的旅途-the-unpredictable-journey",
@@ -1144,6 +1056,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/the-final-sentence/";
           
         },
+      },{id: "post-遗失的回声-the-echo-of-the-lost",
+        
+          title: "遗失的回声——The Echo of the Lost",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-echo-of-the-lost/";
+          
+        },
       },{id: "post-绿洲-oasis",
         
           title: "绿洲——Oasis",
@@ -1153,6 +1076,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/oasis/";
+          
+        },
+      },{id: "post-李子柒的作品-li-ziqi-amp-8217-s-work",
+        
+          title: "李子柒的作品——Li Ziqi&amp;#8217;s Work",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/li-ziqis-work/";
           
         },
       },{id: "post-一场混沌的舞台剧-a-chaotic-stage-play",
@@ -1166,6 +1100,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/a-chaotic-stage-play/";
           
         },
+      },{id: "post-随机群发事件的解读及其社会隐喻-the-interpretation-of-random-mass-incidents-and-their-social-implications",
+        
+          title: "随机群发事件的解读及其社会隐喻——The Interpretation of Random Mass Incidents and Their Social Implications",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-interpretation-of-random-mass-incidents-and-their-social-implications/";
+          
+        },
       },{id: "post-无形之物-the-intangible-entity",
         
           title: "无形之物——The Intangible Entity",
@@ -1177,6 +1122,28 @@ ninja.data = [{
             window.location.href = "/blog/2024/the-intangible-entity/";
           
         },
+      },{id: "post-一篇-狗撵科学-的短文-a-short-piece-on-dogs-chasing-science",
+        
+          title: "一篇“狗撵科学”的短文——A Short Piece on Dogs Chasing Science",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/a-short-piece-on-dogs-chasing-science/";
+          
+        },
+      },{id: "post-如果说鲁迅是-支黑-那么胡适又是-什么-if-lu-xun-is-the-black-of-chinese-then-what-is-hu-shi",
+        
+          title: "如果说鲁迅是“支黑”，那么胡适又是“什么”？——If Lu Xun is the Black of Chinese, Then What is Hu Shi?...",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/if-lu-xun-is-the-black-of-chinese-then-what-is-hu-shi/";
+          
+        },
       },{id: "post-自行车-a-bicycle",
         
           title: "自行车——A Bicycle",
@@ -1186,6 +1153,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/a-bicycle/";
+          
+        },
+      },{id: "post-文盲不识字-发文凭就好了-the-illiterate-may-not-read-but-a-diploma-will-be-fine",
+        
+          title: "文盲不识字，发文凭就好了——The Illiterate May Not Read, But a Diploma Will Be Fine",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-illiterate-may-not-read-but-a-diploma-will-be-fine/";
           
         },
       },{id: "post-现实中的呢喃-murmurs-in-reality",
@@ -1208,6 +1186,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/how-to-customize-chatgpt/";
+          
+        },
+      },{id: "post-遥远的温柔-distant-gentleness",
+        
+          title: "遥远的温柔——Distant Gentleness",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/distant-gentleness/";
           
         },
       },{id: "post-如何隐喻地进行创作-how-to-create-metaphorically",
@@ -3386,6 +3375,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2017/characters-relationship-ocean-residents/";
+          
+        },
+      },{id: "post-生命中的河流-女鬼与我-rivers-in-life-ghost-and-me",
+        
+          title: "生命中的河流，女鬼与我——Rivers in Life, Ghost and Me",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/rivers-in-life-ghost-and-me/";
           
         },
       },{id: "post-这是爱情啊-更是诗歌-this-is-love-but-also-poetry",
