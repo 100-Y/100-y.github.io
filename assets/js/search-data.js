@@ -209,6 +209,314 @@ ninja.data = [{
             window.location.href = "/blog/2025/pigs-utopia/";
           
         },
+      },{id: "post-安全的定义权-信任结构之争",
+        
+          title: "安全的定义权：信任结构之争",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/define-safety/";
+          
+        },
+      },{id: "post-新时代的支黑-披着忠诚外衣的压迫者",
+        
+          title: "新时代的支黑：披着忠诚外衣的压迫者",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/anti-chinese-of-new-era/";
+          
+        },
+      },{id: "post-domains-for-sale",
+        
+          title: "Domains for Sale",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/domains-for-sale/";
+          
+        },
+      },{id: "post-洒米驱赶邪祟的隔房幺娘",
+        
+          title: "洒米驱赶邪祟的隔房幺娘",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/rice-to-ward-off-evil-spirits/";
+          
+        },
+      },{id: "post-换气过度综合征处理指南",
+        
+          title: "换气过度综合征处理指南",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/hyperventilation-syndrome/";
+          
+        },
+      },{id: "post-隐秘突围-在集体愚昧中构建心理独立的认知系统",
+        
+          title: "隐秘突围：在集体愚昧中构建心理独立的认知系统",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/hidden-breakout/";
+          
+        },
+      },{id: "post-要做勤快的懒人",
+        
+          title: "要做勤快的懒人",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/diligent-lazy-man/";
+          
+        },
+      },{id: "post-chatgpt中国用户估算-免费与付费结构",
+        
+          title: "ChatGPT中国用户估算：免费与付费结构",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/chatgpt-china-users/";
+          
+        },
+      },{id: "post-真正的爱-是在慌乱中稳住船",
+        
+          title: "真正的爱，是在慌乱中稳住船",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/true-love-steady-the-boat/";
+          
+        },
+      },{id: "post-契合度的探讨",
+        
+          title: "契合度的探讨",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nature-of-compatibility/";
+          
+        },
+      },{id: "post-无知的协奏曲-化疗如何悄然毁灭一个生命",
+        
+          title: "无知的协奏曲：化疗如何悄然毁灭一个生命",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/symphony-of-unknowing/";
+          
+        },
+      },{id: "post-药神中的洛基-吞咽之死的技术暴力",
+        
+          title: "药神中的洛基：吞咽之死的技术暴力",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/loki-in-medicine-god/";
+          
+        },
+      },{id: "post-喇叭的方向-媒介放大与表达异化的隐喻分析",
+        
+          title: "喇叭的方向：媒介放大与表达异化的隐喻分析",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/direction-of-megaphone-the-metaphors-of-media-amplification-and-expression-alienation/";
+          
+        },
+      },{id: "post-代谢的权利-当系统拒绝腐烂-骨灰终将埋葬一切",
+        
+          title: "代谢的权利：当系统拒绝腐烂，骨灰终将埋葬一切",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/right-to-decay-when-systems-refuse-to-rot-the-ashes-will-bury-all/";
+          
+        },
+      },{id: "post-跨境出入金路径对比-加密货币-fiat24-wise",
+        
+          title: "跨境出入金路径对比：加密货币 + Fiat24 + Wise",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cross-border-transfer-crypto-fiat24-wise/";
+          
+        },
+      },{id: "post-再见-可以安静一点-一首关于温柔归还与内心和解的诗",
+        
+          title: "再见，可以安静一点：一首关于温柔归还与内心和解的诗",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/goodbye-let-it-be-quiet-a-poem-of-gentle-return-and-inner-peace/";
+          
+        },
+      },{id: "post-匿名者的渡口-一场关于-存在-与-身份-的诗性摆渡",
+        
+          title: "匿名者的渡口：一场关于“存在”与“身份”的诗性摆渡",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/anonymouss-ferry-a-poetic-crossing-on-existence-and-identity/";
+          
+        },
+      },{id: "post-危机中的自我误伤-命如何被悄然抵押",
+        
+          title: "危机中的自我误伤：命如何被悄然抵押",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/pledged-lives/";
+          
+        },
+      },{id: "post-恒定的夜-数字剧本中的被演绎之人",
+        
+          title: "恒定的夜：数字剧本中的被演绎之人",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-constant-night/";
+          
+        },
+      },{id: "post-反收割自我操作系统-anti-harvest-self-operating-system",
+        
+          title: "反收割自我操作系统——Anti-harvest Self-operating System",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/anti-harvest-self-operating-system/";
+          
+        },
+      },{id: "post-无味之作-你是在生活-还是在执行程序",
+        
+          title: "无味之作：你是在生活，还是在执行程序？",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/soulless-cooking-life-metaphor/";
+          
+        },
+      },{id: "post-两极餐桌-polar-tables",
+        
+          title: "两极餐桌——Polar Tables",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/polar-tables/";
+          
+        },
+      },{id: "post-引力之下-全球秩序的无声重构-under-the-pull-of-gravity-the-silent-restructuring-of-global-order",
+        
+          title: "引力之下：全球秩序的无声重构——Under the Pull of Gravity: The Silent Restructuring of Global Order",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/under-the-pull-of-gravity-the-silent-restructuring-of-global-order/";
+          
+        },
+      },{id: "post-思想漫游的边境哨站-the-border-outpost-of-thought-roaming",
+        
+          title: "思想漫游的边境哨站——The Border Outpost of Thought Roaming",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-border-outpost-of-thought-roaming/";
+          
+        },
+      },{id: "post-裂缝里的回声-那些未说出口的理想之声",
+        
+          title: "裂缝里的回声：那些未说出口的理想之声",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/echoes-in-the-cracks/";
+          
+        },
+      },{id: "post-三层结构-双态网络-家庭网络架构中的角色分工与流量分流策略",
+        
+          title: "三层结构，双态网络：家庭网络架构中的角色分工与流量分流策略",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/three-tier-structure-dual-mode-network/";
+          
+        },
+      },{id: "post-网络就像一栋楼-network-is-like-an-apartment-building",
+        
+          title: "网络就像一栋楼——Network Is Like an Apartment Building",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/network-is-like-an-apartment-building/";
+          
+        },
+      },{id: "post-cudy-路由器完全配置手册-从原厂到-openwrt-the-complete-cudy-router-setup-guide-from-factory-to-openwrt",
+        
+          title: "Cudy 路由器完全配置手册：从原厂到 OpenWRT——The Complete Cudy Router Setup Guide: From Factory to OpenWRT",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cudy-router-complete-setup-factory-to-openwrt/";
+          
+        },
       },{id: "post-香蕉和牛奶的狂欢-a-carnival-of-bananas-and-milk",
         
           title: "香蕉和牛奶的狂欢——A Carnival of Bananas and Milk",
