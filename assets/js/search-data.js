@@ -66,6 +66,336 @@ ninja.data = [{
             window.location.href = "/blog/2025/pigs-utopia/";
           
         },
+      },{id: "post-过去式-past-tense",
+        
+          title: "过去式——Past Tense",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/past-tense/";
+          
+        },
+      },{id: "post-美芽胚子-bud-embryo",
+        
+          title: "美芽胚子——Bud Embryo",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/bud-embryo/";
+          
+        },
+      },{id: "post-悬崖-precipice",
+        
+          title: "悬崖——Precipice",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/precipice/";
+          
+        },
+      },{id: "post-什么是诗歌-what-is-poetry",
+        
+          title: "什么是诗歌——What is Poetry",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/what-is-poetry/";
+          
+        },
+      },{id: "post-生活是什么-what-is-life",
+        
+          title: "生活是什么——What is Life",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/what-is-life/";
+          
+        },
+      },{id: "post-甘肃西和白雀寺-僧人的一天-a-day-of-a-monk-at-baique-temple-xihe-gansu",
+        
+          title: "甘肃西和白雀寺，僧人的一天——A Day of a Monk at Baique Temple, Xihe, Gansu",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/a-day-in-the-life-of-a-monk-at-baique-temple-xihe-gansu/";
+          
+        },
+      },{id: "post-樵牧-woodcutters-and-herders",
+        
+          title: "樵牧——Woodcutters and Herders",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/woodcutters-and-herders/";
+          
+        },
+      },{id: "post-暂别白雀寺-temporary-farewell-to-baique-temple",
+        
+          title: "暂别白雀寺——Temporary Farewell to Baique Temple",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/temporary-farewell-to-baique-temple/";
+          
+        },
+      },{id: "post-露西-尼塞-我-lucy-nisai-and-me",
+        
+          title: "露西、尼塞、我——Lucy, Nisai and Me",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2016/lucy-nisai-and-me/";
+          
+        },
+      },{id: "post-尸体-the-corpse",
+        
+          title: "尸体——The Corpse",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/the-corpse/";
+          
+        },
+      },{id: "post-诗人送花-poet-sending-the-flowers",
+        
+          title: "诗人送花——Poet Sending the Flowers",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/poet-sending-the-flowers/";
+          
+        },
+      },{id: "post-我已经完成的事-things-i-have-done",
+        
+          title: "我已经完成的事——Things I Have Done",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/things-i-have-done/";
+          
+        },
+      },{id: "post-锥子之死-death-of-the-awl",
+        
+          title: "锥子之死——Death of the Awl",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/death-of-the-awl/";
+          
+        },
+      },{id: "post-它们-他们-they-and-them",
+        
+          title: "它们，他们——They and Them",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/they-and-them/";
+          
+        },
+      },{id: "post-秋夜云雨-clouds-and-rains-in-autumn-night",
+        
+          title: "秋夜云雨——Clouds and Rains in Autumn Night",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/clouds-and-rains-in-autumn-night/";
+          
+        },
+      },{id: "post-乌云漫布-dark-clouds-spread",
+        
+          title: "乌云漫布——Dark Clouds Spread",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/dark-clouds-spread/";
+          
+        },
+      },{id: "post-窗台外的向日葵花-the-sunflower-outside-the-windowsill",
+        
+          title: "窗台外的向日葵花——The Sunflower Outside the Windowsill",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/the-sunflower-outside-the-windowsill/";
+          
+        },
+      },{id: "post-四季-four-seasons",
+        
+          title: "四季——Four Seasons",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/four-seasons/";
+          
+        },
+      },{id: "post-尘土-尘垢-the-dust-the-dirt",
+        
+          title: "尘土、尘垢——The Dust, The Dirt",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/the-dust-the-dirt/";
+          
+        },
+      },{id: "post-杨柳和风-the-willow-the-wind",
+        
+          title: "杨柳和风——The Willow, The Wind",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/the-willow-the-wind/";
+          
+        },
+      },{id: "post-牛郎和织女-niulang-and-zhinv",
+        
+          title: "牛郎和织女——NiuLang and ZhiNv",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/niulang-and-zhinv/";
+          
+        },
+      },{id: "post-佛说-the-buddha-said",
+        
+          title: "佛说——The Buddha Said",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/the-buddha-said/";
+          
+        },
+      },{id: "post-前方的路-the-road-ahead",
+        
+          title: "前方的路——The Road Ahead",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/the-road-ahead/";
+          
+        },
+      },{id: "post-等待死亡的过程-process-of-waiting-for-death",
+        
+          title: "等待死亡的过程——Process of Waiting for Death",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/process-of-waiting-for-death/";
+          
+        },
+      },{id: "post-林芝-linzhi",
+        
+          title: "林芝——Linzhi",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/linzhi/";
+          
+        },
+      },{id: "post-四月-april",
+        
+          title: "四月——April",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/april/";
+          
+        },
+      },{id: "post-三月十二日-march-12",
+        
+          title: "三月十二日——March 12",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/march-12/";
+          
+        },
+      },{id: "post-风-雨-the-wind-the-rain",
+        
+          title: "风、雨——The Wind, The Rain",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/the-wind-and-the-rain/";
+          
+        },
+      },{id: "post-西藏-tibet",
+        
+          title: "西藏——Tibet",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/tibet/";
+          
+        },
+      },{id: "post-布达拉宫-the-potala-palace",
+        
+          title: "布达拉宫——The Potala Palace",
+        
+        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/the-potala-palace/";
+          
+        },
       },{id: "post-夜半三更-late-at-night",
         
           title: "夜半三更——Late at Night",
