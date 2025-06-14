@@ -86,7 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: 100-Y # blog_name will be displayed in your blog page
 blog_description: 36,525 days
-permalink: /blog/:year/:title/
+permalink: /blog/:year-:month-:day/:title/
+
 lsi: false # produce an index for related posts
 
 # Pagination

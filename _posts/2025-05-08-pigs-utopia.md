@@ -2,13 +2,15 @@
 layout: post
 title: 被托管的世界：猪的乌托邦
 date: 2025-05-08
-excerpt: '逃出屠宰场的猪建起乌托邦，却在幸福托管中陷入新围栏。这是结构性的问题。Pigs escaped slaughterhouse to build a utopia—only to find new fences in the name of protection. This is about structure.'
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/Pigs-Utopia.webp
-thumbnail: /assets/img/thumb.jpg
+excerpt: 逃出屠宰场的猪建起乌托邦，却在幸福托管中陷入新围栏。这是结构性的问题。Pigs escaped slaughterhouse to build a utopia—only to find new fences in the name of protection. This is about structure.
+description: 逃出屠宰场的猪建起乌托邦，却在幸福托管中陷入新围栏。这是结构性的问题。Pigs escaped slaughterhouse to build a utopia—only to find new fences in the name of protection. This is about structure.
+image: 
+thumbnail: assets/img/blog/Pigs-Utopia.webp
 categories: Notes
 related_posts: true
 ---
+
+<img src="{{ '/assets/img/blog/Pigs-Utopia.webp' | relative_url }}" style="width:60%;"> 
 
 这个世界，看似辽阔，实则早已被无数看不见的围栏精密圈定。
 
@@ -66,6 +68,8 @@ related_posts: true
 **乌托邦不是谎言**，  
 它只是以完美的名义，  
 悄悄剥夺了提问与出走的可能。
+
+
 
 ---
 
