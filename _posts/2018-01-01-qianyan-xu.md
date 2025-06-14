@@ -7,7 +7,6 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/qianyan-xu.jpg
 thumbnail: /assets/img/thumb.jpg
 categories: 汉阳舟子集
-tags: [tag1, tag2, tag3]
 related_posts: true
 ---
 

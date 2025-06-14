@@ -7,7 +7,6 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/your-image.webp
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
-tags: [tag1, tag2, tag3]
 ---
 
 随机群发事件通常被视为“个体偶然行为”，这一解读反映了社会对集体困境和系统性问题的回避倾向。通过简化为个体的偶然选择，社会避免了对结构性问题的深刻反思，也忽略了共性痛点的存在。

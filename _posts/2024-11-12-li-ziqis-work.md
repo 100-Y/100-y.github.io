@@ -7,7 +7,6 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/your-image.webp
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
-tags: [tag1, tag2, tag3]
 ---
 
 李子柒的作品如田园诗般唯美，每一帧都像静谧的画卷，勾勒出人们对自然和乡土的渴望。她用精致的镜头、自然的光影、细腻的构图，将古老生活的宁静与和谐展现得淋漓尽致。

@@ -7,7 +7,6 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/10-dollars-to-fiat24.jpg
 thumbnail: /assets/img/thumb.jpg
 categories: 互联网
-tags: [tag1, tag2, tag3]
 related_posts: true
 ---
 

@@ -7,7 +7,6 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/your-image.webp
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
-tags: [tag1, tag2, tag3]
 ---
 
 报复社会的行为往往源于极端的心理扭曲和情绪积压。选择无辜的路人而非直接报复加害者，反映出几种深层次的心理动因：

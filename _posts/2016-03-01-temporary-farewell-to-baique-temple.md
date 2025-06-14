@@ -9,7 +9,6 @@ reader_suggested_tags:
     - '["Travel","Taiwan","Hiking","Taipei","Asia"]'
     - '["Travel","Taiwan","Hiking","Taipei","Asia"]'
 categories: Essays
-tags: [tag1, tag2, tag3]
 related_posts: true
 ---
 
