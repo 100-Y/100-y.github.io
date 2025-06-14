@@ -9,6 +9,7 @@ thumbnail: /assets/img/blog/Pigs-Utopia.webp
 categories: Notes
 tags: utopia
 related_posts: true
+featured: true
 ---
 
 <img src="/assets/img/blog/Pigs-Utopia.webp" style="width:100%;" alt="Pigs Utopia">
