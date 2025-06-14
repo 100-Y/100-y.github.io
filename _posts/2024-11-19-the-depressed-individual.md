@@ -4,7 +4,7 @@ title: '抑郁的个体——The Depressed Individual'
 date: 2024-11-19
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/Depressed-Individual.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Phrases
 tags: 

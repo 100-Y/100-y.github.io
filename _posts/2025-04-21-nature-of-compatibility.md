@@ -4,7 +4,7 @@ title: 契合度的探讨
 date: 2025-04-21
 excerpt: '契合不是同频，而是在差异中仍能共振的能力，是一种持续生成的关系。Compatibility is not sameness but the capacity to resonate through difference—a dynamic, ongoing relation.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/Nature-of-Compatibility.webp
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Essays
 tags: 

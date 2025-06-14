@@ -4,7 +4,7 @@ title: '生命中的河流，女鬼与我——Rivers in Life, Ghost and Me'
 date: 2017-10-12
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/Das-Postwar-Celebration.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Dreams, Poems
 tags: 

@@ -4,7 +4,7 @@ title: 增肌减脂终极指南：系统饮食+训练计划
 date: 2023-09-17
 excerpt: '增肌减脂训练手册，涵盖科学饮食、系统训练与营养补充，助你高效实现健身目标。A complete muscle gain and fat loss manual with smart meal planning, structured workouts, and key nutrition tips for efficient fitness results.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/muscle-building-and-fat-loss-handbook.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Essays
 tags: 

@@ -4,7 +4,7 @@ title: '荣耀的重量——The Weight of Glory'
 date: 2025-02-25
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/Weight-of-Glory.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
 tags: 

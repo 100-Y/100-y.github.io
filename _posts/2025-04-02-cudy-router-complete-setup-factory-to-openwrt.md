@@ -4,7 +4,7 @@ title: 'Cudy 路由器完全配置手册：从原厂到 OpenWRT——The Complet
 date: 2025-04-02
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/cudy-router-complete-setup-factory-to-openwrt.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: 互联网
 tags: 

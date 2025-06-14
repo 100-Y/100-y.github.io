@@ -19,8 +19,8 @@ social: true # includes social icons at the bottom of the page
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 6 # leave blank to include all the blog posts
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 网站名称中的“36525”代表一个人一生的天数，象征着时间的流逝和生命的珍贵。100-Y，则是100年的简称。网站涵盖各种主题，反映对生活和社会的深刻理解。通过这些内容，100-Y 在 36525.day 上创建了一个反思和表达的平台，邀请读者与作者一同思考生活、社会和人性。

@@ -4,7 +4,7 @@ title: '创作计划——Writing Plan'
 date: 2017-12-06
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/Writing-Plan.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Sea-Wall
 tags: 

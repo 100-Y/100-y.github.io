@@ -4,7 +4,7 @@ title: '你将获得你所求的一切——You Shall Have What You Seek'
 date: 2025-02-27
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/You-Shall-Have-What-You-Seek.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Dreams
 tags: 

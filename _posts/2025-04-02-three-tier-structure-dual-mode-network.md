@@ -4,7 +4,7 @@ title: 三层结构，双态网络：家庭网络架构中的角色分工与流�
 date: 2025-04-02
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/three-tier-structure-dual-mode-network.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: 互联网
 tags: 

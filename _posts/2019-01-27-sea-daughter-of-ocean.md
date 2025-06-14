@@ -4,7 +4,7 @@ title: '希雅，海神的女儿——Sea, Daughter of Ocean (4-)'
 date: 2019-01-27
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/Sea-Daughter-of-Ocean.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Sea-Wall
 tags: 

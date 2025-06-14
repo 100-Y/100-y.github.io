@@ -4,7 +4,7 @@ title: '最终结局——The Final End'
 date: 2018-08-21
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/The-Final-End.webp
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Cloud-Country
 tags: 

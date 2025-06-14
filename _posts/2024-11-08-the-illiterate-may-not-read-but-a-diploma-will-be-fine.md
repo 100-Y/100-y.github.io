@@ -4,7 +4,7 @@ title: '文盲不识字，发文凭就好了——The Illiterate May Not Read, B
 date: 2024-11-08
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/your-image.webp
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
 tags: 

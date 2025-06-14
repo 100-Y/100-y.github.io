@@ -4,7 +4,7 @@ title: '马修的形体——Matthew&#8217;s Body (4-)'
 date: 2017-08-09
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/Matthews-Body.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Sea-Wall
 tags: 

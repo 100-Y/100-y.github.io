@@ -4,7 +4,7 @@ title: '反收割自我操作系统——Anti-harvest Self-operating System'
 date: 2025-04-07
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/Anti-harvest-Self-operating-System.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: AI-Assisted
 tags: 

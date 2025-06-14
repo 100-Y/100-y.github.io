@@ -4,7 +4,7 @@ title: 药神中的洛基：吞咽之死的技术暴力
 date: 2025-04-16
 excerpt: '当药物剥夺进食能力，生的尊严悄然被抽空——这不是拯救，而是无声的谋杀。When medicine deprives one of the ability to eat, dignity of life is quietly hollowed out—this is not salvation, but a silent murder.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/Loki-in-Medicine-God.webp
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
 tags: 

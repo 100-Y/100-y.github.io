@@ -4,7 +4,7 @@ title: 喇叭的方向：媒介放大与表达异化的隐喻分析
 date: 2025-04-11
 excerpt: '文章通过喇叭与隧道的隐喻，揭示表达在媒介放大下的异化过程，反思现代语言如何被技术剥离主观性，沦为机制化的虚响。The article, through the metaphors of the megaphone and tunnel, reveals how expression is alienated under media amplification, reflecting on the loss of subjectivity in modern language as it becomes a mechanized echo.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/2025/04/the-direction-of-the-megaphone.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
 tags: 

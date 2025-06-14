@@ -4,7 +4,7 @@ title: '谁能被点名，谁须要供奉——Who Bears a Name, and Who Bears t
 date: 2025-03-08
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/Who-Bears-a-Name-and-Who-Bears-the-Altar.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Essays
 tags: 

@@ -4,7 +4,7 @@ title: 匿名者的渡口：一场关于“存在”与“身份”的诗性摆�
 date: 2025-04-09
 excerpt: '《匿名者的渡口》是一首探索“存在”与“身份”边界的哲学诗篇，在时间的皱褶中展开一场不被定义的摆渡。"Anonymous’s Ferry" is a philosophical poem exploring the boundaries of identity and existence, navigating a formless journey through the folds of time.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/2025/04/anonymouss-ferry.jpg
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Poems
 tags: 

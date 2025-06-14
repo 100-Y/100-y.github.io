@@ -4,7 +4,7 @@ title: '文人最基本的道德——Most Basic Morality of the Literati'
 date: 2021-06-30
 excerpt: '（这里写摘要）'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-image: /media/your-image.webp
+og_image: 
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
 tags: 
