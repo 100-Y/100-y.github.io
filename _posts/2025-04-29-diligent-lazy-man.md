@@ -7,6 +7,7 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/diligent-lazy-man-1.webp
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
+tags: 
 related_posts: true
 ---
 

@@ -7,6 +7,7 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/You-Shall-Have-What-You-Seek.jpg
 thumbnail: /assets/img/thumb.jpg
 categories: Dreams
+tags: 
 related_posts: true
 ---
 

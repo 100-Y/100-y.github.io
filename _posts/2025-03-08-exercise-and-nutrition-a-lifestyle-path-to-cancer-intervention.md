@@ -7,6 +7,7 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/exercise-and-nutrition-a-lifestyle-path-to-cancer-intervention.jpg
 thumbnail: /assets/img/thumb.jpg
 categories: AI-Assisted
+tags: 
 related_posts: true
 ---
 

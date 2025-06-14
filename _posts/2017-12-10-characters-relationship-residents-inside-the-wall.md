@@ -7,6 +7,7 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/Characters-Relationship-Residents-inside-the-Wall.jpg
 thumbnail: /assets/img/thumb.jpg
 categories: Sea-Wall
+tags: 
 related_posts: true
 ---
 

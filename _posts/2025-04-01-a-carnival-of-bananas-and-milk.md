@@ -7,6 +7,7 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/A-Carnival-of-Bananas-and-Milk.jpg
 thumbnail: /assets/img/thumb.jpg
 categories: Essays
+tags: 
 related_posts: true
 ---
 

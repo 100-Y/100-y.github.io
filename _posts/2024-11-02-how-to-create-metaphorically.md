@@ -9,6 +9,7 @@ reader_suggested_tags:
     - '["Leadership","Mindset","Personal Development","English","Procrastination"]'
     - '["Leadership","Mindset","Personal Development","English","Procrastination"]'
 categories: Notes
+tags: 
 related_posts: true
 ---
 

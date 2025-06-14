@@ -7,6 +7,7 @@ description: 逃出屠宰场的猪建起乌托邦，却在幸福托管中陷入�
 image: 
 thumbnail: assets/img/blog/Pigs-Utopia.webp
 categories: Notes
+tags: 
 related_posts: true
 ---
 
