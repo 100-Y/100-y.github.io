@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 台上唱戏的戏子，左顾右盼、犹豫不决，需要及时下台，如果是继续唱下去，便注定贻笑大方。
 

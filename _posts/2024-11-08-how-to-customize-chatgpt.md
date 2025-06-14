@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 1、提供文本（个人网站内容等）  
 2、分析作者相应的写作风格  

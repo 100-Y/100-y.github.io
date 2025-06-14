@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 哪家的婆娘又被醉酒的老公欺负，发疯似的哭闹。整个小区都听见，仿佛喝酒的是她，老公只好清醒，小声求饶。
 

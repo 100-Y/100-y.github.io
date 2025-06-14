@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 很多时候，  
 都会抽空翻找以前发生的事情，  

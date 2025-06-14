@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 其实台湾回归，于个人而言，并不是一件很大的事情。既定旋律，历史早已给出了答案。每一天的生活，才是最最头等的大事！
 

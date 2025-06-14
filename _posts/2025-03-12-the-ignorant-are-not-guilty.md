@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 在**无声洪流**之中，**存在**如同一颗被抛入时光深渊的火种，它以**静默燃烧**的姿态穿越**原野风暴**，将“何为罪”的质问悄然溶解于生命的缝隙。无知不是过错，而是**透明容器**般的开始，在那里，一切尚未被污染，一切皆有可能。
 

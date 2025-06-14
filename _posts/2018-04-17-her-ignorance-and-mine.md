@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 ```
 有人钟情她的羞涩，<br></br>有人觊觎她的柔美。<br></br>有人在她最迷惘时候夺走她初吻；<br></br>有人在极难熬困境留下陪她结婚……<br></br>她是儿时的女神，光彩耀人；<br></br>现在变得枯萎的花朵，凋谢……<br></br>可在我看来，她什么都不是：<br></br>对于无法超离生活，<br></br>或者不能将梦幻化一切的，她——<br></br>至少，<br></br>在我看来什么都不是！

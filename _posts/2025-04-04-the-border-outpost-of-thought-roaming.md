@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 在流动空间的临界点，路由器如同一座隐形的思想中转站，它以无声的脉冲穿越城市间隙，将现实的屏障转译为数字的自由。
 

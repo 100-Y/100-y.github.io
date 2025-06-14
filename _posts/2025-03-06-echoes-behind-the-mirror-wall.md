@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 在隐形律令的灰影之中，纪律如同一面无声的镜墙，它以冻结听觉的方式折返于行动的每一个节点。哪怕只是一次轻触——一次文件上传，便可能触发意识触发器的连锁反应，使个体陷入一场象征性归罪的仪式中。在这样的制度光晕下，信任早已变成稀薄空气，个体只得以防御仪式维持自身存在，报备成为一种生存策略，而非透明的沟通。
 

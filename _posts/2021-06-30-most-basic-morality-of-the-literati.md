@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 问题总是存在的！睁眼瞎的人不少，自个儿瞎就算了；再忽悠其他人说：瞎有它的好处！这类人，已全然忘记自身所处的阶层，沦为既得利益者的口舌；成为拱卫他们力量的“打手”。
 

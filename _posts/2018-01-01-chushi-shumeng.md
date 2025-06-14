@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 呵呵，俺性孤僻。「卜居」西湖之孤山，不慕荣利，不求闻达。朝廷屡屡征聘，皆辞不往就。日惟养鹤「莳」梅于孤岭，谢绝尘俗。托足儒林，寄迹旷野，闗情林泉，适意山水。虽无富贵荣禄之乐，亦足以畅怀适性。所与游者，皆当时隐士。古人云：座上客长满，樽中酒不空，谈笑有鸿儒，往来无白丁。「仆」有之矣。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 用爱浇筑的城堡，有人，用恨的眼泪冲毁了它；以仇的名义打造的和平庄园，有人，心甘情愿成为了它的奴仆……
 

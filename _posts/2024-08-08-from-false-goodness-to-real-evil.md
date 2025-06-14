@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 从偷盗贩卖的尸体，到无偿捐献的同种骨植入材料。从殡仪馆，到医药公司，到医院；从员工，医药代表，再到医生。相关的每个人，背地里都实实在在披着恶魔的皮，却在阳光下行使着神圣的职责。
 

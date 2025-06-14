@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 不是我造的孽，所以凭什么选择并要求我，按照设定好的悲情线路，而独自去承受一路所有的颠沛流离。纵使事实生活，身处没得选的境地，毫无疑问，我也会尽可能选择，可以自主决定的，“普通”的这样一个结局。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 政治觉悟高的企业，不能劝它善良，得夸它精明。同理，促进经济发展的领导，不能总讲ta向钱看，还要看ta帮扶了多少精明的企业。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 我本以为只要点亮一处，整座屋子就会亮起来，但灯泡碎了，电线缠成死结。走廊尽头忽然飘来一阵旧乐曲，我跟着旋律走，途中踩碎了几页笔记。那些本以为无用的句子，如今却像散落在地板上的糖果，闪着光。不是我理解了什么，而是它们突然允许我靠近。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 发文凭，不过是蒙上一层光鲜的外衣，把无知装扮成一张无害的证书。可字里行间的空白，像是静默的荒野。证书在手，真相却无处可藏——那是一场自欺的盛宴，是无知在礼堂中央的舞步，背后是知识的缺席，是思想的荒芜。
 

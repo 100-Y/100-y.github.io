@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 她站在时间的断崖上，身后是燃烧的旗帜与沉默的墓碑，面前是一片无法标注的地图。有人说那叫“历史的正确之路”。
 

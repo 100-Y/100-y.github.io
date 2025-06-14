@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 铁轨开始流泪，泪水是热的，划过金属的每一寸皮肤，带出焦味与光的残骸。车厢在震颤，像时间把自己咀嚼后又吐回轨道。
 

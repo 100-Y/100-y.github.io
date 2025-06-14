@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 光线一寸一寸从窗台流进来，照亮旧桌上摊开的宣言书，笔迹被汗水晕开。那一夜我在狭小的阁楼中，一边念着“平等”一边听远处铁轨上的吼鸣声。有人躲在天花板夹层，有人穿越雪原带回一封信。更多的人坐在会场角落里，从未说过一句口号，但眼神发光。他们在时间缝隙里留下了未完成的句子，不是英雄，是众声，是裂缝里的回声。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 正因为现实残酷，才会有很多的人仰望星空、归隐山林，或是遁入空门、坠入“地狱”。房子，一些物质的东西，对某些人而言，根本没有任何意义。任何事物都是没有意义的啊！
 

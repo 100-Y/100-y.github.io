@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 表达观点应努力争取做到以下几点：（以[**一些一些一些**](https://rips.rip/2021/05/11/some-some-some/)为例）
 

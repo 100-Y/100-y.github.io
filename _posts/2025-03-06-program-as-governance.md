@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 有人坐在那里，很久了，不记得第几次会议，名字与议题一同褪色，只剩钟声在墙上轻响，如潮，不再漫上岸。话语来了又走，像褶皱的纸，像风中飘起的同一面横幅，每年都说“我们在治理”，却无人起身。
 
