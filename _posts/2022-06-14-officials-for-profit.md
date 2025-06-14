@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 民不举，官不做主，因为没有利；无利、不起早，无巧、不写书。
 

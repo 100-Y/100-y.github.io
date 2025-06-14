@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 我短暂地在沙岸上行走，  
 在沙土和泡沫的中间。  

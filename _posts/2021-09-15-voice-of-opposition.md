@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 反对是支持的变种形式：反对的声音出不来，“丑化的声音”就会替代。
 

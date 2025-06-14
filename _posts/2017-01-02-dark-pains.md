@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 所有现在，你觉得熬不过的黑暗痛苦，都将成为以后，闲庭信步的曾经。
 

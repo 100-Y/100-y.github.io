@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 小李看见张三家阳台挂起了高高的红灯笼，于是想把自家的阳台也挂上。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 旌旗高悬，未曾触地，忠义的光辉在风中猎猎，却照不见枯黄的田垄与荒芜的炊烟。刘备以“正统”之名踏入益州，如同风中执剑者，用锈迹斑斑的信念斩开了本已宁静的土壤。而后，诸葛亮在断裂的节奏中敲响战鼓，十万青壮在朝北的山路上消失，只留下空井与流失的春水。
 

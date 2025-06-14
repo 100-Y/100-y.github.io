@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 和大多数人一样，在现实生活里，是个普通、平凡的人类，思想，或许会有一些突出和闪光的点，但终究还是逃脱不了，人类某些无法逃脱的桎梏。
 

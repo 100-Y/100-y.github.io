@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 双标就是，高考前、查分后。是，鸡同鸭讲（互动）；是，对牛弹琴（单向输出）。是：打孩子给颗糖，婚前婚后变大样。婆说婆有理……
 

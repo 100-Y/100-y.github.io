@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 我们以为危机来自他方，便仓皇布阵，却不知布阵之手，早已误植倒钩。伤口不是敌造成的，而是你反身划开的意图本身。在一场自救之举里，命，被悄然抵押。
 

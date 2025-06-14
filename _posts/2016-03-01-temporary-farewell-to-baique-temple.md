@@ -13,7 +13,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 那是一个清晨，阳光明媚，但寒风刺骨。我暂别了白雀寺的僧人，带着部分行囊启程前往礼县。路上，会见事先约好的当地朋友，他们热情地请我吃了一顿香喷喷的肉包子，使得我暖和了一些。吃完饭，我便独自一人来到县城的汽车站，买了去香山的车票。
 

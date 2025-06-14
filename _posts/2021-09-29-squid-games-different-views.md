@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 从侧面，展示、以及映射出美国钢铁统治之下的韩国现状。之前南、北朝鲜的相互残杀，后续逐渐演变为当今韩国社会的一个缩影（所谓的群众基础）。根本一部反美的韩剧……
 

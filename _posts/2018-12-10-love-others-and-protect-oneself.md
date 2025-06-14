@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 请不要把一个人想的很好，也不要把一个人看得很坏！打的坐出租车，一定开窗留个缝隙。洗澡，也一定留个风口。学会预见！尤其关乎身家性命的事情，务必联想其有可能导致的最坏过程和后果。
 

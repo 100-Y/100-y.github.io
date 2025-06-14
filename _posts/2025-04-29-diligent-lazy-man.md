@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 勤快的做法，用手分开做；比较勤快的做法，慌乱没有计划地安排多种工具；比较懒的做法，提前富有效率地使用单一工具；懒的替代做法，热水和钱，即时搞定一切。
 

@@ -12,7 +12,7 @@ related_posts: true
 ---
 
   
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 节日是人类为时间所写的诗，  
 是在无声流逝中安放的一次短暂停顿。  

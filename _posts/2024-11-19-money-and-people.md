@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 有人一毛不拔，有人立字据欠款五万……有人因为几十元，砍死身边的人；有人放弃追索，只为给那人留存一条仅有的生路。
 

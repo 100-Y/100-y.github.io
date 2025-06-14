@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 香港：1842年8月29日《南京条约》的香港；海参崴和伯力：1860年11月14日《北京条约》的海参崴和伯力。
 

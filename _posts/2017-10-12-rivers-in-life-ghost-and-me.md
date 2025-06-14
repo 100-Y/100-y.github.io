@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 生命中的河流，密密麻麻，挤满了各式各样的人形动物肢体；  
 无知的人们以为是珍奇鱼类，纷纷将他们打捞上岸。  

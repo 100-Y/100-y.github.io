@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 权力掌握在年轻人手里，是个灾难；因为年轻人爱国，盲目。权力掌握在老年人手里，是另一个灾难；因为老年人爱国，自以为是。那么谁，应该掌握权力，那些实事求是的官员，将会是最好的选择。
 

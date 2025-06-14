@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 “我”，压根就不存在。“我”之所以存在，是因为我的父母。而我的父母的存在，则是因为他们各自父母的存在。他们各自父母，又因为他们各自父母的存在……所以，没有他们的存在，就没有“我”。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 不愿放弃手中权力，下定决心戒严的某一瞬间，尹锡悦还是活成了“那个精致利己的毛左”。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 ```
 他们说那是杂草——一种无意长出的情绪，自由地，野性的，<br></br>但我却看见它们在他人痛处上疯长。<br></br>裂开的，不是墙，而是目光背后的笑意——<br></br>那种拧成钩子的笑，从指缝里漏下，不声不响地扎进另一具身体。<br></br>你以为自己只是观看，<br></br>却不知屏幕另一端是皮肤、骨头、血的真实回响。<br></br>匿名遮住了你的脸，却放大了你眼中的冷意。<br></br>有人在废墟中咳嗽，你却把这咳嗽当成了烟火。

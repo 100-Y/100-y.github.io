@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 在真假混杂的信息洪流中，群体的情绪化反应并非单纯的无知，而是信息过载、认知防御、情绪动员与意识形态操控共同作用的结果——真正的清醒，不在于迅速站队，而在于看穿结构、安静辨识。
 

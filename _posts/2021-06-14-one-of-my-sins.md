@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 胡乱拼凑了美好的明天；一如随性写下这段，莫名其妙的文字。整理QQ空间图片，看到海子的诗（枫：明日天寒地冻、日短夜长，路远马亡。）有感。
 

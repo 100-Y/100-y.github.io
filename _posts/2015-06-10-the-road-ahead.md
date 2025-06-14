@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 前方的路尽是未可知，一个人走，心虚害怕感到迷茫，且想到放弃，坚持不下来。 可只要怀着憧憬的心就一定能够继续走下去，走回来。
 

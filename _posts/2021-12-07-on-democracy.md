@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 民主，首先不是一国之言。不是美式、英式的选民投票，也不是中式、朝式全过程的参与。不是你能批评领导人，而我不能的因言获罪。（或许这本身就是谬论）
 

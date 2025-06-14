@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 清晨，窗外寒风拍打窗棂，我裹在被窝中，半梦半醒。耳塞仍堵着耳朵，隔绝喧嚣，却挡不住寒意的渗透。揉眼摘下耳塞，鼻腔一阵胀痛袭来，我本能地擤了鼻涕——那一瞬，耳中轰然作响。
 

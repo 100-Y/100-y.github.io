@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 一天，孙婆带着她的家人以及半岁小孩去爬山。小孩光着脚丫屁颠屁颠走在长满杂草的小道。我跟在小孩最后边。小孩要求抱抱，前面的其它孩子已经走很快，隔了有一段路程了。无奈，只好有我来，担负这个责任。
 

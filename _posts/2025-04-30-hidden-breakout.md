@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 在一个充满固执与情绪捆绑的环境中，真正的逆袭不是反抗命运本身，而是从心理上脱离集体愚昧，悄然构建属于自己的认知系统，在无人理解的沉默中部署改变，最终不失去温柔、不沦为新的冷酷幸存者——这是一场关于心智独立与自我温存的隐秘突围。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 睁眼不见周围的藩篱、栅栏和鲜花，盲目一味地唱赞歌或是抹黑、抨击，都是不负责任的做法。
 

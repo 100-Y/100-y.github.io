@@ -11,7 +11,7 @@ tags: utopia
 related_posts: true
 ---
 
-<img src="/assets/img/blog/Pigs-Utopia.webp" style="width:80%;" alt="Pigs Utopia">
+<img src="/assets/img/blog/Pigs-Utopia.webp" alt="Pigs Utopia">
 
 这个世界，看似辽阔，实则早已被无数看不见的围栏精密圈定。
 

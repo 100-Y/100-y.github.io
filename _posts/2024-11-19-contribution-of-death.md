@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 眼看ta人，不顾劝导，执拗地走向深渊、走进死亡，写下同类的赞歌；也是在为ta、为自己，乃至为全人类，做出的应有和巨大的贡献。
 

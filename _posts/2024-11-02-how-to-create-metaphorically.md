@@ -13,7 +13,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 步骤1。定义自己给出的“专有名词”。  
 步骤2。类比“专有名词”。  

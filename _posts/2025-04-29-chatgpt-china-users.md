@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 截至 **2025 年 4 月**，中国大陆用户使用 ChatGPT 的活跃人数与付费人数，按主流分析路径与中位估算如下：
 

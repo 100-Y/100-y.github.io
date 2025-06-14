@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 我不再等那个回信息的人。他甚至不知道我撑伞的那晚，鞋子进了水，脚在地铁里冻得发青……我开始收藏被拒绝时的表情——嘴角翘了一点又放下的那种，那是他们内心的真实……如果我是一只装满热水的瓶子，我要把瓶口拧紧，不再漏出去。
 

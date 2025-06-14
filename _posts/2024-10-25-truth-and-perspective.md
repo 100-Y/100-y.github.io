@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 真相像一颗宝石，不同的角度反射出不同的光芒。每个人的观点和经历，注定了ta们所看到的光彩都有所不同。我们的任务，不就是去理解和欣赏这颗宝石的多样性吗？
 

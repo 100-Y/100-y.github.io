@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 有些人视种子为毒药，视播种者为恶人，ta们自以为是主的使者，不惜屠杀无辜；Ta们不懂，种子孕育着生命的奥秘，播种者传递着希望的火花。
 

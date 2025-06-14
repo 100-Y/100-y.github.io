@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
 
 报复社会的行为往往源于极端的心理扭曲和情绪积压。选择无辜的路人而非直接报复加害者，反映出几种深层次的心理动因：
 
