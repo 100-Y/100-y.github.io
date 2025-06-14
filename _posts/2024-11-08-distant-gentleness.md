@@ -8,6 +8,7 @@ image: /media/your-image.webp
 thumbnail: /assets/img/thumb.jpg
 categories: Poems
 tags: 
+related_posts: true
 ---
 
 在那光影交错的黄昏里，  
