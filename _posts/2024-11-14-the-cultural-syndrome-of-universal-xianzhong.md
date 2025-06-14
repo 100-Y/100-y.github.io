@@ -7,6 +7,8 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/your-image.webp
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
+tags: 
+related_posts: true
 ---
 
 **集体焦虑的极端化表达**

@@ -7,6 +7,8 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/Das-Postwar-Celebration.jpg
 thumbnail: /assets/img/thumb.jpg
 categories: Dreams, Poems
+tags: 
+related_posts: true
 ---
 
 生命中的河流，密密麻麻，挤满了各式各样的人形动物肢体；  

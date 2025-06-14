@@ -7,6 +7,8 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/your-image.webp
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
+tags: 
+related_posts: true
 ---
 
 直觉，是从潜意识深处打捞出的感知，不受语言和分析框架的束缚。它模糊却真实，是一种“顿悟”式的隐秘共鸣，为灵感注入源源不绝的生命力。与其在创作中急于分析，不如先感受当下的氛围，放下控制，让直觉自然流淌，成为灵感的向导。

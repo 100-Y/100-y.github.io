@@ -7,6 +7,8 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/your-image.webp
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
+tags: 
+related_posts: true
 ---
 
 发文凭，不过是蒙上一层光鲜的外衣，把无知装扮成一张无害的证书。可字里行间的空白，像是静默的荒野。证书在手，真相却无处可藏——那是一场自欺的盛宴，是无知在礼堂中央的舞步，背后是知识的缺席，是思想的荒芜。

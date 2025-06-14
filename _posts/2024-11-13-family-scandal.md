@@ -7,6 +7,8 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/your-image.webp
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
+tags: 
+related_posts: true
 ---
 
 家丑，总在遮蔽中沉默。每一次真相撕裂帷幕，迎来的却是愤怒与打压。掩盖源于对“体面”的执念，仿佛真相的曝光便是集体尊严的崩塌。
