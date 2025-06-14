@@ -59,11 +59,11 @@ ninja.data = [{
         
           title: "被托管的世界：猪的乌托邦",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "逃出屠宰场的猪建起乌托邦，却在幸福托管中陷入新围栏。这是结构性的问题。Pigs escaped slaughterhouse to build a utopia—only to find new fences in the name of protection. This is about structure.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/pigs-utopia/";
+            window.location.href = "/blog/2025-05-08/pigs-utopia/";
           
         },
       },{id: "post-安全的定义权-信任结构之争",
@@ -74,7 +74,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/define-safety/";
+            window.location.href = "/blog/2025-05-07/define-safety/";
           
         },
       },{id: "post-新时代的支黑-披着忠诚外衣的压迫者",
@@ -85,7 +85,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/anti-chinese-of-new-era/";
+            window.location.href = "/blog/2025-05-06/anti-chinese-of-new-era/";
           
         },
       },{id: "post-domains-for-sale",
@@ -96,7 +96,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/domains-for-sale/";
+            window.location.href = "/blog/2025-05-05/domains-for-sale/";
           
         },
       },{id: "post-洒米驱赶邪祟的隔房幺娘",
@@ -107,7 +107,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/rice-to-ward-off-evil-spirits/";
+            window.location.href = "/blog/2025-05-02/rice-to-ward-off-evil-spirits/";
           
         },
       },{id: "post-换气过度综合征处理指南",
@@ -118,7 +118,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/hyperventilation-syndrome/";
+            window.location.href = "/blog/2025-05-01/hyperventilation-syndrome/";
           
         },
       },{id: "post-隐秘突围-在集体愚昧中构建心理独立的认知系统",
@@ -129,7 +129,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/hidden-breakout/";
+            window.location.href = "/blog/2025-04-30/hidden-breakout/";
           
         },
       },{id: "post-要做勤快的懒人",
@@ -140,7 +140,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/diligent-lazy-man/";
+            window.location.href = "/blog/2025-04-29/diligent-lazy-man/";
           
         },
       },{id: "post-chatgpt中国用户估算-免费与付费结构",
@@ -151,7 +151,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/chatgpt-china-users/";
+            window.location.href = "/blog/2025-04-29/chatgpt-china-users/";
           
         },
       },{id: "post-真正的爱-是在慌乱中稳住船",
@@ -162,7 +162,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/true-love-steady-the-boat/";
+            window.location.href = "/blog/2025-04-25/true-love-steady-the-boat/";
           
         },
       },{id: "post-契合度的探讨",
@@ -173,7 +173,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/nature-of-compatibility/";
+            window.location.href = "/blog/2025-04-21/nature-of-compatibility/";
           
         },
       },{id: "post-无知的协奏曲-化疗如何悄然毁灭一个生命",
@@ -184,7 +184,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/symphony-of-unknowing/";
+            window.location.href = "/blog/2025-04-19/symphony-of-unknowing/";
           
         },
       },{id: "post-药神中的洛基-吞咽之死的技术暴力",
@@ -195,7 +195,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/loki-in-medicine-god/";
+            window.location.href = "/blog/2025-04-16/loki-in-medicine-god/";
           
         },
       },{id: "post-喇叭的方向-媒介放大与表达异化的隐喻分析",
@@ -206,7 +206,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/direction-of-megaphone-the-metaphors-of-media-amplification-and-expression-alienation/";
+            window.location.href = "/blog/2025-04-11/direction-of-megaphone-the-metaphors-of-media-amplification-and-expression-alienation/";
           
         },
       },{id: "post-代谢的权利-当系统拒绝腐烂-骨灰终将埋葬一切",
@@ -217,7 +217,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/right-to-decay-when-systems-refuse-to-rot-the-ashes-will-bury-all/";
+            window.location.href = "/blog/2025-04-10/right-to-decay-when-systems-refuse-to-rot-the-ashes-will-bury-all/";
           
         },
       },{id: "post-跨境出入金路径对比-加密货币-fiat24-wise",
@@ -228,7 +228,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/cross-border-transfer-crypto-fiat24-wise/";
+            window.location.href = "/blog/2025-04-10/cross-border-transfer-crypto-fiat24-wise/";
           
         },
       },{id: "post-再见-可以安静一点-一首关于温柔归还与内心和解的诗",
@@ -239,7 +239,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/goodbye-let-it-be-quiet-a-poem-of-gentle-return-and-inner-peace/";
+            window.location.href = "/blog/2025-04-09/goodbye-let-it-be-quiet-a-poem-of-gentle-return-and-inner-peace/";
           
         },
       },{id: "post-匿名者的渡口-一场关于-存在-与-身份-的诗性摆渡",
@@ -250,7 +250,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/anonymouss-ferry-a-poetic-crossing-on-existence-and-identity/";
+            window.location.href = "/blog/2025-04-09/anonymouss-ferry-a-poetic-crossing-on-existence-and-identity/";
           
         },
       },{id: "post-危机中的自我误伤-命如何被悄然抵押",
@@ -261,7 +261,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/pledged-lives/";
+            window.location.href = "/blog/2025-04-08/pledged-lives/";
           
         },
       },{id: "post-恒定的夜-数字剧本中的被演绎之人",
@@ -272,7 +272,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-constant-night/";
+            window.location.href = "/blog/2025-04-07/the-constant-night/";
           
         },
       },{id: "post-反收割自我操作系统-anti-harvest-self-operating-system",
@@ -283,7 +283,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/anti-harvest-self-operating-system/";
+            window.location.href = "/blog/2025-04-07/anti-harvest-self-operating-system/";
           
         },
       },{id: "post-无味之作-你是在生活-还是在执行程序",
@@ -294,7 +294,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/soulless-cooking-life-metaphor/";
+            window.location.href = "/blog/2025-04-06/soulless-cooking-life-metaphor/";
           
         },
       },{id: "post-两极餐桌-polar-tables",
@@ -305,7 +305,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/polar-tables/";
+            window.location.href = "/blog/2025-04-06/polar-tables/";
           
         },
       },{id: "post-引力之下-全球秩序的无声重构-under-the-pull-of-gravity-the-silent-restructuring-of-global-order",
@@ -316,7 +316,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/under-the-pull-of-gravity-the-silent-restructuring-of-global-order/";
+            window.location.href = "/blog/2025-04-04/under-the-pull-of-gravity-the-silent-restructuring-of-global-order/";
           
         },
       },{id: "post-思想漫游的边境哨站-the-border-outpost-of-thought-roaming",
@@ -327,7 +327,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-border-outpost-of-thought-roaming/";
+            window.location.href = "/blog/2025-04-04/the-border-outpost-of-thought-roaming/";
           
         },
       },{id: "post-裂缝里的回声-那些未说出口的理想之声",
@@ -338,7 +338,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/echoes-in-the-cracks/";
+            window.location.href = "/blog/2025-04-04/echoes-in-the-cracks/";
           
         },
       },{id: "post-三层结构-双态网络-家庭网络架构中的角色分工与流量分流策略",
@@ -349,7 +349,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/three-tier-structure-dual-mode-network/";
+            window.location.href = "/blog/2025-04-02/three-tier-structure-dual-mode-network/";
           
         },
       },{id: "post-网络就像一栋楼-network-is-like-an-apartment-building",
@@ -360,7 +360,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/network-is-like-an-apartment-building/";
+            window.location.href = "/blog/2025-04-02/network-is-like-an-apartment-building/";
           
         },
       },{id: "post-cudy-路由器完全配置手册-从原厂到-openwrt-the-complete-cudy-router-setup-guide-from-factory-to-openwrt",
@@ -371,7 +371,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/cudy-router-complete-setup-factory-to-openwrt/";
+            window.location.href = "/blog/2025-04-02/cudy-router-complete-setup-factory-to-openwrt/";
           
         },
       },{id: "post-香蕉和牛奶的狂欢-a-carnival-of-bananas-and-milk",
@@ -382,7 +382,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/a-carnival-of-bananas-and-milk/";
+            window.location.href = "/blog/2025-04-01/a-carnival-of-bananas-and-milk/";
           
         },
       },{id: "post-谁动了奶酪-who-moved-the-cheese",
@@ -393,7 +393,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/who-moved-the-cheese/";
+            window.location.href = "/blog/2025-03-19/who-moved-the-cheese/";
           
         },
       },{id: "post-将-10-美元转入-fiat24-账户的完整指南",
@@ -404,7 +404,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/a-complete-guide-to-depositing-10-dollars-into-your-fiat24-account/";
+            window.location.href = "/blog/2025-03-14/a-complete-guide-to-depositing-10-dollars-into-your-fiat24-account/";
           
         },
       },{id: "post-思想入骨-肉身觉醒-thought-to-the-bone-the-body-awakens",
@@ -415,7 +415,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/thought-to-the-bone-the-body-awakens/";
+            window.location.href = "/blog/2025-03-12/thought-to-the-bone-the-body-awakens/";
           
         },
       },{id: "post-无知者无罪-the-ignorant-are-not-guilty",
@@ -426,7 +426,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-ignorant-are-not-guilty/";
+            window.location.href = "/blog/2025-03-12/the-ignorant-are-not-guilty/";
           
         },
       },{id: "post-存在的裂缝-the-fracture-of-existence",
@@ -437,7 +437,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-fracture-of-existence/";
+            window.location.href = "/blog/2025-03-12/the-fracture-of-existence/";
           
         },
       },{id: "post-燃尽之书-the-burnt-book",
@@ -448,7 +448,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-burnt-book/";
+            window.location.href = "/blog/2025-03-12/the-burnt-book/";
           
         },
       },{id: "post-剥皮点灯-flayed-to-light-the-lamp",
@@ -459,7 +459,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/flayed-to-light-the-lamp/";
+            window.location.href = "/blog/2025-03-12/flayed-to-light-the-lamp/";
           
         },
       },{id: "post-一篇-deta-surf-的产品使用介绍",
@@ -470,7 +470,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/an-introduction-to-the-use-of-deta-surf-product/";
+            window.location.href = "/blog/2025-03-12/an-introduction-to-the-use-of-deta-surf-product/";
           
         },
       },{id: "post-谁能被点名-谁须要供奉-who-bears-a-name-and-who-bears-the-altar",
@@ -481,7 +481,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/who-bears-a-name-and-who-bears-the-altar/";
+            window.location.href = "/blog/2025-03-08/who-bears-a-name-and-who-bears-the-altar/";
           
         },
       },{id: "post-体能训练与营养补给-癌症干预的生活式可能",
@@ -492,7 +492,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/exercise-and-nutrition-a-lifestyle-path-to-cancer-intervention/";
+            window.location.href = "/blog/2025-03-08/exercise-and-nutrition-a-lifestyle-path-to-cancer-intervention/";
           
         },
       },{id: "post-程序即治理-program-as-governance",
@@ -503,7 +503,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/program-as-governance/";
+            window.location.href = "/blog/2025-03-06/program-as-governance/";
           
         },
       },{id: "post-信任的单向流动-制度化服从与觉醒的隐喻",
@@ -514,7 +514,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/one-way-passage/";
+            window.location.href = "/blog/2025-03-06/one-way-passage/";
           
         },
       },{id: "post-镜墙后的回声-echoes-behind-the-mirror-wall",
@@ -525,7 +525,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/echoes-behind-the-mirror-wall/";
+            window.location.href = "/blog/2025-03-06/echoes-behind-the-mirror-wall/";
           
         },
       },{id: "post-ai-内容生成与分发聚合系统",
@@ -536,7 +536,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/ai-content-generation-and-distribution-system/";
+            window.location.href = "/blog/2025-03-06/ai-content-generation-and-distribution-system/";
           
         },
       },{id: "post-遗言-ipsri的终幕-final-testament-the-last-curtain-of-ipsri",
@@ -547,7 +547,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/final-testament-the-last-curtain-of-ipsri/";
+            window.location.href = "/blog/2025-03-05/final-testament-the-last-curtain-of-ipsri/";
           
         },
       },{id: "post-删句的-在编史-the-one-who-deletes-is-writing-history",
@@ -558,7 +558,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-one-who-deletes-is-writing-history/";
+            window.location.href = "/blog/2025-03-03/the-one-who-deletes-is-writing-history/";
           
         },
       },{id: "post-影子秩序之下-beneath-the-shadow-order",
@@ -569,7 +569,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/beneath-the-shadow-order/";
+            window.location.href = "/blog/2025-03-03/beneath-the-shadow-order/";
           
         },
       },{id: "post-执行力的真相-the-truth-of-execution",
@@ -580,7 +580,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-truth-of-execution/";
+            window.location.href = "/blog/2025-02-28/the-truth-of-execution/";
           
         },
       },{id: "post-制度的手指-the-fingers-of-the-system",
@@ -591,7 +591,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-fingers-of-the-system/";
+            window.location.href = "/blog/2025-02-28/the-fingers-of-the-system/";
           
         },
       },{id: "post-36525-day-个人ip与内容变现行动方案",
@@ -602,7 +602,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/36525-day-personal-ip-and-content-monetization-action-plan/";
+            window.location.href = "/blog/2025-02-28/36525-day-personal-ip-and-content-monetization-action-plan/";
           
         },
       },{id: "post-你将获得你所求的一切-you-shall-have-what-you-seek",
@@ -613,7 +613,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/you-shall-have-what-you-seek/";
+            window.location.href = "/blog/2025-02-27/you-shall-have-what-you-seek/";
           
         },
       },{id: "post-乱世生存五法则-如何在风暴中保持自我",
@@ -624,7 +624,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/survival-manual/";
+            window.location.href = "/blog/2025-02-27/survival-manual/";
           
         },
       },{id: "post-新域名计划-new-domain-plan",
@@ -635,7 +635,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/new-domain-plan/";
+            window.location.href = "/blog/2025-02-26/new-domain-plan/";
           
         },
       },{id: "post-荣耀的重量-the-weight-of-glory",
@@ -646,7 +646,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-weight-of-glory/";
+            window.location.href = "/blog/2025-02-25/the-weight-of-glory/";
           
         },
       },{id: "post-在喧哗中看见结构-seeing-structure-in-the-noise",
@@ -657,7 +657,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/seeing-structure-in-the-noise/";
+            window.location.href = "/blog/2025-02-25/seeing-structure-in-the-noise/";
           
         },
       },{id: "post-36525天-yaniék-雅捏克-яниэк-يانيك-百年-新词-跨文化的构造逻辑",
@@ -668,7 +668,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/cross-cultural-construction-logic-of-a-new-word-yaniek/";
+            window.location.href = "/blog/2025-02-24/cross-cultural-construction-logic-of-a-new-word-yaniek/";
           
         },
       },{id: "post-教育是口锅-education-is-an-old-pot",
@@ -679,7 +679,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/education-is-an-old-pot/";
+            window.location.href = "/blog/2025-02-23/education-is-an-old-pot/";
           
         },
       },{id: "post-个人出海-personal-going-overseas",
@@ -690,7 +690,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/personal-going-overseas/";
+            window.location.href = "/blog/2025-02-21/personal-going-overseas/";
           
         },
       },{id: "post-流动中的意义暴力-the-fluid-violence-of-meaning",
@@ -701,7 +701,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-fluid-violence-of-meaning/";
+            window.location.href = "/blog/2025-02-17/the-fluid-violence-of-meaning/";
           
         },
       },{id: "post-符号的囚笼-the-cage-of-symbols",
@@ -712,7 +712,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-cage-of-symbols/";
+            window.location.href = "/blog/2025-02-17/the-cage-of-symbols/";
           
         },
       },{id: "post-顺从的建筑学-the-architecture-of-obedience",
@@ -723,7 +723,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-architecture-of-obedience/";
+            window.location.href = "/blog/2025-02-17/the-architecture-of-obedience/";
           
         },
       },{id: "post-科学上网-scientific-internet-surfing",
@@ -734,7 +734,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/scientific-internet-surfing/";
+            window.location.href = "/blog/2025-02-10/scientific-internet-surfing/";
           
         },
       },{id: "post-无名之境-the-nameless-realm",
@@ -745,7 +745,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/the-nameless-realm/";
+            window.location.href = "/blog/2025-02-07/the-nameless-realm/";
           
         },
       },{id: "post-伤口上的盐-salt-on-the-wound",
@@ -756,7 +756,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/salt-on-the-wound/";
+            window.location.href = "/blog/2024-12-30/salt-on-the-wound/";
           
         },
       },{id: "post-光的楔子-wedges-of-light",
@@ -767,7 +767,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/holidays-and-time/";
+            window.location.href = "/blog/2024-12-30/holidays-and-time/";
           
         },
       },{id: "post-那个精致利己的毛左-that-left-egoism-maoist",
@@ -778,7 +778,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/that-left-egoism-maoist/";
+            window.location.href = "/blog/2024-12-03/that-left-egoism-maoist/";
           
         },
       },{id: "post-初心-the-original-aspiration",
@@ -789,7 +789,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-original-aspiration/";
+            window.location.href = "/blog/2024-12-02/the-original-aspiration/";
           
         },
       },{id: "post-权力擦边的过程-the-edge-walking-of-power",
@@ -800,7 +800,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-edge-walking-of-power/";
+            window.location.href = "/blog/2024-12-02/the-edge-walking-of-power/";
           
         },
       },{id: "post-不是树-而是森林-not-a-tree-but-a-forest",
@@ -811,7 +811,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/not-a-tree-but-a-forest/";
+            window.location.href = "/blog/2024-12-02/not-a-tree-but-a-forest/";
           
         },
       },{id: "post-人民之词-the-word-people",
@@ -822,7 +822,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-word-people/";
+            window.location.href = "/blog/2024-11-30/the-word-people/";
           
         },
       },{id: "post-挺胸和收腹-chest-out-and-stomach-in",
@@ -833,7 +833,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/chest-out-and-stomach-in/";
+            window.location.href = "/blog/2024-11-30/chest-out-and-stomach-in/";
           
         },
       },{id: "post-不再等待-no-longer-waiting",
@@ -844,7 +844,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/no-longer-waiting/";
+            window.location.href = "/blog/2024-11-28/no-longer-waiting/";
           
         },
       },{id: "post-历史正确的一边-the-right-side-of-history",
@@ -855,7 +855,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-right-side-of-history/";
+            window.location.href = "/blog/2024-11-25/the-right-side-of-history/";
           
         },
       },{id: "post-晨间失衡-morning-disorientation",
@@ -866,7 +866,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/morning-disorientation/";
+            window.location.href = "/blog/2024-11-25/morning-disorientation/";
           
         },
       },{id: "post-速度的泪腺-在光的断层中失明-tear-duct-of-speed-going-blind-in-the-faultline-of-light",
@@ -877,7 +877,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tear-duct-of-speed-going-blind-in-the-faultline-of-light/";
+            window.location.href = "/blog/2024-11-20/tear-duct-of-speed-going-blind-in-the-faultline-of-light/";
           
         },
       },{id: "post-抑郁的个体-the-depressed-individual",
@@ -888,7 +888,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-depressed-individual/";
+            window.location.href = "/blog/2024-11-19/the-depressed-individual/";
           
         },
       },{id: "post-钱与人-money-and-people",
@@ -899,7 +899,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/money-and-people/";
+            window.location.href = "/blog/2024-11-19/money-and-people/";
           
         },
       },{id: "post-亡者-路的尽头-end-road-of-deceased",
@@ -910,7 +910,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/end-road-of-deceased/";
+            window.location.href = "/blog/2024-11-19/end-road-of-deceased/";
           
         },
       },{id: "post-死亡的贡献-contribution-of-death",
@@ -921,7 +921,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/contribution-of-death/";
+            window.location.href = "/blog/2024-11-19/contribution-of-death/";
           
         },
       },{id: "post-喊着人民万岁却把人民万碎的人-those-who-shout-long-live-the-people-but-bring-about-long-live-the-broken-people",
@@ -932,7 +932,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/those-who-shout-long-live-the-people-but-bring-about-long-live-the-broken-people/";
+            window.location.href = "/blog/2024-11-17/those-who-shout-long-live-the-people-but-bring-about-long-live-the-broken-people/";
           
         },
       },{id: "post-闭嘴的力量-power-of-shut-up",
@@ -943,7 +943,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-power-of-shut-up/";
+            window.location.href = "/blog/2024-11-17/the-power-of-shut-up/";
           
         },
       },{id: "post-报复社会的行为-the-act-of-social-revenge",
@@ -954,7 +954,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-act-of-social-revenge/";
+            window.location.href = "/blog/2024-11-17/the-act-of-social-revenge/";
           
         },
       },{id: "post-空想的良药-remedy-for-delusion",
@@ -965,7 +965,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/remedy-for-delusion/";
+            window.location.href = "/blog/2024-11-15/remedy-for-delusion/";
           
         },
       },{id: "post-遍地献忠-的文化症候-the-cultural-syndrome-of-universal-xianzhong",
@@ -976,7 +976,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-cultural-syndrome-of-universal-xianzhong/";
+            window.location.href = "/blog/2024-11-14/the-cultural-syndrome-of-universal-xianzhong/";
           
         },
       },{id: "post-出门装瓜娃儿-的智慧-wisdom-of-feigning-simplicity",
@@ -987,7 +987,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/wisdom-of-feigning-simplicity/";
+            window.location.href = "/blog/2024-11-13/wisdom-of-feigning-simplicity/";
           
         },
       },{id: "post-理解的界限-the-limit-of-understandings",
@@ -998,7 +998,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-limit-of-understandings/";
+            window.location.href = "/blog/2024-11-13/the-limit-of-understandings/";
           
         },
       },{id: "post-直觉-从感知到灵感的艺术-intuition-the-art-of-transforming-perception-into-inspiration",
@@ -1009,7 +1009,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/intuition-the-art-of-transforming-perception-into-inspiration/";
+            window.location.href = "/blog/2024-11-13/intuition-the-art-of-transforming-perception-into-inspiration/";
           
         },
       },{id: "post-家丑-family-scandal",
@@ -1020,7 +1020,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/family-scandal/";
+            window.location.href = "/blog/2024-11-13/family-scandal/";
           
         },
       },{id: "post-不可预知的旅途-the-unpredictable-journey",
@@ -1031,7 +1031,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-unpredictable-journey/";
+            window.location.href = "/blog/2024-11-12/the-unpredictable-journey/";
           
         },
       },{id: "post-疯狂的导火索-the-fuse-of-madness",
@@ -1042,7 +1042,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-fuse-of-madness/";
+            window.location.href = "/blog/2024-11-12/the-fuse-of-madness/";
           
         },
       },{id: "post-末句-the-final-sentence",
@@ -1053,7 +1053,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-final-sentence/";
+            window.location.href = "/blog/2024-11-12/the-final-sentence/";
           
         },
       },{id: "post-遗失的回声-the-echo-of-the-lost",
@@ -1064,7 +1064,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-echo-of-the-lost/";
+            window.location.href = "/blog/2024-11-12/the-echo-of-the-lost/";
           
         },
       },{id: "post-绿洲-oasis",
@@ -1075,7 +1075,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/oasis/";
+            window.location.href = "/blog/2024-11-12/oasis/";
           
         },
       },{id: "post-李子柒的作品-li-ziqi-amp-8217-s-work",
@@ -1086,7 +1086,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/li-ziqis-work/";
+            window.location.href = "/blog/2024-11-12/li-ziqis-work/";
           
         },
       },{id: "post-一场混沌的舞台剧-a-chaotic-stage-play",
@@ -1097,7 +1097,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/a-chaotic-stage-play/";
+            window.location.href = "/blog/2024-11-12/a-chaotic-stage-play/";
           
         },
       },{id: "post-随机群发事件的解读及其社会隐喻-the-interpretation-of-random-mass-incidents-and-their-social-implications",
@@ -1108,7 +1108,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-interpretation-of-random-mass-incidents-and-their-social-implications/";
+            window.location.href = "/blog/2024-11-11/the-interpretation-of-random-mass-incidents-and-their-social-implications/";
           
         },
       },{id: "post-无形之物-the-intangible-entity",
@@ -1119,7 +1119,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-intangible-entity/";
+            window.location.href = "/blog/2024-11-11/the-intangible-entity/";
           
         },
       },{id: "post-一篇-狗撵科学-的短文-a-short-piece-on-dogs-chasing-science",
@@ -1130,7 +1130,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/a-short-piece-on-dogs-chasing-science/";
+            window.location.href = "/blog/2024-11-11/a-short-piece-on-dogs-chasing-science/";
           
         },
       },{id: "post-如果说鲁迅是-支黑-那么胡适又是-什么-if-lu-xun-is-the-black-of-chinese-then-what-is-hu-shi",
@@ -1141,7 +1141,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/if-lu-xun-is-the-black-of-chinese-then-what-is-hu-shi/";
+            window.location.href = "/blog/2024-11-10/if-lu-xun-is-the-black-of-chinese-then-what-is-hu-shi/";
           
         },
       },{id: "post-自行车-a-bicycle",
@@ -1152,7 +1152,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/a-bicycle/";
+            window.location.href = "/blog/2024-11-09/a-bicycle/";
           
         },
       },{id: "post-文盲不识字-发文凭就好了-the-illiterate-may-not-read-but-a-diploma-will-be-fine",
@@ -1163,7 +1163,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-illiterate-may-not-read-but-a-diploma-will-be-fine/";
+            window.location.href = "/blog/2024-11-08/the-illiterate-may-not-read-but-a-diploma-will-be-fine/";
           
         },
       },{id: "post-现实中的呢喃-murmurs-in-reality",
@@ -1174,7 +1174,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/murmurs-in-reality/";
+            window.location.href = "/blog/2024-11-08/murmurs-in-reality/";
           
         },
       },{id: "post-如何自定义chatgpt-how-to-customize-chatgpt",
@@ -1185,7 +1185,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/how-to-customize-chatgpt/";
+            window.location.href = "/blog/2024-11-08/how-to-customize-chatgpt/";
           
         },
       },{id: "post-遥远的温柔-distant-gentleness",
@@ -1196,7 +1196,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/distant-gentleness/";
+            window.location.href = "/blog/2024-11-08/distant-gentleness/";
           
         },
       },{id: "post-如何隐喻地进行创作-how-to-create-metaphorically",
@@ -1207,7 +1207,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/how-to-create-metaphorically/";
+            window.location.href = "/blog/2024-11-02/how-to-create-metaphorically/";
           
         },
       },{id: "post-遥远的土地-a-distant-land",
@@ -1218,7 +1218,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/a-distant-land/";
+            window.location.href = "/blog/2024-11-02/a-distant-land/";
           
         },
       },{id: "post-善意象征的王座-throne-of-benevolent-symbols",
@@ -1229,7 +1229,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/throne-of-benevolent-symbols/";
+            window.location.href = "/blog/2024-11-01/throne-of-benevolent-symbols/";
           
         },
       },{id: "post-缔造者与卖国贼-founder-and-traitor",
@@ -1240,7 +1240,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/founder-and-traitor/";
+            window.location.href = "/blog/2024-11-01/founder-and-traitor/";
           
         },
       },{id: "post-朝阳-the-morning-sun",
@@ -1251,7 +1251,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/the-morning-sun/";
+            window.location.href = "/blog/2024-10-31/the-morning-sun/";
           
         },
       },{id: "post-游戏-终焉的百合花-有感-game-ender-lilies",
@@ -1262,7 +1262,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/game-ender-lilies/";
+            window.location.href = "/blog/2024-10-30/game-ender-lilies/";
           
         },
       },{id: "post-道德绑架之恶与平衡-evil-and-balance-of-moral-coercion",
@@ -1273,7 +1273,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/evil-and-balance-of-moral-coercion/";
+            window.location.href = "/blog/2024-10-29/evil-and-balance-of-moral-coercion/";
           
         },
       },{id: "post-真相与视角-truth-and-perspective",
@@ -1284,7 +1284,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/truth-and-perspective/";
+            window.location.href = "/blog/2024-10-25/truth-and-perspective/";
           
         },
       },{id: "post-温室中的生命-life-in-greenhouse",
@@ -1295,7 +1295,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/life-in-greenhouse/";
+            window.location.href = "/blog/2024-09-29/life-in-greenhouse/";
           
         },
       },{id: "post-岁月时光-time-and-year",
@@ -1306,7 +1306,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/time-and-year/";
+            window.location.href = "/blog/2024-09-19/time-and-year/";
           
         },
       },{id: "post-梦中梦-鬼魅娃娃-dream-in-a-dream-ghost-doll",
@@ -1317,7 +1317,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/dream-in-a-dream-ghost-doll/";
+            window.location.href = "/blog/2024-08-26/dream-in-a-dream-ghost-doll/";
           
         },
       },{id: "post-统一指示下的虚假自由-false-freedom-under-unified-command",
@@ -1328,7 +1328,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/false-freedom-under-unified-command/";
+            window.location.href = "/blog/2024-08-11/false-freedom-under-unified-command/";
           
         },
       },{id: "post-从虚假的善到切实的恶-from-false-goodness-to-real-evil",
@@ -1339,7 +1339,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/from-false-goodness-to-real-evil/";
+            window.location.href = "/blog/2024-08-08/from-false-goodness-to-real-evil/";
           
         },
       },{id: "post-左右-赞美和批评-从-尾巴-谈论到-精神病-left-and-right-praise-and-criticism-from-tail-to-mental-illness",
@@ -1350,7 +1350,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/left-and-right-praise-and-criticism-from-tail-to-mental-illness/";
+            window.location.href = "/blog/2024-08-07/left-and-right-praise-and-criticism-from-tail-to-mental-illness/";
           
         },
       },{id: "post-有得选-之从具体的人谈论到抽象的历史-having-a-choice-from-specific-individuals-to-abstract-history",
@@ -1361,7 +1361,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/having-a-choice-from-specific-individuals-to-abstract-history/";
+            window.location.href = "/blog/2024-08-06/having-a-choice-from-specific-individuals-to-abstract-history/";
           
         },
       },{id: "post-年富-力强-rich-mind-strong-body",
@@ -1372,7 +1372,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/rich-mind-strong-body/";
+            window.location.href = "/blog/2024-08-04/rich-mind-strong-body/";
           
         },
       },{id: "post-增肌减脂终极指南-系统饮食-训练计划",
@@ -1383,7 +1383,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/muscle-building-and-fat-loss-handbook/";
+            window.location.href = "/blog/2023-09-17/muscle-building-and-fat-loss-handbook/";
           
         },
       },{id: "post-节日快乐-happy-holidays",
@@ -1394,7 +1394,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/happy-holidays/";
+            window.location.href = "/blog/2023-01-22/happy-holidays/";
           
         },
       },{id: "post-花儿-flower",
@@ -1405,7 +1405,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/flower/";
+            window.location.href = "/blog/2022-10-09/flower/";
           
         },
       },{id: "post-天空和鱼儿-the-sky-and-the-fish",
@@ -1416,7 +1416,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/the-sky-and-the-fish/";
+            window.location.href = "/blog/2022-09-30/the-sky-and-the-fish/";
           
         },
       },{id: "post-怛的战后庆典-da-amp-8217-s-postwar-celebration-3",
@@ -1427,7 +1427,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/das-postwar-celebration/";
+            window.location.href = "/blog/2022-09-10/das-postwar-celebration/";
           
         },
       },{id: "post-怛的战前动员-da-amp-8217-s-prewar-mobilization-3",
@@ -1438,7 +1438,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/das-prewar-mobilization/";
+            window.location.href = "/blog/2022-09-09/das-prewar-mobilization/";
           
         },
       },{id: "post-怛的袭来-da-amp-8217-s-attacking-3",
@@ -1449,7 +1449,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/das-attacking/";
+            window.location.href = "/blog/2022-09-09/das-attacking/";
           
         },
       },{id: "post-疯城-mad-city-4",
@@ -1460,7 +1460,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/mad-city/";
+            window.location.href = "/blog/2022-07-29/mad-city/";
           
         },
       },{id: "post-胞弟-brothers-3",
@@ -1471,7 +1471,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/brothers/";
+            window.location.href = "/blog/2022-07-29/brothers/";
           
         },
       },{id: "post-真爱-true-love",
@@ -1482,7 +1482,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/true-love/";
+            window.location.href = "/blog/2022-06-29/true-love/";
           
         },
       },{id: "post-美好地方-the-beautiful-place",
@@ -1493,7 +1493,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/the-beautiful-place/";
+            window.location.href = "/blog/2022-06-28/the-beautiful-place/";
           
         },
       },{id: "post-双重标准-double-standards",
@@ -1504,7 +1504,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/double-standards/";
+            window.location.href = "/blog/2022-06-23/double-standards/";
           
         },
       },{id: "post-造车-build-cars",
@@ -1515,7 +1515,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/build-cars/";
+            window.location.href = "/blog/2022-06-21/build-cars/";
           
         },
       },{id: "post-官利-officials-for-profit",
@@ -1526,7 +1526,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/officials-for-profit/";
+            window.location.href = "/blog/2022-06-14/officials-for-profit/";
           
         },
       },{id: "post-枪与刀-gun-and-knife",
@@ -1537,7 +1537,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/gun-and-knife/";
+            window.location.href = "/blog/2022-06-14/gun-and-knife/";
           
         },
       },{id: "post-勇敢的人民-brave-people",
@@ -1548,7 +1548,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/brave-people/";
+            window.location.href = "/blog/2022-06-14/brave-people/";
           
         },
       },{id: "post-打赌-bet",
@@ -1559,7 +1559,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/bet/";
+            window.location.href = "/blog/2022-06-14/bet/";
           
         },
       },{id: "post-群体社会-内耗与悲剧-group-society-consumption-and-tragedy",
@@ -1570,7 +1570,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/group-society-consumption-and-tragedy/";
+            window.location.href = "/blog/2022-06-11/group-society-consumption-and-tragedy/";
           
         },
       },{id: "post-宝-baby",
@@ -1581,7 +1581,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/baby/";
+            window.location.href = "/blog/2022-06-08/baby/";
           
         },
       },{id: "post-英雄-奴隶-hero-and-slave",
@@ -1592,7 +1592,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/hero-and-slave/";
+            window.location.href = "/blog/2022-06-06/hero-and-slave/";
           
         },
       },{id: "post-杀人犯-警察-the-murderer-the-police",
@@ -1603,7 +1603,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/the-murderer-the-cop/";
+            window.location.href = "/blog/2022-06-01/the-murderer-the-cop/";
           
         },
       },{id: "post-谈爱国-on-patriotism",
@@ -1614,7 +1614,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/on-patriotism/";
+            window.location.href = "/blog/2022-05-31/on-patriotism/";
           
         },
       },{id: "post-无限悲哀-infinite-sorrow",
@@ -1625,7 +1625,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/infinite-sorrow/";
+            window.location.href = "/blog/2022-05-28/infinite-sorrow/";
           
         },
       },{id: "post-相通的梦-similar-dreams",
@@ -1636,7 +1636,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/similar-dreams/";
+            window.location.href = "/blog/2022-05-24/similar-dreams/";
           
         },
       },{id: "post-呜呜喳喳-whining-and-babbling",
@@ -1647,7 +1647,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/whining-and-babbling/";
+            window.location.href = "/blog/2022-05-18/whining-and-babbling/";
           
         },
       },{id: "post-编织彩虹的人-the-man-weaving-rainbows",
@@ -1658,7 +1658,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/the-man-weaving-rainbows/";
+            window.location.href = "/blog/2022-05-18/the-man-weaving-rainbows/";
           
         },
       },{id: "post-单身的好处-benefits-of-being-single",
@@ -1669,7 +1669,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/benefits-of-being-single/";
+            window.location.href = "/blog/2022-05-12/benefits-of-being-single/";
           
         },
       },{id: "post-定数-destiny",
@@ -1680,7 +1680,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/destiny/";
+            window.location.href = "/blog/2022-05-11/destiny/";
           
         },
       },{id: "post-文爱-word-love",
@@ -1691,7 +1691,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/word-love/";
+            window.location.href = "/blog/2022-05-06/word-love/";
           
         },
       },{id: "post-树洞谬论-tree-hole-fallacy",
@@ -1702,7 +1702,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/tree-hole-cheating-fallacy/";
+            window.location.href = "/blog/2022-05-05/tree-hole-cheating-fallacy/";
           
         },
       },{id: "post-帝王的屎-the-emperor-s-shit",
@@ -1713,7 +1713,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/the-emperors-shit/";
+            window.location.href = "/blog/2022-05-04/the-emperors-shit/";
           
         },
       },{id: "post-古代朝鲜-ancient-korea",
@@ -1724,7 +1724,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/ancient-korea/";
+            window.location.href = "/blog/2022-05-04/ancient-korea/";
           
         },
       },{id: "post-少年秘密警察-the-secret-teenage-police",
@@ -1735,7 +1735,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/the-secret-teenage-police/";
+            window.location.href = "/blog/2022-05-03/the-secret-teenage-police/";
           
         },
       },{id: "post-高潮-orgasm",
@@ -1746,7 +1746,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/orgasm/";
+            window.location.href = "/blog/2022-05-03/orgasm/";
           
         },
       },{id: "post-沁润-moistening",
@@ -1757,7 +1757,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/moistening/";
+            window.location.href = "/blog/2022-05-03/moistening/";
           
         },
       },{id: "post-打拳的本质-essence-of-boxing",
@@ -1768,7 +1768,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/essence-of-boxing/";
+            window.location.href = "/blog/2022-05-01/essence-of-boxing/";
           
         },
       },{id: "post-教育的奴隶-slave-of-education",
@@ -1779,7 +1779,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/slave-of-education/";
+            window.location.href = "/blog/2022-04-27/slave-of-education/";
           
         },
       },{id: "post-摇摆的戏子-wavering-actors",
@@ -1790,7 +1790,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/wavering-actors/";
+            window.location.href = "/blog/2022-04-26/wavering-actors/";
           
         },
       },{id: "post-种子与播种者-seeds-and-sowers",
@@ -1801,7 +1801,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/seeds-and-sowers/";
+            window.location.href = "/blog/2022-04-26/seeds-and-sowers/";
           
         },
       },{id: "post-剥削后袋-exploiting-later-bags",
@@ -1812,7 +1812,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/exploiting-later-bags/";
+            window.location.href = "/blog/2022-04-18/exploiting-later-bags/";
           
         },
       },{id: "post-意识和罪-consciousness-and-guilty",
@@ -1823,7 +1823,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/consciousness-and-guilty/";
+            window.location.href = "/blog/2022-04-17/consciousness-and-guilty/";
           
         },
       },{id: "post-权力的交接-handover-of-power",
@@ -1834,7 +1834,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/handover-of-power/";
+            window.location.href = "/blog/2022-04-15/handover-of-power/";
           
         },
       },{id: "post-命运的窗口-the-window-of-fate",
@@ -1845,7 +1845,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/the-window-of-fate/";
+            window.location.href = "/blog/2022-04-14/the-window-of-fate/";
           
         },
       },{id: "post-为谁而唱-who-to-sing-for",
@@ -1856,7 +1856,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/e4b8bae8b081e8808ce594b1-who-to-sing-for/";
+            window.location.href = "/blog/2022-04-13/e4b8bae8b081e8808ce594b1-who-to-sing-for/";
           
         },
       },{id: "post-香港-海参崴-伯力-xiāng-gǎng-hǎi-shēn-wǎi-and-bó-lì",
@@ -1867,7 +1867,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/xiang-ganghai-shen-wai-and-bo-li/";
+            window.location.href = "/blog/2022-04-05/xiang-ganghai-shen-wai-and-bo-li/";
           
         },
       },{id: "post-无耻的人-shameless-people",
@@ -1878,7 +1878,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/shameless-people/";
+            window.location.href = "/blog/2022-03-24/shameless-people/";
           
         },
       },{id: "post-企业-领导-狗-enterprises-leaders-and-dogs",
@@ -1889,7 +1889,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/enterprises-leaders-and-dogs/";
+            window.location.href = "/blog/2022-03-24/enterprises-leaders-and-dogs/";
           
         },
       },{id: "post-万金油-panacea",
@@ -1900,7 +1900,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/panacea/";
+            window.location.href = "/blog/2022-03-12/panacea/";
           
         },
       },{id: "post-平凡的人-ordinary-human-being",
@@ -1911,7 +1911,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/ordinary-human-being/";
+            window.location.href = "/blog/2022-03-09/ordinary-human-being/";
           
         },
       },{id: "post-飞的是命-flew-away-is-fate",
@@ -1922,7 +1922,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/e9a39ee79a84e698afe591bd-flew-away-is-fate/";
+            window.location.href = "/blog/2022-03-09/e9a39ee79a84e698afe591bd-flew-away-is-fate/";
           
         },
       },{id: "post-三个什么-three-it-is",
@@ -1933,7 +1933,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/three-it-is/";
+            window.location.href = "/blog/2022-03-08/three-it-is/";
           
         },
       },{id: "post-台湾必然回归的两点说明-two-points-about-taiwan-s-inevitable-return",
@@ -1944,7 +1944,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/two-points-about-taiwans-inevitable-return/";
+            window.location.href = "/blog/2022-02-27/two-points-about-taiwans-inevitable-return/";
           
         },
       },{id: "post-战后宣言-postwar-anifesto",
@@ -1955,7 +1955,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/postwar-anifesto/";
+            window.location.href = "/blog/2022-02-26/postwar-anifesto/";
           
         },
       },{id: "post-0-00000001的机会-chance-0-00000001",
@@ -1966,7 +1966,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/chance-0-00000001/";
+            window.location.href = "/blog/2022-02-26/chance-0-00000001/";
           
         },
       },{id: "post-俄乌战争-russia-ukraine-war",
@@ -1977,7 +1977,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/russia-ukraine-war/";
+            window.location.href = "/blog/2022-02-25/russia-ukraine-war/";
           
         },
       },{id: "post-美国-中国-俄罗斯-usa-china-and-russia",
@@ -1988,7 +1988,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/usa-china-and-russia/";
+            window.location.href = "/blog/2022-02-24/usa-china-and-russia/";
           
         },
       },{id: "post-选择比努力重要-choice-is-more-important-than-effort",
@@ -1999,7 +1999,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/choice-is-more-important-than-effort/";
+            window.location.href = "/blog/2022-02-24/choice-is-more-important-than-effort/";
           
         },
       },{id: "post-对话-嘴炮与官员和资本家-dialogue-mouth-cannon-with-officials-and-capitalists",
@@ -2010,7 +2010,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/dialogue-mouth-cannon-with-officials-and-capitalists/";
+            window.location.href = "/blog/2022-02-23/dialogue-mouth-cannon-with-officials-and-capitalists/";
           
         },
       },{id: "post-历史和规则-history-and-rules",
@@ -2021,7 +2021,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/history-and-rules/";
+            window.location.href = "/blog/2022-02-22/history-and-rules/";
           
         },
       },{id: "post-3万字小说-a-30-000-words-novel",
@@ -2032,7 +2032,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/a-30000-words-novel/";
+            window.location.href = "/blog/2022-02-19/a-30000-words-novel/";
           
         },
       },{id: "post-如何维持长久的幸福-快乐-安康-how-to-maintain-long-term-happiness-joy-and-well-being",
@@ -2043,7 +2043,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/how-to-maintain-long-term-happiness-joy-and-well-being/";
+            window.location.href = "/blog/2022-02-15/how-to-maintain-long-term-happiness-joy-and-well-being/";
           
         },
       },{id: "post-文字的力量-power-of-words",
@@ -2054,7 +2054,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/power-of-words/";
+            window.location.href = "/blog/2022-02-11/power-of-words/";
           
         },
       },{id: "post-吃头发的人-the-man-eats-hair",
@@ -2065,7 +2065,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/the-man-eats-hair/";
+            window.location.href = "/blog/2022-02-09/the-man-eats-hair/";
           
         },
       },{id: "post-骂人的道理-逻辑-logic-of-scolding",
@@ -2076,7 +2076,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/logic-of-scolding/";
+            window.location.href = "/blog/2022-02-03/logic-of-scolding/";
           
         },
       },{id: "post-国家是什么-what-is-a-country",
@@ -2087,7 +2087,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/what-is-a-country/";
+            window.location.href = "/blog/2022-02-02/what-is-a-country/";
           
         },
       },{id: "post-过年的灵魂-soul-of-the-new-year",
@@ -2098,7 +2098,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/soul-of-the-new-year/";
+            window.location.href = "/blog/2022-01-31/soul-of-the-new-year/";
           
         },
       },{id: "post-我的黄金时间-my-gloden-time",
@@ -2109,7 +2109,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/my-gloden-time/";
+            window.location.href = "/blog/2022-01-31/my-gloden-time/";
           
         },
       },{id: "post-我希望我是你-i-hope-i-am-you",
@@ -2120,7 +2120,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/i-hope-i-am-you/";
+            window.location.href = "/blog/2022-01-31/i-hope-i-am-you/";
           
         },
       },{id: "post-这个世界-this-world",
@@ -2131,7 +2131,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/this-world/";
+            window.location.href = "/blog/2022-01-23/this-world/";
           
         },
       },{id: "post-我的爸爸-my-father",
@@ -2142,7 +2142,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/my-father/";
+            window.location.href = "/blog/2022-01-23/my-father/";
           
         },
       },{id: "post-恶的相对论-relativity-of-evil",
@@ -2153,7 +2153,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/relativity-of-evil/";
+            window.location.href = "/blog/2022-01-20/relativity-of-evil/";
           
         },
       },{id: "post-一个惊天地泣鬼神的梦-a-dream-shocking-sky-and-earth-weeping-ghosts-and-gods",
@@ -2164,7 +2164,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/a-dream-shocking-sky-and-earth-weeping-ghosts-and-gods/";
+            window.location.href = "/blog/2022-01-19/a-dream-shocking-sky-and-earth-weeping-ghosts-and-gods/";
           
         },
       },{id: "post-杀死该演员-kill-the-actor",
@@ -2175,7 +2175,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/kill-the-actor/";
+            window.location.href = "/blog/2022-01-14/kill-the-actor/";
           
         },
       },{id: "post-谈民主-on-democracy",
@@ -2186,7 +2186,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/on-democracy/";
+            window.location.href = "/blog/2021-12-07/on-democracy/";
           
         },
       },{id: "post-标准-standard",
@@ -2197,7 +2197,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/standard/";
+            window.location.href = "/blog/2021-12-01/standard/";
           
         },
       },{id: "post-校园霸凌-school-bullying",
@@ -2208,7 +2208,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/school-bullying/";
+            window.location.href = "/blog/2021-12-01/school-bullying/";
           
         },
       },{id: "post-救命稻草-life-saving-straw",
@@ -2219,7 +2219,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/life-saving-straw/";
+            window.location.href = "/blog/2021-12-01/life-saving-straw/";
           
         },
       },{id: "post-成长-growth",
@@ -2230,7 +2230,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/growth/";
+            window.location.href = "/blog/2021-11-30/growth/";
           
         },
       },{id: "post-半篇作文-half-composition",
@@ -2241,7 +2241,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/e58d8ae7af87e4bd9ce69687-half-composition/";
+            window.location.href = "/blog/2021-11-28/e58d8ae7af87e4bd9ce69687-half-composition/";
           
         },
       },{id: "post-若这就是我的遗言-if-this-is-my-last-words",
@@ -2252,7 +2252,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/if-this-is-my-last-words/";
+            window.location.href = "/blog/2021-11-24/if-this-is-my-last-words/";
           
         },
       },{id: "post-流氓-富人-rogues-and-rich-men",
@@ -2263,7 +2263,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/e6b581e6b093e38081e5af8ce4baba-rogues-and-rich-men/";
+            window.location.href = "/blog/2021-11-22/e6b581e6b093e38081e5af8ce4baba-rogues-and-rich-men/";
           
         },
       },{id: "post-意义的有无-the-yes-and-no-of-meaning",
@@ -2274,7 +2274,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/the-yes-and-no-of-meaning/";
+            window.location.href = "/blog/2021-11-19/the-yes-and-no-of-meaning/";
           
         },
       },{id: "post-假-死的意义-hypothesis-meaning-of-death",
@@ -2285,7 +2285,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/hypothesis-meaning-of-death/";
+            window.location.href = "/blog/2021-11-19/hypothesis-meaning-of-death/";
           
         },
       },{id: "post-我的灵魂-my-soul",
@@ -2296,7 +2296,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/my-soul/";
+            window.location.href = "/blog/2021-11-15/my-soul/";
           
         },
       },{id: "post-在岸上-on-the-shore",
@@ -2307,7 +2307,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/on-the-shore/";
+            window.location.href = "/blog/2021-11-08/on-the-shore/";
           
         },
       },{id: "post-每一天的生活-everyday-s-life",
@@ -2318,7 +2318,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/everydays-life/";
+            window.location.href = "/blog/2021-11-04/everydays-life/";
           
         },
       },{id: "post-游戏的意义-meaning-of-game",
@@ -2329,7 +2329,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/meaning-of-game/";
+            window.location.href = "/blog/2021-10-28/meaning-of-game/";
           
         },
       },{id: "post-今夜的拯救-tonight-s-rescue",
@@ -2340,7 +2340,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/tonights-rescue/";
+            window.location.href = "/blog/2021-10-15/tonights-rescue/";
           
         },
       },{id: "post-个人的悲欢-personal-joys-and-sorrows",
@@ -2351,7 +2351,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/personal-joys-and-sorrows/";
+            window.location.href = "/blog/2021-10-14/personal-joys-and-sorrows/";
           
         },
       },{id: "post-最大的公平与正义-the-greatest-fairness-and-justice",
@@ -2362,7 +2362,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/the-greatest-fairness-and-justice/";
+            window.location.href = "/blog/2021-10-13/the-greatest-fairness-and-justice/";
           
         },
       },{id: "post-讲道德的人-moral-people",
@@ -2373,7 +2373,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/moral-people/";
+            window.location.href = "/blog/2021-10-12/moral-people/";
           
         },
       },{id: "post-鱿鱼游戏-不同的观点-squid-games-different-view",
@@ -2384,7 +2384,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/squid-games-different-views/";
+            window.location.href = "/blog/2021-09-29/squid-games-different-views/";
           
         },
       },{id: "post-山那边的白云-white-clouds-on-other-side-of-mountain",
@@ -2395,7 +2395,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/white-clouds-on-other-side-of-mountain/";
+            window.location.href = "/blog/2021-09-26/white-clouds-on-other-side-of-mountain/";
           
         },
       },{id: "post-雨水和土壤-rain-and-soil",
@@ -2406,7 +2406,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/rain-and-soil/";
+            window.location.href = "/blog/2021-09-18/rain-and-soil/";
           
         },
       },{id: "post-反对的声音-voice-of-opposition",
@@ -2417,7 +2417,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/voice-of-opposition/";
+            window.location.href = "/blog/2021-09-15/voice-of-opposition/";
           
         },
       },{id: "post-共同富裕的本质-essence-of-common-prosperity",
@@ -2428,7 +2428,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/essence-of-common-prosperity/";
+            window.location.href = "/blog/2021-09-15/essence-of-common-prosperity/";
           
         },
       },{id: "post-修行人的生-死-life-and-death-of-people-who-believe-in-buddhism",
@@ -2439,7 +2439,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/life-and-death-of-people-who-believe-in-buddhism/";
+            window.location.href = "/blog/2021-09-08/life-and-death-of-people-who-believe-in-buddhism/";
           
         },
       },{id: "post-自我安慰的话语-self-comforting-words",
@@ -2450,7 +2450,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/self-comforting-words/";
+            window.location.href = "/blog/2021-09-05/self-comforting-words/";
           
         },
       },{id: "post-人性悖论-直曲之间的辩证-paradox-of-human-nature-the-dialectic-between-straight-and-twisted",
@@ -2461,7 +2461,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/paradox-of-human-nature-the-dialectic-between-straight-and-twisted/";
+            window.location.href = "/blog/2021-09-05/paradox-of-human-nature-the-dialectic-between-straight-and-twisted/";
           
         },
       },{id: "post-论我的存在-on-exist-of-i",
@@ -2472,7 +2472,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/on-exist-of-i/";
+            window.location.href = "/blog/2021-09-05/on-exist-of-i/";
           
         },
       },{id: "post-共生关系-symbiosis",
@@ -2483,7 +2483,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/symbiosis/";
+            window.location.href = "/blog/2021-08-29/symbiosis/";
           
         },
       },{id: "post-三角关系-triangular-relationship",
@@ -2494,7 +2494,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/triangular-relationship/";
+            window.location.href = "/blog/2021-08-15/triangular-relationship/";
           
         },
       },{id: "post-权力的喉舌-爱国大v-mouthpiece-of-power-patriots-big-v",
@@ -2505,7 +2505,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/mouthpiece-of-power-patriots-big-v/";
+            window.location.href = "/blog/2021-07-17/mouthpiece-of-power-patriots-big-v/";
           
         },
       },{id: "post-实话和反语-truth-and-irony",
@@ -2516,7 +2516,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/truth-and-irony/";
+            window.location.href = "/blog/2021-07-14/truth-and-irony/";
           
         },
       },{id: "post-文人最基本的道德-most-basic-morality-of-the-literati",
@@ -2527,7 +2527,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/most-basic-morality-of-the-literati/";
+            window.location.href = "/blog/2021-06-30/most-basic-morality-of-the-literati/";
           
         },
       },{id: "post-理想国-utopia",
@@ -2538,7 +2538,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/utopia/";
+            window.location.href = "/blog/2021-06-15/utopia/";
           
         },
       },{id: "post-之一我的罪恶-one-of-my-sins",
@@ -2549,7 +2549,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/one-of-my-sins/";
+            window.location.href = "/blog/2021-06-14/one-of-my-sins/";
           
         },
       },{id: "post-藩篱-栅栏和鲜花-fences-and-flowers",
@@ -2560,7 +2560,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/fences-and-flowers/";
+            window.location.href = "/blog/2021-05-31/fences-and-flowers/";
           
         },
       },{id: "post-暗网-dark-web",
@@ -2571,7 +2571,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/dark-web/";
+            window.location.href = "/blog/2021-05-23/dark-web/";
           
         },
       },{id: "post-生老病死-birth-and-aging-illness-and-death",
@@ -2582,7 +2582,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/birth-and-aging-illness-and-death/";
+            window.location.href = "/blog/2021-05-22/birth-and-aging-illness-and-death/";
           
         },
       },{id: "post-免费观看中国境内-会员-付费-视频的方法",
@@ -2593,7 +2593,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/free-watching-videos-in-china-for-membership-and-paid/";
+            window.location.href = "/blog/2021-05-13/free-watching-videos-in-china-for-membership-and-paid/";
           
         },
       },{id: "post-观点与表达-views-and-expressions",
@@ -2604,7 +2604,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/views-and-expressions/";
+            window.location.href = "/blog/2021-05-11/views-and-expressions/";
           
         },
       },{id: "post-一些一些一些-some-some-some",
@@ -2615,7 +2615,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/some-some-some/";
+            window.location.href = "/blog/2021-05-11/some-some-some/";
           
         },
       },{id: "post-人性以偏概全的定义-partial-definition-of-human-nature",
@@ -2626,7 +2626,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/partial-definition-of-human-nature/";
+            window.location.href = "/blog/2021-02-19/partial-definition-of-human-nature/";
           
         },
       },{id: "post-同性恋是不是病-is-homosexuality-a-disease",
@@ -2637,7 +2637,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/is-homosexuality-a-disease/";
+            window.location.href = "/blog/2021-01-31/is-homosexuality-a-disease/";
           
         },
       },{id: "post-生命的终极-ultimate-of-life",
@@ -2648,7 +2648,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/ultimate-of-life/";
+            window.location.href = "/blog/2020-11-04/ultimate-of-life/";
           
         },
       },{id: "post-台前幕后的婚礼-the-wedding-front-stage-behind-scenes",
@@ -2659,7 +2659,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/the-wedding-front-stage-behind-scenes/";
+            window.location.href = "/blog/2020-10-01/the-wedding-front-stage-behind-scenes/";
           
         },
       },{id: "post-流星的死亡-death-of-meteor",
@@ -2670,7 +2670,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/death-of-meteor/";
+            window.location.href = "/blog/2020-09-16/death-of-meteor/";
           
         },
       },{id: "post-死亡的一些理解-some-understandings-of-death",
@@ -2681,7 +2681,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/some-understandings-of-death/";
+            window.location.href = "/blog/2020-09-07/some-understandings-of-death/";
           
         },
       },{id: "post-中国不会亡-china-will-not-perish",
@@ -2692,7 +2692,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/china-will-not-perish/";
+            window.location.href = "/blog/2020-09-06/china-will-not-perish/";
           
         },
       },{id: "post-未即当下-future-is-now",
@@ -2703,7 +2703,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/future-is-now/";
+            window.location.href = "/blog/2020-06-17/future-is-now/";
           
         },
       },{id: "post-浪漫星空-romantic-starry-sky",
@@ -2714,7 +2714,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/romantic-starry-sky/";
+            window.location.href = "/blog/2020-06-04/romantic-starry-sky/";
           
         },
       },{id: "post-前进的苦楚-pains-of-moving-forward",
@@ -2725,7 +2725,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/pains-of-moving-forward/";
+            window.location.href = "/blog/2020-03-23/pains-of-moving-forward/";
           
         },
       },{id: "post-新造人-ncp",
@@ -2736,7 +2736,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/ncp/";
+            window.location.href = "/blog/2020-02-07/ncp/";
           
         },
       },{id: "post-史记世系表",
@@ -2747,7 +2747,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2019/shiji/";
+            window.location.href = "/blog/2019-12-08/shiji/";
           
         },
       },{id: "post-退守迷蒙森林-retreat-to-misty-forest-3-99",
@@ -2758,7 +2758,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2019/retreat-to-misty-forest/";
+            window.location.href = "/blog/2019-09-22/retreat-to-misty-forest/";
           
         },
       },{id: "post-城墙与人心-wall-and-human-heart-3",
@@ -2769,7 +2769,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2019/wall-and-human-heart/";
+            window.location.href = "/blog/2019-06-27/wall-and-human-heart/";
           
         },
       },{id: "post-爱是什么-what-is-a-love",
@@ -2780,7 +2780,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2019/what-is-a-love/";
+            window.location.href = "/blog/2019-03-30/what-is-a-love/";
           
         },
       },{id: "post-希雅-海神的女儿-sea-daughter-of-ocean-4",
@@ -2791,7 +2791,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2019/sea-daughter-of-ocean/";
+            window.location.href = "/blog/2019-01-27/sea-daughter-of-ocean/";
           
         },
       },{id: "post-寻找海盗-looking-for-the-pirates-4",
@@ -2802,7 +2802,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2019/looking-for-the-pirates/";
+            window.location.href = "/blog/2019-01-01/looking-for-the-pirates/";
           
         },
       },{id: "post-每个人的负重-everyone-s-burden",
@@ -2813,7 +2813,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/everyones-burden/";
+            window.location.href = "/blog/2018-12-11/everyones-burden/";
           
         },
       },{id: "post-爱人与护己-love-others-and-protect-oneself",
@@ -2824,7 +2824,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/love-others-and-protect-oneself/";
+            window.location.href = "/blog/2018-12-10/love-others-and-protect-oneself/";
           
         },
       },{id: "post-要过的日子-days-to-live",
@@ -2835,7 +2835,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/days-to-live/";
+            window.location.href = "/blog/2018-11-05/days-to-live/";
           
         },
       },{id: "post-黑暗中的星-stars-in-darkness",
@@ -2846,7 +2846,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/stars-in-darkness/";
+            window.location.href = "/blog/2018-10-04/stars-in-darkness/";
           
         },
       },{id: "post-最终结局-the-final-end",
@@ -2857,7 +2857,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/the-final-end/";
+            window.location.href = "/blog/2018-08-21/the-final-end/";
           
         },
       },{id: "post-地图的一些讲解-explanations-of-the-map",
@@ -2868,7 +2868,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/explanations-of-the-map/";
+            window.location.href = "/blog/2018-08-13/explanations-of-the-map/";
           
         },
       },{id: "post-线装书的制法-method-of-making-thread-bound-books",
@@ -2879,7 +2879,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/method-of-making-thread-bound-books/";
+            window.location.href = "/blog/2018-08-02/method-of-making-thread-bound-books/";
           
         },
       },{id: "post-关于爱情-about-love",
@@ -2890,7 +2890,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/about-love/";
+            window.location.href = "/blog/2018-07-13/about-love/";
           
         },
       },{id: "post-于你无内的诗-poem-without-u",
@@ -2901,7 +2901,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/poem-without-u/";
+            window.location.href = "/blog/2018-07-04/poem-without-u/";
           
         },
       },{id: "post-下跪与爱情-kneel-and-love",
@@ -2912,7 +2912,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/kneel-and-love/";
+            window.location.href = "/blog/2018-05-18/kneel-and-love/";
           
         },
       },{id: "post-她的无知-我的愚昧-her-ignorance-and-mine",
@@ -2923,7 +2923,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/her-ignorance-and-mine/";
+            window.location.href = "/blog/2018-04-17/her-ignorance-and-mine/";
           
         },
       },{id: "post-迷茫道路-confusion-road",
@@ -2934,7 +2934,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/confusion-road/";
+            window.location.href = "/blog/2018-04-14/confusion-road/";
           
         },
       },{id: "post-爱的艺术-art-of-love",
@@ -2945,7 +2945,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/art-of-love/";
+            window.location.href = "/blog/2018-03-12/art-of-love/";
           
         },
       },{id: "post-黑夜过后-after-night",
@@ -2956,7 +2956,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/after-night/";
+            window.location.href = "/blog/2018-03-06/after-night/";
           
         },
       },{id: "post-地狱-生命的海洋-hell-the-ocean-of-life-1-2",
@@ -2967,7 +2967,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/hell-the-ocean-of-life/";
+            window.location.href = "/blog/2018-01-22/hell-the-ocean-of-life/";
           
         },
       },{id: "post-诗人的海洋-poet-s-ocean",
@@ -2978,7 +2978,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/poets-ocean/";
+            window.location.href = "/blog/2018-01-18/poets-ocean/";
           
         },
       },{id: "post-天空坠落一粒尘埃-a-dust-falling-from-sky-1-1",
@@ -2989,7 +2989,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/a-dust-falling-from-sky/";
+            window.location.href = "/blog/2018-01-08/a-dust-falling-from-sky/";
           
         },
       },{id: "post-平和-我的心",
@@ -3000,7 +3000,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/peace-my-heart/";
+            window.location.href = "/blog/2018-01-04/peace-my-heart/";
           
         },
       },{id: "post-生活-诗和远方-life-poetry-and-distance",
@@ -3011,7 +3011,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/life-poetry-and-distance/";
+            window.location.href = "/blog/2018-01-02/life-poetry-and-distance/";
           
         },
       },{id: "post-缘分-岁月-fate-years",
@@ -3022,7 +3022,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/fate-years/";
+            window.location.href = "/blog/2018-01-02/fate-years/";
           
         },
       },{id: "post-死亡和希望-death-and-hope",
@@ -3033,7 +3033,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/death-and-hope/";
+            window.location.href = "/blog/2018-01-02/death-and-hope/";
           
         },
       },{id: "post-百年鸿沟-a-gap-of-a-hundred-years",
@@ -3044,7 +3044,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/a-gap-of-a-hundred-years/";
+            window.location.href = "/blog/2018-01-02/a-gap-of-a-hundred-years/";
           
         },
       },{id: "post-前言-序",
@@ -3055,7 +3055,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/qianyan-xu/";
+            window.location.href = "/blog/2018-01-01/qianyan-xu/";
           
         },
       },{id: "post-乩学初知",
@@ -3066,7 +3066,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/jixue/";
+            window.location.href = "/blog/2018-01-01/jixue/";
           
         },
       },{id: "post-香山菩萨传",
@@ -3077,7 +3077,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e9a699e5b1b1e88fa9e890a8e4bca0/";
+            window.location.href = "/blog/2018-01-01/e9a699e5b1b1e88fa9e890a8e4bca0/";
           
         },
       },{id: "post-饮中八仙联诗",
@@ -3088,7 +3088,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e9a5aee4b8ade585abe4bb99e88194e8af97/";
+            window.location.href = "/blog/2018-01-01/e9a5aee4b8ade585abe4bb99e88194e8af97/";
           
         },
       },{id: "post-逍遥文",
@@ -3099,7 +3099,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e9808de981a5e69687/";
+            window.location.href = "/blog/2018-01-01/e9808de981a5e69687/";
           
         },
       },{id: "post-舟子挽船诗",
@@ -3110,7 +3110,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e8889fe5ad90e68cbde888b9e8af97/";
+            window.location.href = "/blog/2018-01-01/e8889fe5ad90e68cbde888b9e8af97/";
           
         },
       },{id: "post-瑶池内侍仙姬传",
@@ -3121,7 +3121,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e791b6e6b1a0e58685e4be8de4bb99e5a7ace4bca0/";
+            window.location.href = "/blog/2018-01-01/e791b6e6b1a0e58685e4be8de4bb99e5a7ace4bca0/";
           
         },
       },{id: "post-理事-坛规-凡例",
@@ -3132,7 +3132,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e79086e4ba8be38081e59d9be8a784e38081e587a1e4be8b/";
+            window.location.href = "/blog/2018-01-01/e79086e4ba8be38081e59d9be8a784e38081e587a1e4be8b/";
           
         },
       },{id: "post-清秋咏月醉仙家赋-以题为韵",
@@ -3143,7 +3143,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e6b885e7a78be5928fe69c88e98689e4bb99e5aeb6e8b58befbc88e4bba5e9a298e4b8bae99fb5efbc89/";
+            window.location.href = "/blog/2018-01-01/e6b885e7a78be5928fe69c88e98689e4bb99e5aeb6e8b58befbc88e4bba5e9a298e4b8bae99fb5efbc89/";
           
         },
       },{id: "post-海蝉仙歌",
@@ -3154,7 +3154,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e6b5b7e89d89e4bb99e6ad8c/";
+            window.location.href = "/blog/2018-01-01/e6b5b7e89d89e4bb99e6ad8c/";
           
         },
       },{id: "post-张宋二公联诗-二月十五日",
@@ -3165,7 +3165,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e5bca0e5ae8be4ba8ce585ace88194e8af97efbc88e4ba8ce69c88e58d81e4ba94e697a5efbc89/";
+            window.location.href = "/blog/2018-01-01/e5bca0e5ae8be4ba8ce585ace88194e8af97efbc88e4ba8ce69c88e58d81e4ba94e697a5efbc89/";
           
         },
       },{id: "post-张-宋二公传",
@@ -3176,7 +3176,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e5bca0e38081e5ae8be4ba8ce585ace4bca0/";
+            window.location.href = "/blog/2018-01-01/e5bca0e38081e5ae8be4ba8ce585ace4bca0/";
           
         },
       },{id: "post-开坛降",
@@ -3187,7 +3187,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e5bc80e59d9be9998d/";
+            window.location.href = "/blog/2018-01-01/e5bc80e59d9be9998d/";
           
         },
       },{id: "post-岳武穆王诗歌",
@@ -3198,7 +3198,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e5b2b3e6ada6e7a986e78e8be8af97e6ad8c/";
+            window.location.href = "/blog/2018-01-01/e5b2b3e6ada6e7a986e78e8be8af97e6ad8c/";
           
         },
       },{id: "post-宋公愚人自愚说",
@@ -3209,7 +3209,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e5ae8be585ace6849ae4babae887aae6849ae8afb4/";
+            window.location.href = "/blog/2018-01-01/e5ae8be585ace6849ae4babae887aae6849ae8afb4/";
           
         },
       },{id: "post-原集目录",
@@ -3220,7 +3220,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e58e9fe99b86e79baee5bd95/";
+            window.location.href = "/blog/2018-01-01/e58e9fe99b86e79baee5bd95/";
           
         },
       },{id: "post-南华老人排律诗",
@@ -3231,7 +3231,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e58d97e58d8ee88081e4babae68e92e5be8be8af97/";
+            window.location.href = "/blog/2018-01-01/e58d97e58d8ee88081e4babae68e92e5be8be8af97/";
           
         },
       },{id: "post-八天君联诗",
@@ -3242,7 +3242,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/e585abe5a4a9e5909be88194e8af97/";
+            window.location.href = "/blog/2018-01-01/e585abe5a4a9e5909be88194e8af97/";
           
         },
       },{id: "post-词语释义",
@@ -3253,7 +3253,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/ciyu/";
+            window.location.href = "/blog/2018-01-01/ciyu/";
           
         },
       },{id: "post-孤山处士述梦",
@@ -3264,7 +3264,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2018/chushi-shumeng/";
+            window.location.href = "/blog/2018-01-01/chushi-shumeng/";
           
         },
       },{id: "post-时间线-time-line",
@@ -3275,7 +3275,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/time-line/";
+            window.location.href = "/blog/2017-12-25/time-line/";
           
         },
       },{id: "post-相关介质-以及结局-medium-and-ending",
@@ -3286,7 +3286,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/medium-and-ending/";
+            window.location.href = "/blog/2017-12-25/medium-and-ending/";
           
         },
       },{id: "post-昨夜-今日-last-night-today",
@@ -3297,7 +3297,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/last-night-today/";
+            window.location.href = "/blog/2017-12-21/last-night-today/";
           
         },
       },{id: "post-当你沉睡时-when-you-are-asleep",
@@ -3308,7 +3308,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/e5bd93e4bda0e6b289e79da1e697b6-when-you-are-asleep/";
+            window.location.href = "/blog/2017-12-13/e5bd93e4bda0e6b289e79da1e697b6-when-you-are-asleep/";
           
         },
       },{id: "post-人物关系-城墙内的居民-characters-relationship-residents-inside-the-wall",
@@ -3319,7 +3319,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/characters-relationship-residents-inside-the-wall/";
+            window.location.href = "/blog/2017-12-10/characters-relationship-residents-inside-the-wall/";
           
         },
       },{id: "post-创作计划-writing-plan",
@@ -3330,7 +3330,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/writing-plan/";
+            window.location.href = "/blog/2017-12-06/writing-plan/";
           
         },
       },{id: "post-繁忙的地下世界-the-busy-underworld",
@@ -3341,7 +3341,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/the-busy-underworld/";
+            window.location.href = "/blog/2017-11-21/the-busy-underworld/";
           
         },
       },{id: "post-钱和理想-money-and-ideals",
@@ -3352,7 +3352,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/money-and-ideals/";
+            window.location.href = "/blog/2017-10-27/money-and-ideals/";
           
         },
       },{id: "post-鸡汤和爱情-chicken-soup-and-love",
@@ -3363,7 +3363,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/chicken-soup-and-love/";
+            window.location.href = "/blog/2017-10-22/chicken-soup-and-love/";
           
         },
       },{id: "post-人物关系-大洋居民-characters-relationship-ocean-residents",
@@ -3374,7 +3374,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/characters-relationship-ocean-residents/";
+            window.location.href = "/blog/2017-10-13/characters-relationship-ocean-residents/";
           
         },
       },{id: "post-生命中的河流-女鬼与我-rivers-in-life-ghost-and-me",
@@ -3385,7 +3385,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/rivers-in-life-ghost-and-me/";
+            window.location.href = "/blog/2017-10-12/rivers-in-life-ghost-and-me/";
           
         },
       },{id: "post-这是爱情啊-更是诗歌-this-is-love-but-also-poetry",
@@ -3396,7 +3396,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/this-is-love-but-also-poetry/";
+            window.location.href = "/blog/2017-10-10/this-is-love-but-also-poetry/";
           
         },
       },{id: "post-王子如梦记-princes-amp-8217-dream-4-1",
@@ -3407,7 +3407,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/princes-dream/";
+            window.location.href = "/blog/2017-10-05/princes-dream/";
           
         },
       },{id: "post-冬雪寒-winter-snow-and-cold-plum",
@@ -3418,7 +3418,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/winter-snow-and-cold-plum/";
+            window.location.href = "/blog/2017-09-22/winter-snow-and-cold-plum/";
           
         },
       },{id: "post-八月-花儿与微风-august-flowers-and-breeze",
@@ -3429,7 +3429,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/august-flowers-and-breeze/";
+            window.location.href = "/blog/2017-09-22/august-flowers-and-breeze/";
           
         },
       },{id: "post-国王-马修之墓-king-and-matthew-amp-8217-s-cemetery-3-100",
@@ -3440,7 +3440,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/king-and-matthews-cemetery/";
+            window.location.href = "/blog/2017-09-07/king-and-matthews-cemetery/";
           
         },
       },{id: "post-给蟋蟀们的赞歌-hymn-for-crickets",
@@ -3451,7 +3451,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/hymn-for-crickets/";
+            window.location.href = "/blog/2017-08-24/hymn-for-crickets/";
           
         },
       },{id: "post-苦难人的爱情-love-of-victims",
@@ -3462,7 +3462,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/love-of-victims/";
+            window.location.href = "/blog/2017-08-22/love-of-victims/";
           
         },
       },{id: "post-现实世界我是一个哑巴-i-m-a-mute-in-real-world",
@@ -3473,7 +3473,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/im-a-mute-in-real-world/";
+            window.location.href = "/blog/2017-08-17/im-a-mute-in-real-world/";
           
         },
       },{id: "post-马修的形体-matthew-amp-8217-s-body-4",
@@ -3484,7 +3484,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/matthews-body/";
+            window.location.href = "/blog/2017-08-09/matthews-body/";
           
         },
       },{id: "post-灵魂伴侣-soulmate",
@@ -3495,7 +3495,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/soulmate/";
+            window.location.href = "/blog/2017-08-01/soulmate/";
           
         },
       },{id: "post-爱你的人-one-loves-you",
@@ -3506,7 +3506,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/one-loves-you/";
+            window.location.href = "/blog/2017-08-01/one-loves-you/";
           
         },
       },{id: "post-王子的情劫-love-robbery-of-prince-4",
@@ -3517,7 +3517,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/love-robbery-of-prince/";
+            window.location.href = "/blog/2017-08-01/love-robbery-of-prince/";
           
         },
       },{id: "post-征程开始-on-the-journey-4",
@@ -3528,7 +3528,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/on-the-journey/";
+            window.location.href = "/blog/2017-07-27/on-the-journey/";
           
         },
       },{id: "post-思考和想象力-thinking-and-imagination",
@@ -3539,7 +3539,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/thinking-and-imagination/";
+            window.location.href = "/blog/2017-07-26/thinking-and-imagination/";
           
         },
       },{id: "post-六月的风-wind-in-june",
@@ -3550,7 +3550,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/e585ade69c88e79a84e9a38e-wind-in-june/";
+            window.location.href = "/blog/2017-07-23/e585ade69c88e79a84e9a38e-wind-in-june/";
           
         },
       },{id: "post-离开-leaving",
@@ -3561,7 +3561,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/leaving/";
+            window.location.href = "/blog/2017-06-14/leaving/";
           
         },
       },{id: "post-像是抑郁-depression",
@@ -3572,7 +3572,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/depression/";
+            window.location.href = "/blog/2017-05-31/depression/";
           
         },
       },{id: "post-中华新韵到底是怎么一回事-what-exactly-is-the-new-chinese-rhyme-system",
@@ -3583,7 +3583,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/what-exactly-is-the-new-chinese-rhyme-system/";
+            window.location.href = "/blog/2017-05-06/what-exactly-is-the-new-chinese-rhyme-system/";
           
         },
       },{id: "post-韵发展史略-a-brief-history-of-the-development-of-rhymes",
@@ -3594,7 +3594,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/a-brief-history-of-the-development-of-rhymes/";
+            window.location.href = "/blog/2017-04-06/a-brief-history-of-the-development-of-rhymes/";
           
         },
       },{id: "post-3月8日成都的雨-march-8th-rain-in-chengdu",
@@ -3605,7 +3605,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/march-8th-rain-in-chengdu/";
+            window.location.href = "/blog/2017-03-08/march-8th-rain-in-chengdu/";
           
         },
       },{id: "post-吾系不知汝-i-don-amp-8217-t-know-you",
@@ -3616,7 +3616,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/i-dont-know-you/";
+            window.location.href = "/blog/2017-02-09/i-dont-know-you/";
           
         },
       },{id: "post-黑暗痛苦-dark-pains",
@@ -3627,7 +3627,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2017/dark-pains/";
+            window.location.href = "/blog/2017-01-02/dark-pains/";
           
         },
       },{id: "post-浪仙-wandering-immortal",
@@ -3638,7 +3638,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/wandering-immortal/";
+            window.location.href = "/blog/2016-12-08/wandering-immortal/";
           
         },
       },{id: "post-孤独的月亮-the-lonely-moon",
@@ -3649,7 +3649,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/the-lonely-moon/";
+            window.location.href = "/blog/2016-10-25/the-lonely-moon/";
           
         },
       },{id: "post-恰似冬风-just-like-winter-wind",
@@ -3660,7 +3660,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/just-like-winter-wind/";
+            window.location.href = "/blog/2016-08-09/just-like-winter-wind/";
           
         },
       },{id: "post-如果明天我离开-if-i-die-tomorrow",
@@ -3671,7 +3671,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/if-i-die-tomorrow/";
+            window.location.href = "/blog/2016-07-21/if-i-die-tomorrow/";
           
         },
       },{id: "post-过去式-past-tense",
@@ -3682,7 +3682,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/past-tense/";
+            window.location.href = "/blog/2016-06-08/past-tense/";
           
         },
       },{id: "post-美芽胚子-bud-embryo",
@@ -3693,7 +3693,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/bud-embryo/";
+            window.location.href = "/blog/2016-06-03/bud-embryo/";
           
         },
       },{id: "post-悬崖-precipice",
@@ -3704,7 +3704,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/precipice/";
+            window.location.href = "/blog/2016-06-02/precipice/";
           
         },
       },{id: "post-什么是诗歌-what-is-poetry",
@@ -3715,7 +3715,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/what-is-poetry/";
+            window.location.href = "/blog/2016-06-01/what-is-poetry/";
           
         },
       },{id: "post-生活是什么-what-is-life",
@@ -3726,7 +3726,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/what-is-life/";
+            window.location.href = "/blog/2016-05-06/what-is-life/";
           
         },
       },{id: "post-甘肃西和白雀寺-僧人的一天-a-day-of-a-monk-at-baique-temple-xihe-gansu",
@@ -3737,7 +3737,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/a-day-in-the-life-of-a-monk-at-baique-temple-xihe-gansu/";
+            window.location.href = "/blog/2016-04-01/a-day-in-the-life-of-a-monk-at-baique-temple-xihe-gansu/";
           
         },
       },{id: "post-樵牧-woodcutters-and-herders",
@@ -3748,7 +3748,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/woodcutters-and-herders/";
+            window.location.href = "/blog/2016-03-06/woodcutters-and-herders/";
           
         },
       },{id: "post-暂别白雀寺-temporary-farewell-to-baique-temple",
@@ -3759,7 +3759,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/temporary-farewell-to-baique-temple/";
+            window.location.href = "/blog/2016-03-01/temporary-farewell-to-baique-temple/";
           
         },
       },{id: "post-露西-尼塞-我-lucy-nisai-and-me",
@@ -3770,7 +3770,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2016/lucy-nisai-and-me/";
+            window.location.href = "/blog/2016-01-24/lucy-nisai-and-me/";
           
         },
       },{id: "post-尸体-the-corpse",
@@ -3781,7 +3781,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/the-corpse/";
+            window.location.href = "/blog/2015-12-09/the-corpse/";
           
         },
       },{id: "post-诗人送花-poet-sending-the-flowers",
@@ -3792,7 +3792,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/poet-sending-the-flowers/";
+            window.location.href = "/blog/2015-10-30/poet-sending-the-flowers/";
           
         },
       },{id: "post-我已经完成的事-things-i-have-done",
@@ -3803,7 +3803,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/things-i-have-done/";
+            window.location.href = "/blog/2015-10-29/things-i-have-done/";
           
         },
       },{id: "post-锥子之死-death-of-the-awl",
@@ -3814,7 +3814,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/death-of-the-awl/";
+            window.location.href = "/blog/2015-10-28/death-of-the-awl/";
           
         },
       },{id: "post-它们-他们-they-and-them",
@@ -3825,7 +3825,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/they-and-them/";
+            window.location.href = "/blog/2015-10-17/they-and-them/";
           
         },
       },{id: "post-秋夜云雨-clouds-and-rains-in-autumn-night",
@@ -3836,7 +3836,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/clouds-and-rains-in-autumn-night/";
+            window.location.href = "/blog/2015-09-17/clouds-and-rains-in-autumn-night/";
           
         },
       },{id: "post-乌云漫布-dark-clouds-spread",
@@ -3847,7 +3847,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/dark-clouds-spread/";
+            window.location.href = "/blog/2015-08-31/dark-clouds-spread/";
           
         },
       },{id: "post-窗台外的向日葵花-the-sunflower-outside-the-windowsill",
@@ -3858,7 +3858,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/the-sunflower-outside-the-windowsill/";
+            window.location.href = "/blog/2015-08-17/the-sunflower-outside-the-windowsill/";
           
         },
       },{id: "post-四季-four-seasons",
@@ -3869,7 +3869,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/four-seasons/";
+            window.location.href = "/blog/2015-07-27/four-seasons/";
           
         },
       },{id: "post-尘土-尘垢-the-dust-the-dirt",
@@ -3880,7 +3880,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/the-dust-the-dirt/";
+            window.location.href = "/blog/2015-07-26/the-dust-the-dirt/";
           
         },
       },{id: "post-杨柳和风-the-willow-the-wind",
@@ -3891,7 +3891,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/the-willow-the-wind/";
+            window.location.href = "/blog/2015-07-25/the-willow-the-wind/";
           
         },
       },{id: "post-牛郎和织女-niulang-and-zhinv",
@@ -3902,7 +3902,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/niulang-and-zhinv/";
+            window.location.href = "/blog/2015-06-24/niulang-and-zhinv/";
           
         },
       },{id: "post-佛说-the-buddha-said",
@@ -3913,7 +3913,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/the-buddha-said/";
+            window.location.href = "/blog/2015-06-11/the-buddha-said/";
           
         },
       },{id: "post-前方的路-the-road-ahead",
@@ -3924,7 +3924,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/the-road-ahead/";
+            window.location.href = "/blog/2015-06-10/the-road-ahead/";
           
         },
       },{id: "post-等待死亡的过程-process-of-waiting-for-death",
@@ -3935,7 +3935,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/process-of-waiting-for-death/";
+            window.location.href = "/blog/2015-05-05/process-of-waiting-for-death/";
           
         },
       },{id: "post-林芝-linzhi",
@@ -3946,7 +3946,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/linzhi/";
+            window.location.href = "/blog/2015-04-08/linzhi/";
           
         },
       },{id: "post-四月-april",
@@ -3957,7 +3957,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/april/";
+            window.location.href = "/blog/2015-03-31/april/";
           
         },
       },{id: "post-三月十二日-march-12",
@@ -3968,7 +3968,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/march-12/";
+            window.location.href = "/blog/2015-03-12/march-12/";
           
         },
       },{id: "post-风-雨-the-wind-the-rain",
@@ -3979,7 +3979,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/the-wind-and-the-rain/";
+            window.location.href = "/blog/2015-02-17/the-wind-and-the-rain/";
           
         },
       },{id: "post-西藏-tibet",
@@ -3990,7 +3990,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/tibet/";
+            window.location.href = "/blog/2015-02-01/tibet/";
           
         },
       },{id: "post-布达拉宫-the-potala-palace",
@@ -4001,7 +4001,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/the-potala-palace/";
+            window.location.href = "/blog/2015-01-31/the-potala-palace/";
           
         },
       },{id: "post-夜半三更-late-at-night",
@@ -4012,7 +4012,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/late-at-night/";
+            window.location.href = "/blog/2015-01-21/late-at-night/";
           
         },
       },{id: "post-白云-white-clouds",
@@ -4023,7 +4023,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/white-clouds/";
+            window.location.href = "/blog/2015-01-20/white-clouds/";
           
         },
       },{id: "post-谎言-lies",
@@ -4034,7 +4034,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/lies/";
+            window.location.href = "/blog/2015-01-19/lies/";
           
         },
       },{id: "post-与其-不如-instead-and-it-is-better",
@@ -4045,7 +4045,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/instead-and-it-is-better/";
+            window.location.href = "/blog/2015-01-18/instead-and-it-is-better/";
           
         },
       },{id: "post-醉酒鬼-drunkards",
@@ -4056,7 +4056,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/drunkards/";
+            window.location.href = "/blog/2015-01-17/drunkards/";
           
         },
       },{id: "post-大雪与少年-heavy-snow-and-boy",
@@ -4067,7 +4067,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/heavy-snow-and-boy/";
+            window.location.href = "/blog/2015-01-16/heavy-snow-and-boy/";
           
         },
       },{id: "post-僵化的思想-rigid-thoughts",
@@ -4078,7 +4078,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/rigid-thoughts/";
+            window.location.href = "/blog/2015-01-15/rigid-thoughts/";
           
         },
       },{id: "post-思想-thoughts",
@@ -4089,7 +4089,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/thoughts/";
+            window.location.href = "/blog/2015-01-14/thoughts/";
           
         },
       },{id: "post-25岁时的爱情-love-at-25",
@@ -4100,7 +4100,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/love-at-25/";
+            window.location.href = "/blog/2015-01-13/love-at-25/";
           
         },
       },{id: "post-佛的心境-buddha-amp-8217-s-mind",
@@ -4111,7 +4111,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/buddhas-mind/";
+            window.location.href = "/blog/2015-01-12/buddhas-mind/";
           
         },
       },{id: "post-梦的集合-collection-of-dreams-1",
@@ -4122,7 +4122,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/collection-of-dreams-1/";
+            window.location.href = "/blog/2015-01-11/collection-of-dreams-1/";
           
         },
       },{id: "post-梦醒-dream-over",
@@ -4133,7 +4133,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/dream-over/";
+            window.location.href = "/blog/2015-01-10/dream-over/";
           
         },
       },{id: "post-煮稀饭-cooking-porridge",
@@ -4144,7 +4144,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/cooking-porridge/";
+            window.location.href = "/blog/2015-01-09/cooking-porridge/";
           
         },
       },{id: "post-青春记忆-memory-of-youth",
@@ -4155,7 +4155,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/memory-of-youth/";
+            window.location.href = "/blog/2015-01-08/memory-of-youth/";
           
         },
       },{id: "post-情感-emotions",
@@ -4166,7 +4166,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/emotions/";
+            window.location.href = "/blog/2015-01-07/emotions/";
           
         },
       },{id: "post-诱惑与自我-temptations-and-oneself",
@@ -4177,7 +4177,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/temptations-and-oneself/";
+            window.location.href = "/blog/2015-01-06/temptations-and-oneself/";
           
         },
       },{id: "post-唾沫星子-spittle",
@@ -4188,7 +4188,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/spittle/";
+            window.location.href = "/blog/2015-01-05/spittle/";
           
         },
       },{id: "post-悲伤的眼泪-tears-of-sadness",
@@ -4199,7 +4199,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/tears-of-sadness/";
+            window.location.href = "/blog/2015-01-04/tears-of-sadness/";
           
         },
       },{id: "post-红灯笼-red-lanterns",
@@ -4210,7 +4210,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/red-lanterns/";
+            window.location.href = "/blog/2015-01-03/red-lanterns/";
           
         },
       },{id: "post-杜撰-林则徐之死-apocryphal-death-of-lin-zexu",
@@ -4221,7 +4221,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/apocryphal-death-of-lin-zexu/";
+            window.location.href = "/blog/2015-01-02/apocryphal-death-of-lin-zexu/";
           
         },
       },{id: "post-生活琐事-trivialities-of-life",
@@ -4232,7 +4232,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/trivialities-of-life/";
+            window.location.href = "/blog/2015-01-01/trivialities-of-life/";
           
         },
       },{id: "post-寸头-buzz-cut",
@@ -4243,7 +4243,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2014/buzz-cut/";
+            window.location.href = "/blog/2014-12-27/buzz-cut/";
           
         },
       },{id: "post-梦的回响-echoes-of-dream",
@@ -4254,7 +4254,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2014/echoes-of-dream/";
+            window.location.href = "/blog/2014-12-07/echoes-of-dream/";
           
         },
       },{id: "post-真的伤口-the-real-wound",
@@ -4265,7 +4265,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2014/the-real-wound/";
+            window.location.href = "/blog/2014-07-23/the-real-wound/";
           
         },
       },{id: "post-黄昏-黎明-the-dusk-the-dawn",
@@ -4276,7 +4276,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2014/the-dusk-the-dawn/";
+            window.location.href = "/blog/2014-07-22/the-dusk-the-dawn/";
           
         },
       },{id: "post-毕业赠",
@@ -4287,7 +4287,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2014/e6af95e4b89ae8b5a0/";
+            window.location.href = "/blog/2014-05-19/e6af95e4b89ae8b5a0/";
           
         },
       },{id: "post-唐宋后裔-祭",
@@ -4298,7 +4298,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2013/e59490e5ae8be5908ee8a394efbc88e7a5adefbc89/";
+            window.location.href = "/blog/2013-11-08/e59490e5ae8be5908ee8a394efbc88e7a5adefbc89/";
           
         },
       },{id: "post-花香-fragrance-of-flowers",
@@ -4309,7 +4309,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/fragrance-of-flowers/";
+            window.location.href = "/blog/2012-08-20/fragrance-of-flowers/";
           
         },
       },{id: "post-夏夜-summer-nights",
@@ -4320,7 +4320,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/summer-nights/";
+            window.location.href = "/blog/2012-08-19/summer-nights/";
           
         },
       },{id: "post-秋风独座-a-seat-alone-in-autumn-wind",
@@ -4331,7 +4331,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/a-seat-alone-in-autumn-wind/";
+            window.location.href = "/blog/2012-08-18/a-seat-alone-in-autumn-wind/";
           
         },
       },{id: "post-思念的温度-warmth-of-yearning",
@@ -4342,7 +4342,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/warmth-of-yearning/";
+            window.location.href = "/blog/2012-08-17/warmth-of-yearning/";
           
         },
       },{id: "post-一种幸福-a-kind-of-happiness",
@@ -4353,7 +4353,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/a-kind-of-happiness/";
+            window.location.href = "/blog/2012-08-16/a-kind-of-happiness/";
           
         },
       },{id: "post-大街-big-street",
@@ -4364,7 +4364,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/big-street/";
+            window.location.href = "/blog/2012-08-15/big-street/";
           
         },
       },{id: "post-静心-quiet-heart",
@@ -4375,7 +4375,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/quiet-heart/";
+            window.location.href = "/blog/2012-08-11/quiet-heart/";
           
         },
       },{id: "post-玉泉-滴水岩-yuquan-dishuiyan",
@@ -4386,7 +4386,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/yuquan-dishuiyan/";
+            window.location.href = "/blog/2012-07-15/yuquan-dishuiyan/";
           
         },
       },{id: "post-黑夜里的太阳-the-sun-in-the-nights",
@@ -4397,7 +4397,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/the-sun-in-the-nights/";
+            window.location.href = "/blog/2012-05-03/the-sun-in-the-nights/";
           
         },
       },{id: "post-乐活的树子-funny-tree-2",
@@ -4408,7 +4408,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/funny-tree-2/";
+            window.location.href = "/blog/2012-03-15/funny-tree-2/";
           
         },
       },{id: "post-乐活的树子-funny-tree-1",
@@ -4419,7 +4419,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/funny-tree-1/";
+            window.location.href = "/blog/2012-03-05/funny-tree-1/";
           
         },
       },{id: "post-攀大-panzhihua-university",
@@ -4430,7 +4430,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/panzhihua-university/";
+            window.location.href = "/blog/2012-01-05/panzhihua-university/";
           
         },
       },{id: "post-春日-days-of-spring",
@@ -4441,7 +4441,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/days-of-spring/";
+            window.location.href = "/blog/2012-01-03/days-of-spring/";
           
         },
       },{id: "post-神龟-divine-turtles",
@@ -4452,7 +4452,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2012/divine-turtles/";
+            window.location.href = "/blog/2012-01-01/divine-turtles/";
           
         },
       },{id: "post-鹰-eagles",
@@ -4463,7 +4463,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2011/eagles/";
+            window.location.href = "/blog/2011-09-12/eagles/";
           
         },
       },{id: "post-夜孤沉筒-fishing-alone-at-night",
@@ -4474,7 +4474,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2011/fishing-alone-at-night/";
+            window.location.href = "/blog/2011-08-14/fishing-alone-at-night/";
           
         },
       },{id: "post-微凉的风-cool-winds",
@@ -4485,7 +4485,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2011/cool-winds/";
+            window.location.href = "/blog/2011-08-09/cool-winds/";
           
         },
       },{id: "post-寂静的夜-silent-nights",
@@ -4496,7 +4496,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2011/silent-nights/";
+            window.location.href = "/blog/2011-08-08/silent-nights/";
           
         },
       },{id: "post-茶园-tea-garden",
@@ -4507,7 +4507,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2011/tea-garden/";
+            window.location.href = "/blog/2011-08-05/tea-garden/";
           
         },
       },{id: "post-纯情梦想-pure-dreams",
@@ -4518,7 +4518,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2011/pure-dreams/";
+            window.location.href = "/blog/2011-01-19/pure-dreams/";
           
         },
       },{id: "post-平静的心-peaceful-heart",
@@ -4529,7 +4529,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2011/peaceful-heart/";
+            window.location.href = "/blog/2011-01-19/peaceful-heart/";
           
         },
       },{id: "post-视听与表象-audiovisual-and-appearance",
@@ -4540,7 +4540,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2011/audiovisual-and-appearance/";
+            window.location.href = "/blog/2011-01-03/audiovisual-and-appearance/";
           
         },
       },{id: "post-羊皮古书-the-ancient-parchment",
@@ -4551,7 +4551,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2011/the-ancient-parchment/";
+            window.location.href = "/blog/2011-01-02/the-ancient-parchment/";
           
         },
       },{id: "post-凡星-ordinary-stars",
@@ -4562,7 +4562,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2010/ordinary-stars/";
+            window.location.href = "/blog/2010-09-15/ordinary-stars/";
           
         },
       },{id: "projects-project-2",
