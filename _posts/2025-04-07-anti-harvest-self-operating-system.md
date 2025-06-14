@@ -7,6 +7,7 @@ description: 完整描述，用于搜索引擎与社交平台预览，最长 160
 image: /media/Anti-harvest-Self-operating-System.jpg
 thumbnail: /assets/img/thumb.jpg
 categories: AI-Assisted
+tags: 
 related_posts: true
 ---
 
