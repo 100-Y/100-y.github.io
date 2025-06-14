@@ -4,7 +4,7 @@ title: 换气过度综合征处理指南
 date: 2025-05-01
 excerpt: '从心理疏导到急性应对，掌握换气过度综合征的标准处理路径。A clear treatment approach for hyperventilation syndrome—from psychological relief to acute-phase rebreathing techniques.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: 
+og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/thumb.jpg
 categories: Daily-Life
 tags: 

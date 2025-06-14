@@ -4,7 +4,7 @@ title: 裂缝里的回声：那些未说出口的理想之声
 date: 2025-04-04
 excerpt: '裂缝中的低语也能震响历史。在静默中传承理想，这是一段属于众人的无声史诗。Whispers in the cracks can still shake history. This is a silent epic of ideals passed on by the voices of the many.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: 
+og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
 tags: 

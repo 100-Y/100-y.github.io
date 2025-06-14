@@ -4,7 +4,7 @@ title: 真正的爱，是在慌乱中稳住船
 date: 2025-04-25
 excerpt: '真正的爱，不是陪同献祭，而是在慌乱中按下暂停键，拒绝让恐惧替代判断。True love is not rushing into sacrifice, but pausing in chaos to resist fear-based decisions.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: 
+og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/thumb.jpg
 categories: Notes
 tags: 
