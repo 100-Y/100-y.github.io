@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 楼下一群小年轻闹麻了，像是夜宵喝酒，收费停靠的车子开不出栏杆外，呜呜喳喳……那声音：尖而穿透，急而绵长。一阵比划过后，现在，城里的公鸡和我，都被ta们叫醒。
 
 ---

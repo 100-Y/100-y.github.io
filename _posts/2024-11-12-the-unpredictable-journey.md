@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 不断跃迁、滑落的个人，乃至在不同的历史节点上的国家，都是不可预知旅途中流转的角色。
 
 - The individuals who constantly shift and slide, as well as nations at different historical junctures, are all unpredictable roles in the journey of ever-changing time.

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 想与你缠绵  
 夜夜挑逗你的思绪  
 在身前、身后环绕  

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 误入歧途的悲愤少年，为了所谓正义而自发组织起来的秘密警察（协警）。
 
 - The resentful young man who strayed into the wrong path, is the secret police (auxiliary police) who spontaneously organized for the sake of so-called justice.

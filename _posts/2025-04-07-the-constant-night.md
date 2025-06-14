@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 夜，不再行走。  
 它坐在系统的膝上，被命名为“背景”。
 

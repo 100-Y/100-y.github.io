@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 **一个惊悚的梦：**
 
 古代朝鲜，某个睁不开双眼的夜晚，房间，两名女子——年龄、身高：一大一小、一高一矮，分别站立、蜷缩于门里、门外。

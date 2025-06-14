@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 体面生活的憧憬崩溃，  
 好人都落入缓慢、绝望的衰落深渊。  
 漫无目的在大街上行走，  

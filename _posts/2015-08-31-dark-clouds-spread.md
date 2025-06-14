@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 从坟地里爬出，狡黠的人嘎，  
 嗜血的魂灵。  
 贪恋也是一种可爱品质；  

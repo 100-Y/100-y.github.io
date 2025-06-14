@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 躲进冰箱冷藏，炙热的心降到零点；冬眠的蛙，也感觉不到思念的温度。
 
 - Hiding in fridge to chill, scorching heart cools to zero; the hibernating frog, can’t feel warmth of yearning either.

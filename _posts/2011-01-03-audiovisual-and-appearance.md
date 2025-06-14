@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 视听混淆了人们的心智，片面的理解、认知是不深刻的；表象蒙骗内涵，怂恿与鼓吹，在其中伴演了非常重要的角色。
 
 - Audiovisual has blurred people’s minds, one-sided understanding and cognition are not profound; appearance deceives connotation, instigation and advocacy play a very important role in it.

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 朝阳，是牛马，也是韭菜和炮灰。
 
 - The morning sun, are cattle horses, are leeks and cannon fodder too.

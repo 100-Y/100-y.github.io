@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 **整体比喻：**
 
 你家网络就像一栋楼：
@@ -52,7 +54,7 @@ related_posts: true
 
 **是不是一下就明白了？**
 
----
+
 
 **Overall Metaphor:**
 
@@ -62,11 +64,11 @@ related_posts: true
 - Your own devices (phone, computer) are like you, always asking your assistant for help getting online.
 - The SSR proxy node is the “foreign translator friend” that your assistant contacts when needed.
 
----
+
 
 **Scenario:** You want to visit Google, but Google is overseas and the gatekeeper doesn’t allow you to leave the country directly.
 
----
+
 
 **\[Going Out: You Want to Access Google\]**
 
@@ -77,7 +79,7 @@ related_posts: true
 - The assistant sends this request through the gatekeeper (optical modem).
     - The gatekeeper sees that the assistant sent the message—no problem, it lets it pass.
 
----
+
 
 **\[Coming Back: Google’s Response Returns\]**
 

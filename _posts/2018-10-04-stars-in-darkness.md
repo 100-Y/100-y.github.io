@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 每一颗星星都有它自己的去处。  
 一些坠落，走向毁亡；  
 一些遥遥无期，很难遇见。  

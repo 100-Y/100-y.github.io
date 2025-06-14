@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 世界的“本初”，前面已经提到了是大洋（Big Ocean）。回归现实生活，最初生命的诞生就是在海洋。而构成大洋的两个对立面，分别是现世（the World）和异界（the Outsider），又各自被海、洋包围。
 
 两个对立世界的中心，逐渐发展成为后来各自领主的王城，即王国（KingDom）和冥城（HellCity）。现世、异界中各自上下、左右朝向的线段，类似地球的板块运动，又各自表示其旋转。而自西向东旋转的箭头，则代表整个大洋的运动方向。

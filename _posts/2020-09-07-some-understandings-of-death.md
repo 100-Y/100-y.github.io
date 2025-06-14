@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 如果生命有意义，那么苦难也一定有。苦难是生命不可踢出的一部分，就像命运和死亡一样。没有苦难和死亡，人的生命便不完整。
 
 对死亡进行研究，是解脱生命的关键。

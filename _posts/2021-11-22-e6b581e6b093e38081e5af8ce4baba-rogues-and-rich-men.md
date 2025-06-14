@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 听话的流氓和有用的富人，会替主人办好事，也会偶尔索了主人的命。
 
 - Obedient rogues and useful rich men, will do good things for their masters, but they will also occasionally take their masters’ lives.

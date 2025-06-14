@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 社会，尝试逼死“抑郁的个体”；于是，“想开了的人们”，选择握紧手中的“刀”。
 
 - Society, tries to suffocate "the depressed individual"; thus, those who have "let go", choose to grip "the knife" in their hands.

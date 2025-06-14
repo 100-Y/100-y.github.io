@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 身体早已腐朽，床上有了蚂蚁；灵魂，仍在挣扎。
 
 - The body has long been decayed, ants are appearing on bed; the soul, is still struggling.

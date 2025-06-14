@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 <div class="wp-block-columns"><div class="wp-block-column">**引言：灵魂归乡**
 
 曾有一种生命，  

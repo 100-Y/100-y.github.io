@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 一个国家的缔造者，亦是另一个国家的卖国贼。
 
 - The founder of one country can also be a traitor to another.

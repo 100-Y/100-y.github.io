@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 不善于在朋友圈表达自己意识的男女，多半也会在其它平台，对其ta陌生人，偷偷表达。
 
 - Men and women who are not good at expressing their own consciousness in the moments, mostly will also secretly express to other strangers on other platforms.

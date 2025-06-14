@@ -13,6 +13,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 步骤1。定义自己给出的“专有名词”。  
 步骤2。类比“专有名词”。  
 步骤3。“专有名词”定义和类比的结合，然后重新隐喻。  

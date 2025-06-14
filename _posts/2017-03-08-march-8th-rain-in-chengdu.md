@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 雨仿佛每天都要下那么一会儿，  
 街上的行人，也都没做好带伞的准备。  
 这时候成都的天气，还处在冬天的尾巴之上。  

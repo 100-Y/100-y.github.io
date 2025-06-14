@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 眼看ta人，不顾劝导，执拗地走向深渊、走进死亡，写下同类的赞歌；也是在为ta、为自己，乃至为全人类，做出的应有和巨大的贡献。
 
 - Seeing other people disregard persuasion and stubbornly walk towards the abyss and into death, write down the praise of their kind; This is also the due and great contribution, they make for others, for themselves, and even for all humankind.

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 写有污点的纸，当被改造得很白，污点便更容易染黑它。
 
 - Writing stained paper, when it is transformed very white, stains are more likely to stain it black.

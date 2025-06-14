@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 现实的世界我是一个哑巴，  
 于是偶尔会与心里的那个它谈话。  
 我说：“为什么有的人生来没有嘴？”  

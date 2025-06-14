@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 在青春年华的记忆里，走散的不只有火热的同学、朋友，还有内心冰冷的自己。
 
 - In the memory of youth, what was lost was not only the passionate classmates and friends, but also the inner heart cold self.

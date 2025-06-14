@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 现实和自由之间，隔着一道百年死亡的鸿沟；理想跟爱情，则隔了百年。
 
 - Between reality and freedom, there is a gap of a hundred years of death; Ideal and love, are the years.

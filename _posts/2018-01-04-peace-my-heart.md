@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 平和，我的心。  
 莫让别离，变得苦涩。  
 让它不是死亡，而是生命一种完整形式。

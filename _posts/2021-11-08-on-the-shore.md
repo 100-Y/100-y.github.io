@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 我短暂地在沙岸上行走，  
 在沙土和泡沫的中间。  
 高潮抹去我的脚印，  

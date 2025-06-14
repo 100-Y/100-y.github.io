@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 在那光影交错的黄昏里，  
 你是隐匿于风中的一抹温柔，  
 一只轻触便溶于掌心的蝶。

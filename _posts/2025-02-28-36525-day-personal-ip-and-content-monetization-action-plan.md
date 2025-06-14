@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 ### 🧭 引言｜从思想出发，以信任为路径
 
 在碎片与喧哗中，思想的沉淀力决定IP的生命力。36525.day不仅是内容的承载体，更是去中心化个人品牌的根基。  

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 国家是什么？  
 是好“大面子”的爸爸。  
 是无数好“小面子”的爸爸、妈妈、儿子、女儿，  

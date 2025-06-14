@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 小时候，人们都叫我美芽胚子，  
 说等着看我长大后的样子。  
 时间慢慢过去，我逐渐长大，  

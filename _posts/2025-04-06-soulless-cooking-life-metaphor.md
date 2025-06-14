@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 很多人做菜没有灵魂，只为填饱肚子；很多人做人也一样，单纯只是为了完成某个既定的目标与任务。
 
 ---

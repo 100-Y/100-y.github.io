@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 八月，绚烂如彩虹。  
 花儿，你比笑脸更迎，火花更焰……  
 白天——你双“唇”紧闭，似含雪冬梅。  

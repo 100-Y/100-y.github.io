@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 “爱国”，是一种理念、某种认同；也可以是一种刑罚、施与枷锁。“爱国”，应该，爱是大家；国不只是王土……
 
 “国”是意识在反应，“爱”应该属于她的臣民！……我不爱国，只爱臣民。

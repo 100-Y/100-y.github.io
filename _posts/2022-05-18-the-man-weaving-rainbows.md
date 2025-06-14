@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 校园里，有人徒手，在艰难地攀爬。一层又一层的阶梯。顾不及拉上快隐约掉落的裤子。旁边一侧寝室的学生，不理解，有些充满着鄙视；有些说着什么，好奇看ta接下来的行动。
 
 阶梯上面，是一个小的山坡。阶梯本是用脚来走的，他手腿并用。山坡上藤蔓杂生。

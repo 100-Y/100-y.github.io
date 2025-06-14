@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 民不举，官不做主，因为没有利；无利、不起早，无巧、不写书。
 
 - People do not report, the officials do not take charge, because there is no benefit; no benefit, means no early work, without a series of coincidences happening, the officials would not write papers.

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 每个人都在负重前行，只不过各自承受的重量不同而已！
 
 - Everyone is moving forward with a burden, it’s just that the weight each person bears is different!

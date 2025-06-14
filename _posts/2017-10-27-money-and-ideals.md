@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 谈钱庸俗，谈理想又太浮夸！
 
 - Talking about money is vulgar, and talking about ideals is too pompous!

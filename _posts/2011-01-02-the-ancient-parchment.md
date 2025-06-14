@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 羊皮古书不是甘露，岂能饮饱满腹便把焦渴消除；没有涓滴迸出你自己的灵魂，你将永远地昏沉得不到清醒。
 
 - The ancient parchment is not sweet dew; how can it quench your thirst when you're hungry; without a drop of your own soul's outpouring, you will remain forever in a haze, never awakening.

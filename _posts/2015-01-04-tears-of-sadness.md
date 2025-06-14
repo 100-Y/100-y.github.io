@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 年少时，为喜欢、爱对的人，倾其所有；等他（她）老了，诀别的时候，留下悲伤的眼泪。
 
 - When young, gave everything, for the person liked and loved; parted, left sad tears, when he (she) was old.

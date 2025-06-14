@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 极左：赞美不彻底，彻底不赞美。“唯一”指导方针。  
 左派：赞美是最重要的工作。  
 右倾的左派：赞美是主要工作，适当批评。  

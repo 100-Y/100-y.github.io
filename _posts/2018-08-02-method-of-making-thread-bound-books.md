@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 ## 纸（A4纸等）
 
 对折后的A4纸：一张A4纸对折之后是4页，对折50张就是200页，正好相当于一本普通书的厚度。为了便于打孔器打孔，通常是将50张的A4纸分成5份，每份10张、40页。

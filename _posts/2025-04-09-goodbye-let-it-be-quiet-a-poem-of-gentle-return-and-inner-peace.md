@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 我走了。  
 不是离开，而是归还。  
 把呼吸还给风，把重量还给尘土，把不肯放手的你，还给时间。  

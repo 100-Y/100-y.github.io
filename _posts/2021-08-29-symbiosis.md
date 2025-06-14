@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 权力、资本，是个共生、相互制衡的关系。
 
 - Power and Capital are a symbiosis and a mutual checks and balances relationship.

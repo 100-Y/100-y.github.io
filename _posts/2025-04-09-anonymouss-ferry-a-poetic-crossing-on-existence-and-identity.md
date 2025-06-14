@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 他们没有要去的地方，  
 也没有来处，  
 只是穿过一些无法被记住的光。

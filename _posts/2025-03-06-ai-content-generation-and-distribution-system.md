@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 **1. 系统目标：一站式自动生成与分发**
 
 - 一键生成：用户仅需输入文字，即可输出多模态内容（图、音、视频、字幕）

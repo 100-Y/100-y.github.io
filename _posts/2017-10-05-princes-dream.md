@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 幻想身处一片荒野，那里没有邪恶幽灵；荒野尽头，善人等待梦中人清醒……
 
 那是一个凉风清秋的早晨，  

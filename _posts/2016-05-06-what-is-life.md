@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 生活似狂风，呼啸，  
 树木静静的听它摇摆；  
 生活似大雨，瓢泼，  

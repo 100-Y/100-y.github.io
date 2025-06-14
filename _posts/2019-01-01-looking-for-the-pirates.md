@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 “亲爱的王子，要知道啊，  
 即使是最亲密无间的朋友，  
 等哪天，你拿金钱与美色去诱惑他们，  

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 诗人想写一首诗——  
 浪人送花给他的情人。  
 想情人身穿白色非加绒长裤，  

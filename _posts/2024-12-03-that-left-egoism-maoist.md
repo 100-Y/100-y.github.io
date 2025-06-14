@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 不愿放弃手中权力，下定决心戒严的某一瞬间，尹锡悦还是活成了“那个精致利己的毛左”。
 
 - In a moment when he was unwilling to give up the power in his hands and made the decision to impose martial law, Yoon Suk-yeol still became "That Left Egoism Maoist".

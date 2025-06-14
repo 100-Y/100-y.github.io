@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 「死亡不是终点，遗忘才是。」
 
 我知道，当你们读到这封遗言时，我已经离开了。既然“我选择的命”已经走到这里，何不亲手为它写下终章？

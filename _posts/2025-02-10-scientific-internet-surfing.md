@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 **IOS用户**（关闭iCloud同步，避免锁区），只需在苹果官网注册一个境外“#苹果账号”，登陆应用商店下载“vpn”和其它AI工具（如#Gemini 、#ChatGPT ）即可。
 
 而**安卓用户**，仅麻烦一点点，需网络搜索（推荐必应，不行换 #Yandex ），找个#境外节点，录入节点工具（推荐#V2ray ），再到#Apkpure 下载前面相关应用。

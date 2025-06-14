@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 意识有罪，意识无罪。
 
 - Consciousness is guilty, consciousness is innocent.

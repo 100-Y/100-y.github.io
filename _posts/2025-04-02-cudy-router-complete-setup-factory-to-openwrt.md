@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 第一部分：Cudy 原厂初始配置，离线模式。
 
 将 Cudy 路由器配置为 Access Point（AP）模式，并为后续刷入 OpenWRT 做准备。

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 缘分是流淌的沙河，岁月只是其中一粒禁锢的沙子。
 
 - Fate is a flowing sand river, years are just one grain of sand imprisoned.

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 大地在凝固，生活在忙着挣钱，  
 岁月正慢慢落入冬季的圈套：  
 误会、伤感、失望、惋叹。  

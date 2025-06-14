@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 死亡并不可怕，可怕的是没有希望行尸走肉般地继续活着！
 
 - Death is not terrible, terrible is that there is no hope of continuing to live like a walking dead!

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 无菌环境中的婴儿，受不了温室外部任何一丝的风吹草动。
 
 - Baby in sterile environment, cannot withstand even a slightest movement of wind or grass outside the greenhouse.

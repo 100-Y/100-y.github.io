@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 个人的悲欢，在这个浩繁的宇宙星空里，根本不值得一提；可Ta们都赋有意义！
 
 - Personal joys and sorrows, are not worth mentioning in this vast cosmic sky; But they are all endowed with meaning!

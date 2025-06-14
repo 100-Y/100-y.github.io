@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 乌克兰侵略战争，从一开始俄罗斯就输了。
 
 一场战争，能赢的“三要素”，俄罗斯一个都不具备：（乌克兰士兵为保卫自己的国家而战。普京总统，停止你的军队。——联合国秘书长，安东尼奥·古特雷斯。）

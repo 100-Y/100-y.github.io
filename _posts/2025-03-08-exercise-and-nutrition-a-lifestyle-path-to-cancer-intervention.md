@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 **一、引言：生活方式，能否成为抗癌武器？**
 
 癌症治疗长期聚焦于药物和手术，但近年研究表明，体能训练与营养补给也可能在控制肿瘤生长中扮演关键角色。本报告聚焦其机制与潜在价值。

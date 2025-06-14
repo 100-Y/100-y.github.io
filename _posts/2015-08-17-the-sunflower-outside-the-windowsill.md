@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 向日葵花，窗台外面的向日葵花；  
 透过窗台就能看见她。  
 有且仅有三朵，没有枝干就那样突兀的插在地里；  

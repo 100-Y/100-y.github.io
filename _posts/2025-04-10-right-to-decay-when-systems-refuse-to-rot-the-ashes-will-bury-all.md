@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 一个无法自我代谢的系统，终将被牛马的骨灰所掩埋。
 
 **引子｜系统不是机器，而是呼吸**

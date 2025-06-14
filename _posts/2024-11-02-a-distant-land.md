@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 遥远的土地上。  
 高飞的鸟如同伟大的指引者，  
 展望远方，描绘宏伟愿景。  

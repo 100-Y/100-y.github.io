@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 人为塑造英雄与败类，其实都是在对人性进行以偏概全的定义，没有什么不对，人性本就如此；这就好比，主义救不了人，救人的主体反到是人。
 
 - The artificial creation of heroes and scums, is actually a partial definition of human nature, there’s nothing wrong with that, that is what human nature is; it's just like this, ideologies cannot save people, the true savior is people themselves.

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 让人思想混乱的，让风给ta们吹醒；无法拼尽全力的，让雨把ta们浇湿。
 
 - Confusing thoughts, let the wind wake them up; those who dare not try their best, let the rain soak them through.

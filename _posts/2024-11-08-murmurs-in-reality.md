@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 夜色如水，  
 低语在氤氲中缠绕。  
 幽暗的影子缓缓拉长，  

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 没有思想，躺坐在床上  
 就好比死后被安置在棺材。  
 虽拉拢帘布却保证纱窗开启。  

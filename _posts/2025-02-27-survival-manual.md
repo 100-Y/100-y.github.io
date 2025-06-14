@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 乱世之中，肉身不过是流动的筹码，思想是易碎的奢侈品，规则是一场反复被书写和篡改的骗局。你站在这张血色棋盘上，不是棋手，不是棋子，而是随时可能被抹去的一抹痕迹。你问，如何独善其身？
 
 这本是个伪命题。

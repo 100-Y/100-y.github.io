@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 回声先抵达，再是我的声音——它早已被审批、复制、归档。
 
 我站在没有门的厅里，墙在聆听我是否合格。光从天花板滴下来，不照亮任何问题，只画出我应当成为的轮廓。窗呢？早被抹除，透视是一种非法的欲望。

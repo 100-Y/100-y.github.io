@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 闪耀短暂光芒，永远消失在无尽的黑夜之中，这是流星的死亡。
 
 - To shine a brief light, and disappear forever in the endless night, this is the death of a meteor.

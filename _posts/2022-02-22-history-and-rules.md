@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 历史，由强权书写，历史，不是真实的历史；规则，由既得利益者制定，规则，只属于普通人的规则。
 
 - History is written by the power; history is not the real history. Rules are made by the beneficiaries; rules are only the rules of ordinary people.

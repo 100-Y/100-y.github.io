@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 **rips.rip** 分析：
 
 - 含义：双词组合，“Rest In Peace” 的幽默变体，也可能用于暗网文化、街头品牌、音乐、NFT、解构艺术等领域。

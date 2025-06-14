@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 权力，如果说是夺取政权的枪杆子；那么资本，便是用来拼杀富人的刀。
 
 - If power, is gun barrel that seizes political authority; then capital, is the knife uses to kill rich people.

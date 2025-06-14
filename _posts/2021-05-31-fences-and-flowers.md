@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 睁眼不见周围的藩篱、栅栏和鲜花，盲目一味地唱赞歌或是抹黑、抨击，都是不负责任的做法。
 
 - It is irresponsible, both to open eyes without seeing the fences and flowers around, and blindly to sing hymns or to criticize.

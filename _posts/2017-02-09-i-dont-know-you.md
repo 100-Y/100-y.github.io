@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 吾系不知汝，因难知吾身。  
 愿予吾心交，恨不与同俦。  
 愿与汝心交，难知亦吾生！  

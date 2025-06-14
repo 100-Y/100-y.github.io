@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 当你沉睡时，月亮就召唤醒你。  
 皎兔来送她的情书——嫦娥也选择与你幽会；  
 “要你去到天边的云彩，前往桂酒飘香的深宫。”  

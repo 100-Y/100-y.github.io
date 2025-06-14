@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 虚假的，洗“钱”和“转移”资产的具体流程……（非贬义）注：钱：币，“羊毛”，广告和打赏（网站、各平台）等收益；转移：账号激活，服务购买等。真实，投机和知识变现的行为……
 
 ---

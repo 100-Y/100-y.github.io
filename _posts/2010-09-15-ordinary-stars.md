@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 我能够企及的只有，  
 眼前的那几颗凡星；  
 是渴望跃动着的，  

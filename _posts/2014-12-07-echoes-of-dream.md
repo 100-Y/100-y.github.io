@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 讲出去的梦想，会变质；  
 憋在脑海中的，才会升华。  
 变质为一个承诺；  

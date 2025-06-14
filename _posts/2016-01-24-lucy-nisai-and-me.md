@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 露西——西方的圣女，  
 尼塞从东方之地去找她；  
 在乌拉尔山，乌拉尔河流。  

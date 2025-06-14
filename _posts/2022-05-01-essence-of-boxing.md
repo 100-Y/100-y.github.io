@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 资本、权力对同性和异性双重剥削和压榨下的衍生物。
 
 - A derivative of the double exploitation and squeezing of the same and opposite sex under capital and power.

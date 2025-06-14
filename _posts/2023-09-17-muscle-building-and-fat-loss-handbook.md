@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 ### 一、正餐（中、晚）+辅食（起、睡）仅适合增重选手
 
 - 正餐（中、晚）含蛋白质和碳水的各类绿色健康食物。

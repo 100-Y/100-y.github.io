@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 ### 🌐 引言：
 
 在传统银行与去中心化金融（DeFi）之间，**Fiat24** 构建了一座桥梁。它既基于区块链（Arbitrum 网络）运作，又提供现实世界可用的万事达借记卡服务。那么，如何将看似简单的“10 美元”注入这个新世界？这不仅是一次充值操作，更是你走向链上银行未来的一步。

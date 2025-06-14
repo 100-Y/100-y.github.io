@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 混沌王国，明亮白云悬挂低空；凶险迷蒙大洋，正拍打海岸边的“铁船”。
 
 最初，尘埃没有名字，  

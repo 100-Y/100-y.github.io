@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 人性，本质上很纠结。双重、多重性格，不可避免。好的、坏的；又好、又坏；不好、不坏；又不好，又不坏……相对笔直，绝对扭曲。不清不楚，不明不白。对人性进行探讨，本质上是在反人性。与其探讨，不如反。反也是一种探讨……
 
 ---

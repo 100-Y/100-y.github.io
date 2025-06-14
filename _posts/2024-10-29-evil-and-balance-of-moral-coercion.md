@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 讨论道德绑架中，教人牺牲（高尚的美）的恶的性质，要远远高于，冷眼旁观（平庸之恶）。而这两者之间的一个平衡，关键在于选择而非束缚，尊重个体而非强加优越，关心理解而非冷漠旁观。既不过度介入，也不袖手旁观。
 
 ---

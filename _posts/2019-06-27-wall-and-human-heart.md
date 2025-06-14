@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 城墙，虽抵挡住外界邪、恶，却无法始终坚定内部民众心中的善、念。
 
 ---

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 请求远离我吧，  
 腐小的残埃 / 内心龌龊的人儿；  
 趁那黄昏 / 黎明  

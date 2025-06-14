@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 权力资本相互洗白，整个时代无限的悲哀。
 
 - Power and Capital wash each other’s white, infinite sorrow of the whole era.

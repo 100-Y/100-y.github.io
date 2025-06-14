@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 “凡使人不再吞咽者，皆为药神中的洛基。”
 
 从出生那一口奶开始，到衰老那一口饭，人类始终在以“吃”来证明“我还活着”。进食，是生命与世界最原初的契约，是个体对存在最直观的确认。剥夺进食，就是切断了人与世界最原始的连接。

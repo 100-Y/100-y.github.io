@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 **以房价为例**
 
 努力替资本家卖命，接盘每个月21000元人民币的房贷；衣锦还乡，选择做自己的主人。这样看来，苟且偷生的和尚，都是要比繁荣富贵的商人，高贵。买卖高价房，实质就是在进行剥削啊！

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 梦里：一旁的我，正在观摩自己录的某个影片——
 
 坐在庄稼地里，穿着一件冬天清晰的长外套。主要内容是，关于个人追求的一些阐述。全程用语英文，仔细听，还能记得最后一句结尾语：That time was my gloden time, hahahaha~（现实的我，一定是觉得这定论，讽刺和“当今”对比的意味十足；所以梦里，也能清晰地说出、听到和记得。）——

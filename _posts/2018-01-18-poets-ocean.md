@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 我可以睡到中午自然醒，  
 我可以不用忙着吃饭。  
 在大家休息的时候，  

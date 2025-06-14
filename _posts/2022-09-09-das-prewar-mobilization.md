@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 不是提前高兴的时候！  
 “测试”——只是基本反应  
 一个大致的趋势，  

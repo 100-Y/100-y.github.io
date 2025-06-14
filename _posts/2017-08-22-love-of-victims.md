@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 天空划过一片黑色云彩，那是苦难人正在经历的爱情。  
 一如懦弱少年，飞蛾扑火，  
 也曾义无反顾，炙热死亡。  

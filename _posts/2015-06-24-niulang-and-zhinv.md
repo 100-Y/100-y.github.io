@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 她披着凤求凰，她身着紫金衣；  
 她脚踏般若琉璃心樽，她裹携五彩斑斓裙带。  
 他放牛雨天外，他养鸭竹林旁；  

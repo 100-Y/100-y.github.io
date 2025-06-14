@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 窜天猴：\*\*ju~~\*\*，伴随几声孩童的“啊”声，然后，在空中爆炸；这是过年的灵魂。
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">https://youtu.be/49K2EsiyZCI </div></figure>- Skyrocket: ju~~, followed by a few children’s “ah” sounds, and then, exploding in the air; this is the soul of the New Year.

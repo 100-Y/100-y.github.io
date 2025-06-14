@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 年（头脑/思想/意识/认知）富、力（身体/精力）强，正好到“接最难接的班”的时候。
 
 - With a rich mind(Thought/Consciousness/Cognition) and strong body(Energy), it is the perfect time to take on the most challenging tasks.

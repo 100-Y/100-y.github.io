@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 有的人造车，是在造车，有的人造，是在洗钱；还有的人非吸、放贷，甚者，合起伙来相互洗白。
 
 - Some people build cars, they are building cars, while others build, they launder money; and some people illegally absorb funds and lend, what’s more, they work together to wash each other’s white.

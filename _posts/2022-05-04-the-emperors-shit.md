@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 帝王拉的屎，奴才都会说屎是香的！
 
 - When an emperor takes a shit, the lackeys will say that the shit smells good!

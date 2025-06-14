@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 喧嚣的茶园，静不了；手植的银杏，长虫了。
 
 - Noisy tea garden can’t be quiet; the ginkgo planted by hand grows worms.

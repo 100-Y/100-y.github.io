@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 爱是什么？  
 爱是熟睡时给的亲吻，湿润你的嘴唇，温暖我的心窝。  
 爱是落雨撑起的伞，天热擦掉的汗。  

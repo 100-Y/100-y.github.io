@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 “什么”就是什么。什么就是“什么”？“什么”就是“什么”！
 
 - “It is” is It is. It is is “It is”? “It is” is “It is”!

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 教育，是一口旧锅，  
 被时代的手反复搬动：  
 它煮沸忠诚，  

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 想现在就坐火车去看你，  
 想你维持这模样就一直。  
 想还要有时间魔术师，  

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 能传递出来的信息，  
 都是比较温和的。  
 而那些被埋藏的黑暗经历，  

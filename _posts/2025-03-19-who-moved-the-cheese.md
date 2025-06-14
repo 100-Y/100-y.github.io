@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 一池春水起伏不定，  
 加密的潮汐悄然涌动。  
 谁的手指轻轻滑落，  

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 等，给你衣披一个温暖如春的冬季；来，给我心留一个清凉如秋的夏天。
 
 - Wait, to give you a winter that is warm as spring; come, to leave me a summer that is cool as autumn.

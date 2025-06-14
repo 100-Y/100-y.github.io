@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 如锋刃微光，凝聚前文的思绪，也承载着情感余韵，带着一抹深沉的留白。
 
 - Like faint gleam of a blade, it condenses the thoughts from previous text, also carrying the lingering resonance of emotions, with a touch of profound silence.

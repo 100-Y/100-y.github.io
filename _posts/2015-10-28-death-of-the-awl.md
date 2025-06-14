@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 待订装的书籍，  
 捕捉到一丝焦虑的气息；  
 然后锥子扎进了血管，  

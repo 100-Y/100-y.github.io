@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 人是很贱的一种生物。
 
 举例：只有当ta们想好了ta们为什么要结婚、为什么要孕育后代，结婚、孕育后代，之后，ta们才不会后悔，才不会经受不住诱惑、选择出轨，才不会……

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 城市里一片迷茫，人们全都走散在这样的道路之下。
 
 - City is full of confusion, and people are all scattered under such a road.

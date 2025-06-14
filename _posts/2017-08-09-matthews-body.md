@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 现实，悲哀的聚集场所，  
 幻灵也会迷失方向。  
 马修利斯——神的使者，  

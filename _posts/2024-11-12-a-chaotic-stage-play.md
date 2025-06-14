@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 一场混沌的舞台剧上，有着不同的演员。
 
 有人在迷雾里挣扎，有人内心如荒凉的沙漠；  

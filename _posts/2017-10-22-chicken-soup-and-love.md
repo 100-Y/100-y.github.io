@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 有很多想说的话，  
 因为害怕说错，就不说了！  
 有许多近在眼前的爱人，还没迈出一步，  

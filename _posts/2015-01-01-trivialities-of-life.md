@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 窗外安装来摆放盆景的铁架子。一楼的塑料棚子，二楼上面一直不停落下滴着的水珠。凉完衣服忘关水龙头以及隔壁倒头就睡彻夜鼾声的“猪”。实在都无可救药：生命很贱，人心很蛊。
 
 ---

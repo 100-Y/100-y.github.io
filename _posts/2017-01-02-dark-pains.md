@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 所有现在，你觉得熬不过的黑暗痛苦，都将成为以后，闲庭信步的曾经。
 
 - All the dark pains that you feel can’t survive now, will become the past of leisure walks in the future.

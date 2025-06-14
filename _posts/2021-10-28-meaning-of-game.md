@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 打游戏没有任何意义，读书也是……站在个体生死、存亡的层面，它们都可有可无。在群体中……个体，也将变得无足轻重。
 
 ---

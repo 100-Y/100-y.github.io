@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 没有英雄的城市，只有勇敢的人民。
 
 - There is no hero city, only brave people.

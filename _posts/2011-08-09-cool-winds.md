@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 微凉的风，是夜对你的温柔；梦境里的闲言碎语，是现实于我的旁敲侧引。
 
 - Cool wind, is the tenderness of night to you; the gossip in dream, is insinuation of reality for me.

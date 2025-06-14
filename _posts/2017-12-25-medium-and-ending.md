@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 **相关介质**
 
 连通现世、异界的井口、河流，或是开启海城墙内外大门的钥匙。[人物关系：大洋居民](https://36525.day/2017/10/13/characters-relationship-ocean-residents/)已经有说到，这里再具体阐释一下。

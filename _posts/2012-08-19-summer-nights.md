@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 停了电的夏夜，繁星都在想你。
 
 - Summer nights when power is cut off, the stars are thinking of you.

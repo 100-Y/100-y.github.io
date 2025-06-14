@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 在无形杠杆的引力之中，税制如月之潮汐，悄然操纵着商品的走向与资本的归宿。关税只是泛起波澜的表层风浪，深层的推力埋藏于制度的骨架。
 
 补贴，宛如人为设定的气候系统，定向升温、降雨，催生技术绿洲，却也制造生态失衡与路径依赖。

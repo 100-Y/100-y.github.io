@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 welcome
 
 <figure class="wp-block-image size-large">![](https://muban01.wordpress.com/wp-content/uploads/2025/03/1-1.png?w=1024)</figure>setting

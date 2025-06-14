@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 表达观点应努力争取做到以下几点：（以[**一些一些一些**](https://rips.rip/2021/05/11/some-some-some/)为例）
 
 不针对特定群体：去掉前缀（某国\\类人）；不以偏概全 ：一些人、一些种子；具体情况做具体分析：一时、有个时候、有个阶段；类比不要扩大：一些他们；褒和贬都一同存在：有血有肉、炮灰。

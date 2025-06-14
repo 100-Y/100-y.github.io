@@ -12,6 +12,8 @@ related_posts: true
 ---
 
   
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 节日是人类为时间所写的诗，  
 是在无声流逝中安放的一次短暂停顿。  
 它们仿佛在时间之流中打下了光的楔子，  

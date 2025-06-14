@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 夜晚，抬头当凝视映照在玻璃上的灯光，  
 未来的自己，也透着光亮看你：  
 不想明月高空，黑夜仍旧黑暗……  

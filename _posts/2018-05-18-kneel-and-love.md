@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 下跪，是为了祭奠已死的爱情！
 
 - Kneeling, is in tribute to a dead love!

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 年少不懂海阔天空，前进一步有前进一步的苦楚！
 
 - Young ignores the vastness of the sky and sea, every step moving forward has its own pains!

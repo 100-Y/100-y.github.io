@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 寂静的夜，听不见大自然的声音，只有呼吸出入鼻孔的感觉。
 
 - Silent night, can not hear voice of nature, only feel the breathing in and out of nostrils.

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 **集体焦虑的极端化表达**
 
 “遍地献忠”表面是一种狂热的潮流，其实折射出复杂的心理、社会和文化图景。

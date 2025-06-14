@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 一种可练习、可复制、可穿越系统性割裂的生命结构设计。
 
 **一、系统启动：三项主权声明**

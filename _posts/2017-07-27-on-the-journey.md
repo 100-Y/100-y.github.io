@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 在布满嗜血玫瑰的征程路上，  
 迷蒙云团向黑暗靠拢，  
 冥界的大门敞开……

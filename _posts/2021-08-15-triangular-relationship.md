@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 资本、流量、明星，是个三角关系。
 
 - Capital, Traffic and Stars, are a triangular relationship.

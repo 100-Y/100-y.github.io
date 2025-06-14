@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 人民有力量，民族有信仰，国家有希望。
 
 - The people have strength, the nation has faith, and the country has hope.

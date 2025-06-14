@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 俄方的导弹，不比美方的精准；  
 中方的爱国者，不比乌方的民族英雄差。  
 在群众和领导的眼里，对方都是傻子；  

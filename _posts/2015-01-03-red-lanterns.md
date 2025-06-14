@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 小李看见张三家阳台挂起了高高的红灯笼，于是想把自家的阳台也挂上。
 
 - Xiao Li saw that Zhang San’s balcony was hung with high red lanterns, so he wanted to hang his own balcony as well.

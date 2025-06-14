@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 那里周围，方圆十里，  
 都弥漫着腐臭的死亡气息。  
 饥饿的老鸹啃食藤蔓上的蛆虫，  

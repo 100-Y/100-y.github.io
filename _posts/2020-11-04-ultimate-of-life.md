@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 如果生命的终极，是死亡；那么文学，将成为灵魂的永生！
 
 - If ultimate of life, is death; then literature, will become eternal of the soul!

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 雨水是溪流的源头；土壤是植物的根基……
 
 - Rain is source of the stream; Soil is foundation of the plant…

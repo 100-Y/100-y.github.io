@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 时运不济、渡劫飞升，要与命抗争，不曾想、到最后，丢的是自己，飞的是命；命在，自己却没了。
 
 - Unlucky, crossing the calamity and ascending, to fight against the fate, never thought, that in the end, lost oneself, flew away is fate; fate is here, but self is gone.

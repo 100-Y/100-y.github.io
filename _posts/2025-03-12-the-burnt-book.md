@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 <div class="wp-block-columns"><div class="wp-block-column">**一、未生之问**
 
 我未曾点头，  

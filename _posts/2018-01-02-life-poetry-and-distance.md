@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 生活是你自己的，诗和远方，又何尝不是另一种苟且。
 
 - Life is your own, poetry and distance, just another kind of cowardice.

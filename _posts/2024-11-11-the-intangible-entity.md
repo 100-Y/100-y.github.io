@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 不在具体影像，它潜藏于数据与黑暗当中。
 
 - Lies not in concrete images, but lurks within data and darkness.

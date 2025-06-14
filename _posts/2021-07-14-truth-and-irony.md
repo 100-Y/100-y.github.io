@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 说实话，要遭“雷劈”；于是，说反语的人们就多了起来。
 
 - Tell the truth, risking being "struck by lightning"; thus, more and more people have started speaking in irony.

@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 爱是冲动，妥协才是生活；于是，有些爱情输给了时间，有些投机就赢得了真爱。
 
 - Love is impulse, compromise is life; therefore, some love loses to time, some opportunism wins the true.

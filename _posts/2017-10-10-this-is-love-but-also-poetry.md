@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 睡不着时，我就静静地看你。  
 幻想与你手拉手，一起拍照、旅行，亲吻：  
 在阳光明媚的春天。为你采撷田野间的花朵；  

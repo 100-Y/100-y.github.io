@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 放弃毁灭一切，  
 在它们“杀死”你以前；  
 纵使血肉模糊，亦满怀感恩的心。  

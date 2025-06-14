@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 **浅谈切韵、广韵、平水、声律启蒙、注音、拼音、新韵**
 
 韵的发展史大致可以分为以下三个阶段：即三国西晋南北朝，隋唐宋晚清，近现代之中国。

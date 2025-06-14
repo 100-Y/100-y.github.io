@@ -11,6 +11,8 @@ tags:
 related_posts: true
 ---
 
+<img src="{{ '/assets/img/blog/xxxxxxxx' | relative_url }}" style="width:60%;">
+
 “新域名计划”的第一步：注册一个新的谷歌账号（包括Gmail），将域名解析到Cloudflare的同时，设置自定义域名邮箱（1@36525.day）并转移（谷歌邮箱），然后利用自定义域名邮箱或谷歌账号，注册或绑定，其它平台各类账号。New Domain Plan
 
 第二步：托管平台或云服务器，发布内容或上传整个网站。第三步：开通谷歌广告收益。第四步：社交账号引流。第五步：各平台持续耕耘，或输出内容。第六步：收益和提现。
