@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 每个人的生命与尊严应当被珍视，尽管他们的极端反应可能造成深深的痛苦与伤害。对他们进行这样的理解，是对他们所经历过的苦难的关怀，而非宽容他们的暴力行为。
 

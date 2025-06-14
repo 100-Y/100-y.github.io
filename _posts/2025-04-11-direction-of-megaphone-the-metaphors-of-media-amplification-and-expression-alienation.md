@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 那人没有头，只有一个朝向隧道的喇叭——不为看见，只为放大。他站在语言的尽头，将沉默导向光亮的回声腔体。隧道不是出口，而是意义的反复折返；喇叭不是主体的声音，而是空洞的放逐器。当表达被外化为器械，我们是否仍在言说，还是只是回响的中继站？在这个异化的结构中，最尖锐的呐喊，也许早已不属于人本身。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 爱是冲动，妥协才是生活；于是，有些爱情输给了时间，有些投机就赢得了真爱。
 

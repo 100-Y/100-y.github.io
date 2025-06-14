@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 个人的悲欢，在这个浩繁的宇宙星空里，根本不值得一提；可Ta们都赋有意义！
 

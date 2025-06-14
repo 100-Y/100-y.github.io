@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 空气里弥漫着一股让人心跳加速的味道，像夏夜里熟透了的果实，又甜又腻，勾得人喉咙发干。李昊站在她面前，鼻尖轻轻耸动，那股味道从她身上飘过来，像一只无形的手，钻进他的衣服，撩拨着他的每一寸皮肤。他低头一看，她穿着那件薄得几乎透明的白衬衫，领口松松垮垮，隐约露出锁骨下的弧线，汗水顺着她的脖颈滑下来，滴在胸口，湿漉漉地贴着布料，把那两团软肉的形状勾勒得一清二楚。
 

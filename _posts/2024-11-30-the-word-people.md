@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 我听见“人民”这个词在广播里重复，沙哑、铿锵，像一枚旧铜币在空碗里翻滚。它有时像父亲的鞋印，踩在泥地上，有力却模糊；有时像广场上的喊声，被扩音器拉长，空洞而嘹亮。
 

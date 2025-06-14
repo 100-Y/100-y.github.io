@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 在我看来，至少男同是。年龄差距很大的更是。这是一种对于人格意义上的操控。国家应该建立、健全有关变性人的法案，鼓励这类人士，自愿接受心理治疗，甚至为他们提供免费的性别改造服务。
 

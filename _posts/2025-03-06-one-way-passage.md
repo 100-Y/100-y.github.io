@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 你在走一条只能向前的通道，入口像信仰一样宽阔，出口却细如命令的缝隙。没有回头的余地，因为回头不是被禁止，而是从未被教过。你学会了相信那些声音洪亮的人：讲台上的人、穿白袍的人、戴徽章的人、控制PPT翻页的人。他们说这是光明、是秩序、是安全，但你隐约觉得，那光，是一个方向性的投影，照亮的不是世界，而是通道的尽头——那并非出口，而是判决台。
 

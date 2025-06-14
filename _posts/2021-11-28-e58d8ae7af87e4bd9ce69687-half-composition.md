@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 梦里初中、课上，手写了半篇8、9万字的作文。四处找订书机，怎么排队与借，也轮不到我。在同学们都差不多装订好、上交完毕的时候，我的作业本子又突然变成了一本厚的书……
 

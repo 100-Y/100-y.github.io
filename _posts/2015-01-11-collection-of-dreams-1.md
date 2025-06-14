@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 梦见和陌生大姐去宾馆开房，进电梯被负责监控认识的人捉住，当场作罢；梦见父母和陌生人撕打，自己也加入扭转了战局；梦见和大学同学一起赶车；梦见有女生喜欢我，却不敢表白……
 

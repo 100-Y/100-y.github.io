@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 初三十点下晚自习，一个飘着鹅毛大雪寒冷的冬天，有个少年迈着小步奔跑在回家的路上。少年幻想拥有一辆自己的脚踏车，用脚蹬便不会感觉寒冷。
 

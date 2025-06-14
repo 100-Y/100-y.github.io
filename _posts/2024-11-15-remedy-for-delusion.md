@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 破灭，是一剂苦涩却救赎的良药，击碎虚妄的高塔，驱散迷蒙的幻梦，让真实在撕裂中显现。虽伤口裸露，伴随阵痛，却也开启了治愈的契机。恰如枯木逢春，其中孕育新的力量。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 视听混淆了人们的心智，片面的理解、认知是不深刻的；表象蒙骗内涵，怂恿与鼓吹，在其中伴演了非常重要的角色。
 

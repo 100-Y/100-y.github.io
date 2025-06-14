@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 权力不是利剑，而是一缕会呼吸的雾；不是暴君，而是体贴的舞者；不是毁灭规则，而是诱导规则自我演变。在灰色的绸缎之上，它裁剪制度，粉饰语言，试探人心，最终不露痕迹地篡改了边界。
 

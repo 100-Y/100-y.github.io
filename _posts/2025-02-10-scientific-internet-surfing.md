@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 **IOS用户**（关闭iCloud同步，避免锁区），只需在苹果官网注册一个境外“#苹果账号”，登陆应用商店下载“vpn”和其它AI工具（如#Gemini 、#ChatGPT ）即可。
 

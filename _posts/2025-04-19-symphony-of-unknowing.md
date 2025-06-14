@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 无知，在化疗、临终医疗和家庭冲突中，并不是简单的“知识缺乏”，而是一种**多维度、层层叠加的结构性幽暗**。它不是一个盲点，而更像是**一道道缓慢关闭的门**，把人一步步引向孤独、误判与无法承受的选择。
 

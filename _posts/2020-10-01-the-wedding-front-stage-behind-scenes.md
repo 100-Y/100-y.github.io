@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 婚礼这一套私人财产交接程序，台上有人配合表演，台下有人吃瓜看戏，还有人台前幕后，“尔虞我诈”、“裹挟摆布”，真是世态尽显。原本两个人私密的事情，大张旗鼓，被搞成“游街示众”。台下看客，指手画脚，议论纷纷。等待“刽子手”“行刑”，该配合的表演，表演完毕。
 

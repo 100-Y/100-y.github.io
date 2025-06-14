@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 对某一件事的看法？往往，我都站“有得选”的一方。“劳东燕”和“胡锡进”们，各自确实有着“专属的蠢”，但ta们也有一个共同点，就是会尝试从其它角度，提供一些不同的选择。相比较，一开始同样是“一条道走到黑，只坚持有一个标准答案存在”的其ta选手，两者似乎“聪慧”了许多。
 

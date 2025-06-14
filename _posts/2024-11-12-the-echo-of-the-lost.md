@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 在一个阴云密布的黄昏，湿润的空气中弥漫着草木的气息。一条狭窄的小路穿越在荒野之间，两旁是枝条纠缠的古老树林，树叶似乎在无声地低语。微弱的光线透过密集的枝叶洒在泥土上，点点光斑在风的轻拂下摇曳不定。远处，有一座孤独的小屋，烟囱里飘出的袅袅炊烟如同一丝记忆的残余，仿佛在召唤着某个失落的故事，而你却无法触及它的起点。
 

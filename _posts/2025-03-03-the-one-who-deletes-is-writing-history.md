@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 谁在编史？谁在删句？在胜利者的笔下，忠诚与背叛常常易位，不是因为道德模糊，而是因为历史的舞台从未平坦。如果和平得以书写，是否战争便成为罪孽？如果投降换来完整，是否坚持才是毁灭的开端？汪精卫的胜败，不只是一个人的命运，而是整个评价体系的镜像倒转。 动摇的不是真相，而是谁有权述说。
 

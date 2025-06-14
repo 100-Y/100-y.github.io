@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 **假使当你明白**，人类存在于这个世界上，根本没有任何意义。以后，你就会觉得，你可以什么都不用期待，也没有任何必要。什么喜乐悲欢、俗世凡尘，通通都与你无关。
 

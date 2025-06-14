@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 - 向患者解释清楚症状与过度通气之间的联系，解除患者精神负担，消除恐惧心理。
 - 必要时给予谷维素、溴剂、镇静剂等药物配合。

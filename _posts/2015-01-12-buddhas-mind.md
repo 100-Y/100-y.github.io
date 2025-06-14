@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 现在所正遭受的，大是由自己，以后或是先前，应该得到或是已经得到，需要付出、收获的因果律决定。也就是说，以后或是先前，得到或是付出的越多，这种处境就越尴尬；相反就越淡然。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 时运不济、渡劫飞升，要与命抗争，不曾想、到最后，丢的是自己，飞的是命；命在，自己却没了。
 

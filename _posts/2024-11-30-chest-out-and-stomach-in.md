@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 他不记得什么时候学会了这个动作——不是为了好看，是因为有一回在雨里走太久，他的身体开始往下坠，像布娃娃断了线。那时候他突然收腹，像是从水底蹬了一脚回来。
 

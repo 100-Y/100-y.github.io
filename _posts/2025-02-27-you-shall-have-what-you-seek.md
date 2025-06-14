@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 夜幕低垂。空气沉闷，像一层无形的压迫。身后传来低声的窃语，是非交错，悄然刺穿夜色。我静静地听着，直到话语的锋芒割破底线，胸腔翻涌，无法再忍。猛然起身，声音在寂静中炸裂，惊得众人对视，目光交错间，是错愕、惊惧，还是暗藏的幸灾乐祸？
 
