@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 “闭嘴”，它像一记无声的重锤，直接砸向思想与表达的核心，瞬间让一切归于沉寂。沉默的空间不是真空，而是一个压抑与矛盾交织的容器，每一分禁锢都会在无形中增加爆发的可能。 那些未被说出口的言语，压迫、恐惧、不满……一旦破土而出，便可席卷一切，让所有施加压力的人，陷入自己的预想之外。
 

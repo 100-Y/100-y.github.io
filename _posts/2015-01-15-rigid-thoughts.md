@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 如果引导人们的新闻，一直是翻旧账，那么人的思维观念将永远是僵化的！七八年前是这样，现在是这样，将来还是一样！谈话、评论，鼓吹、传播；无知与盲目……没有一点点进步，毕生都在腐朽。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 露西——西方的圣女，  
 尼塞从东方之地去找她；  

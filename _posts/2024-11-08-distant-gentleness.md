@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 在那光影交错的黄昏里，  
 你是隐匿于风中的一抹温柔，  

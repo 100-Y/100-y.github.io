@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 世界本没有错，单一个体也没有；错的是，ta们构成的群体。群体社会：无限内耗，又或者，需要转移某种影响。于是注定了，每天都有悲剧事件产生。
 

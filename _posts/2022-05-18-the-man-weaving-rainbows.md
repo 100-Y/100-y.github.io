@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 校园里，有人徒手，在艰难地攀爬。一层又一层的阶梯。顾不及拉上快隐约掉落的裤子。旁边一侧寝室的学生，不理解，有些充满着鄙视；有些说着什么，好奇看ta接下来的行动。
 

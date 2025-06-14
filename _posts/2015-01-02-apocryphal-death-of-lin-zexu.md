@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 某天林兄（林则徐）和辫子哥（某皇帝）又畅步在御花园：“林兄，听说最近有人吸毒身亡，看来邪恶的毒品又滋生力量了！”辫子哥。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 天空划过一片黑色云彩，那是苦难人正在经历的爱情。  
 一如懦弱少年，飞蛾扑火，  

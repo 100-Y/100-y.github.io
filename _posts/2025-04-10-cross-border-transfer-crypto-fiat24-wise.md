@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 磨损最小路径：（微信/支付宝—）加密货币—Fiat24—Wise—IBKR—Wise（—Fiat24—加密货币）—“微信/支付宝”；
 

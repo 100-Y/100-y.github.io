@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 意义从非静止，它是一场流动的命名暴力。鼎已空，羽翼染绿，符号成为治理的皮肤、遗忘的接口。我们被图像包围，却失去解释权——在主流注脚下沉默，在算法编剧中复制理解。而真正的反叛，不是呐喊，而是撕开命名之手，夺回那尚未批准的自我。
 

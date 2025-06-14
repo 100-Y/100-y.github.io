@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 他们说自己是红的，是旗帜的一角，是忠诚的化身，可他们挥动的不是温柔的风，而是利刃。他们的声音高过真相，他们的立场硬过苦难。每一次怒斥都不是献给压迫者，而是击打在求生者的胸口。
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 “爱国”，是一种理念、某种认同；也可以是一种刑罚、施与枷锁。“爱国”，应该，爱是大家；国不只是王土……
 

@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 有的人造车，是在造车，有的人造，是在洗钱；还有的人非吸、放贷，甚者，合起伙来相互洗白。
 

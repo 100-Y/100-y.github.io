@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 单身有很多好处，之一便是：可以毫无顾虑的去撩任何一个想撩的，美女/靓仔，有对象、结了婚的人，自然不敢这般放肆。
 

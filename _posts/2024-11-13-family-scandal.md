@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 家丑，总在遮蔽中沉默。每一次真相撕裂帷幕，迎来的却是愤怒与打压。掩盖源于对“体面”的执念，仿佛真相的曝光便是集体尊严的崩塌。
 

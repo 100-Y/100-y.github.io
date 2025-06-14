@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 一种被抛弃的羞耻与愤怒，成为孤注一掷的疯狂导火索。不是一个理性之人该做的决定，却是在一个被信任和爱驱逐的人，跌入绝望深渊后的唯一宣泄出口。
 

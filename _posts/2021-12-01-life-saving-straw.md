@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 压垮个人的，从来都不是稻草和周围的环境。而是你自己，没有拉着整个时代一起沉沦或飞升的信念和担当！哪怕粉身碎骨，万世不得超生。
 

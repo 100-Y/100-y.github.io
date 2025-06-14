@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 一个人所接受的教育，塑造了ta基本的人格；而这个人，对所接受教育，相信或是怀疑的高低程度，则最终决定了，ta高尚或是邪恶相对的品格。人，本没有高尚与邪恶的区分。实施这种教育的人，才是！不要成为教育的奴隶，不要让ta人，主宰你美好的人生。
 

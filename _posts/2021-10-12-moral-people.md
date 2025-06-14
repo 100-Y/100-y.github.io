@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 一些，讲道德的人，往往在社会上装大德；用圣人的光辉绑架别人，却用小人的伎俩宽慰自己。我也只是这些，讲“道德”的人，广大中的一个。
 

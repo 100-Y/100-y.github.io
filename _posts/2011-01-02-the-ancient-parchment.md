@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 羊皮古书不是甘露，岂能饮饱满腹便把焦渴消除；没有涓滴迸出你自己的灵魂，你将永远地昏沉得不到清醒。
 

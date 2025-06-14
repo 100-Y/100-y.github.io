@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 人为塑造英雄与败类，其实都是在对人性进行以偏概全的定义，没有什么不对，人性本就如此；这就好比，主义救不了人，救人的主体反到是人。
 

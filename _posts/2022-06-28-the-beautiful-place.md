@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 人人都向往、追求的美好地方，可能一点都不美好；那里，它充满了肮脏的交易；那里，它尽情展示着人性的丑陋与不堪。
 

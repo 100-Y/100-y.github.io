@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 “出门装瓜娃儿”是一种收敛锋芒、隐藏棱角的生活哲学。在陌生或潜藏风险的环境中，以无害、无辜的姿态示人，不仅能降低风险，还能避免外界的敌意与猜忌。正如庄子所说的“无用之用”，看似愚钝的行为往往能够化解冲突，减少摩擦，从而达到保护自己的目的。
 

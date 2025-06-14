@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 在无形杠杆的引力之中，税制如月之潮汐，悄然操纵着商品的走向与资本的归宿。关税只是泛起波澜的表层风浪，深层的推力埋藏于制度的骨架。
 

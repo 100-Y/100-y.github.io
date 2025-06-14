@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 年少时，为喜欢、爱对的人，倾其所有；等他（她）老了，诀别的时候，留下悲伤的眼泪。
 

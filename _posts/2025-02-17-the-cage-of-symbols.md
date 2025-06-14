@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 在意义的雾中，符号如裂镜，映出凝视者的欲望与惧怕。它不再中性，而是被光影涂抹成旗帜、刀锋。叙事由目光完成，观看成了编码，转发成了立场，符号沦为情绪的兵器。
 

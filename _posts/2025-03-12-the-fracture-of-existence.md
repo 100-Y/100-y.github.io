@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 在认知深渊之中，清醒如同一柄冷冽的剖析刀锋，它以无声切割的姿态，穿越宏观噩梦般的现实构造，将“存在即剥削”的真相隐现于意识边缘。由此，个体对于行动意义的挣扎，便在悬空之塔的缝隙间悄然燃起一缕灰烬火种。
 

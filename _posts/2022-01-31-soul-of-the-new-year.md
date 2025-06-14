@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 窜天猴：\*\*ju~~\*\*，伴随几声孩童的“啊”声，然后，在空中爆炸；这是过年的灵魂。
 

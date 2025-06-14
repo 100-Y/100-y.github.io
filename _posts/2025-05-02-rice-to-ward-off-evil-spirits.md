@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 当你质疑“洒米驱赶邪祟的隔房幺娘”不懂科学，但这实在是ta们在那样一种危机情况之下，唯一能做的安慰自己的方法。这总比，束手无策，站一旁干瞪眼，急得跳脚要好得多。
 

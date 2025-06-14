@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 与其抱怨现行这个社会，无法找到，做想要可以被称作“革命”的事情；不如在这样的一个社会，成为自己想要成为的人。
 

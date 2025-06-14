@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 坚持做好一件事情并不容易，因为有很多很多的诱惑，要你去戒除，或是时间长短，但始终有困难、难以戒除……而这些诱惑，真实造就你以后的遗憾。
 

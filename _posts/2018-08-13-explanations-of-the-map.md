@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 世界的“本初”，前面已经提到了是大洋（Big Ocean）。回归现实生活，最初生命的诞生就是在海洋。而构成大洋的两个对立面，分别是现世（the World）和异界（the Outsider），又各自被海、洋包围。
 

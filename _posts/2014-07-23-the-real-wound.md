@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 当伤口被辣椒染红，血淋淋的正是辣椒；当伤口被蒜泥裹烫，热乎乎的也正是蒜泥。
 

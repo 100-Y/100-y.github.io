@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 在裂纹之镜的边缘，观看如同水中之火，真实与虚构的交界变成回音的迷宫。注视者的眼中倒映着创作者的影子，而创作者的沉默，成为无法翻译的低语。在象征织网的张力中，每一个标签都是一把锁，而自由只诞生于拒绝命名的时刻。
 

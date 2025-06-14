@@ -11,7 +11,7 @@ tags:
 related_posts: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" alt="xxxxxxxx">
+<img src="/assets/img/blog/xxxxxxxx" style="width:80%;" alt="xxxxxxxx">
 
 说到校园霸凌，小学在厕所里被人掐过喉咙，初中走廊楼梯的过道，被男生推过；午睡休息的时间，被女生画过眼睫毛……成绩不错，长的好看，这些都不是原因；重要的是，我将推我的同学反推了回去，也向班主任举报了其他欺负我的同学。
 
