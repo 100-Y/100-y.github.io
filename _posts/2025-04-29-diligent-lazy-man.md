@@ -5,7 +5,7 @@ date: 2025-04-29
 excerpt: '懒≠低效，勤快≠聪明。本篇文章带你识别四种行动模型，理解如何选择适合自己的“效率路径”。Laziness doesn’t mean inefficiency, and diligence isn’t always smart. This article helps you identify four action models and choose your personal path to efficiency.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/thumb.jpg
+thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
 tags: 
 related_posts: true

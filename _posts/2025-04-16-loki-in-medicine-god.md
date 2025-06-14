@@ -5,7 +5,7 @@ date: 2025-04-16
 excerpt: '当药物剥夺进食能力，生的尊严悄然被抽空——这不是拯救，而是无声的谋杀。When medicine deprives one of the ability to eat, dignity of life is quietly hollowed out—this is not salvation, but a silent murder.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/thumb.jpg
+thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
 tags: 
 related_posts: true

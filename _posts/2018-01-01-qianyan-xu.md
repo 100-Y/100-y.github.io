@@ -5,7 +5,7 @@ date: 2018-01-01
 excerpt: '解读《汉阳舟子集》中的“命叙”序文，揭示香山菩萨设教传说、飞鸾扶乩的民间信仰结构与“清觉”意识之象征意义。An interpretive overview of the "Ming Xu" prefaces in The Hanyang Boatman’s Anthology, revealing the Xiangshan Bodhisattva myth, Daoist spirit-writing practices, and the symbolic call to awakening.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/thumb.jpg
+thumbnail: /assets/img/blog/xxxxxxxx
 categories: 汉阳舟子集
 tags: 
 related_posts: true

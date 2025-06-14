@@ -5,7 +5,7 @@ date: 2025-05-06
 excerpt: '新时代的支黑，不是远方敌人，而是身边压迫者，披着忠诚外衣以信仰之名燃烧人民。The new-era anti-Chinese, not far enemies, are near oppressors cloaked in loyalty, burning people in the name of faith.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/thumb.jpg
+thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
 tags: 
 related_posts: true

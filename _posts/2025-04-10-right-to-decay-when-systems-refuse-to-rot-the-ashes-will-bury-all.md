@@ -5,7 +5,7 @@ date: 2025-04-10
 excerpt: '一篇以“代谢”为象征的深度社会批评文章，揭示系统拒绝腐烂所引发的慢性崩坏。骨灰终将掩埋的，不只是制度本身，还有我们逃避的改变。A profound societal critique using "metabolism" as metaphor, exposing how the refusal to decay leads to systemic stagnation. The ashes will bury not just the system, but the change we feared to face.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/thumb.jpg
+thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
 tags: 
 related_posts: true

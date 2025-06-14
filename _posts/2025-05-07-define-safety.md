@@ -5,7 +5,7 @@ date: 2025-05-07
 excerpt: 'Citizen揭示安全并非技术产物，而是信任结构中的制度投射与参与权力之争。Citizen reveals that safety is not technological outcome, but projection of institutional trust and right to define danger.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/thumb.jpg
+thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
 tags: 
 related_posts: true

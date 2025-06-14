@@ -5,7 +5,7 @@ date: 2025-03-06
 excerpt: '一条只能前行的通道，象征信任的单向灌注；本文揭示制度化信任如何掩盖个体的声音，并提出“从自我开始”的逆流可能。A one-way passage symbolizes trust flowing top-down; this piece reveals how institutionalized trust silences individuals and proposes a reversal—starting with the self.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/thumb.jpg
+thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
 tags: 
 related_posts: true

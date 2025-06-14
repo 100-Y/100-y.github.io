@@ -5,7 +5,7 @@ date: 2025-04-07
 excerpt: '探索《恒定的夜》，一首揭示系统操控与个体命运之间张力的诗歌，在算法时代的静默中，黑夜成为舞台上的主角。Explore The Constant Night, a poem unveiling the tension between system control and human fate, where silence reigns and night becomes the lead actor on a digitized stage.'
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/thumb.jpg
+thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
 tags: 
 related_posts: true
