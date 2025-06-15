@@ -149,7 +149,7 @@ collections:
       layout: post
     output: false  #不能删，只能true改false，且news（项）被删掉的情况。前后，books、projects都一样。
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
