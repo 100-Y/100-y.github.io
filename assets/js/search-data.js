@@ -3,70 +3,91 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-关于-about",
+    title: "关于 / About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-博客-blog",
+          title: "博客 / Blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "dropdown-cloud-country",
-              title: "Cloud-Country",
+        },{id: "dropdown-诗歌-poems",
+              title: "诗歌 / Poems",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "dropdown-dreams",
-              title: "Dreams",
+            },{id: "dropdown-随笔-notes",
+              title: "随笔 / Notes",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "dropdown-essays",
-              title: "Essays",
+            },{id: "dropdown-短语-phrases",
+              title: "短语 / Phrases",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "dropdown-notes",
-              title: "Notes",
+            },{id: "dropdown-梦境-dreams",
+              title: "梦境 / Dreams",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "dropdown-paintings",
-              title: "Paintings",
+            },{id: "dropdown-杂文-essays",
+              title: "杂文 / Essays",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "dropdown-phrases",
-              title: "Phrases",
+            },{id: "dropdown-绘画-paintings",
+              title: "绘画 / Paintings",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "dropdown-poems",
-              title: "Poems",
+            },{id: "dropdown-海城墙-sea-wall",
+              title: "海城墙 / Sea-Wall",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "dropdown-sea-wall",
-              title: "Sea-Wall",
+            },{id: "dropdown-云之国-cloud-country",
+              title: "云之国 / Cloud-Country",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "dropdown-互联网-internet",
+              title: "互联网 / Internet",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "dropdown-衍生品-翻译-整理",
+              title: "衍生品（翻译、整理）",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "dropdown-汉阳舟子集",
+              title: "汉阳舟子集",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -4592,13 +4613,6 @@ ninja.data = [{
           
             window.location.href = "/blog/2010-09-15/ordinary-stars/";
           
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%31#%33%36%35%32%35.%64%61%79", "_blank");
         },
       },{
         id: 'social-github',
