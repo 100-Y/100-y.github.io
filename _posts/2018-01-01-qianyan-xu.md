@@ -6,7 +6,7 @@ excerpt: '解读《汉阳舟子集》中的“命叙”序文，揭示香山菩�
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
-categories: 汉阳舟子集
+categories: hyzzj
 tags: 
 related_posts: true
 ---

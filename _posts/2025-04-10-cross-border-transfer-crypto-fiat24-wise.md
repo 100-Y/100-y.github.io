@@ -6,7 +6,7 @@ excerpt: '本文分析了多种跨境资金出入路径的成本与风险，指�
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
-categories: 互联网
+categories: Internet
 tags: 
 related_posts: true
 ---
