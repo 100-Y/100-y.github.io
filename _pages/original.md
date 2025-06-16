@@ -5,11 +5,11 @@ nav: true
 nav_order: 5
 dropdown: true
 children:
-  - title: 诗歌 / Poems
-    permalink: /blog/category/poems
-  - title: divider
   - title: 随笔 / Notes
     permalink: /blog/category/notes
+  - title: divider
+  - title: 诗歌 / Poems
+    permalink: /blog/category/poems
   - title: divider
   - title: 短语 / Phrases
     permalink: /blog/category/phrases

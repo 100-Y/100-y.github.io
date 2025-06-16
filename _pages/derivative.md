@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 衍生 / Derivative
+title: 衍生
 nav: true
 nav_order: 6
 dropdown: true
@@ -10,8 +10,4 @@ children:
   - title: divider
   - title: 汉阳舟子集
     permalink: /blog/category/hyzzj/
-  - title: divider   
-  - title: 互联网
-    permalink: /blog/category/internet/
-
 ---
