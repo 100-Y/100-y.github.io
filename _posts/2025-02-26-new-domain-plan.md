@@ -19,6 +19,6 @@ related_posts: true
 
 ---
 
-### **Step 1:** Register a new Google account (including Gmail). While pointing the domain to Cloudflare, set up a custom domain email (e.g., `1@36525.day`) and forward it to Gmail inbox. Use this custom email or new Google account to register or link accounts across various platforms.
+**Step 1:** Register a new Google account (including Gmail). While pointing the domain to Cloudflare, set up a custom domain email (e.g., `1@36525.day`) and forward it to Gmail inbox. Use this custom email or new Google account to register or link accounts across various platforms.
 
 **Step 2:** Choose a hosting platform or cloud server to publish content or upload the entire website. **Step 3:** Enable Google AdSense to monetize the site. **Step 4:** Drive traffic through social media accounts. **Step 5:** Maintain a consistent presence and output across platforms. **Step 6:** Generate revenue and withdraw earnings.
