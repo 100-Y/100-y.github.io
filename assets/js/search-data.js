@@ -16,15 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "dropdown-诗歌-poems",
-              title: "诗歌 / Poems",
+        },{id: "dropdown-随笔-notes",
+              title: "随笔 / Notes",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "dropdown-随笔-notes",
-              title: "随笔 / Notes",
+            },{id: "dropdown-诗歌-poems",
+              title: "诗歌 / Poems",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -81,13 +81,6 @@ ninja.data = [{
               },
             },{id: "dropdown-汉阳舟子集",
               title: "汉阳舟子集",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-互联网",
-              title: "互联网",
               description: "",
               section: "Dropdown",
               handler: () => {
