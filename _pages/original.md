@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 分类 / Categories
+title: 原创 / Original
 nav: true
-nav_order: 8
+nav_order: 5
 dropdown: true
 children:
   - title: 诗歌 / Poems
@@ -28,13 +28,4 @@ children:
   - title: divider
   - title: 云之国 / Cloud-Country
     permalink: /blog/category/cloud-country/
-  - title: divider
-  - title: 互联网 / Internet
-    permalink: /blog/category/internet/
-  - title: divider
-  - title: 衍生品（翻译、整理）
-    permalink: /blog/category/derivatives/
-  - title: divider
-  - title: 汉阳舟子集
-    permalink: /blog/category/hyzzj/
 ---
