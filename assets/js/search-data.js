@@ -104,9 +104,9 @@ ninja.data = [{
             window.open("https://github.com/100-Y", "_blank");
           
         },
-      },{id: "post-被托管的世界-猪的乌托邦",
+      },{id: "post-被托管的世界-the-managed-world",
         
-          title: "被托管的世界：猪的乌托邦",
+          title: "被托管的世界 / The Managed World",
         
         description: "逃出屠宰场的猪建起乌托邦，却在幸福托管中陷入新围栏。这是结构性的问题。Pigs escaped slaughterhouse to build a utopia—only to find new fences in the name of protection. This is about structure.",
         section: "Posts",
@@ -126,11 +126,11 @@ ninja.data = [{
             window.location.href = "/blog/2025-05-07/define-safety/";
           
         },
-      },{id: "post-新时代的支黑-披着忠诚外衣的压迫者",
+      },{id: "post-新时代的支黑-anti-chinese-of-new-era",
         
-          title: "新时代的支黑：披着忠诚外衣的压迫者",
+          title: "新时代的支黑 / Anti-Chinese of New Era",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "新时代的支黑，不是远方敌人，而是身边压迫者，披着忠诚外衣以信仰之名燃烧人民。The new-era anti-Chinese, not far enemies, are near oppressors cloaked in loyalty, burning people in the name of faith.",
         section: "Posts",
         handler: () => {
           
