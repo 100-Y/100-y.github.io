@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '制度的手指——The Fingers of the System'
+title: "制度的手指——The Fingers of the System"
 date: 2025-02-28
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 

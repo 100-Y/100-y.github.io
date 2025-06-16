@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '韵发展史略——A Brief History of the Development of Rhymes'
+title: "韵发展史略——A Brief History of the Development of Rhymes"
 date: 2017-04-06
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Essays
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -47,32 +47,32 @@ related_posts: true
 
 ---
 
-This essay briefly discusses the evolution of Chinese rhymes through various rhyme books such as ***Qieyun*, *Guangyun*, *Pingshui*, *Shenglü Qimeng*, *Zhuyin*, *Pinyin*, and the *New Rhymes***.
+This essay briefly discusses the evolution of Chinese rhymes through various rhyme books such as **_Qieyun_, _Guangyun_, _Pingshui_, _Shenglü Qimeng_, _Zhuyin_, _Pinyin_, and the _New Rhymes_**.
 
 The history of rhymes can generally be divided into three phases: the Three Kingdoms, Western Jin, and Southern and Northern Dynasties; the Sui, Tang, Song, and Late Qing periods; and modern and contemporary China.
 
 **The Three Kingdoms, Western Jin, and Southern and Northern Dynasties**
 
-It is said that the earliest rhyme book in China was *Shenglei*, written by Li Deng, the Left Commander during the Wei Dynasty. According to *Wen Jian Ji* by Feng Yan from the Tang Dynasty, *Shenglei* was divided into ten volumes, containing 11,520 characters, categorized by the five tones, without defining the various rhyme groups. Since this book was lost early on, its specific content remains unknown. During the Western Jin period, the scholar Lü Chen’s younger brother, Lü Jing, wrote a work called *Yunji*, modeled after *Shenglei*. This work was also divided into five volumes, each dedicated to one of the five tones (Gong, Shang, Jiao, Zhi, and Yu), but like its predecessor, it is now lost.
+It is said that the earliest rhyme book in China was _Shenglei_, written by Li Deng, the Left Commander during the Wei Dynasty. According to _Wen Jian Ji_ by Feng Yan from the Tang Dynasty, _Shenglei_ was divided into ten volumes, containing 11,520 characters, categorized by the five tones, without defining the various rhyme groups. Since this book was lost early on, its specific content remains unknown. During the Western Jin period, the scholar Lü Chen’s younger brother, Lü Jing, wrote a work called _Yunji_, modeled after _Shenglei_. This work was also divided into five volumes, each dedicated to one of the five tones (Gong, Shang, Jiao, Zhi, and Yu), but like its predecessor, it is now lost.
 
 Following these, a series of rhyme books emerged, especially during the Southern Dynasties of the Qi and Liang periods. Scholars such as Shen Yue and Zhou Yang discovered the existence of four tones in Chinese, which provided an important foundation for compiling rhyme books. From this point onward, a variety of rhyme books emerged, each with its own nuances.
 
 **The Sui, Tang, Song, and Late Qing Periods**
 
-The earliest rhyme book that we can still access today is *Qieyun* written by Lu Fayan during the Sui Dynasty. Due to Lu Fayan’s prominent reputation, precise tone analysis, and authoritative work, *Qieyun* quickly gained widespread recognition. It eclipsed earlier rhyme books from the Six Dynasties. *Qieyun* inherited the strengths of previous works and summarized the successes and shortcomings of rhyme book compilation, marking a revolutionary advancement in the history of Chinese rhyme books. By the Tang Dynasty, *Qieyun* was adopted as the standard rhyme book for the imperial examination, solidifying its importance. *Qieyun* was divided into 193 rhymes, and the *Guangyun*, edited by Chen Pengnian during the Northern Song, refined it further to 206 rhymes.
+The earliest rhyme book that we can still access today is _Qieyun_ written by Lu Fayan during the Sui Dynasty. Due to Lu Fayan’s prominent reputation, precise tone analysis, and authoritative work, _Qieyun_ quickly gained widespread recognition. It eclipsed earlier rhyme books from the Six Dynasties. _Qieyun_ inherited the strengths of previous works and summarized the successes and shortcomings of rhyme book compilation, marking a revolutionary advancement in the history of Chinese rhyme books. By the Tang Dynasty, _Qieyun_ was adopted as the standard rhyme book for the imperial examination, solidifying its importance. _Qieyun_ was divided into 193 rhymes, and the _Guangyun_, edited by Chen Pengnian during the Northern Song, refined it further to 206 rhymes.
 
-However, the divisions in *Qieyun* and *Guangyun* were often too detailed. Later, a rule of "same usage" was established, allowing adjacent rhymes to be grouped together. In the Southern Song period, Liu Yuan of Ping Shui (modern-day Yao Du, Shanxi) in his *Renzi Xinkan Libu Yunlüe* combined similar rhymes into 107 groups, while Wang Wenyu, an official in Ping Shui from Shanxi, compiled *Ping Shui Xinkan Yunlüe*, which revised the rhyme system into 106 categories.
+However, the divisions in _Qieyun_ and _Guangyun_ were often too detailed. Later, a rule of "same usage" was established, allowing adjacent rhymes to be grouped together. In the Southern Song period, Liu Yuan of Ping Shui (modern-day Yao Du, Shanxi) in his _Renzi Xinkan Libu Yunlüe_ combined similar rhymes into 107 groups, while Wang Wenyu, an official in Ping Shui from Shanxi, compiled _Ping Shui Xinkan Yunlüe_, which revised the rhyme system into 106 categories.
 
-In the Qing Dynasty, during the Kangxi period, *Peiwen Yunfu* unified the *Ping Shui Yun* into 106 rhyme categories, which became the widely recognized *Ping Shui Yun*. The modern *Ping Shui Yun* usually refers to the *Peiwen Shiyun* published during the Qing. The *Ping Shui Yun* consists of 106 rhymes, including 30 rhymes in the level tone (15 upper-level, 15 lower-level), 29 rhymes in the rising tone, 30 rhymes in the departing tone, and 17 rhymes in the entering tone.
+In the Qing Dynasty, during the Kangxi period, _Peiwen Yunfu_ unified the _Ping Shui Yun_ into 106 rhyme categories, which became the widely recognized _Ping Shui Yun_. The modern _Ping Shui Yun_ usually refers to the _Peiwen Shiyun_ published during the Qing. The _Ping Shui Yun_ consists of 106 rhymes, including 30 rhymes in the level tone (15 upper-level, 15 lower-level), 29 rhymes in the rising tone, 30 rhymes in the departing tone, and 17 rhymes in the entering tone.
 
-During the Tang and Song Dynasties, poets composed regulated verse using only level tone rhymes. *Ping Shui Yun*, based on the Tang regulated poetry, was later systematized into the *Shenglü Qimeng*, a primer on rhyme and metrics. The version commonly used today is a privately collected edition from Chengdu in 1883, titled *Shenglü Qimeng*, and is based on the 30 level tone rhymes of *Ping Shui Yun*, with some modifications and revisions by its editors.
+During the Tang and Song Dynasties, poets composed regulated verse using only level tone rhymes. _Ping Shui Yun_, based on the Tang regulated poetry, was later systematized into the _Shenglü Qimeng_, a primer on rhyme and metrics. The version commonly used today is a privately collected edition from Chengdu in 1883, titled _Shenglü Qimeng_, and is based on the 30 level tone rhymes of _Ping Shui Yun_, with some modifications and revisions by its editors.
 
 **Modern and Contemporary China**
 
-In modern times, the development of Zhuyin (Bopomofo) and Pinyin has provided further adjustments to the rhyme system, incorporating and simplifying the past frameworks of rhyme. Based on the 30 rhymes of the level tone, Zhuyin simplified it into 16 basic rhymes. Later, Pinyin was established with 39 rhymes, and the simplified version, the *New Rhymes*, contains only 14.
+In modern times, the development of Zhuyin (Bopomofo) and Pinyin has provided further adjustments to the rhyme system, incorporating and simplifying the past frameworks of rhyme. Based on the 30 rhymes of the level tone, Zhuyin simplified it into 16 basic rhymes. Later, Pinyin was established with 39 rhymes, and the simplified version, the _New Rhymes_, contains only 14.
 
-As mentioned in the article "What Exactly Is the New Rhyme?" the *New Rhymes* are the result of integrating Zhuyin and Pinyin.
+As mentioned in the article "What Exactly Is the New Rhyme?" the _New Rhymes_ are the result of integrating Zhuyin and Pinyin.
 
 **Conclusion**
 
-Looking at the numbers of rhymes in each system throughout history: *Qieyun* had 193 rhymes, *Guangyun* had 206 rhymes, and *Ping Shui Yun* (or *Peiwen Shiyun*) has 106 rhymes. The *Zhuyin* system has 16 rhymes, the *Pinyin* system has 39, and the *New Rhymes* system has 14. The history of rhymes is, in essence, a history of reduction in the number of rhyme categories.
+Looking at the numbers of rhymes in each system throughout history: _Qieyun_ had 193 rhymes, _Guangyun_ had 206 rhymes, and _Ping Shui Yun_ (or _Peiwen Shiyun_) has 106 rhymes. The _Zhuyin_ system has 16 rhymes, the _Pinyin_ system has 39, and the _New Rhymes_ system has 14. The history of rhymes is, in essence, a history of reduction in the number of rhyme categories.

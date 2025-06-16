@@ -73,7 +73,7 @@ featured: true
 
 /
 
-##  Pig's Utopia
+## Pig's Utopia
 
 This world, though seemingly vast, is already meticulously fenced in by **<mark>countless invisible boundaries</mark>**.
 

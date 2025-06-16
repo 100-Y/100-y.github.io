@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '程序即治理——Program as Governance'
+title: "程序即治理——Program as Governance"
 date: 2025-03-06
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Essays
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -21,7 +21,7 @@ related_posts: true
 
 ---
 
-Someone has been sitting there—for a long time. The meetings blur, names fade with the agendas, only the ticking on the wall remains, like tides that no longer touch the shore. Words come and go, creased like old paper, repeating like a banner caught in wind—each year it says, *we are governing*, yet no one moves.
+Someone has been sitting there—for a long time. The meetings blur, names fade with the agendas, only the ticking on the wall remains, like tides that no longer touch the shore. Words come and go, creased like old paper, repeating like a banner caught in wind—each year it says, _we are governing_, yet no one moves.
 
 Pens lie still. Paper remains blank. Problems hang like a light left on not to see, but because forgetting to turn it off became routine. The system listens only to its own rhythm now, a looped refrain, obedient, stable, turning in place.
 

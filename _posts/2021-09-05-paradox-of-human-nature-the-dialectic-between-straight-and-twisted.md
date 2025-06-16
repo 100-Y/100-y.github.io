@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '人性悖论：直曲之间的辩证——Paradox of Human Nature: The Dialectic Between Straight and Twisted'
+title: "人性悖论：直曲之间的辩证——Paradox of Human Nature: The Dialectic Between Straight and Twisted"
 date: 2021-09-05
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 

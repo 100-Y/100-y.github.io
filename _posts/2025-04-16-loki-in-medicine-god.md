@@ -2,12 +2,12 @@
 layout: post
 title: 药神中的洛基：吞咽之死的技术暴力
 date: 2025-04-16
-excerpt: '当药物剥夺进食能力，生的尊严悄然被抽空——这不是拯救，而是无声的谋杀。When medicine deprives one of the ability to eat, dignity of life is quietly hollowed out—this is not salvation, but a silent murder.'
+excerpt: "当药物剥夺进食能力，生的尊严悄然被抽空——这不是拯救，而是无声的谋杀。When medicine deprives one of the ability to eat, dignity of life is quietly hollowed out—this is not salvation, but a silent murder."
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -29,9 +29,9 @@ related_posts: true
 
 “Whoever robs one of the will to swallow is a Loki among the Gods of Medicine.”
 
-From the first suckle of milk at birth to the final spoonful in old age, human beings have always used eating to prove: *I am still alive.* To eat is to renew the primal covenant between life and the world—a most direct affirmation of existence. To deprive someone of eating is to sever that most original connection between body and being.
+From the first suckle of milk at birth to the final spoonful in old age, human beings have always used eating to prove: _I am still alive._ To eat is to renew the primal covenant between life and the world—a most direct affirmation of existence. To deprive someone of eating is to sever that most original connection between body and being.
 
-Medicine, once meant to assist life, now disguises itself as salvation while quietly stripping patients of the ability to eat. At the edge of decline, it hastens the collapse of the system. What it severs is not only bodily function—but the root of will itself. In its extreme, it becomes a form of technical violence—*a medical killing.*
+Medicine, once meant to assist life, now disguises itself as salvation while quietly stripping patients of the ability to eat. At the edge of decline, it hastens the collapse of the system. What it severs is not only bodily function—but the root of will itself. In its extreme, it becomes a form of technical violence—_a medical killing._
 
 No blades, no bullets—just a pill, cold and voiceless. It does not bleed, yet slowly steals one’s ability to eat, drains vitality, fails organs—until death arrives.
 

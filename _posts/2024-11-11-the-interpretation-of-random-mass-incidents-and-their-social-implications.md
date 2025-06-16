@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '随机群发事件的解读及其社会隐喻——The Interpretation of Random Mass Incidents and Their Social Implications'
+title: "随机群发事件的解读及其社会隐喻——The Interpretation of Random Mass Incidents and Their Social Implications"
 date: 2024-11-11
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 

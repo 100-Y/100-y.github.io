@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '它们，他们——They and Them'
+title: "它们，他们——They and Them"
 date: 2015-10-17
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Poems
-tags: 
+tags:
 related_posts: true
 ---
 

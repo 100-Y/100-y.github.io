@@ -1,15 +1,15 @@
 ---
 layout: post
-title: '如何隐喻地进行创作？——How to Create Metaphorically?'
+title: "如何隐喻地进行创作？——How to Create Metaphorically?"
 date: 2024-11-02
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 reader_suggested_tags:
-    - '["Leadership","Mindset","Personal Development","English","Procrastination"]'
-    - '["Leadership","Mindset","Personal Development","English","Procrastination"]'
-    - '["Leadership","Mindset","Personal Development","English","Procrastination"]'
+  - '["Leadership","Mindset","Personal Development","English","Procrastination"]'
+  - '["Leadership","Mindset","Personal Development","English","Procrastination"]'
+  - '["Leadership","Mindset","Personal Development","English","Procrastination"]'
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -41,7 +41,7 @@ related_posts: true
 - Step 2: Draw analogies for the "proper nouns."
 - Step 3: Combine the definitions and analogies of the "proper nouns", to create new metaphors.
 - Step 4: Generate a draft and organize it.  
-    Step 5: Use more concise language. Summarize and condense.
+   Step 5: Use more concise language. Summarize and condense.
 
 For example: **Compass and Brute, Blowhard and Headless Fly**.
 

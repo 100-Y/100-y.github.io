@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '伤口上的盐——Salt on the Wound'
+title: "伤口上的盐——Salt on the Wound"
 date: 2024-12-30
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Poems
-tags: 
+tags:
 related_posts: true
 ---
 

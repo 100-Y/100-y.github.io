@@ -2,7 +2,7 @@
 layout: post
 title: 36525.day：个人IP与内容变现行动方案
 date: 2025-02-28
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
@@ -49,7 +49,7 @@ related_posts: true
 🖼 配图投稿渠道（图文共振）：
 
 - Instagram / Pinterest：
-    - 发布视觉化内容如：网站文章视觉摘要图，哲思片段 × AI图像生成，结构图谱 × 思维卡片
+  - 发布视觉化内容如：网站文章视觉摘要图，哲思片段 × AI图像生成，结构图谱 × 思维卡片
 - Pinterest 作为国际流量入口，通过关键词可视化检索获取被动引流，同时可植入联盟推广链接（如Notion模板、电子书等）
 
 🎥 视频触点：
@@ -74,7 +74,7 @@ related_posts: true
 </figure>🤝 联盟推广（Affiliate）：
 
 - 推荐工具 / 产品 / 模板，如：  
-    • Notion联盟 / 亚马逊 / TypingMind / AI工具合集
+   • Notion联盟 / 亚马逊 / TypingMind / AI工具合集
 - 植入渠道包括文章、Pinterest视觉卡片、图文平台等
 
 🖼 视觉衍生收入（新增）：

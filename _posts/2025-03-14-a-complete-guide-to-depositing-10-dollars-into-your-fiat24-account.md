@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '将 10 美元转入 Fiat24 账户的完整指南'
+title: "将 10 美元转入 Fiat24 账户的完整指南"
 date: 2025-03-14
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
@@ -22,43 +22,43 @@ related_posts: true
 #### 一、账户准备：打通入口
 
 1. **KYC 验证**  
-    确保 Fiat24 账户已完成实名认证（收到“Your account has been fully verified”邮件）。
+   确保 Fiat24 账户已完成实名认证（收到“Your account has been fully verified”邮件）。
 2. **登录 DApp 检查余额**  
-    访问 [id.fiat24.com](https://id.fiat24.com/)，进入“Euro Account”或“Balance”页面，确认当前余额不足以激活借记卡。
+   访问 [id.fiat24.com](https://id.fiat24.com/)，进入“Euro Account”或“Balance”页面，确认当前余额不足以激活借记卡。
 
 #### 二、获取存款地址：加密世界的“银行账户”
 
 1. **进入 DApp 存款页面**  
-    找到“Deposit”或“Fund Account”，选择稳定币类型，推荐使用 **USDC**（与美元等值）。
+   找到“Deposit”或“Fund Account”，选择稳定币类型，推荐使用 **USDC**（与美元等值）。
 2. **复制存款地址**  
-    系统将生成专属的 Arbitrum 网络地址（以 `0x` 开头），复制备用。
+   系统将生成专属的 Arbitrum 网络地址（以 `0x` 开头），复制备用。
 
 #### 三、准备转账工具：从传统走向链上
 
 1. **加密钱包或交易所**  
-    可使用支持 Arbitrum 的钱包（如 MetaMask、Trust Wallet）或交易所（Binance、Coinbase）。
+   可使用支持 Arbitrum 的钱包（如 MetaMask、Trust Wallet）或交易所（Binance、Coinbase）。
 2. **确保两项资产：**
-    - 至少 **10 USDC**（建议购买 12–15 USDC 以覆盖波动与手续费）
-    - 少量 **Arbitrum ETH** 用于 Gas 费（约 0.001–0.005 ETH）
+   - 至少 **10 USDC**（建议购买 12–15 USDC 以覆盖波动与手续费）
+   - 少量 **Arbitrum ETH** 用于 Gas 费（约 0.001–0.005 ETH）
 3. **购买 USDC（如无）**  
-    在交易所用美元购买 USDC，并确保提币网络选择 **Arbitrum One**。
+   在交易所用美元购买 USDC，并确保提币网络选择 **Arbitrum One**。
 
 #### 四、转账执行：链上注资，实时到账
 
 1. **发起转账操作**
-    - 在钱包或交易所点击“发送”或“提现”
-    - 粘贴 Fiat24 提供的地址
-    - 网络选择 Arbitrum One
-    - 金额填入 10 USDC，确认交易并支付 Gas 费
+   - 在钱包或交易所点击“发送”或“提现”
+   - 粘贴 Fiat24 提供的地址
+   - 网络选择 Arbitrum One
+   - 金额填入 10 USDC，确认交易并支付 Gas 费
 2. **等待到账**  
-    Arbitrum 网络速度较快，几分钟内到账。建议保留交易哈希用于追踪。
+   Arbitrum 网络速度较快，几分钟内到账。建议保留交易哈希用于追踪。
 
 #### 五、到账确认与卡片激活
 
 1. **检查余额更新**  
-    回到 Fiat24 DApp，刷新“Balance”页面，确认到账（USDC 会自动转换为等值欧元）。
+   回到 Fiat24 DApp，刷新“Balance”页面，确认到账（USDC 会自动转换为等值欧元）。
 2. **激活借记卡**  
-    进入“Card”页面，点击“Activate”，并签署链上交易完成激活流程。
+   进入“Card”页面，点击“Activate”，并签署链上交易完成激活流程。
 
 ### ⚠️ 注意事项：
 

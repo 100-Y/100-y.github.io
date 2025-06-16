@@ -2,12 +2,12 @@
 layout: post
 title: 危机中的自我误伤：命如何被悄然抵押
 date: 2025-04-08
-excerpt: '反思危机中的自救误区：当防御成为倒钩，命运悄然被抵押，揭示结构性反伤机制。A reflection on how crisis responses turn into barbed defenses, silently pledging life and exposing the paradox of self-harm within self-preservation.'
+excerpt: "反思危机中的自救误区：当防御成为倒钩，命运悄然被抵押，揭示结构性反伤机制。A reflection on how crisis responses turn into barbed defenses, silently pledging life and exposing the paradox of self-harm within self-preservation."
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 

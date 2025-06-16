@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '剥皮点灯——Flayed to Light the Lamp'
+title: "剥皮点灯——Flayed to Light the Lamp"
 date: 2025-03-12
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Poems
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -81,7 +81,7 @@ You believe you hold the reins,
 but you're merely oil on the altar.  
 The true horror isn’t exploitation,  
 but the soul that kneels to it,  
-whispering, *“This is fate. It cannot be helped.”*
+whispering, _“This is fate. It cannot be helped.”_
 
 In this festival of burning,  
 who are you?  

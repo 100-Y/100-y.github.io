@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '甘肃西和白雀寺，僧人的一天——A Day of a Monk at Baique Temple, Xihe, Gansu'
+title: "甘肃西和白雀寺，僧人的一天——A Day of a Monk at Baique Temple, Xihe, Gansu"
 date: 2016-04-01
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Essays
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -71,7 +71,7 @@ related_posts: true
 
 As of March 2016, there were five permanent residents at Baique Temple in Xihe County, Gansu Province, including two bhikkhus, Mingfa and Mingyuan, one bhikkhuni, Daoxue, and two female Taoist priests, Duzhi Zhen and Zhang Xing Sheng. Their birth names were Liu Jujia (born in 1946), Fu Rui'er (born in 1949), Wang Xuehua (born in 1950), Du Yizhen (in her 80s), and Zhang Yueqin (born in the 1980s).
 
-According to Master Mingfa, every year on the 8th day of the 4th lunar month, which marks the birthday of Shakyamuni Buddha, the temple receives fellow practitioners and a large number of devout visitors, making it the busiest day of the year. Although Baique Temple has lost its former glory, during the Republican period, the local community collaborated to compile a book titled *Hanyang Boatmen Collection*.
+According to Master Mingfa, every year on the 8th day of the 4th lunar month, which marks the birthday of Shakyamuni Buddha, the temple receives fellow practitioners and a large number of devout visitors, making it the busiest day of the year. Although Baique Temple has lost its former glory, during the Republican period, the local community collaborated to compile a book titled _Hanyang Boatmen Collection_.
 
 I briefly stayed at the temple for a week in February 2016, living in the temple's corner alongside Master Mingfa and Master Mingyuan, sharing meals and lodging. This allowed me a genuine experience of monastic life. It wasn’t until two years later that I decided to write this article. Without further ado, let me delve into the main topic.
 
@@ -103,7 +103,7 @@ Because of the "no eating after noon" rule, the monks also refrained from eating
 
 **The "Library"**
 
-Master Mingfa’s room contained a small but impressive library. With his permission, I was fortunate to explore the collection of Buddhist books. I vaguely remember the night before I left the temple, Master Mingfa invited a lay disciple, a young man in his twenties, and after our conversation, they exchanged contact information. The disciple then brought me two Buddhist books, *Basic Buddhist Knowledge* and *True Buddhism*, both of which I kept as cherished mementos.
+Master Mingfa’s room contained a small but impressive library. With his permission, I was fortunate to explore the collection of Buddhist books. I vaguely remember the night before I left the temple, Master Mingfa invited a lay disciple, a young man in his twenties, and after our conversation, they exchanged contact information. The disciple then brought me two Buddhist books, _Basic Buddhist Knowledge_ and _True Buddhism_, both of which I kept as cherished mementos.
 
 **Meditation**
 

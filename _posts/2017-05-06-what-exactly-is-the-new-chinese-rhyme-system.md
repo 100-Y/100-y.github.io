@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '中华新韵到底是怎么一回事？——What Exactly is the New Chinese Rhyme System?'
+title: "中华新韵到底是怎么一回事？——What Exactly is the New Chinese Rhyme System?"
 date: 2017-05-06
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Essays
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -99,13 +99,13 @@ On October 10, 1941, the Republic of China’s National Government issued a list
 
 <figure class="wp-block-image size-large has-custom-border">![](https://rips.rip/wp-content/uploads/2010/01/img_3064-1.webp?w=640)</figure>The eighteen rhymes are formed from these sixteen basic rhymes plus other compound finals. Two additional rhymes are introduced: the five "ㄭ" sounds and the "十八东" (shí bā dōng) with the finals "ㄨㄥ" (wēng) and "ㄩㄥ" (yūng).
 
-The "ㄭ" symbol (帀) was added in 1932 during a meeting to compile the *Guoyin Changyong Zihui* (Commonly Used Chinese Pronunciation Dictionary) to make annotation easier.
+The "ㄭ" symbol (帀) was added in 1932 during a meeting to compile the _Guoyin Changyong Zihui_ (Commonly Used Chinese Pronunciation Dictionary) to make annotation easier.
 
 This symbol serves as a placeholder for omitted finals (known as "zero finals" or "empty finals"), often used with sounds like "ㄓ" (zhī), "ㄔ" (chī), and others when they occur in isolation. The "十八东" refers to the compound finals "ong" (ㄨㄥ) and "iong" (ㄩㄥ), representing the "yong" sound.
 
 **The New Chinese Rhyme System**
 
-The *New Chinese Rhyme* system was introduced by the China Poetry Association in May 2005 and consists of fourteen rhymes.
+The _New Chinese Rhyme_ system was introduced by the China Poetry Association in May 2005 and consists of fourteen rhymes.
 
 <figure class="wp-block-image size-large has-custom-border">![](https://rips.rip/wp-content/uploads/2010/01/img_3065-1.webp?w=640)</figure>After understanding the previous eighteen rhymes, we can easily see how the New Rhymes differ.
 

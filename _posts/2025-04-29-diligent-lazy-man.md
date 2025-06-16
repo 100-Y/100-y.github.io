@@ -2,12 +2,12 @@
 layout: post
 title: 要做勤快的懒人
 date: 2025-04-29
-excerpt: '懒≠低效，勤快≠聪明。本篇文章带你识别四种行动模型，理解如何选择适合自己的“效率路径”。Laziness doesn’t mean inefficiency, and diligence isn’t always smart. This article helps you identify four action models and choose your personal path to efficiency.'
+excerpt: "懒≠低效，勤快≠聪明。本篇文章带你识别四种行动模型，理解如何选择适合自己的“效率路径”。Laziness doesn’t mean inefficiency, and diligence isn’t always smart. This article helps you identify four action models and choose your personal path to efficiency."
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -23,7 +23,7 @@ related_posts: true
 
 ## Be the diligent lazy man
 
-The *truly diligent* use their own hands to handle everything manually. The *relatively diligent* scramble with multiple tools, often without a clear plan. The *relatively lazy* preemptively choose one efficient tool to save time and effort. The *truly lazy* rely on hot water and money—solving everything instantly, with minimal effort.
+The _truly diligent_ use their own hands to handle everything manually. The _relatively diligent_ scramble with multiple tools, often without a clear plan. The _relatively lazy_ preemptively choose one efficient tool to save time and effort. The _truly lazy_ rely on hot water and money—solving everything instantly, with minimal effort.
 
 “Diligent” means burdening the body; “Relatively” means burdening either multiple tools or a single one inefficiently; “Lazy,” however, simply burdens the mind—or the wallet.
 

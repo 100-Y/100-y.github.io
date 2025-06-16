@@ -2,12 +2,12 @@
 layout: post
 title: 裂缝里的回声：那些未说出口的理想之声
 date: 2025-04-04
-excerpt: '裂缝中的低语也能震响历史。在静默中传承理想，这是一段属于众人的无声史诗。Whispers in the cracks can still shake history. This is a silent epic of ideals passed on by the voices of the many.'
+excerpt: "裂缝中的低语也能震响历史。在静默中传承理想，这是一段属于众人的无声史诗。Whispers in the cracks can still shake history. This is a silent epic of ideals passed on by the voices of the many."
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -21,6 +21,6 @@ related_posts: true
 
 **Echoes in the Cracks: The Unspoken Voices of Idealism**
 
-Light trickled in, inch by inch, through the windowsill, spilling onto an open manifesto spread across an old desk, the ink had blurred where my sweat had fallen. That night, in a cramped attic, I whispered *"equality"* while listening to the distant roar of trains on the iron tracks. Some hid between ceiling beams, some crossed frozen fields to deliver a letter. Many sat quietly in the corners of meeting halls, never shouting a single slogan, but with eyes that burned. They left unfinished sentences in the seams of time, not heroes — but voices. Echoes in the cracks.
+Light trickled in, inch by inch, through the windowsill, spilling onto an open manifesto spread across an old desk, the ink had blurred where my sweat had fallen. That night, in a cramped attic, I whispered _"equality"_ while listening to the distant roar of trains on the iron tracks. Some hid between ceiling beams, some crossed frozen fields to deliver a letter. Many sat quietly in the corners of meeting halls, never shouting a single slogan, but with eyes that burned. They left unfinished sentences in the seams of time, not heroes — but voices. Echoes in the cracks.
 
 Ideals are not lights on high pedestals, but quiet conversations beside a fire.

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '骂人的道理（逻辑）——Logic of Scolding'
+title: "骂人的道理（逻辑）——Logic of Scolding"
 date: 2022-02-03
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 

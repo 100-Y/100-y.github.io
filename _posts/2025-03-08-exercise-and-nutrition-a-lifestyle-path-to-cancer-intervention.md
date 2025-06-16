@@ -2,12 +2,12 @@
 layout: post
 title: 体能训练与营养补给：癌症干预的生活式可能
 date: 2025-03-08
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: AI-Assisted
-tags: 
+tags:
 related_posts: true
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '执行力的真相——The Truth of Execution'
+title: "执行力的真相——The Truth of Execution"
 date: 2025-02-28
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -17,4 +17,4 @@ related_posts: true
 
 ---
 
-Execution has never been a straight path—it is the art of walking through wind. Its shape is like water threading through stone: not submissive, but enduring. Checklists cannot withstand the unforeseen; sheer will rarely reaches every morning. True execution is not about *completion*, but about *continuous becoming*. To break free from the illusion of linearity, one must begin to understand: action is not the extension of planning, but the art of responding to uncertainty—a quiet undercurrent of feedback, a compass reshaped by resistance. The novice clings to plans, the adept adjusts the route, but the true executor composes rhythm within chaos. They are not fast, but precise; not forceful, but attuned. They make allies of their environment, read delay as signal, and trace maps within disorder. In this age of perpetual incompletion, execution is not the chase of goals—but the act of leaving space for the future, in the language of resilience.
+Execution has never been a straight path—it is the art of walking through wind. Its shape is like water threading through stone: not submissive, but enduring. Checklists cannot withstand the unforeseen; sheer will rarely reaches every morning. True execution is not about _completion_, but about _continuous becoming_. To break free from the illusion of linearity, one must begin to understand: action is not the extension of planning, but the art of responding to uncertainty—a quiet undercurrent of feedback, a compass reshaped by resistance. The novice clings to plans, the adept adjusts the route, but the true executor composes rhythm within chaos. They are not fast, but precise; not forceful, but attuned. They make allies of their environment, read delay as signal, and trace maps within disorder. In this age of perpetual incompletion, execution is not the chase of goals—but the act of leaving space for the future, in the language of resilience.

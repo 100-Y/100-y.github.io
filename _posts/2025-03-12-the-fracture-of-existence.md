@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '存在的裂缝——The Fracture of Existence'
+title: "存在的裂缝——The Fracture of Existence"
 date: 2025-03-12
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -26,4 +26,4 @@ Within the abyss of cognition, clarity is like a cold, surgical blade—cutting 
 He is angry, yet wraps his rage in calm; detached, yet unwilling to fully descend. Having seen through the rules of the game, he refuses to be a pawn—yet cannot entirely become the observer. He stands atop a height of insight, paralyzed, for every move risks becoming a repetition of the structure he despises.
 
 This is not helplessness, but the painful lucidity of one who refuses to compromise. It is not nihilism, but a lingering trial of existence. With a posture of ironic defiance, he masks his inner turmoil. And behind each seemingly flippant defense lies an unspoken question:  
-*"If omniscience brings no deliverance, why am I still condemned to feel?"*
+_"If omniscience brings no deliverance, why am I still condemned to feel?"_

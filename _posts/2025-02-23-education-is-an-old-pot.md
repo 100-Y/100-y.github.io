@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '教育是口锅——Education is an Old Pot'
+title: "教育是口锅——Education is an Old Pot"
 date: 2025-02-23
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Poems
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -36,7 +36,7 @@ it once boiled loyalty,
 then stir-fried talent,  
 and now simmers a silent broth of belonging.
 
-Yet the flame meant to ignite *us*  
+Yet the flame meant to ignite _us_  
 never truly rose.
 
 Perhaps it's time to shatter this pot,  

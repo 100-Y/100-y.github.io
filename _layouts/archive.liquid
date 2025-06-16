@@ -20,7 +20,6 @@ layout: default
       <table class="table table-sm table-borderless">
         {% for document in page.documents %}
           <tr>
-
             <td>
               {% if document.redirect == blank %}
                 <a class="post-link" href="{{ document.url | relative_url }}">{{ document.title }}</a>

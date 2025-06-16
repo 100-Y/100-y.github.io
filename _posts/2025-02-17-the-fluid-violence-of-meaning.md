@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '流动中的意义暴力——The Fluid Violence of Meaning'
+title: "流动中的意义暴力——The Fluid Violence of Meaning"
 date: 2025-02-17
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 

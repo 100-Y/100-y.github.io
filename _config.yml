@@ -4,21 +4,20 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: 36,525 days
-middle_name: 
-last_name: 
+middle_name:
+last_name:
 contact_note: >
   #替换为@，以发送您的电子邮件 / # to @, to send your email
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   以「36525 天」为象征，这是某人用一生在写的一本书 / Symbolizing 36,525 days — a book someone writes across a lifetime
-footer_text: > 
-  -> <a href='/notice/'>Notice</a> & <a href='/privacy/'>Privacy</a> <- @ <a href='/'>100-Y</a> . 
-
+footer_text: >
+  -> <a href='/notice/'>Notice</a> & <a href='/privacy/'>Privacy</a> <- @ <a href='/'>100-Y</a> .
 
 keywords: 个人时间容器, 精神栖息地, 梦的档案馆, 诗意日常, 自由写作, 思考的片段 / Personal Time Capsule, Mental Sanctuary, Dream Archive, Poetic Everyday, Free Writing, Fragments of Thought
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://100-y.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -122,11 +121,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-#  - name: github.com
-#    rss_url: https://github.com/100-Y/100-y.github.io
+  #  - name: github.com
+  #    rss_url: https://github.com/100-Y/100-y.github.io
   - name: github.com
     posts:
-      - url:  https://github.com/100-Y
+      - url: https://github.com/100-Y
         published_date: 2025-06-14
 
 # -----------------------------------------------------------------------------
@@ -148,7 +147,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: false  #不能删，只能true改false，且news（项）被删掉的情况。前后，books、projects都一样。
+    output: false #不能删，只能true改false，且news（项）被删掉的情况。前后，books、projects都一样。
   projects:
     output: false
 
@@ -255,10 +254,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["utopia",] # these tags will be displayed on the front page of your blog
+display_tags: ["utopia"] # these tags will be displayed on the front page of your blog
 display_categories: ["Poems", "Sea-Wall", "Paintings"] # these categories will be displayed on the front page of your blog
-
-
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes

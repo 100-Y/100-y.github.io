@@ -1,15 +1,15 @@
 ---
 layout: post
-title: '暂别白雀寺——Temporary Farewell to Baique Temple'
+title: "暂别白雀寺——Temporary Farewell to Baique Temple"
 date: 2016-03-01
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 reader_suggested_tags:
-    - '["Travel","Taiwan","Hiking","Taipei","Asia"]'
-    - '["Travel","Taiwan","Hiking","Taipei","Asia"]'
-    - '["Travel","Taiwan","Hiking","Taipei","Asia"]'
+  - '["Travel","Taiwan","Hiking","Taipei","Asia"]'
+  - '["Travel","Taiwan","Hiking","Taipei","Asia"]'
+  - '["Travel","Taiwan","Hiking","Taipei","Asia"]'
 categories: Essays
-tags: 
+tags:
 related_posts: true
 ---
 

@@ -2,12 +2,12 @@
 layout: post
 title: 换气过度综合征处理指南
 date: 2025-05-01
-excerpt: '从心理疏导到急性应对，掌握换气过度综合征的标准处理路径。A clear treatment approach for hyperventilation syndrome—from psychological relief to acute-phase rebreathing techniques.'
+excerpt: "从心理疏导到急性应对，掌握换气过度综合征的标准处理路径。A clear treatment approach for hyperventilation syndrome—from psychological relief to acute-phase rebreathing techniques."
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Daily-Life
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -23,6 +23,6 @@ related_posts: true
 ## Hyperventilation Syndrome Treatment Guide
 
 - Explain to the patient the connection between their symptoms and hyperventilation to relieve psychological stress and reduce fear.
-- When necessary, medications such as *oryzanol*, *bromides*, or *mild sedatives* may be administered.
+- When necessary, medications such as _oryzanol_, _bromides_, or _mild sedatives_ may be administered.
 - Patients should be taught proper breathing techniques, including diaphragmatic and slow breathing, to reduce or eliminate the tendency for hyperventilation by lowering the respiratory rate.
 - During acute episodes, rebreathing therapy (using a face mask or paper bag) can be applied to increase the CO₂ concentration in the inhaled air, thereby alleviating symptoms.

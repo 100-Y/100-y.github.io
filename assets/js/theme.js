@@ -45,8 +45,6 @@ let applyTheme = () => {
     setEchartsTheme(theme);
   }
 
-
-
   // if vegaEmbed is not defined, do nothing
   if (typeof vegaEmbed !== "undefined") {
     setVegaLiteTheme(theme);
@@ -63,8 +61,6 @@ let applyTheme = () => {
       tables[i].classList.remove("table-dark");
     }
   }
-
-
 
   // Updates the background of medium-zoom overlay.
   if (typeof medium_zoom !== "undefined") {
@@ -164,8 +160,6 @@ let setEchartsTheme = (theme) => {
     chart.setOption(JSON.parse(jsonData));
   });
 };
-
-
 
 let setVegaLiteTheme = (theme) => {
   document.querySelectorAll(".vega-lite").forEach((elem) => {

@@ -2,12 +2,12 @@
 layout: post
 title: 安全的定义权：信任结构之争
 date: 2025-05-07
-excerpt: 'Citizen揭示安全并非技术产物，而是信任结构中的制度投射与参与权力之争。Citizen reveals that safety is not technological outcome, but projection of institutional trust and right to define danger.'
+excerpt: "Citizen揭示安全并非技术产物，而是信任结构中的制度投射与参与权力之争。Citizen reveals that safety is not technological outcome, but projection of institutional trust and right to define danger."
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -35,16 +35,16 @@ related_posts: true
 
 The fate of an app is never decided by its code alone—it is the projection of a society’s imagination.
 
-**Citizen** is not a marvel of technology, but a crystallization of a belief: that *to be informed is to be just*. It assumes that chaos can be collectively processed, that truth can be navigated together, that danger need not be hidden. It allows people to open a map before the gunfire stops, to warn strangers before the flames are out. It is a **cultural faith in *making unease visible*, in generating consensus through exposure**.
+**Citizen** is not a marvel of technology, but a crystallization of a belief: that _to be informed is to be just_. It assumes that chaos can be collectively processed, that truth can be navigated together, that danger need not be hidden. It allows people to open a map before the gunfire stops, to warn strangers before the flames are out. It is a **cultural faith in _making unease visible_, in generating consensus through exposure**.
 
-But in another dimension, safety is not something *perceived*—it is something *announced*. It does not arise from collective awareness but from top-down sedation. Information is not wind—it is a ceiling light: what you see depends on who controls the switch. This is not a matter of technological feasibility, but of structural trust.
+But in another dimension, safety is not something _perceived_—it is something _announced_. It does not arise from collective awareness but from top-down sedation. Information is not wind—it is a ceiling light: what you see depends on who controls the switch. This is not a matter of technological feasibility, but of structural trust.
 
 Safety is not merely the absence of danger—it is the right to participate in defining what counts as danger.
 
 That is **why Citizen “belongs only to certain nations”**—not because of any export ban on its code, but because it belongs to a certain culture: one that sees cities as collaborative organisms, not objects of control; to a certain system: one that grants individuals the right to speak even in fear; to a certain political psyche: one that allows safety to emerge through real conflict, not enforced concealment.
 
-The real question is not *whether we have a Citizen*, but:
+The real question is not _whether we have a Citizen_, but:
 
 > Who defines safety? Who is allowed to declare risk? Do we have the right to be informed amid chaos—and to decide how we survive it?
 
-Between *safety as participation* and *safety as containment*, what we’re witnessing is not just a difference in national policy—but **a divergence in the very architecture of the future**.
+Between _safety as participation_ and _safety as containment_, what we’re witnessing is not just a difference in national policy—but **a divergence in the very architecture of the future**.

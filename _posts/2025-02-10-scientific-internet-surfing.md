@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '科学上网——Scientific Internet Surfing'
+title: "科学上网——Scientific Internet Surfing"
 date: 2025-02-10
-excerpt: '（这里写摘要）'
+excerpt: "（这里写摘要）"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
@@ -19,6 +19,6 @@ related_posts: true
 
 ---
 
-**For iOS users**: Simply register a foreign *Apple ID* on Apple’s official website (make sure to **turn off iCloud sync** to avoid region lock), then log into the App Store to download a *VPN* and other AI tools such as *Gemini* or *ChatGPT*.
+**For iOS users**: Simply register a foreign _Apple ID_ on Apple’s official website (make sure to **turn off iCloud sync** to avoid region lock), then log into the App Store to download a _VPN_ and other AI tools such as _Gemini_ or _ChatGPT_.
 
-**For Android users**: It's just a bit more involved. First, search online (Bing is recommended, or try *Yandex* if needed) to find a **foreign node**, input it into a node tool (we recommend *V2ray*), then head over to *Apkpure* to download the apps mentioned above.
+**For Android users**: It's just a bit more involved. First, search online (Bing is recommended, or try _Yandex_ if needed) to find a **foreign node**, input it into a node tool (we recommend _V2ray_), then head over to _Apkpure_ to download the apps mentioned above.

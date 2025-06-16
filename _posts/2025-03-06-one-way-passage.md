@@ -2,12 +2,12 @@
 layout: post
 title: 信任的单向流动：制度化服从与觉醒的隐喻
 date: 2025-03-06
-excerpt: '一条只能前行的通道，象征信任的单向灌注；本文揭示制度化信任如何掩盖个体的声音，并提出“从自我开始”的逆流可能。A one-way passage symbolizes trust flowing top-down; this piece reveals how institutionalized trust silences individuals and proposes a reversal—starting with the self.'
+excerpt: "一条只能前行的通道，象征信任的单向灌注；本文揭示制度化信任如何掩盖个体的声音，并提出“从自我开始”的逆流可能。A one-way passage symbolizes trust flowing top-down; this piece reveals how institutionalized trust silences individuals and proposes a reversal—starting with the self."
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -33,10 +33,10 @@ You are walking through a passage that only goes forward—its entrance wide lik
 
 You were never taught to trust the quiet ones: the child, the patient, the student, yourself. Their language is incomplete, their logic unrefined, their posture uncredentialed—as if to be heard at all is already a transgression. So you learned silence. You learned to wait for grades. You learned to fold your questions into your sleeves and trade your voice for acceptance. You were trained so well you forgot that trust was once supposed to be mutual, not something dispensed from above.
 
-Now you see it—trust turned liquid, flowing one way only, from authority into you: filling your thoughts, your choices, your sense of pain and rightness. When you're sick, the doctor says “trust me.” When you're uncertain, the teacher says “follow me.” When you're exhausted, the company says “we’ve planned your future.” But who asked *you* if you agreed? Who asked if you trusted *yourself*?
+Now you see it—trust turned liquid, flowing one way only, from authority into you: filling your thoughts, your choices, your sense of pain and rightness. When you're sick, the doctor says “trust me.” When you're uncertain, the teacher says “follow me.” When you're exhausted, the company says “we’ve planned your future.” But who asked _you_ if you agreed? Who asked if you trusted _yourself_?
 
 What if one day trust could reverse—flow back from you into the world, from students to teachers, from patients to doctors, from the people to the state, from your trembling interior to the wall at the end of this corridor? Would it crack open—this passage, this membrane called “order,” this self already scripted into compliance?
 
-You no longer care where the corridor leads. You want to know why you can’t stop. You stop asking who deserves trust, and begin whispering: why *can’t I* be the one who is trusted? Trust should not be a reward. It is not a license. It is the courage of two gazes meeting in the dark and choosing not to look away.
+You no longer care where the corridor leads. You want to know why you can’t stop. You stop asking who deserves trust, and begin whispering: why _can’t I_ be the one who is trusted? Trust should not be a reward. It is not a license. It is the courage of two gazes meeting in the dark and choosing not to look away.
 
 And the first step is not revolution. Not dismantling systems. It's simply this: You open your eyes. You look in the mirror. And you say—**“I trust you.”**
