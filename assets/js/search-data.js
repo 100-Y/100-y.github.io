@@ -72,15 +72,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "dropdown-互联网-internet",
-              title: "互联网 / Internet",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-衍生品-翻译-整理",
-              title: "衍生品（翻译、整理）",
+            },{id: "dropdown-翻译-整理",
+              title: "翻译、整理",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -88,6 +81,13 @@ ninja.data = [{
               },
             },{id: "dropdown-汉阳舟子集",
               title: "汉阳舟子集",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "dropdown-互联网",
+              title: "互联网",
               description: "",
               section: "Dropdown",
               handler: () => {
