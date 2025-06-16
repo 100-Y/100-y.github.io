@@ -4629,6 +4629,13 @@ ninja.data = [{
           window.open("https://www.pinterest.com/36525day", "_blank");
         },
       },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/36525_day", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
