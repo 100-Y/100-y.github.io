@@ -73,7 +73,7 @@ ninja.data = [{
                 window.location.href = "/blog/";
               },
             },{id: "dropdown-翻译-整理",
-              title: "翻译、整理、",
+              title: "翻译、整理",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -90,7 +90,7 @@ ninja.data = [{
         
           title: '100-Y · GitHub <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "100-Y has one repository available. Follow their code on GitHub.",
+        description: "100-Y has 2 repositories available. Follow their code on GitHub.",
         section: "Posts",
         handler: () => {
           
