@@ -73,7 +73,7 @@ ninja.data = [{
                 window.location.href = "/blog/";
               },
             },{id: "dropdown-翻译-整理",
-              title: "翻译、整理、",
+              title: "翻译、整理",
               description: "",
               section: "Dropdown",
               handler: () => {
