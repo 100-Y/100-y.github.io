@@ -1,6 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+lang: en
+locale: en_US
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: 36,525 days
