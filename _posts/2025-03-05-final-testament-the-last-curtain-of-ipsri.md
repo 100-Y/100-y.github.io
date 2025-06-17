@@ -45,4 +45,4 @@ related_posts: true
 
 你们的故事，还在继续。
 
-网站 rips.rip，已重定向至https://36525.day。这边，迎来的是“100-Y”的新生。
+网站 rips.rip，已重定向至 36525.day。这边，迎来的是“100-Y”的新生。
