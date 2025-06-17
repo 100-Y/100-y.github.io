@@ -16,77 +16,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "dropdown-随笔-notes",
-              title: "随笔 / Notes",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-诗歌-poems",
-              title: "诗歌 / Poems",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-短语-phrases",
-              title: "短语 / Phrases",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-梦境-dreams",
-              title: "梦境 / Dreams",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-杂文-essays",
-              title: "杂文 / Essays",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-绘画-paintings",
-              title: "绘画 / Paintings",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-海城墙-sea-wall",
-              title: "海城墙 / Sea-Wall",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-云之国-cloud-country",
-              title: "云之国 / Cloud-Country",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-翻译-整理",
-              title: "翻译、整理",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-汉阳舟子集",
-              title: "汉阳舟子集",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-被托管的世界-the-managed-world",
+        },{id: "nav-归类-c-a",
+          title: "归类 / C-A",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/c-a/";
+          },
+        },{id: "nav-声明-notice",
+          title: "声明 / Notice",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/notice/";
+          },
+        },{id: "nav-隐私-privacy",
+          title: "隐私 / Privacy",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/privacy/";
+          },
+        },{id: "post-被托管的世界-the-managed-world",
         
           title: "被托管的世界 / The Managed World",
         
@@ -4596,79 +4547,4 @@ ninja.data = [{
             window.location.href = "/blog/2010-09-15/ordinary-stars/";
           
         },
-      },{
-        id: 'social-youtube',
-        title: 'YouTube',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://youtube.com/@36525_day", "_blank");
-        },
-      },{
-        id: 'social-pinterest',
-        title: 'Pinterest',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.pinterest.com/36525day", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/100-Y/100-y.github.io", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:", "_blank");
-        },
-      },{
-        id: 'social-medium',
-        title: 'Medium',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://medium.com/@36525.day", "_blank");
-        },
-      },{
-        id: 'social-wechat_qr',
-        title: 'Wechat_qr',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/36525_day", "_blank");
-        },
-      },{
-      id: 'light-theme',
-      title: 'Change theme to light',
-      description: 'Change the theme of the site to Light',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("light");
-      },
-    },
-    {
-      id: 'dark-theme',
-      title: 'Change theme to dark',
-      description: 'Change the theme of the site to Dark',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("dark");
-      },
-    },
-    {
-      id: 'system-theme',
-      title: 'Use system default theme',
-      description: 'Change the theme of the site to System Default',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("system");
-      },
-    },];
+      },];
