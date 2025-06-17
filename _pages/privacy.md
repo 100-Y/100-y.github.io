@@ -2,8 +2,8 @@
 layout: page
 permalink: /privacy/
 title: 隐私 / Privacy
-nav: false
-nav_order: 4
+nav: true
+nav_order: 5
 ---
 
 ---

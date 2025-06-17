@@ -2,8 +2,8 @@
 layout: page
 permalink: /notice/
 title: 声明 / Notice
-nav: false
-nav_order: 3
+nav: true
+nav_order: 4
 ---
 
 ---
