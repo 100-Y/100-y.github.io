@@ -4608,18 +4608,11 @@ ninja.data = [{
           
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-youtube',
+        title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/100-Y", "_blank");
-        },
-      },{
-        id: 'social-medium',
-        title: 'Medium',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://medium.com/@36525.day", "_blank");
+          window.open("https://youtube.com/@36525_day", "_blank");
         },
       },{
         id: 'social-pinterest',
@@ -4629,18 +4622,39 @@ ninja.data = [{
           window.open("https://www.pinterest.com/36525day", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/100-Y", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:", "_blank");
+        },
+      },{
+        id: 'social-medium',
+        title: 'Medium',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://medium.com/@36525.day", "_blank");
+        },
+      },{
+        id: 'social-wechat_qr',
+        title: 'Wechat_qr',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/36525_day", "_blank");
-        },
-      },{
-        id: 'social-youtube',
-        title: 'YouTube',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://youtube.com/@36525_day", "_blank");
         },
       },{
       id: 'light-theme',
