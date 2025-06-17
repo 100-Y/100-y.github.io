@@ -31,7 +31,7 @@ related_posts: true
 
 **Media**
 
-The well mouth and river that connect the World and the Outsider, or the key that opens the gate inside and outside the Sea Wall. [Characters Relationship: Ocean Residents](https://36525.day/2017/10/13/characters-relationship-ocean-residents/) has already mentioned, here explain in more detail.
+The well mouth and river that connect the World and the Outsider, or the key that opens the gate inside and outside the Sea Wall. [Characters Relationship: Ocean Residents](/_posts/2017-10-13-characters-relationship-ocean-residents.md) has already mentioned, here explain in more detail.
 
 That is, the “twenty-year rotation cycle” refers to the World and the Outsider each running separately, and then producing an intersection. This intersection, similar to two planets running on their own orbits, one day, they meet, open up a bridge to enter each other’s orbits. In the World region, one end of the bridge is a “well mouth” somewhere inside the Sea Wall; in the Outsider, it is a river outside the wall.
 
