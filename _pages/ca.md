@@ -38,7 +38,7 @@ nav_order: 3
   {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
   {% for year in posts_by_year %}
     <li style="margin-bottom: 12px;">
-      <a href="{{ '/blog/' | append: year.name | append: '/' }}" style="font-size: inherit;">
+      <a href="{{ '/blog/' | append: year.name | append: '/' | relative_url }}" style="font-size: inherit;">
         {{ year.name }}
       </a> ({{ year.items | size }})
     </li>
