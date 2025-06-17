@@ -6,7 +6,7 @@ subtitle: 1#36525.day
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: logo.svg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>100-Y</p>
