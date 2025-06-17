@@ -86,18 +86,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-100-y-github",
-        
-          title: '100-Y · GitHub <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "100-Y has one repository available. Follow their code on GitHub.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://github.com/100-Y", "_blank");
-          
-        },
-      },{id: "post-被托管的世界-the-managed-world",
+            },{id: "post-被托管的世界-the-managed-world",
         
           title: "被托管的世界 / The Managed World",
         
