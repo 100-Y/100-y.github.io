@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ca/
-title: 归类 / CA
+permalink: /c-a/
+title: 归类 / C-A
 nav: true
 nav_order: 3
 ---
