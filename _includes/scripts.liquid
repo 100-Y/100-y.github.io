@@ -177,14 +177,6 @@
 {% if page.images %}
   <!-- Image Layouts -->
 
-  {% if page.images.lightbox2 %}
-    <script
-      defer
-      src="{{ site.third_party_libraries.lightbox2.url.js }}"
-      integrity="{{ site.third_party_libraries.lightbox2.integrity.js }}"
-      crossorigin="anonymous"
-    ></script>
-  {% endif %}
   {% if page.images.photoswipe %}
     <script defer src="{{ '/assets/js/photoswipe-setup.js' | relative_url }}" type="module"></script>
   {% endif %}
