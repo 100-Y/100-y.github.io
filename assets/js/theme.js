@@ -35,11 +35,6 @@ let applyTheme = () => {
     setMermaidTheme(theme);
   }
 
-  // if diff2html is not defined, do nothing
-  if (typeof Diff2HtmlUI !== "undefined") {
-    setDiff2htmlTheme(theme);
-  }
-
   // if echarts is not defined, do nothing
   if (typeof echarts !== "undefined") {
     setEchartsTheme(theme);
@@ -84,17 +79,6 @@ let setGiscusTheme = (theme) => {
     setConfig: {
       theme: theme,
     },
-  });
-};
-
-let setDiff2htmlTheme = (theme) => {
-  document.querySelectorAll(".diff2html").forEach((elem) => {
-    // Get the code block content from previous element, since it is the diff code itself as defined in Markdown, but it is hidden
-    let textData = elem.previousSibling.childNodes[0].innerHTML;
-    elem.innerHTML = "";
-    const configuration = { colorScheme: theme, drawFileList: true, highlight: true, matching: "lines" };
-    const diff2htmlUi = new Diff2HtmlUI(elem, textData, configuration);
-    diff2htmlUi.draw();
   });
 };
 

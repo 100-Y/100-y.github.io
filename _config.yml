@@ -324,14 +324,7 @@ third_party_libraries:
     url:
       js: "https://cdn.jsdelivr.net/npm/d3@{{version}}/dist/d3.min.js"
     version: "7.8.5"
-  diff2html:
-    integrity:
-      css: "sha256-IMBK4VNZp0ivwefSn51bswdsrhk0HoMTLc2GqFHFBXg="
-      js: "sha256-eU2TVHX633T1o/bTQp6iIJByYJEtZThhF9bKz/DcbbY="
-    url:
-      css: "https://cdn.jsdelivr.net/npm/diff2html@{{version}}/bundles/css/diff2html.min.css"
-      js: "https://cdn.jsdelivr.net/npm/diff2html@{{version}}/bundles/js/diff2html-ui.min.js"
-    version: "3.4.47"
+
   echarts:
     integrity:
       js:

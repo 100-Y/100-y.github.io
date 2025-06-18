@@ -42,17 +42,6 @@
   <script defer src="{{ '/assets/js/mermaid-setup.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
 {% endif %}
 
-{% if page.code_diff %}
-  <!-- Diff2HTML -->
-  <!-- diff2html doesn't go well with Bootstrap Table -->
-  <script
-    src="{{ site.third_party_libraries.diff2html.url.js }}"
-    integrity="{{ site.third_party_libraries.diff2html.integrity.js }}"
-    crossorigin="anonymous"
-  ></script>
-  <script defer src="{{ '/assets/js/diff2html-setup.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
-{% endif %}
-
 {% if page.map %}
   <!-- Leaflet -->
   <script
@@ -153,7 +142,6 @@
 <!-- Load Common JS -->
 <script src="{{ '/assets/js/no_defer.js' | relative_url | bust_file_cache }}"></script>
 <script defer src="{{ '/assets/js/common.js' | relative_url | bust_file_cache }}"></script>
-<script defer src="{{ '/assets/js/copy_code.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
 
 <!-- Badges -->
 {% if site.enable_publication_badges.altmetric %}
