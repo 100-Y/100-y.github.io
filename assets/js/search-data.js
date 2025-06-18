@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/privacy/";
           },
-        },{id: "post-test",
-        
-          title: "test",
-        
-        description: "test",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-10/test/";
-          
-        },
-      },{id: "post-被托管的世界-the-managed-world",
+        },{id: "post-被托管的世界-the-managed-world",
         
           title: "被托管的世界 / The Managed World",
         
