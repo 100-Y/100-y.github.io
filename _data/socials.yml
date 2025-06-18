@@ -28,7 +28,7 @@ pinterest_id: 36525day # your pinterest id
 github_username: 100-Y/100-y.github.io # your GitHub user name
 email: # your email address
 medium_username: 36525.day # your Medium username
-wechat_qr: weixin.png # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+wechat_qr: weixin.webp # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 x_username: 36525_day # your X handle
 
 # publons_id: # your ID on Publons
