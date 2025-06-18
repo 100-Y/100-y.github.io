@@ -5690,34 +5690,7 @@ $ti-icon-zodiac-sagittarius: unicode('ecb4');
 $ti-icon-zodiac-scorpio: unicode('ecb5');
 $ti-icon-zodiac-taurus: unicode('ecb6');
 $ti-icon-zodiac-virgo: unicode('ecb7');
-$ti-icon-zoom: unicode('fdaa');
-$ti-icon-zoom-cancel: unicode('ec4d');
-$ti-icon-zoom-cancel-filled: unicode('fdc6');
-$ti-icon-zoom-check: unicode('ef09');
-$ti-icon-zoom-check-filled: unicode('f786');
-$ti-icon-zoom-code: unicode('f07f');
-$ti-icon-zoom-code-filled: unicode('fdc5');
-$ti-icon-zoom-exclamation: unicode('f080');
-$ti-icon-zoom-exclamation-filled: unicode('fdc4');
-$ti-icon-zoom-filled: unicode('f787');
-$ti-icon-zoom-in: unicode('eb56');
-$ti-icon-zoom-in-area: unicode('f1dc');
-$ti-icon-zoom-in-area-filled: unicode('f788');
-$ti-icon-zoom-in-filled: unicode('f789');
-$ti-icon-zoom-money: unicode('ef0a');
-$ti-icon-zoom-money-filled: unicode('fdc3');
-$ti-icon-zoom-out: unicode('eb57');
-$ti-icon-zoom-out-area: unicode('f1dd');
-$ti-icon-zoom-out-area-filled: unicode('fdc2');
-$ti-icon-zoom-out-filled: unicode('f78a');
-$ti-icon-zoom-pan: unicode('f1de');
-$ti-icon-zoom-pan-filled: unicode('fdc1');
-$ti-icon-zoom-question: unicode('edeb');
-$ti-icon-zoom-question-filled: unicode('fdc0');
-$ti-icon-zoom-replace: unicode('f2a7');
-$ti-icon-zoom-reset: unicode('f295');
-$ti-icon-zoom-scan: unicode('fcb0');
-$ti-icon-zoom-scan-filled: unicode('fdbf');
+
 $ti-icon-zzz: unicode('f228');
 $ti-icon-zzz-off: unicode('f440');
 
@@ -11375,34 +11348,7 @@ $ti-icon-zzz-off: unicode('f440');
 .#{$ti-prefix}-zodiac-scorpio:before { content: $ti-icon-zodiac-scorpio; }
 .#{$ti-prefix}-zodiac-taurus:before { content: $ti-icon-zodiac-taurus; }
 .#{$ti-prefix}-zodiac-virgo:before { content: $ti-icon-zodiac-virgo; }
-.#{$ti-prefix}-zoom:before { content: $ti-icon-zoom; }
-.#{$ti-prefix}-zoom-cancel:before { content: $ti-icon-zoom-cancel; }
-.#{$ti-prefix}-zoom-cancel-filled:before { content: $ti-icon-zoom-cancel-filled; }
-.#{$ti-prefix}-zoom-check:before { content: $ti-icon-zoom-check; }
-.#{$ti-prefix}-zoom-check-filled:before { content: $ti-icon-zoom-check-filled; }
-.#{$ti-prefix}-zoom-code:before { content: $ti-icon-zoom-code; }
-.#{$ti-prefix}-zoom-code-filled:before { content: $ti-icon-zoom-code-filled; }
-.#{$ti-prefix}-zoom-exclamation:before { content: $ti-icon-zoom-exclamation; }
-.#{$ti-prefix}-zoom-exclamation-filled:before { content: $ti-icon-zoom-exclamation-filled; }
-.#{$ti-prefix}-zoom-filled:before { content: $ti-icon-zoom-filled; }
-.#{$ti-prefix}-zoom-in:before { content: $ti-icon-zoom-in; }
-.#{$ti-prefix}-zoom-in-area:before { content: $ti-icon-zoom-in-area; }
-.#{$ti-prefix}-zoom-in-area-filled:before { content: $ti-icon-zoom-in-area-filled; }
-.#{$ti-prefix}-zoom-in-filled:before { content: $ti-icon-zoom-in-filled; }
-.#{$ti-prefix}-zoom-money:before { content: $ti-icon-zoom-money; }
-.#{$ti-prefix}-zoom-money-filled:before { content: $ti-icon-zoom-money-filled; }
-.#{$ti-prefix}-zoom-out:before { content: $ti-icon-zoom-out; }
-.#{$ti-prefix}-zoom-out-area:before { content: $ti-icon-zoom-out-area; }
-.#{$ti-prefix}-zoom-out-area-filled:before { content: $ti-icon-zoom-out-area-filled; }
-.#{$ti-prefix}-zoom-out-filled:before { content: $ti-icon-zoom-out-filled; }
-.#{$ti-prefix}-zoom-pan:before { content: $ti-icon-zoom-pan; }
-.#{$ti-prefix}-zoom-pan-filled:before { content: $ti-icon-zoom-pan-filled; }
-.#{$ti-prefix}-zoom-question:before { content: $ti-icon-zoom-question; }
-.#{$ti-prefix}-zoom-question-filled:before { content: $ti-icon-zoom-question-filled; }
-.#{$ti-prefix}-zoom-replace:before { content: $ti-icon-zoom-replace; }
-.#{$ti-prefix}-zoom-reset:before { content: $ti-icon-zoom-reset; }
-.#{$ti-prefix}-zoom-scan:before { content: $ti-icon-zoom-scan; }
-.#{$ti-prefix}-zoom-scan-filled:before { content: $ti-icon-zoom-scan-filled; }
+
 .#{$ti-prefix}-zzz:before { content: $ti-icon-zzz; }
 .#{$ti-prefix}-zzz-off:before { content: $ti-icon-zzz-off; }
 

@@ -4902,21 +4902,7 @@ $ti-icon-zodiac-sagittarius: unicode('ecb4');
 $ti-icon-zodiac-scorpio: unicode('ecb5');
 $ti-icon-zodiac-taurus: unicode('ecb6');
 $ti-icon-zodiac-virgo: unicode('ecb7');
-$ti-icon-zoom: unicode('fdaa');
-$ti-icon-zoom-cancel: unicode('ec4d');
-$ti-icon-zoom-check: unicode('ef09');
-$ti-icon-zoom-code: unicode('f07f');
-$ti-icon-zoom-exclamation: unicode('f080');
-$ti-icon-zoom-in: unicode('eb56');
-$ti-icon-zoom-in-area: unicode('f1dc');
-$ti-icon-zoom-money: unicode('ef0a');
-$ti-icon-zoom-out: unicode('eb57');
-$ti-icon-zoom-out-area: unicode('f1dd');
-$ti-icon-zoom-pan: unicode('f1de');
-$ti-icon-zoom-question: unicode('edeb');
-$ti-icon-zoom-replace: unicode('f2a7');
-$ti-icon-zoom-reset: unicode('f295');
-$ti-icon-zoom-scan: unicode('fcb0');
+
 $ti-icon-zzz: unicode('f228');
 $ti-icon-zzz-off: unicode('f440');
 
@@ -9786,21 +9772,7 @@ $ti-icon-zzz-off: unicode('f440');
 .#{$ti-prefix}-zodiac-scorpio:before { content: $ti-icon-zodiac-scorpio; }
 .#{$ti-prefix}-zodiac-taurus:before { content: $ti-icon-zodiac-taurus; }
 .#{$ti-prefix}-zodiac-virgo:before { content: $ti-icon-zodiac-virgo; }
-.#{$ti-prefix}-zoom:before { content: $ti-icon-zoom; }
-.#{$ti-prefix}-zoom-cancel:before { content: $ti-icon-zoom-cancel; }
-.#{$ti-prefix}-zoom-check:before { content: $ti-icon-zoom-check; }
-.#{$ti-prefix}-zoom-code:before { content: $ti-icon-zoom-code; }
-.#{$ti-prefix}-zoom-exclamation:before { content: $ti-icon-zoom-exclamation; }
-.#{$ti-prefix}-zoom-in:before { content: $ti-icon-zoom-in; }
-.#{$ti-prefix}-zoom-in-area:before { content: $ti-icon-zoom-in-area; }
-.#{$ti-prefix}-zoom-money:before { content: $ti-icon-zoom-money; }
-.#{$ti-prefix}-zoom-out:before { content: $ti-icon-zoom-out; }
-.#{$ti-prefix}-zoom-out-area:before { content: $ti-icon-zoom-out-area; }
-.#{$ti-prefix}-zoom-pan:before { content: $ti-icon-zoom-pan; }
-.#{$ti-prefix}-zoom-question:before { content: $ti-icon-zoom-question; }
-.#{$ti-prefix}-zoom-replace:before { content: $ti-icon-zoom-replace; }
-.#{$ti-prefix}-zoom-reset:before { content: $ti-icon-zoom-reset; }
-.#{$ti-prefix}-zoom-scan:before { content: $ti-icon-zoom-scan; }
+
 .#{$ti-prefix}-zzz:before { content: $ti-icon-zzz; }
 .#{$ti-prefix}-zzz-off:before { content: $ti-icon-zzz-off; }
 
