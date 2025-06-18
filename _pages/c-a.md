@@ -35,14 +35,11 @@ nav_order: 3
 ## 2 归档 / Archives
 
 <ul style="line-height: 1; font-size: 18px; list-style: none; padding-left: 0;">
-  {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-  {% for year in posts_by_year %}
-    <li style="margin-bottom: 12px;">
-      <a href="/blog/' | append: year.name | relative_url }}" style="font-size: inherit;">
-      
-        {{ year.name }}
-      </a> ({{ year.items | size }})
-    </li>
-  {% endfor %}
-</ul>
----
+      {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+      {% for year in posts_by_year %}
+        <li style="margin-bottom: 12px;">
+          <a href="{{ '/blog/' | append: year.name | append: '/' }}" style="font-size: inherit;">
+            {{ year.name }}
+          </a> ({{ year.items | size }})
+        </li>
+      {% endfor %}
