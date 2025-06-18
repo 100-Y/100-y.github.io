@@ -30,11 +30,6 @@ let applyTheme = () => {
   setGiscusTheme(theme);
   setSearchTheme(theme);
 
-  // if mermaid is not defined, do nothing
-  if (typeof mermaid !== "undefined") {
-    setMermaidTheme(theme);
-  }
-
   // if echarts is not defined, do nothing
   if (typeof echarts !== "undefined") {
     setEchartsTheme(theme);
