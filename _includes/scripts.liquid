@@ -105,18 +105,6 @@
   <script async src="https://badge.dimensions.ai/badge.js"></script>
 {% endif %}
 
-{% if site.enable_math %}
-  <!-- MathJax -->
-  <script
-    defer
-    type="text/javascript"
-    id="MathJax-script"
-    src="{{ site.third_party_libraries.mathjax.url.js }}"
-    integrity="{{ site.third_party_libraries.mathjax.integrity.js }}"
-    crossorigin="anonymous"
-  ></script>
-{% endif %}
-
 {% if site.enable_cronitor_analytics %}
   <!-- Cronitor RUM -->
   <script async src="https://rum.cronitor.io/script.js"></script>
