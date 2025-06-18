@@ -35,11 +35,6 @@ let applyTheme = () => {
     setEchartsTheme(theme);
   }
 
-  // if vegaEmbed is not defined, do nothing
-  if (typeof vegaEmbed !== "undefined") {
-    setVegaLiteTheme(theme);
-  }
-
   document.documentElement.setAttribute("data-theme", theme);
 
   // Add class to tables.
@@ -90,19 +85,6 @@ let setEchartsTheme = (theme) => {
     }
 
     chart.setOption(JSON.parse(jsonData));
-  });
-};
-
-let setVegaLiteTheme = (theme) => {
-  document.querySelectorAll(".vega-lite").forEach((elem) => {
-    // Get the code block content from previous element, since it is the vega lite code itself as defined in Markdown, but it is hidden
-    let jsonData = elem.previousSibling.childNodes[0].innerHTML;
-    elem.innerHTML = "";
-    if (theme === "dark") {
-      vegaEmbed(elem, JSON.parse(jsonData), { theme: "dark" });
-    } else {
-      vegaEmbed(elem, JSON.parse(jsonData));
-    }
   });
 };
 
