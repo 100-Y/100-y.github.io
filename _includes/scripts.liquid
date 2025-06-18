@@ -13,21 +13,6 @@
   crossorigin="anonymous"
 ></script>
 
-{% if page.tikzjax %}
-  <!-- Tikzjax -->
-  <script
-    defer
-    src="https://tikzjax.com/v1/tikzjax.js"
-    integrity="sha256-+1qyucCXRZJrCg3lm3KxRt/7WXaYhBid4/1XJRHGB1E="
-    crossorigin="anonymous"
-  ></script>
-{% endif %}
-
-{% if page.typograms %}
-  <!-- Typograms -->
-  <script src="{{ '/assets/js/typograms.js' | relative_url | bust_file_cache }}"></script>
-{% endif %}
-
 {% if site.enable_tooltips %}
   <!-- Tooltips -->
   <script src="{{ '/assets/js/tooltips-setup.js' | relative_url | bust_file_cache }}"></script>
@@ -38,28 +23,9 @@
   <script defer src="{{ '/assets/js/bootstrap-toc.min.js' | relative_url | bust_file_cache }}"></script>
 {% endif %}
 
-{% if page.pretty_table %}
-  <!-- Bootstrap Table -->
-  <!-- Bootstrap Table doesn't go well with diff2html -->
-  <script
-    defer
-    src="{{ site.third_party_libraries.bootstrap-table.url.js }}"
-    integrity="{{ site.third_party_libraries.bootstrap-table.integrity.js }}"
-    crossorigin="anonymous"
-  ></script>
-{% endif %}
-
 <!-- Load Common JS -->
 <script src="{{ '/assets/js/no_defer.js' | relative_url | bust_file_cache }}"></script>
 <script defer src="{{ '/assets/js/common.js' | relative_url | bust_file_cache }}"></script>
-
-<!-- Badges -->
-{% if site.enable_publication_badges.altmetric %}
-  <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-{% endif %}
-{% if site.enable_publication_badges.dimensions %}
-  <script async src="https://badge.dimensions.ai/badge.js"></script>
-{% endif %}
 
 {% if site.enable_cronitor_analytics %}
   <!-- Cronitor RUM -->

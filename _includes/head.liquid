@@ -10,17 +10,6 @@
   crossorigin="anonymous"
 >
 
-{% if page.pretty_table %}
-  <!-- Bootstrap Table -->
-  <link
-    defer
-    rel="stylesheet"
-    href="{{ site.third_party_libraries.bootstrap-table.url.css }}"
-    integrity="{{ site.third_party_libraries.bootstrap-table.integrity.css }}"
-    crossorigin="anonymous"
-  >
-{% endif %}
-
 <!-- Code Syntax Highlighting -->
 <link
   defer
@@ -94,8 +83,4 @@
       crossorigin="anonymous"
     >
   {% endif %}
-{% endif %}
-
-{% if page.tikzjax %}
-  <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
 {% endif %}
