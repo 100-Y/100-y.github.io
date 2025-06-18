@@ -40,17 +40,6 @@
   <script defer src="{{ '/assets/js/leaflet-setup.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
 {% endif %}
 
-{% if page.chart and page.chart.chartjs %}
-  <!-- Chart.js -->
-  <script
-    defer
-    src="{{ site.third_party_libraries.chartjs.url.js }}"
-    integrity="{{ site.third_party_libraries.chartjs.integrity.js }}"
-    crossorigin="anonymous"
-  ></script>
-  <script defer src="{{ '/assets/js/chartjs-setup.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
-{% endif %}
-
 {% if page.chart and page.chart.echarts %}
   <!-- ECharts -->
   <script
