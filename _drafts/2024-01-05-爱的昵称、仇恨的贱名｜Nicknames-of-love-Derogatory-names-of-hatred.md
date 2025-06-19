@@ -1,0 +1,19 @@
+---
+layout: post
+title: '爱的昵称、仇恨的贱名｜Nicknames of love, Derogatory names of hatred'
+date: 2024-01-05
+excerpt: '这里填写摘要'
+description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
+og_image: /assets/img/blog/xxxxxxxx
+
+thumbnail: /assets/img/blog/xxxxxxxx
+categories: Notes
+tags: 
+related_posts: true
+---
+
+<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+
+2024/01/05打着“爱”或“仇恨”的名义，对个人或群体，取不适当的昵称或侮辱性质的贱名。是人性，对于爱的亵渎或仇恨的滥用。也是人类，对于周围和环境适应过程当中，广泛存在的平庸之恶。  
+  
+\- In the name of 'love' or 'hatred', taking inappropriate nicknames or derogatory names for individuals or groups. Is human nature to profanity of love or misuse of hatred. Is also human a common phenomenon of Banality of evil , widely present in the process of adapting to surroundings and environment.
