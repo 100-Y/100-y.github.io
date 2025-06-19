@@ -2,13 +2,13 @@
 layout: post
 title: 面临化疗决策：用关怀治愈家庭冲突
 date: 2025-04-19
-excerpt: 'When families face chemotherapy decisions, conflict isn’t about blame—it’s love in tension. Explore how to rebuild understanding through structure, emotion, and action.'
+excerpt: "When families face chemotherapy decisions, conflict isn’t about blame—it’s love in tension. Explore how to rebuild understanding through structure, emotion, and action."
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Essays
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -119,7 +119,7 @@ related_posts: true
 
 ## Facing Chemotherapy Decisions: Healing Family Conflict with Care
 
-In the face of major medical decisions—like whether to proceed with chemotherapy—family conflict often surfaces not just from *disagreement*, but from something deeper:  
+In the face of major medical decisions—like whether to proceed with chemotherapy—family conflict often surfaces not just from _disagreement_, but from something deeper:  
 Each person plays a different role, carries a different emotional burden, yet rarely receives equal understanding or space for release.
 
 This is a profoundly difficult family dilemma.  
@@ -167,7 +167,7 @@ Without realignment, the family becomes trapped in a cycle of unspoken emotional
 
 - Feels coerced: “Pay or be labeled cold”
 - Resentment builds with no outlet, often reemerges as financial blame
-- Forms what we might call **“economic resentment”:** *You decide, I pay?*
+- Forms what we might call **“economic resentment”:** _You decide, I pay?_
 
 **The Exhausted Caregiver’s Pain:**
 
@@ -181,7 +181,7 @@ Without acknowledgment, these pains solidify into silence, blame, or emotional w
 
 #### Step 1: Acknowledge What Has Already Happened
 
-Stop trying to *rewrite the past* by blaming the one who “made the call.”  
+Stop trying to _rewrite the past_ by blaming the one who “made the call.”  
 Instead, shift the frame:
 
 > “We can’t change the decision that was made.  
@@ -194,17 +194,17 @@ This turns a past mistake into a **shared fate**, not a personal guilt file.
 **Ground rules:** No arguing right or wrong.  
 Each person only shares two things:
 
-- *“What were you thinking then?”*
-- *“What’s hardest for you now?”*
+- _“What were you thinking then?”_
+- _“What’s hardest for you now?”_
 
 Sample prompts:
 
 - “What made you support or oppose treatment at the time?”  
-    → Everyone deserves to feel heard.
+   → Everyone deserves to feel heard.
 - “What are you struggling with most right now?”  
-    → Shifts focus from blame to present needs.
+   → Shifts focus from blame to present needs.
 - “Can we agree not to revisit the past, but to work as a team now?”  
-    → A minimum threshold of unity.
+   → A minimum threshold of unity.
 
 Tip: Consider inviting a **neutral third party** (e.g., family friend, therapist, or hospital social worker) to mediate if needed.
 
@@ -219,8 +219,8 @@ Tip: Consider inviting a **neutral third party** (e.g., family friend, therapist
 
 </figure>**Golden rule:**
 
-> *If you carry more, you should be heard more;  
-> If you decide more, you must carry more.*
+> _If you carry more, you should be heard more;  
+> If you decide more, you must carry more._
 
 #### Step 4: Nominate a “Buffer Person” or Emotional Translator
 
@@ -238,4 +238,4 @@ This person is not “in charge”—they are **the quiet stabilizer**.
 But if love decays in the silence of blame, that becomes another kind of death.
 
 A family isn’t defined by always agreeing.  
-It’s defined by *not giving up on each other when we don’t*.
+It’s defined by _not giving up on each other when we don’t_.

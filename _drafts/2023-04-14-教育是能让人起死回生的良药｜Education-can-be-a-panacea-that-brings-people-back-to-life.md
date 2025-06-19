@@ -1,14 +1,14 @@
 ---
 layout: post
-title: '教育是能让人起死回生的良药｜Education can be a panacea that brings people back to life'
+title: "教育是能让人起死回生的良药｜Education can be a panacea that brings people back to life"
 date: 2023-04-14
-excerpt: '这里填写摘要'
+excerpt: "这里填写摘要"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -26,8 +26,8 @@ related_posts: true
 教育的力量不容小觑  
 教育的责任不容推卸  
 教育的目标不是应试和分数  
-教育的意义是成长和幸福  
-  
+教育的意义是成长和幸福
+
 \- Education can be a panacea that brings people back to life,  
 \- Or a sharp sword that takes it away.  
 \- It can open the door to wisdom,  

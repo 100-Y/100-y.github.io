@@ -1,14 +1,14 @@
 ---
 layout: post
-title: '像苦行僧那般活着｜Live like an ascetic'
+title: "像苦行僧那般活着｜Live like an ascetic"
 date: 2022-09-14
-excerpt: '这里填写摘要'
+excerpt: "这里填写摘要"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -25,10 +25,10 @@ related_posts: true
 任世间繁华如何地变迁  
 内心依然富足保持充实（嘲与讽）  
 大化同归没得选  
-山高路远又何妨  
-  
-注：大化，生命；同归，死亡。  
-  
+山高路远又何妨
+
+注：大化，生命；同归，死亡。
+
 \- Find a great hidden land  
 \- Build a humble house  
 \- Reclaim a private plot  

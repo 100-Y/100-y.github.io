@@ -2,13 +2,13 @@
 layout: post
 title: 纯白屋顶与绿色苔藓｜pure-white-roof-and-green-moss
 date: 2023-08-27
-excerpt: '这里填写摘要'
+excerpt: "这里填写摘要"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -25,15 +25,15 @@ related_posts: true
 明与暗之间的纠结  
 屋顶和苔藓  
 是一种美丽对照  
-亦是一种悲哀的反衬  
-  
+亦是一种悲哀的反衬
+
 \- The summer sun is shining  
 \- Pure white roof canvas  
 \- Waiting for colors to smear  
 \- The air is fresh after the rain  
 \- Green moss life  
-\- Wrap around the space cracks  
-  
+\- Wrap around the space cracks
+
 \- Pure white and green  
 \- Complement each other  
 \- The entanglement between light and darkness  

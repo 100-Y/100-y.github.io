@@ -1,14 +1,14 @@
 ---
 layout: post
-title: '致富士康工友的一首诗｜A poem to foxconn workers'
+title: "致富士康工友的一首诗｜A poem to foxconn workers"
 date: 2023-03-03
-excerpt: '这里填写摘要'
+excerpt: "这里填写摘要"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -30,8 +30,8 @@ related_posts: true
 你们是英雄，你们是先驱  
 你们是工人阶级的骄傲和荣耀  
 你们的牺牲不会白费  
-你们的精神将永垂不朽  
-  
+你们的精神将永垂不朽
+
 \- In the factory of Foxconn  
 \- You worked hard day and night  
 \- For your livelihood, for your dreams  

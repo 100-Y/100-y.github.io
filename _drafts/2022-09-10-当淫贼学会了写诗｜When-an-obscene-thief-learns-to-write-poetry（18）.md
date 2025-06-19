@@ -1,26 +1,26 @@
 ---
 layout: post
-title: '当淫贼学会了写诗｜When an obscene thief learns to write poetry（18+）'
+title: "当淫贼学会了写诗｜When an obscene thief learns to write poetry（18+）"
 date: 2022-09-10
-excerpt: '这里填写摘要'
+excerpt: "这里填写摘要"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
 <img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
 
 2022/09/10  
-用以展示和揭露自己内心，“丑陋不堪”的一面。同时，区分和讽刺，那些欲遮还羞、只敢搞擦边球的“屎尿屁诗”。  
-  
-\- It is used to show and expose the “ugly” side of my own heart. At the same time, it distinguishes and satirises those “shit poems” that only dare to make a fool of themselves.  
-  
-宝：  
-  
+用以展示和揭露自己内心，“丑陋不堪”的一面。同时，区分和讽刺，那些欲遮还羞、只敢搞擦边球的“屎尿屁诗”。
+
+\- It is used to show and expose the “ugly” side of my own heart. At the same time, it distinguishes and satirises those “shit poems” that only dare to make a fool of themselves.
+
+宝：
+
 想掏出大肉棒从后面顶你  
 隔着内裤脱掉内裤都顶你  
 一只手弄湿你前面的小穴  
@@ -39,30 +39,30 @@ related_posts: true
 当你娇喘的声音越发让人销魂  
 我也强忍不住一次次勃起射精  
 日日彼此流出的黏液  
-夜夜交织都擦不太干  
-  
-\- Baby:  
-  
+夜夜交织都擦不太干
+
+\- Baby:
+
 \- I want to take out my big cock and fuck you from behind  
 \- Push you even through your panties and take them off  
 \- One hand to wet your front pussy  
 \- And the other hand to explore and caress and knead  
 \- One hand on your waist, the other on your breasts…  
 \- “Pushing” you with my nose, my mouth, my tongue  
-\- Your neck, your ears, your mouth, your tongue…  
-  
+\- Your neck, your ears, your mouth, your tongue…
+
 \- Listening to your impatient gasps  
 \- Holding you tightly with all your fingers  
 \- Slowly pushing my cock into you  
-\- Rubbing and stirring the pussy back and forth, left and right, repeatedly  
-  
+\- Rubbing and stirring the pussy back and forth, left and right, repeatedly
+
 \- When tired, take a break and turn over  
-\- We’ll do it the same way we did before  
-  
+\- We’ll do it the same way we did before
+
 \- You cover every inch of my skin with your lips  
 \- I’ll continue to suck and bring you pleasure  
 \- As your gasps become more and more pleasurable  
-\- I can’t help myself, erections and ejaculations over and over again  
-  
+\- I can’t help myself, erections and ejaculations over and over again
+
 \- The slime that comes out of each other’s body day after day  
 \- Night after night can’t dry them off

@@ -6,4 +6,3 @@ layout: page
 ---
 
 <img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
-

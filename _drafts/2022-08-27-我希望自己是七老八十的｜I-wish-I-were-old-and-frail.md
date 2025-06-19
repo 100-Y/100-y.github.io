@@ -1,14 +1,14 @@
 ---
 layout: post
-title: '我希望自己是七老八十的｜I wish I were old and frail'
+title: "我希望自己是七老八十的｜I wish I were old and frail"
 date: 2022-08-27
-excerpt: '这里填写摘要'
+excerpt: "这里填写摘要"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -26,8 +26,8 @@ related_posts: true
 已迫不及待备好埋葬肉体的坟墓  
 我希望国家毁灭，人类消亡……  
 看透一切根源的同时  
-又都忍受所有的不幸  
-  
+又都忍受所有的不幸
+
 \- I wish I were old and frail  
 \- With no bondage of sex and money  
 \- Living each day as if it were two  

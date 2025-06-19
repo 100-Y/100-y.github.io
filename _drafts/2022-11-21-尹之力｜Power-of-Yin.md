@@ -1,14 +1,14 @@
 ---
 layout: post
-title: '尹之力｜Power of Yin'
+title: "尹之力｜Power of Yin"
 date: 2022-11-21
-excerpt: '这里填写摘要'
+excerpt: "这里填写摘要"
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
 
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Notes
-tags: 
+tags:
 related_posts: true
 ---
 
@@ -22,8 +22,8 @@ related_posts: true
 彼换季时，  
 犹尹为甚。  
 生民称赞，  
-紫薇心安。  
-  
+紫薇心安。
+
 \- Move power of Yin,  
 \- Can become a lord.  
 \- Like Chengdu and Hangzhou,  
