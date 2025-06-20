@@ -8,7 +8,6 @@ og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: AI-Assisted
 tags:
-related_posts: true
 ---
 
 <img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">

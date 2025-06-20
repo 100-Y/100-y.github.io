@@ -10,7 +10,6 @@ reader_suggested_tags:
   - '["Leadership","Mindset","Personal Development","English","Procrastination"]'
 categories: Notes
 tags:
-related_posts: true
 ---
 
 <img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">

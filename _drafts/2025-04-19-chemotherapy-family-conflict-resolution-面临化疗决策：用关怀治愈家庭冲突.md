@@ -5,11 +5,9 @@ date: 2025-04-19
 excerpt: "When families face chemotherapy decisions, conflict isn’t about blame—it’s love in tension. Explore how to rebuild understanding through structure, emotion, and action."
 description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
 og_image: /assets/img/blog/xxxxxxxx
-
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Essays
 tags:
-related_posts: true
 ---
 
 <img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">

@@ -8,7 +8,6 @@ og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Poems
 tags:
-related_posts: true
 ---
 
 ---
