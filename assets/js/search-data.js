@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/privacy/";
           },
-        },{id: "post-使用-imagemagick-批量转换-jpg-为-webp-格式-提升网页性能",
+        },{id: "post-用-python-脚本自动同步-markdown-文章-front-matter-的图片链接",
+        
+          title: "用 Python 脚本自动同步 Markdown 文章 Front Matter 的图片链接",
+        
+        description: "本文介绍如何利用 Python 脚本自动替换 Jekyll 博客文章 Front Matter 中的 og_image 和 thumbnail 字段，保持图片路径与本地图片文件名一致，适用于大量文章的自动化管理。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-20/python-update-frontmatter-link/";
+          
+        },
+      },{id: "post-使用-imagemagick-批量转换-jpg-为-webp-格式-提升网页性能",
         
           title: "使用 ImageMagick 批量转换 JPG 为 WebP 格式，提升网页性能",
         
