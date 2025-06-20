@@ -8,11 +8,11 @@ nav_order: 3
 
 ---
 
-## 1 分类 / Categories
+## 分类 / Categories
 
 ---
 
-### 1.1 原创 / Original
+### 原创 / Original
 
 ---
 
@@ -27,7 +27,7 @@ nav_order: 3
   <li style="margin-bottom: 12px;"><a href="/blog/category/cloud-country/" style="font-size: inherit;">云之国 / Cloud-Country</a> ({{ site.categories["Cloud-Country"] | size }})</li>
 </ul>
 ---
-### 1.2 衍生
+### 衍生
 ---
 <ul style="line-height: 1; font-size: 18px; list-style: none; padding-left: 0;">
   <li style="margin-bottom: 12px;"><a href="/blog/category/derivatives/" style="font-size: inherit;">翻译、整理</a> ({{ site.categories.Derivatives | size }})</li>
@@ -36,7 +36,7 @@ nav_order: 3
 
 ---
 
-## 2 归档 / Archives
+## 归档 / Archives
 
 ---
 
