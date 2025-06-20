@@ -29,7 +29,7 @@ tags: github-pages cloudflare
 
 ---
 
-## 第一步：配置 Cloudflare DNS
+## 配置 Cloudflare DNS
 
 ---
 
@@ -50,7 +50,7 @@ tags: github-pages cloudflare
 
 ---
 
-## 第二步：配置 Cloudflare SSL（启用 HTTPS）
+## 配置 Cloudflare SSL（启用 HTTPS）
 
 ---
 
@@ -82,7 +82,7 @@ tags: github-pages cloudflare
 
 ---
 
-## 第三步：配置 GitHub 仓库
+## 配置 GitHub 仓库
 
 ---
 
@@ -100,7 +100,7 @@ xxxx.xx
 
 ---
 
-## 第四步：启用 GitHub Pages 并绑定域名
+## 启用 GitHub Pages 并绑定域名
 
 ---
 
