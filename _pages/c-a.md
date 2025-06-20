@@ -32,6 +32,7 @@ nav_order: 3
 <ul style="line-height: 1; font-size: 18px; list-style: none; padding-left: 0;">
   <li style="margin-bottom: 12px;"><a href="/blog/category/derivatives/" style="font-size: inherit;">翻译、整理</a> ({{ site.categories.Derivatives | size }})</li>
   <li style="margin-bottom: 12px;"><a href="/blog/category/hyzzj/" style="font-size: inherit;">汉阳舟子集</a> ({{ site.categories.hyzzj | size }})</li>
+  <li style="margin-bottom: 12px;"><a href="/blog/category/internet/" style="font-size: inherit;">互联网</a> ({{ site.categories.Internet | size }})</li>
 </ul>
 
 ---
