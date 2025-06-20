@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/privacy/";
           },
-        },{id: "post-被托管的世界-the-managed-world",
+        },{id: "post-使用-imagemagick-批量转换-jpg-为-webp-格式-提升网页性能",
+        
+          title: "使用 ImageMagick 批量转换 JPG 为 WebP 格式，提升网页性能",
+        
+        description: "介绍如何使用 ImageMagick 在本地批量将 JPG 图片转换为 WebP 格式，有效减小图片体积、提升网页加载速度，并提供适用于 macOS、Linux 的完整脚本与操作指南。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-20/imagemagick-batch-convert-jpg-to-webp/";
+          
+        },
+      },{id: "post-被托管的世界-the-managed-world",
         
           title: "被托管的世界 / The Managed World",
         
