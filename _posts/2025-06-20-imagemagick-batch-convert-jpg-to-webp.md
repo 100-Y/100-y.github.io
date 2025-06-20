@@ -93,7 +93,7 @@ echo "All images converted and saved in $OUTPUT_DIR"
 
 3. 等待完成后，检查 `webp_output` 文件夹，查看转换结果
 
-`WARNING: The convert command is deprecated in IMv7, use "magick" instead of "convert" or "magick convert"`，这是 ImageMagick 7 版本的新变化提醒，建议以后用 magick convert 或直接用 magick 命令代替 convert，但你脚本里用 magick convert 就是正确的。
+- `WARNING: The convert command is deprecated in IMv7, use "magick" instead of "convert" or "magick convert"`，这是 ImageMagick 7 版本的新变化提醒，建议以后用 magick convert 或直接用 magick 命令代替 convert，但你脚本里用 magick convert 就是正确的。
 
 ---
 
