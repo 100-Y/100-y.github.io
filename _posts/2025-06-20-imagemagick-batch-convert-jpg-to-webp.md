@@ -7,7 +7,7 @@ description: 介绍如何使用 ImageMagick 在本地批量将 JPG 图片转换�
 og_image: /assets/img/blog/imagemagick-batch-convert-jpg-to-webp.webp
 thumbnail: /assets/img/blog/imagemagick-batch-convert-jpg-to-webp.webp
 categories: Internet
-tags: homebrew, imagemagick, webp
+tags: homebrew imagemagick webp
 related_posts: true
 ---
 
