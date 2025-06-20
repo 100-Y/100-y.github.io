@@ -48,6 +48,50 @@ ninja.data = [{
             window.location.href = "/blog/2025-06-20/imagemagick-batch-convert-jpg-to-webp/";
           
         },
+      },{id: "post-markdown-批量更新-front-matter-日期并重命名文件的实用脚本教程",
+        
+          title: "Markdown 批量更新 Front Matter 日期并重命名文件的实用脚本教程",
+        
+        description: "利用 Python 与 Shell 脚本，从正文提取日期并自动写入或更新 YAML Front Matter 中的 date 字段，并批量按日期重命名文件名，适用于静态博客内容管理。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-19/markdown-frontmatter-auto-date/";
+          
+        },
+      },{id: "post-macos-本地从零开始配置-prettier-vs-code",
+        
+          title: "macOS 本地从零开始配置 Prettier + VS Code",
+        
+        description: "本文详细介绍如何在 macOS 本地通过 Homebrew 安装 Node.js，并结合 Prettier 与 VS Code，实现对 Markdown、YAML、HTML、JS 等常见格式的自动与批量格式化。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-18/prettier-nodejs-vscode/";
+          
+        },
+      },{id: "post-jekyll-依赖管理-正确修改-gemfile-并避免构建错误",
+        
+          title: "Jekyll 依赖管理：正确修改 Gemfile 并避免构建错误",
+        
+        description: "本文整理了在 Jekyll 项目中正确修改 Gemfile 和 Gemfile.lock 的最佳实践，并附上常见问题与解决方案。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-17/jekyll-update-gemfile-guide/";
+          
+        },
+      },{id: "post-全流程指南-用-jekyll-al-folio-github-orbstack-打造本地博客系统-macos-专用",
+        
+          title: "全流程指南：用 Jekyll + al-folio + GitHub + Orbstack 打造本地博客系统（macOS 专用）",
+        
+        description: "教你如何用 Jekyll + al-folio 打造结构优雅、可自动部署、支持本地预览的博客系统，适用于 macOS 用户，结合 Orbstack、GitHub Pages 与 VS Code 全流程优化。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-15/build-blog-with-al-folio-orbstack/";
+          
+        },
       },{id: "post-被托管的世界-the-managed-world",
         
           title: "被托管的世界 / The Managed World",
