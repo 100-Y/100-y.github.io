@@ -56,7 +56,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025-06-20/imagemagick-batch-convert-jpg-to-webp/";
+            window.location.href = "/blog/2025-06-20/imagemagick-convert-jpg-to-webp/";
           
         },
       },{id: "post-markdown-批量更新-front-matter-日期并重命名文件的实用脚本教程",
