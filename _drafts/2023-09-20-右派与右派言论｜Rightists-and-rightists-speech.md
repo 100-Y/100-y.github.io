@@ -26,8 +26,6 @@ related_posts: true
 
 \- For example: the issue of freedom of news and speech… (Selected Rightist Speeches from Higher Education Institutions)
 
-!\[KX8BF.jpg\](https://prod-files-secure.s3.us-west-2.amazonaws.com/fc3b2280-c4f4-4d1c-a3ff-c170d16b4ea0/b24ce42a-dd6e-479c-9ae2-26a5dded3a71/KX8BF.jpg)
-
 相关“个人、机构或组织”，一套“引蛇出洞”的组合拳下来，新中国第一次“文艺复兴”（百家争鸣）的大好局面和前进脚步，便戛然而止。这一历史所造成的巨大影响和伤害，时至今日，未来、亦不见其停歇……
 
 \- Under a combination of punches that “lure the snake out of the hole” of relevant “person, institution or organization” Individuals, institutions or organizations, the great situation and progress of the first “Renaissance” (a hundred schools of thought) of New China came to an abrupt halt. The huge impact and damage caused by this history, to this day, in the future, will not stop…
@@ -36,7 +34,7 @@ related_posts: true
 
 \- Rightists and Rightists speech. Can be called the first batch of “Native awakened ones”. When the “awakened ones” fell, such as the “Great Leap Forward”, the “Cultural Revolution” and other tragic man-made disasters, then followed one after another。
 
-链接：\[\*\*思考與選擇──從知識分子會議到反右派運動\*\*\](https://drive.google.com/file/d/1AkRU1W1SNPfhuNGN9FSZPT65EQbz50V6/view?usp=sharing) 、\[\*\*高等学校右派言论选编\*\*\](https://drive.google.com/file/d/1rISAVtozhtGhU0TcjMzNeBpaoF-A\_riM/view?usp=sharing)（888页）（\[\*\*该链接，可直接访问并下载电子书本\*\*\](https://www.marxists.org/chinese/pdf/history\_of\_international/china/20210624c.pdf)）……
+……
 
 \- Link(above): Thinking and Choosing – From the Intellectuals Conference to the Anti-Rightist Movement, Selected Rightist Speeches from Higher Education Institutions (888 pages) (This link, can be directly accessed and downloaded the e-book)…
 

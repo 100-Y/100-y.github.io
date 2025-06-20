@@ -22,7 +22,7 @@ related_posts: true
 
 \- “Overseas hostile forces” products, for example:
 
-苹果，“境外”AppleID + 禁用iCloud。（https://appleid.apple.com/account）
+苹果，“境外”AppleID + 禁用iCloud。
 
 安卓，Pixel（谷歌）、华为等。
 
