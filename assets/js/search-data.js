@@ -59,6 +59,17 @@ ninja.data = [{
             window.location.href = "/blog/2025-06-20/imagemagick-convert-jpg-to-webp/";
           
         },
+      },{id: "post-github-pages-cloudflare-自定义域名-https-配置指南",
+        
+          title: "GitHub Pages + Cloudflare 自定义域名 HTTPS 配置指南",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-20/https-github-pages-and-cloudflare/";
+          
+        },
       },{id: "post-markdown-批量更新-front-matter-日期并重命名文件的实用脚本教程",
         
           title: "Markdown 批量更新 Front Matter 日期并重命名文件的实用脚本教程",
