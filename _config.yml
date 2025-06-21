@@ -16,7 +16,6 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   以「36525 天」为象征，这是某人用一生在写的一本书 / Symbolizing 36,525 days — a book someone writes across a lifetime
 footer_text: >
-  @ <a href='/', style='font-weight: bold'>100-Y</a>
 
 keywords: 个人时间容器, 精神栖息地, 梦的档案馆, 诗意日常, 自由写作, 思考的片段 / Personal Time Capsule, Mental Sanctuary, Dream Archive, Poetic Everyday, Free Writing, Fragments of Thought
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
