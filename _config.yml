@@ -137,7 +137,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts", "robots.txt", "ads.txt"]
+include: ["_pages", "_scripts"]
 
 exclude:
   - bin/
