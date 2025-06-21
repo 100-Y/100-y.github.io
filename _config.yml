@@ -3,11 +3,14 @@
 # -----------------------------------------------------------------------------
 lang: en
 locale: en_US
+timezone: America/Los_Angeles # 美西
+# timezone: Asia/Shanghai     # 中国大陆
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: 36,525 days
 middle_name:
 last_name:
+future: true
 contact_note: >
   #替换为@，以发送您的电子邮件 / # to @, to send your email
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -20,9 +23,8 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 
 url: https://100-y.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+last_updated: true # set to true if you want to display last updated in the footer
+# impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Theme

@@ -76,14 +76,6 @@
   {% endif %}
 {% endif %}
 
-{% if site.back_to_top %}
-  <!-- Back to Top -->
-  <script src="{{ '/assets/js/vanilla-back-to-top.min.js' | relative_url | bust_file_cache }}"></script>
-  <script>
-    addBackToTop();
-  </script>
-{% endif %}
-
 {% if site.search_enabled %}
   <!-- Search -->
   <script type="module" src="{{ '/assets/js/search/ninja-keys.min.js' | relative_url | bust_file_cache }}"></script>
