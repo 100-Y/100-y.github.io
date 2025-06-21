@@ -5,7 +5,7 @@ date: 2025-06-17
 excerpt: 本文整理了在 Jekyll 项目中正确修改 Gemfile 和 Gemfile.lock 的最佳实践，并附上常见问题与解决方案。
 description: 本文整理了在 Jekyll 项目中正确修改 Gemfile 和 Gemfile.lock 的最佳实践，并附上常见问题与解决方案。
 og_image: /assets/img/blog/jekyll-update-gemfile-guide.webp
-thumbnail: /assets/img/blog/xxxxxxxx
+thumbnail: /assets/img/blog/jekyll-update-gemfile-guide.webp
 categories: Internet
 tags: jekyll gemfile
 ---

@@ -7,7 +7,7 @@ description: 利用 Python 与 Shell 脚本，从正文提取日期并自动写�
 og_image: /assets/img/blog/markdown-frontmatter-auto-date.webp
 thumbnail: /assets/img/blog/markdown-frontmatter-auto-date.webp
 categories: Internet
-tags: markdown frontmatter
+tags: markdown frontmatter python bash
 ---
 
 <img src="/assets/img/blog/markdown-frontmatter-auto-date.webp" style="width:100%;" alt="markdown-frontmatter-auto-date">

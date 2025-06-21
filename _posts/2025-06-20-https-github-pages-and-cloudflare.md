@@ -7,7 +7,7 @@ description:
 og_image: /assets/img/blog/https-github-pages-and-cloudflare.webp
 thumbnail: /assets/img/blog/https-github-pages-and-cloudflare.webp
 categories: Internet
-tags: github-pages cloudflare
+tags: gh-pages cloudflare
 ---
 
 <img src="/assets/img/blog/https-github-pages-and-cloudflare.webp" style="width:100%;" alt="https-github-pages-and-cloudflare">
@@ -154,9 +154,9 @@ xxxx.xx
 
 Cloudflare → DNS 添加：
 
-| 类型  | 名称 | 值                     | 代理状态   |
-| ----- | ---- | ---------------------- | ---------- |
-| CNAME | www  | yourusername.github.io | ☁️ Proxied |
+| 类型  | 名称 | 值                 | 代理状态   |
+| ----- | ---- | ------------------ | ---------- |
+| CNAME | www  | yourname.github.io | ☁️ Proxied |
 
 ---
 
