@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/privacy/";
           },
-        },{id: "post-用-python-脚本自动同步-markdown-文章-front-matter-的图片链接",
+        },{id: "post-批量将图片文件名改为小写",
+        
+          title: "批量将图片文件名改为小写",
+        
+        description: "使用 Bash 脚本批量将图片文件名统一转换为小写，解决 GitHub Pages 线上图片因大小写敏感导致无法显示的问题。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/image-file-names-to-lowercase/";
+          
+        },
+      },{id: "post-用-python-脚本自动同步-markdown-文章-front-matter-的图片链接",
         
           title: "用 Python 脚本自动同步 Markdown 文章 Front Matter 的图片链接",
         
@@ -107,11 +118,11 @@ ninja.data = [{
         
           title: "全流程指南：用 Jekyll + al-folio + GitHub + Orbstack 打造本地博客系统（macOS 专用）",
         
-        description: "教你如何用 Jekyll + al-folio 打造结构优雅、可自动部署、支持本地预览的博客系统，适用于 macOS 用户，结合 Orbstack、GitHub Pages 与 VS Code 全流程优化。",
+        description: "教你如何用 Jekyll + al-folio 打造结构优雅、可自动部署、支持本地预览的博客系统，适用于 macOS 用户，结合 Orbstack、GitHub 与 VS Code 全流程优化。",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025-06-15/build-blog-with-al-folio-orbstack/";
+            window.location.href = "/blog/2025-06-15/build-blog-with-jekyll-orbstack/";
           
         },
       },{id: "post-被托管的世界-the-managed-world",
