@@ -7,7 +7,7 @@ description: 新时代的支黑，不是远方敌人，而是身边压迫者，�
 og_image: /assets/img/blog/anti-chinese-of-new-era.webp
 thumbnail: /assets/img/blog/anti-chinese-of-new-era.webp
 categories: Notes Poems
-tags: Anti-Chinese
+tags: anti-chinese
 ---
 
 <img src="/assets/img/blog/anti-chinese-of-new-era.webp" style="width:100%;" alt="anti-chinese-of-new-era">
