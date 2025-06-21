@@ -8,6 +8,7 @@ og_image: /assets/img/blog/build-blog-with-jekyll-orbstack.webp
 thumbnail: /assets/img/blog/build-blog-with-jekyll-orbstack.webp
 categories: Internet
 tags: jekyll orbstack github
+giscus_comments: true
 ---
 
 <img src="/assets/img/blog/build-blog-with-jekyll-orbstack.webp" style="width:100%;" alt="build-blog-with-jekyll-orbstack">

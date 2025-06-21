@@ -8,6 +8,7 @@ og_image: /assets/img/blog/markdown-frontmatter-auto-date.webp
 thumbnail: /assets/img/blog/markdown-frontmatter-auto-date.webp
 categories: Internet
 tags: markdown frontmatter python bash
+giscus_comments: true
 ---
 
 <img src="/assets/img/blog/markdown-frontmatter-auto-date.webp" style="width:100%;" alt="markdown-frontmatter-auto-date">

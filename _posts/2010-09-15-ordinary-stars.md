@@ -8,6 +8,7 @@ og_image: /assets/img/blog/xxxxxxxx
 thumbnail: /assets/img/blog/xxxxxxxx
 categories: Poems
 tags:
+giscus_comments: true
 ---
 
 ---

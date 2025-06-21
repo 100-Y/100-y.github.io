@@ -8,6 +8,7 @@ og_image: /assets/img/blog/imagemagick-convert-jpg-to-webp.webp
 thumbnail: /assets/img/blog/imagemagick-convert-jpg-to-webp.webp
 categories: Internet
 tags: image-magick webp bash
+giscus_comments: true
 ---
 
 <img src="/assets/img/blog/imagemagick-convert-jpg-to-webp.webp" style="width:100%;" alt="imagemagick-convert-jpg-to-webp">

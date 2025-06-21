@@ -8,6 +8,7 @@ og_image: /assets/img/blog/prettier-nodejs-vscode.webp
 thumbnail: /assets/img/blog/prettier-nodejs-vscode.webp
 categories: Internet
 tags: vscode prettier
+giscus_comments: true
 ---
 
 <img src="/assets/img/blog/prettier-nodejs-vscode.webp" style="width:100%;" alt="prettier-nodejs-vscode">

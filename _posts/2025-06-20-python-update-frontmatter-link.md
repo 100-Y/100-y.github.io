@@ -8,6 +8,7 @@ og_image: /assets/img/blog/python-update-frontmatter-link.webp
 thumbnail: /assets/img/blog/python-update-frontmatter-link.webp
 categories: Internet
 tags: python frontmatter
+giscus_comments: true
 ---
 
 <img src="/assets/img/blog/python-update-frontmatter-link.webp" style="width:100%;" alt="python-update-frontmatter-link">

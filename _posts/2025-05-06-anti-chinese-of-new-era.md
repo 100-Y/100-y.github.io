@@ -8,6 +8,7 @@ og_image: /assets/img/blog/anti-chinese-of-new-era.webp
 thumbnail: /assets/img/blog/anti-chinese-of-new-era.webp
 categories: Notes Poems
 tags: anti-chinese
+giscus_comments: true
 ---
 
 <img src="/assets/img/blog/anti-chinese-of-new-era.webp" style="width:100%;" alt="anti-chinese-of-new-era">

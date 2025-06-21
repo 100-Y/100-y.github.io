@@ -8,6 +8,7 @@ og_image: /assets/img/blog/image-file-names-to-lowercase.webp
 thumbnail: /assets/img/blog/image-file-names-to-lowercase.webp
 categories: Internet
 tags: bash gh-pages
+giscus_comments: true
 ---
 
 ## 批量将图片文件名改为小写（保留扩展名）

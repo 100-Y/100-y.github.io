@@ -8,6 +8,7 @@ og_image: /assets/img/blog/jekyll-update-gemfile-guide.webp
 thumbnail: /assets/img/blog/jekyll-update-gemfile-guide.webp
 categories: Internet
 tags: jekyll gemfile
+giscus_comments: true
 ---
 
 <img src="/assets/img/blog/jekyll-update-gemfile-guide.webp" style="width:100%;" alt="jekyll-update-gemfile-guide">

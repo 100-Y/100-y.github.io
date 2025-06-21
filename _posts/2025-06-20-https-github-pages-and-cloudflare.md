@@ -8,6 +8,7 @@ og_image: /assets/img/blog/https-github-pages-and-cloudflare.webp
 thumbnail: /assets/img/blog/https-github-pages-and-cloudflare.webp
 categories: Internet
 tags: gh-pages cloudflare
+giscus_comments: true
 ---
 
 <img src="/assets/img/blog/https-github-pages-and-cloudflare.webp" style="width:100%;" alt="https-github-pages-and-cloudflare">
