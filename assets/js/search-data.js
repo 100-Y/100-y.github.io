@@ -37,183 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/privacy/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2025-04-04-under-the-pull-of-gravity-the-silent-restructuring-of-global-order/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2025-04-02-cudy-router-complete-setup-factory-to-openwrt/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2025-03-05-final-testament-the-last-curtain-of-ipsri/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2024-11-20-tear-duct-of-speed-going-blind-in-the-faultline-of-light/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2024-11-13-intuition-the-art-of-transforming-perception-into-inspiration/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2024-10-30-game-ender-lilies/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2024-08-26-dream-in-a-dream-ghost-doll/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2024-08-07-left-and-right-praise-and-criticism-from-tail-to-mental-illness/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2024-08-06-having-a-choice-from-specific-individuals-to-abstract-history/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2022-06-11-group-society-consumption-and-tragedy/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2022-02-23-dialogue-mouth-cannon-with-officials-and-capitalists/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2021-11-19-hypothesis-meaning-of-death/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2021-09-05-paradox-of-human-nature-the-dialectic-between-straight-and-twisted/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2021-07-17-mouthpiece-of-power-patriots-big-v/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2017-12-10-characters-relationship-residents-inside-the-wall/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-06-21/2017-10-13-characters-relationship-ocean-residents/";
-          
-        },
-      },{id: "post-批量将图片文件名改为小写",
+        },{id: "post-批量将图片文件名改为小写",
         
           title: "批量将图片文件名改为小写",
         
@@ -554,6 +378,17 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-06/polar-tables/";
           
         },
+      },{id: "post-引力之下-全球秩序的无声重构-under-the-pull-of-gravity-the-silent-restructuring-of-global-order",
+        
+          title: "引力之下——全球秩序的无声重构 / Under the Pull of Gravity - The Silent Restructuring of Global...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-04-04/under-the-pull-of-gravity-the-silent-restructuring-of-global-order/";
+          
+        },
       },{id: "post-思想漫游的边境哨站-the-border-outpost-of-thought-roaming",
         
           title: "思想漫游的边境哨站——The Border Outpost of Thought Roaming",
@@ -596,6 +431,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025-04-02/network-is-like-an-apartment-building/";
+          
+        },
+      },{id: "post-cudy-路由器完全配置手册-从原厂到-openwrt-the-complete-cudy-router-setup-guide-from-factory-to-openwrt",
+        
+          title: "Cudy 路由器完全配置手册——从原厂到 OpenWRT / The Complete Cudy Router Setup Guide - From Factory...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-04-02/cudy-router-complete-setup-factory-to-openwrt/";
           
         },
       },{id: "post-香蕉和牛奶的狂欢-a-carnival-of-bananas-and-milk",
@@ -761,6 +607,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025-03-06/ai-content-generation-and-distribution-system/";
+          
+        },
+      },{id: "post-遗言-ipsri的终幕-final-testament-the-last-curtain-of-ipsri",
+        
+          title: "遗言——IPSRI的终幕 / Final Testament - The Last Curtain of IPSRI",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-03-05/final-testament-the-last-curtain-of-ipsri/";
           
         },
       },{id: "post-删句的-在编史-the-one-who-deletes-is-writing-history",
@@ -1082,6 +939,17 @@ ninja.data = [{
             window.location.href = "/blog/2024-11-25/morning-disorientation/";
           
         },
+      },{id: "post-速度的泪腺-在光的断层中失明-tear-duct-of-speed-going-blind-in-the-faultline-of-light",
+        
+          title: "速度的泪腺——在光的断层中失明 / Tear Duct of Speed - Going Blind in the Faultline of...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024-11-20/tear-duct-of-speed-going-blind-in-the-faultline-of-light/";
+          
+        },
       },{id: "post-抑郁的个体-the-depressed-individual",
         
           title: "抑郁的个体——The Depressed Individual",
@@ -1201,6 +1069,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024-11-13/the-limit-of-understandings/";
+          
+        },
+      },{id: "post-直觉-从感知到灵感的艺术-intuition-the-art-of-transforming-perception-into-inspiration",
+        
+          title: "直觉——从感知到灵感的艺术 / Intuition - The Art of Transforming Perception into Inspiration",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024-11-13/intuition-the-art-of-transforming-perception-into-inspiration/";
           
         },
       },{id: "post-家丑-family-scandal",
@@ -1445,6 +1324,17 @@ ninja.data = [{
             window.location.href = "/blog/2024-10-31/the-morning-sun/";
           
         },
+      },{id: "post-游戏-终焉的百合花-有感-game-ender-lilies",
+        
+          title: "游戏《终焉的百合花》有感 / Game - Ender Lilies",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024-10-30/game-ender-lilies/";
+          
+        },
       },{id: "post-道德绑架之恶与平衡-evil-and-balance-of-moral-coercion",
         
           title: "道德绑架之恶与平衡——Evil and Balance of Moral Coercion",
@@ -1489,6 +1379,17 @@ ninja.data = [{
             window.location.href = "/blog/2024-09-19/time-and-year/";
           
         },
+      },{id: "post-梦中梦-鬼魅娃娃-dream-in-a-dream-ghost-doll",
+        
+          title: "梦中梦——鬼魅娃娃 / Dream in a Dream - Ghost Doll",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024-08-26/dream-in-a-dream-ghost-doll/";
+          
+        },
       },{id: "post-统一指示下的虚假自由-false-freedom-under-unified-command",
         
           title: "统一指示下的虚假自由——False Freedom Under Unified Command",
@@ -1509,6 +1410,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024-08-08/from-false-goodness-to-real-evil/";
+          
+        },
+      },{id: "post-左右-赞美和批评-从尾巴谈论到精神病-left-and-right-praise-and-criticism-from-tail-to-mental-illness",
+        
+          title: "左右，赞美和批评——从尾巴谈论到精神病 / Left and Right, Praise and Criticism - From Tail to Mental...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024-08-07/left-and-right-praise-and-criticism-from-tail-to-mental-illness/";
+          
+        },
+      },{id: "post-有得选-之从具体的人谈论到抽象的历史-having-a-choice-from-specific-individuals-to-abstract-history",
+        
+          title: "有得选——之从具体的人谈论到抽象的历史 / Having a Choice - From Specific Individuals to Abstract History",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024-08-06/having-a-choice-from-specific-individuals-to-abstract-history/";
           
         },
       },{id: "post-年富-力强-rich-mind-strong-body",
@@ -1707,6 +1630,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2022-06-14/bet/";
+          
+        },
+      },{id: "post-群体社会-内耗与悲剧-group-society-consumption-and-tragedy",
+        
+          title: "群体社会——内耗与悲剧 / Group Society - Consumption and Tragedy",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022-06-11/group-society-consumption-and-tragedy/";
           
         },
       },{id: "post-宝-baby",
@@ -2138,6 +2072,17 @@ ninja.data = [{
             window.location.href = "/blog/2022-02-24/choice-is-more-important-than-effort/";
           
         },
+      },{id: "post-对话-嘴炮与官员和资本家-dialogue-mouth-cannon-with-officials-and-capitalists",
+        
+          title: "对话——嘴炮与官员和资本家 / Dialogue - Mouth Cannon with Officials and Capitalists",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022-02-23/dialogue-mouth-cannon-with-officials-and-capitalists/";
+          
+        },
       },{id: "post-历史和规则-history-and-rules",
         
           title: "历史和规则——History and Rules",
@@ -2402,6 +2347,17 @@ ninja.data = [{
             window.location.href = "/blog/2021-11-19/the-yes-and-no-of-meaning/";
           
         },
+      },{id: "post-假-死的意义-hypothesis-meaning-of-death",
+        
+          title: "假——死的意义 / Hypothesis - Meaning of Death",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021-11-19/hypothesis-meaning-of-death/";
+          
+        },
       },{id: "post-我的灵魂-my-soul",
         
           title: "我的灵魂——My Soul",
@@ -2567,6 +2523,17 @@ ninja.data = [{
             window.location.href = "/blog/2021-09-05/self-comforting-words/";
           
         },
+      },{id: "post-人性悖论-直曲之间的辩证-paradox-of-human-nature-the-dialectic-between-straight-and-twisted",
+        
+          title: "人性悖论——直曲之间的辩证 / Paradox of Human Nature - The Dialectic Between Straight and Twisted...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021-09-05/paradox-of-human-nature-the-dialectic-between-straight-and-twisted/";
+          
+        },
       },{id: "post-论我的存在-on-exist-of-i",
         
           title: "论我的存在——On Exist of I",
@@ -2598,6 +2565,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2021-08-15/triangular-relationship/";
+          
+        },
+      },{id: "post-权力的喉舌-爱国大v-mouthpiece-of-power-patriots-big-v",
+        
+          title: "权力的喉舌——爱国大V / Mouthpiece of Power - Patriots Big V",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021-07-17/mouthpiece-of-power-patriots-big-v/";
           
         },
       },{id: "post-实话和反语-truth-and-irony",
@@ -3403,6 +3381,17 @@ ninja.data = [{
             window.location.href = "/blog/2017-12-13/e5bd93e4bda0e6b289e79da1e697b6-when-you-are-asleep/";
           
         },
+      },{id: "post-人物关系-城墙内的居民-characters-relationship-residents-inside-the-wall",
+        
+          title: "人物关系——城墙内的居民 / Characters Relationship - Residents inside the Wall",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017-12-10/characters-relationship-residents-inside-the-wall/";
+          
+        },
       },{id: "post-创作计划-writing-plan",
         
           title: "创作计划——Writing Plan",
@@ -3445,6 +3434,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2017-10-22/chicken-soup-and-love/";
+          
+        },
+      },{id: "post-人物关系-大洋居民-characters-relationship-ocean-residents",
+        
+          title: "人物关系——大洋居民 / Characters Relationship - Ocean Residents",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017-10-13/characters-relationship-ocean-residents/";
           
         },
       },{id: "post-生命中的河流-女鬼与我-rivers-in-life-ghost-and-me",
