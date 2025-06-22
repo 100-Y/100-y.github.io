@@ -14,7 +14,11 @@ featured: true
 
 <img src="/assets/img/blog/pigs-utopia.webp" style="width:100%;" alt="pigs-utopia">
 
+---
+
 ## 猪的乌托邦
+
+---
 
 这个世界，看似辽阔，实则早已被 **<mark>无数看不见的围栏</mark>**精密圈定。
 
@@ -71,9 +75,11 @@ featured: true
 它只是以完美的名义，  
 悄悄剥夺了提问与出走的可能。
 
-/
+---
 
 ## Pig's Utopia
+
+---
 
 This world, though seemingly vast, is already meticulously fenced in by **<mark>countless invisible boundaries</mark>**.
 
