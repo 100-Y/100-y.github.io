@@ -37,7 +37,183 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/privacy/";
           },
-        },{id: "post-批量将图片文件名改为小写",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2025-04-04-under-the-pull-of-gravity-the-silent-restructuring-of-global-order/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2025-04-02-cudy-router-complete-setup-factory-to-openwrt/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2025-03-05-final-testament-the-last-curtain-of-ipsri/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2024-11-20-tear-duct-of-speed-going-blind-in-the-faultline-of-light/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2024-11-13-intuition-the-art-of-transforming-perception-into-inspiration/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2024-10-30-game-ender-lilies/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2024-08-26-dream-in-a-dream-ghost-doll/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2024-08-07-left-and-right-praise-and-criticism-from-tail-to-mental-illness/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2024-08-06-having-a-choice-from-specific-individuals-to-abstract-history/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2022-06-11-group-society-consumption-and-tragedy/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2022-02-23-dialogue-mouth-cannon-with-officials-and-capitalists/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2021-11-19-hypothesis-meaning-of-death/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2021-09-05-paradox-of-human-nature-the-dialectic-between-straight-and-twisted/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2021-07-17-mouthpiece-of-power-patriots-big-v/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2017-12-10-characters-relationship-residents-inside-the-wall/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-21/2017-10-13-characters-relationship-ocean-residents/";
+          
+        },
+      },{id: "post-批量将图片文件名改为小写",
         
           title: "批量将图片文件名改为小写",
         
@@ -52,7 +228,7 @@ ninja.data = [{
         
           title: "用 Python 脚本自动同步 Markdown 文章 Front Matter 的图片链接",
         
-        description: "本文介绍如何利用 Python 脚本自动替换 Jekyll 博客文章 Front Matter 中的 og_image 和 thumbnail 字段，保持图片路径与本地图片文件名一致，适用于大量文章的自动化管理。",
+        description: "通过 Python 脚本批量更新 博客 Front Matter 中的图片字段，实现文章与图片文件名自动匹配，提升维护效率。",
         section: "Posts",
         handler: () => {
           
@@ -136,11 +312,11 @@ ninja.data = [{
             window.location.href = "/blog/2025-05-08/pigs-utopia/";
           
         },
-      },{id: "post-安全的定义权-信任结构之争",
+      },{id: "post-citizen揭示安全并非技术产物-而是信任结构中的制度投射与参与权力之争-citizen-reveals-that-safety-is-not-technological-outcome-but-projection-of-institutional-trust-and-right-to-define-danger",
         
-          title: "安全的定义权：信任结构之争",
+          title: "Citizen揭示安全并非技术产物，而是信任结构中的制度投射与参与权力之争。Citizen reveals that safety is not technological outcome, but projection of institutional trust...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -162,117 +338,117 @@ ninja.data = [{
         
           title: "Domains for Sale",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-05-05/domains-for-sale/";
           
         },
-      },{id: "post-洒米驱赶邪祟的隔房幺娘",
+      },{id: "post-在面对危机时-洒米驱邪是一种带有安慰性质的传统行为-它揭示了民间信仰在人类情感应对机制中的价值-scattering-rice-during-crisis-is-a-comforting-traditional-act-revealing-the-value-of-folk-beliefs-in-human-emotional-coping",
         
-          title: "洒米驱赶邪祟的隔房幺娘",
+          title: "在面对危机时，洒米驱邪是一种带有安慰性质的传统行为，它揭示了民间信仰在人类情感应对机制中的价值。Scattering rice during crisis is a comforting traditional act, revealing the value of...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-05-02/rice-to-ward-off-evil-spirits/";
           
         },
-      },{id: "post-换气过度综合征处理指南",
+      },{id: "post-从心理疏导到急性应对-掌握换气过度综合征的标准处理路径-a-clear-treatment-approach-for-hyperventilation-syndrome-from-psychological-relief-to-acute-phase-rebreathing-techniques",
         
-          title: "换气过度综合征处理指南",
+          title: "从心理疏导到急性应对，掌握换气过度综合征的标准处理路径。A clear treatment approach for hyperventilation syndrome—from psychological relief to acute-phase rebreathing techniques....",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-05-01/hyperventilation-syndrome/";
           
         },
-      },{id: "post-隐秘突围-在集体愚昧中构建心理独立的认知系统",
+      },{id: "post-在情绪混乱与集体愚昧的环境中-悄然构建心理独立系统-完成一场温柔而坚定的自我突围-amid-emotional-turmoil-and-collective-ignorance-quietly-build-a-mentally-independent-system-for-a-gentle-yet-resolute-breakout",
         
-          title: "隐秘突围：在集体愚昧中构建心理独立的认知系统",
+          title: "在情绪混乱与集体愚昧的环境中，悄然构建心理独立系统，完成一场温柔而坚定的自我突围。Amid emotional turmoil and collective ignorance, quietly build a mentally independent system for...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-30/hidden-breakout/";
           
         },
-      },{id: "post-要做勤快的懒人",
+      },{id: "post-懒-低效-勤快-聪明-本篇文章带你识别四种行动模型-理解如何选择适合自己的-效率路径-laziness-doesn-t-mean-inefficiency-and-diligence-isn-t-always-smart-this-article-helps-you-identify-four-action-models-and-choose-your-personal-path-to-efficiency",
         
-          title: "要做勤快的懒人",
+          title: "懒≠低效，勤快≠聪明。本篇文章带你识别四种行动模型，理解如何选择适合自己的“效率路径”。Laziness doesn’t mean inefficiency, and diligence isn’t always smart. This article helps you...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-29/diligent-lazy-man/";
           
         },
-      },{id: "post-chatgpt中国用户估算-免费与付费结构",
+      },{id: "post-2025年4月中国大陆约有1000万活跃用户与100万付费用户-折射vpn与支付结构下的真实使用图景-as-of-april-2025-around-10-million-active-and-1-million-paid-users-in-china-reflect-real-usage-under-vpn-and-payment-constraints",
         
-          title: "ChatGPT中国用户估算：免费与付费结构",
+          title: "2025年4月中国大陆约有1000万活跃用户与100万付费用户，折射VPN与支付结构下的真实使用图景。As of April 2025, around 10 million active and 1 million paid users...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-29/chatgpt-china-users/";
           
         },
-      },{id: "post-真正的爱-是在慌乱中稳住船",
+      },{id: "post-真正的爱-不是陪同献祭-而是在慌乱中按下暂停键-拒绝让恐惧替代判断-true-love-is-not-rushing-into-sacrifice-but-pausing-in-chaos-to-resist-fear-based-decisions",
         
-          title: "真正的爱，是在慌乱中稳住船",
+          title: "真正的爱，不是陪同献祭，而是在慌乱中按下暂停键，拒绝让恐惧替代判断。True love is not rushing into sacrifice, but pausing in chaos to resist...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-25/true-love-steady-the-boat/";
           
         },
-      },{id: "post-契合度的探讨",
+      },{id: "post-契合不是同频-而是在差异中仍能共振的能力-是一种持续生成的关系-compatibility-is-not-sameness-but-the-capacity-to-resonate-through-difference-a-dynamic-ongoing-relation",
         
-          title: "契合度的探讨",
+          title: "契合不是同频，而是在差异中仍能共振的能力，是一种持续生成的关系。Compatibility is not sameness but the capacity to resonate through difference—a dynamic, ongoing...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-21/nature-of-compatibility/";
           
         },
-      },{id: "post-无知的协奏曲-化疗如何悄然毁灭一个生命",
+      },{id: "post-无知不是知识缺失-而是系统性合谋-它令化疗在终末期悄然加速崩塌-ignorance-is-not-lack-of-knowledge-but-systemic-collusion-it-lets-chemotherapy-quietly-dismantle-life-at-the-end",
         
-          title: "无知的协奏曲：化疗如何悄然毁灭一个生命",
+          title: "无知不是知识缺失，而是系统性合谋；它令化疗在终末期悄然加速崩塌。Ignorance is not lack of knowledge, but systemic collusion; It lets chemotherapy quietly...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-19/symphony-of-unknowing/";
           
         },
-      },{id: "post-药神中的洛基-吞咽之死的技术暴力",
+      },{id: "post-当药物剥夺进食能力-生的尊严悄然被抽空-这不是拯救-而是无声的谋杀-when-medicine-deprives-one-of-the-ability-to-eat-dignity-of-life-is-quietly-hollowed-out-this-is-not-salvation-but-a-silent-murder",
         
-          title: "药神中的洛基：吞咽之死的技术暴力",
+          title: "当药物剥夺进食能力，生的尊严悄然被抽空——这不是拯救，而是无声的谋杀。When medicine deprives one of the ability to eat, dignity of life is...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-16/loki-in-medicine-god/";
           
         },
-      },{id: "post-喇叭的方向-媒介放大与表达异化的隐喻分析",
+      },{id: "post-文章通过喇叭与隧道的隐喻-揭示表达在媒介放大下的异化过程-反思现代语言如何被技术剥离主观性-沦为机制化的虚响-the-article-through-the-metaphors-of-the-megaphone-and-tunnel-reveals-how-expression-is-alienated-under-media-amplification-reflecting-on-the-loss-of-subjectivity-in-modern-language-as-it-becomes-a-mechanized-echo",
         
-          title: "喇叭的方向：媒介放大与表达异化的隐喻分析",
+          title: "文章通过喇叭与隧道的隐喻，揭示表达在媒介放大下的异化过程，反思现代语言如何被技术剥离主观性，沦为机制化的虚响。The article, through the metaphors of the megaphone and tunnel, reveals how expression...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -283,29 +459,29 @@ ninja.data = [{
         
           title: "代谢的权利：当系统拒绝腐烂，骨灰终将埋葬一切",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-10/right-to-decay-when-systems-refuse-to-rot-the-ashes-will-bury-all/";
           
         },
-      },{id: "post-跨境出入金路径对比-加密货币-fiat24-wise",
+      },{id: "post-本文分析了多种跨境资金出入路径的成本与风险-指出通过加密货币-fiat24-和-wise-组合的路径在降低费用和提高安全性方面表现最佳-this-article-analyzes-various-cross-border-fund-transfer-routes-highlighting-that-the-combination-of-cryptocurrency-fiat24-and-wise-offers-the-lowest-costs-and-highest-security",
         
-          title: "跨境出入金路径对比：加密货币 + Fiat24 + Wise",
+          title: "本文分析了多种跨境资金出入路径的成本与风险，指出通过加密货币、Fiat24 和 Wise 组合的路径在降低费用和提高安全性方面表现最佳。​This article analyzes various cross-border fund transfer routes, highlighting that...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-10/cross-border-transfer-crypto-fiat24-wise/";
           
         },
-      },{id: "post-再见-可以安静一点-一首关于温柔归还与内心和解的诗",
+      },{id: "post-一首关于归还与放下的诗-以宁静的语言讲述在黄昏中悄然告别的方式-唤起对内在和平的共鸣-a-poem-about-returning-and-letting-go-told-in-serene-language-evoking-a-gentle-farewell-whispered-at-dusk-and-resonating-with-inner-peace",
         
-          title: "再见，可以安静一点：一首关于温柔归还与内心和解的诗",
+          title: "一首关于归还与放下的诗，以宁静的语言讲述在黄昏中悄然告别的方式，唤起对内在和平的共鸣。A poem about returning and letting go, told in serene language, evoking a...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -316,29 +492,29 @@ ninja.data = [{
         
           title: "匿名者的渡口：一场关于“存在”与“身份”的诗性摆渡",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-09/anonymouss-ferry-a-poetic-crossing-on-existence-and-identity/";
           
         },
-      },{id: "post-危机中的自我误伤-命如何被悄然抵押",
+      },{id: "post-反思危机中的自救误区-当防御成为倒钩-命运悄然被抵押-揭示结构性反伤机制-a-reflection-on-how-crisis-responses-turn-into-barbed-defenses-silently-pledging-life-and-exposing-the-paradox-of-self-harm-within-self-preservation",
         
-          title: "危机中的自我误伤：命如何被悄然抵押",
+          title: "反思危机中的自救误区：当防御成为倒钩，命运悄然被抵押，揭示结构性反伤机制。A reflection on how crisis responses turn into barbed defenses, silently pledging life...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-08/pledged-lives/";
           
         },
-      },{id: "post-恒定的夜-数字剧本中的被演绎之人",
+      },{id: "post-探索-恒定的夜-一首揭示系统操控与个体命运之间张力的诗歌-在算法时代的静默中-黑夜成为舞台上的主角-explore-the-constant-night-a-poem-unveiling-the-tension-between-system-control-and-human-fate-where-silence-reigns-and-night-becomes-the-lead-actor-on-a-digitized-stage",
         
-          title: "恒定的夜：数字剧本中的被演绎之人",
+          title: "探索《恒定的夜》，一首揭示系统操控与个体命运之间张力的诗歌，在算法时代的静默中，黑夜成为舞台上的主角。Explore The Constant Night, a poem unveiling the tension between system control and...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -349,18 +525,18 @@ ninja.data = [{
         
           title: "反收割自我操作系统——Anti-harvest Self-operating System",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-07/anti-harvest-self-operating-system/";
           
         },
-      },{id: "post-无味之作-你是在生活-还是在执行程序",
+      },{id: "post-很多人如同无魂做菜般地生活-仅为完成任务却失去热情与自我-many-live-like-they-cook-without-soul-just-completing-tasks-losing-passion-and-identity-along-the-way",
         
-          title: "无味之作：你是在生活，还是在执行程序？",
+          title: "很多人如同无魂做菜般地生活，仅为完成任务却失去热情与自我。Many live like they cook without soul—just completing tasks, losing passion and identity...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -371,40 +547,29 @@ ninja.data = [{
         
           title: "两极餐桌——Polar Tables",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-06/polar-tables/";
           
         },
-      },{id: "post-引力之下-全球秩序的无声重构-under-the-pull-of-gravity-the-silent-restructuring-of-global-order",
-        
-          title: "引力之下：全球秩序的无声重构——Under the Pull of Gravity: The Silent Restructuring of Global Order",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-04-04/under-the-pull-of-gravity-the-silent-restructuring-of-global-order/";
-          
-        },
       },{id: "post-思想漫游的边境哨站-the-border-outpost-of-thought-roaming",
         
           title: "思想漫游的边境哨站——The Border Outpost of Thought Roaming",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-04/the-border-outpost-of-thought-roaming/";
           
         },
-      },{id: "post-裂缝里的回声-那些未说出口的理想之声",
+      },{id: "post-裂缝中的低语也能震响历史-在静默中传承理想-这是一段属于众人的无声史诗-whispers-in-the-cracks-can-still-shake-history-this-is-a-silent-epic-of-ideals-passed-on-by-the-voices-of-the-many",
         
-          title: "裂缝里的回声：那些未说出口的理想之声",
+          title: "裂缝中的低语也能震响历史。在静默中传承理想，这是一段属于众人的无声史诗。Whispers in the cracks can still shake history. This is a silent epic...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -415,7 +580,7 @@ ninja.data = [{
         
           title: "三层结构，双态网络：家庭网络架构中的角色分工与流量分流策略",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -426,29 +591,18 @@ ninja.data = [{
         
           title: "网络就像一栋楼——Network Is Like an Apartment Building",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-04-02/network-is-like-an-apartment-building/";
           
         },
-      },{id: "post-cudy-路由器完全配置手册-从原厂到-openwrt-the-complete-cudy-router-setup-guide-from-factory-to-openwrt",
-        
-          title: "Cudy 路由器完全配置手册：从原厂到 OpenWRT——The Complete Cudy Router Setup Guide: From Factory to OpenWRT",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-04-02/cudy-router-complete-setup-factory-to-openwrt/";
-          
-        },
       },{id: "post-香蕉和牛奶的狂欢-a-carnival-of-bananas-and-milk",
         
           title: "香蕉和牛奶的狂欢——A Carnival of Bananas and Milk",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -459,7 +613,7 @@ ninja.data = [{
         
           title: "谁动了奶酪？——Who Moved the Cheese?",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -470,7 +624,7 @@ ninja.data = [{
         
           title: "将 10 美元转入 Fiat24 账户的完整指南",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -481,7 +635,7 @@ ninja.data = [{
         
           title: "思想入骨，肉身觉醒——Thought to the Bone, the Body Awakens",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -492,7 +646,7 @@ ninja.data = [{
         
           title: "无知者无罪——The Ignorant are not Guilty",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -503,7 +657,7 @@ ninja.data = [{
         
           title: "存在的裂缝——The Fracture of Existence",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -514,7 +668,7 @@ ninja.data = [{
         
           title: "燃尽之书——The Burnt Book",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -525,7 +679,7 @@ ninja.data = [{
         
           title: "剥皮点灯——Flayed to Light the Lamp",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -536,7 +690,7 @@ ninja.data = [{
         
           title: "一篇 deta-surf 的产品使用介绍",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -547,7 +701,7 @@ ninja.data = [{
         
           title: "谁能被点名，谁须要供奉——Who Bears a Name, and Who Bears the Altar",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -558,7 +712,7 @@ ninja.data = [{
         
           title: "体能训练与营养补给：癌症干预的生活式可能",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -569,18 +723,18 @@ ninja.data = [{
         
           title: "程序即治理——Program as Governance",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-03-06/program-as-governance/";
           
         },
-      },{id: "post-信任的单向流动-制度化服从与觉醒的隐喻",
+      },{id: "post-一条只能前行的通道-象征信任的单向灌注-本文揭示制度化信任如何掩盖个体的声音-并提出-从自我开始-的逆流可能-a-one-way-passage-symbolizes-trust-flowing-top-down-this-piece-reveals-how-institutionalized-trust-silences-individuals-and-proposes-a-reversal-starting-with-the-self",
         
-          title: "信任的单向流动：制度化服从与觉醒的隐喻",
+          title: "一条只能前行的通道，象征信任的单向灌注；本文揭示制度化信任如何掩盖个体的声音，并提出“从自我开始”的逆流可能。A one-way passage symbolizes trust flowing top-down; this piece reveals how institutionalized trust...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -591,7 +745,7 @@ ninja.data = [{
         
           title: "镜墙后的回声——Echoes Behind the Mirror Wall",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -602,29 +756,18 @@ ninja.data = [{
         
           title: "AI 内容生成与分发聚合系统",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-03-06/ai-content-generation-and-distribution-system/";
           
         },
-      },{id: "post-遗言-ipsri的终幕-final-testament-the-last-curtain-of-ipsri",
-        
-          title: "遗言：IPSRI的终幕——Final Testament: The Last Curtain of IPSRI",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-03-05/final-testament-the-last-curtain-of-ipsri/";
-          
-        },
       },{id: "post-删句的-在编史-the-one-who-deletes-is-writing-history",
         
           title: "删句的，在编史——The One Who Deletes Is Writing History",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -635,7 +778,7 @@ ninja.data = [{
         
           title: "影子秩序之下——Beneath the Shadow Order",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -646,7 +789,7 @@ ninja.data = [{
         
           title: "执行力的真相——The Truth of Execution",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -657,7 +800,7 @@ ninja.data = [{
         
           title: "制度的手指——The Fingers of the System",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -668,7 +811,7 @@ ninja.data = [{
         
           title: "36525.day：个人IP与内容变现行动方案",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -679,18 +822,18 @@ ninja.data = [{
         
           title: "你将获得你所求的一切——You Shall Have What You Seek",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025-02-27/you-shall-have-what-you-seek/";
           
         },
-      },{id: "post-乱世生存五法则-如何在风暴中保持自我",
+      },{id: "post-在这个善恶模糊-规则颠倒的时代-如何活下去又不迷失-本手册提供五大策略-助你在乱世中保存灵魂-in-an-era-where-rules-blur-and-morality-fades-how-do-you-survive-without-losing-yourself-this-manual-offers-five-strategies-to-keep-your-soul-intact-in-chaos",
         
-          title: "乱世生存五法则：如何在风暴中保持自我",
+          title: "在这个善恶模糊、规则颠倒的时代，如何活下去又不迷失？本手册提供五大策略，助你在乱世中保存灵魂。In an era where rules blur and morality fades, how do you survive...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -701,7 +844,7 @@ ninja.data = [{
         
           title: "新域名计划——New Domain Plan",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -712,7 +855,7 @@ ninja.data = [{
         
           title: "荣耀的重量——The Weight of Glory",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -723,7 +866,7 @@ ninja.data = [{
         
           title: "在喧哗中看见结构——Seeing Structure in the Noise",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -734,7 +877,7 @@ ninja.data = [{
         
           title: "36525天，Yaniék—雅捏克—Яниэк—يانيك：“百年”新词，跨文化的构造逻辑",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -745,7 +888,7 @@ ninja.data = [{
         
           title: "教育是口锅——Education is an Old Pot",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -756,7 +899,7 @@ ninja.data = [{
         
           title: "个人出海——Personal Going Overseas",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -767,7 +910,7 @@ ninja.data = [{
         
           title: "流动中的意义暴力——The Fluid Violence of Meaning",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -778,7 +921,7 @@ ninja.data = [{
         
           title: "符号的囚笼——The Cage of Symbols",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -789,7 +932,7 @@ ninja.data = [{
         
           title: "顺从的建筑学——The Architecture of Obedience",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -800,7 +943,7 @@ ninja.data = [{
         
           title: "科学上网——Scientific Internet Surfing",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -811,7 +954,7 @@ ninja.data = [{
         
           title: "无名之境——The Nameless Realm",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -822,18 +965,18 @@ ninja.data = [{
         
           title: "伤口上的盐——Salt on the Wound",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2024-12-30/salt-on-the-wound/";
           
         },
-      },{id: "post-光的楔子-wedges-of-light",
+      },{id: "post-本文借-节日-之名-反思人类赋予时间意义的方式-以诗性语言揭示-真正属于我们的-是那些未被标记却悄然流逝的瞬间-framed-by-the-concept-of-festivals-this-piece-reflects-on-how-humans-seek-to-give-meaning-to-time-ultimately-revealing-in-poetic-language-that-what-truly-belongs-to-us-are-the-unmarked-silently-passing-moments",
         
-          title: "光的楔子——Wedges of Light",
+          title: "本文借“节日”之名，反思人类赋予时间意义的方式，以诗性语言揭示：真正属于我们的，是那些未被标记却悄然流逝的瞬间。Framed by the concept of “festivals,” this piece reflects on how humans seek...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -842,9 +985,9 @@ ninja.data = [{
         },
       },{id: "post-那个精致利己的毛左-that-left-egoism-maoist",
         
-          title: "那个精致利己的毛左——That Left Egoism Maoist",
+          title: "那个精致利己的毛左——That Left Egoism\_Maoist",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -855,7 +998,7 @@ ninja.data = [{
         
           title: "初心——The Original Aspiration",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -866,7 +1009,7 @@ ninja.data = [{
         
           title: "权力擦边的过程——The Edge-Walking of Power",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -877,7 +1020,7 @@ ninja.data = [{
         
           title: "不是树，而是森林——Not a Tree, But a Forest",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -888,7 +1031,7 @@ ninja.data = [{
         
           title: "人民之词——The Word People",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -899,7 +1042,7 @@ ninja.data = [{
         
           title: "挺胸和收腹——Chest out and Stomach in",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -910,7 +1053,7 @@ ninja.data = [{
         
           title: "不再等待——No Longer Waiting",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -921,7 +1064,7 @@ ninja.data = [{
         
           title: "历史正确的一边——The Right Side of History",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -932,29 +1075,18 @@ ninja.data = [{
         
           title: "晨间失衡——Morning Disorientation",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2024-11-25/morning-disorientation/";
           
         },
-      },{id: "post-速度的泪腺-在光的断层中失明-tear-duct-of-speed-going-blind-in-the-faultline-of-light",
-        
-          title: "速度的泪腺：在光的断层中失明——Tear Duct of Speed: Going Blind in the Faultline of Light",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024-11-20/tear-duct-of-speed-going-blind-in-the-faultline-of-light/";
-          
-        },
       },{id: "post-抑郁的个体-the-depressed-individual",
         
           title: "抑郁的个体——The Depressed Individual",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -965,7 +1097,7 @@ ninja.data = [{
         
           title: "钱与人——Money and People",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -976,7 +1108,7 @@ ninja.data = [{
         
           title: "亡者，路的尽头——End Road of Deceased",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -987,7 +1119,7 @@ ninja.data = [{
         
           title: "死亡的贡献——Contribution of Death",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -998,7 +1130,7 @@ ninja.data = [{
         
           title: "喊着人民万岁却把人民万碎的人——Those who Shout Long Live the People but Bring about Long Live the...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1009,7 +1141,7 @@ ninja.data = [{
         
           title: "闭嘴的力量——Power of Shut Up",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1020,7 +1152,7 @@ ninja.data = [{
         
           title: "报复社会的行为——The Act of Social Revenge",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1031,7 +1163,7 @@ ninja.data = [{
         
           title: "空想的良药——Remedy for Delusion",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1042,7 +1174,7 @@ ninja.data = [{
         
           title: "“遍地献忠”的文化症候——The Cultural Syndrome of Universal Xianzhong",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1053,7 +1185,7 @@ ninja.data = [{
         
           title: "“出门装瓜娃儿”的智慧——Wisdom of Feigning Simplicity",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1064,29 +1196,18 @@ ninja.data = [{
         
           title: "理解的界限——The Limit of Understandings",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2024-11-13/the-limit-of-understandings/";
           
         },
-      },{id: "post-直觉-从感知到灵感的艺术-intuition-the-art-of-transforming-perception-into-inspiration",
-        
-          title: "直觉：从感知到灵感的艺术——Intuition: The Art of Transforming Perception into Inspiration",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024-11-13/intuition-the-art-of-transforming-perception-into-inspiration/";
-          
-        },
       },{id: "post-家丑-family-scandal",
         
           title: "家丑——Family Scandal",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1097,7 +1218,7 @@ ninja.data = [{
         
           title: "不可预知的旅途——The Unpredictable Journey",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1108,7 +1229,7 @@ ninja.data = [{
         
           title: "疯狂的导火索——The Fuse of Madness",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1119,7 +1240,7 @@ ninja.data = [{
         
           title: "末句——The Final Sentence",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1130,7 +1251,7 @@ ninja.data = [{
         
           title: "遗失的回声——The Echo of the Lost",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1141,7 +1262,7 @@ ninja.data = [{
         
           title: "绿洲——Oasis",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1152,7 +1273,7 @@ ninja.data = [{
         
           title: "李子柒的作品——Li Ziqi&amp;#8217;s Work",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1163,7 +1284,7 @@ ninja.data = [{
         
           title: "一场混沌的舞台剧——A Chaotic Stage Play",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1174,7 +1295,7 @@ ninja.data = [{
         
           title: "随机群发事件的解读及其社会隐喻——The Interpretation of Random Mass Incidents and Their Social Implications",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1185,7 +1306,7 @@ ninja.data = [{
         
           title: "无形之物——The Intangible Entity",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1196,7 +1317,7 @@ ninja.data = [{
         
           title: "一篇“狗撵科学”的短文——A Short Piece on Dogs Chasing Science",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1207,7 +1328,7 @@ ninja.data = [{
         
           title: "如果说鲁迅是“支黑”，那么胡适又是“什么”？——If Lu Xun is the Black of Chinese, Then What is Hu Shi?...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1218,7 +1339,7 @@ ninja.data = [{
         
           title: "自行车——A Bicycle",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1229,7 +1350,7 @@ ninja.data = [{
         
           title: "文盲不识字，发文凭就好了——The Illiterate May Not Read, But a Diploma Will Be Fine",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1240,7 +1361,7 @@ ninja.data = [{
         
           title: "现实中的呢喃——Murmurs in Reality",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1251,7 +1372,7 @@ ninja.data = [{
         
           title: "如何自定义ChatGPT——How to Customize Chatgpt",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1262,7 +1383,7 @@ ninja.data = [{
         
           title: "遥远的温柔——Distant Gentleness",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1273,7 +1394,7 @@ ninja.data = [{
         
           title: "如何隐喻地进行创作？——How to Create Metaphorically?",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1284,7 +1405,7 @@ ninja.data = [{
         
           title: "遥远的土地——A Distant Land",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1295,7 +1416,7 @@ ninja.data = [{
         
           title: "善意象征的王座——Throne of Benevolent Symbols",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1306,7 +1427,7 @@ ninja.data = [{
         
           title: "缔造者与卖国贼——Founder and Traitor",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1317,29 +1438,18 @@ ninja.data = [{
         
           title: "朝阳——The Morning Sun",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2024-10-31/the-morning-sun/";
           
         },
-      },{id: "post-游戏-终焉的百合花-有感-game-ender-lilies",
-        
-          title: "游戏《终焉的百合花》有感——Game: Ender Lilies",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024-10-30/game-ender-lilies/";
-          
-        },
       },{id: "post-道德绑架之恶与平衡-evil-and-balance-of-moral-coercion",
         
           title: "道德绑架之恶与平衡——Evil and Balance of Moral Coercion",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1350,7 +1460,7 @@ ninja.data = [{
         
           title: "真相与视角——Truth and Perspective",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1361,7 +1471,7 @@ ninja.data = [{
         
           title: "温室中的生命——Life in Greenhouse",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1372,29 +1482,18 @@ ninja.data = [{
         
           title: "岁月时光——Time and Year",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2024-09-19/time-and-year/";
           
         },
-      },{id: "post-梦中梦-鬼魅娃娃-dream-in-a-dream-ghost-doll",
-        
-          title: "梦中梦：鬼魅娃娃——Dream in a Dream: Ghost Doll",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024-08-26/dream-in-a-dream-ghost-doll/";
-          
-        },
       },{id: "post-统一指示下的虚假自由-false-freedom-under-unified-command",
         
           title: "统一指示下的虚假自由——False Freedom Under Unified Command",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1405,51 +1504,29 @@ ninja.data = [{
         
           title: "从虚假的善到切实的恶——From False Goodness to Real Evil",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2024-08-08/from-false-goodness-to-real-evil/";
           
         },
-      },{id: "post-左右-赞美和批评-从-尾巴-谈论到-精神病-left-and-right-praise-and-criticism-from-tail-to-mental-illness",
-        
-          title: "“左右”赞美和批评：从“尾巴”谈论到“精神病”——Left and Right, Praise and Criticism: From Tail to Mental Illness",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024-08-07/left-and-right-praise-and-criticism-from-tail-to-mental-illness/";
-          
-        },
-      },{id: "post-有得选-之从具体的人谈论到抽象的历史-having-a-choice-from-specific-individuals-to-abstract-history",
-        
-          title: "有得选：之从具体的人谈论到抽象的历史——Having a Choice: From Specific Individuals to Abstract History",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024-08-06/having-a-choice-from-specific-individuals-to-abstract-history/";
-          
-        },
       },{id: "post-年富-力强-rich-mind-strong-body",
         
           title: "年富、力强——Rich Mind, Strong Body",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2024-08-04/rich-mind-strong-body/";
           
         },
-      },{id: "post-增肌减脂终极指南-系统饮食-训练计划",
+      },{id: "post-增肌减脂训练手册-涵盖科学饮食-系统训练与营养补充-助你高效实现健身目标-a-complete-muscle-gain-and-fat-loss-manual-with-smart-meal-planning-structured-workouts-and-key-nutrition-tips-for-efficient-fitness-results",
         
-          title: "增肌减脂终极指南：系统饮食+训练计划",
+          title: "增肌减脂训练手册，涵盖科学饮食、系统训练与营养补充，助你高效实现健身目标。A complete muscle gain and fat loss manual with smart meal planning, structured...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1460,7 +1537,7 @@ ninja.data = [{
         
           title: "节日快乐——Happy Holidays",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1471,7 +1548,7 @@ ninja.data = [{
         
           title: "花儿——Flower",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1482,7 +1559,7 @@ ninja.data = [{
         
           title: "天空和鱼儿——The sky and The Fish",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1493,7 +1570,7 @@ ninja.data = [{
         
           title: "怛的战后庆典——Da&amp;#8217;s Postwar Celebration (3-)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1504,7 +1581,7 @@ ninja.data = [{
         
           title: "怛的战前动员——Da&amp;#8217;s Prewar Mobilization (3-)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1515,7 +1592,7 @@ ninja.data = [{
         
           title: "怛的袭来——Da&amp;#8217;s Attacking (3-)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1526,7 +1603,7 @@ ninja.data = [{
         
           title: "疯城——Mad City (4-)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1537,7 +1614,7 @@ ninja.data = [{
         
           title: "胞弟——Brothers (3-)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1548,7 +1625,7 @@ ninja.data = [{
         
           title: "真爱——True Love",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1559,7 +1636,7 @@ ninja.data = [{
         
           title: "美好地方——The Beautiful Place",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1570,7 +1647,7 @@ ninja.data = [{
         
           title: "双重标准——Double Standards",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1581,7 +1658,7 @@ ninja.data = [{
         
           title: "造车——Build Cars",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1592,7 +1669,7 @@ ninja.data = [{
         
           title: "官利——Officials for Profit",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1603,7 +1680,7 @@ ninja.data = [{
         
           title: "枪与刀——Gun and Knife",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1614,7 +1691,7 @@ ninja.data = [{
         
           title: "勇敢的人民——Brave People",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1625,29 +1702,18 @@ ninja.data = [{
         
           title: "打赌——Bet",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2022-06-14/bet/";
           
         },
-      },{id: "post-群体社会-内耗与悲剧-group-society-consumption-and-tragedy",
-        
-          title: "群体社会：内耗与悲剧——Group Society: Consumption and Tragedy",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022-06-11/group-society-consumption-and-tragedy/";
-          
-        },
       },{id: "post-宝-baby",
         
           title: "宝——Baby",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1658,7 +1724,7 @@ ninja.data = [{
         
           title: "英雄、奴隶——Hero and Slave",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1669,7 +1735,7 @@ ninja.data = [{
         
           title: "杀人犯、警察——The Murderer, The Police",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1680,7 +1746,7 @@ ninja.data = [{
         
           title: "谈爱国——On Patriotism",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1691,7 +1757,7 @@ ninja.data = [{
         
           title: "无限悲哀——Infinite Sorrow",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1702,7 +1768,7 @@ ninja.data = [{
         
           title: "相通的梦——Similar Dreams",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1713,7 +1779,7 @@ ninja.data = [{
         
           title: "呜呜喳喳——Whining and Babbling",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1724,7 +1790,7 @@ ninja.data = [{
         
           title: "编织彩虹的人——The man Weaving Rainbows",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1735,7 +1801,7 @@ ninja.data = [{
         
           title: "单身的好处——Benefits of Being Single",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1746,7 +1812,7 @@ ninja.data = [{
         
           title: "定数——Destiny",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1757,7 +1823,7 @@ ninja.data = [{
         
           title: "文爱——Word Love",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1768,7 +1834,7 @@ ninja.data = [{
         
           title: "树洞谬论——Tree Hole Fallacy",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1779,7 +1845,7 @@ ninja.data = [{
         
           title: "帝王的屎——The Emperor’s Shit",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1790,7 +1856,7 @@ ninja.data = [{
         
           title: "古代朝鲜｜Ancient Korea",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1801,7 +1867,7 @@ ninja.data = [{
         
           title: "少年秘密警察——The Secret Teenage Police",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1812,7 +1878,7 @@ ninja.data = [{
         
           title: "高潮——Orgasm",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1823,7 +1889,7 @@ ninja.data = [{
         
           title: "沁润——Moistening",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1834,7 +1900,7 @@ ninja.data = [{
         
           title: "打拳的本质——Essence of Boxing",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1845,7 +1911,7 @@ ninja.data = [{
         
           title: "教育的奴隶——Slave of Education",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1856,7 +1922,7 @@ ninja.data = [{
         
           title: "摇摆的戏子——Wavering Actors",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1867,7 +1933,7 @@ ninja.data = [{
         
           title: "种子与播种者——Seeds and Sowers",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1878,7 +1944,7 @@ ninja.data = [{
         
           title: "剥削后袋——Exploiting Later Bags",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1889,7 +1955,7 @@ ninja.data = [{
         
           title: "意识和罪——Consciousness and Guilty",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1900,7 +1966,7 @@ ninja.data = [{
         
           title: "权力的交接——Handover of Power",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1911,7 +1977,7 @@ ninja.data = [{
         
           title: "命运的窗口——The Window of Fate",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1922,7 +1988,7 @@ ninja.data = [{
         
           title: "为谁而唱——Who to Sing for",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1931,9 +1997,9 @@ ninja.data = [{
         },
       },{id: "post-香港-海参崴-伯力-xiāng-gǎng-hǎi-shēn-wǎi-and-bó-lì",
         
-          title: "香港，海参崴、伯力——Xiāng Gǎng，Hǎi Shēn Wǎi and Bó Lì",
+          title: "香港，海参崴、伯力——Xiāng Gǎng，Hǎi\_Shēn\_Wǎi\_and\_Bó\_Lì",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1944,7 +2010,7 @@ ninja.data = [{
         
           title: "无耻的人——Shameless People",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1955,7 +2021,7 @@ ninja.data = [{
         
           title: "企业、领导、狗——Enterprises, Leaders and Dogs",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1966,7 +2032,7 @@ ninja.data = [{
         
           title: "万金油——Panacea",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1977,7 +2043,7 @@ ninja.data = [{
         
           title: "平凡的人——Ordinary Human Being",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1988,7 +2054,7 @@ ninja.data = [{
         
           title: "飞的是命——Flew away is Fate",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -1999,7 +2065,7 @@ ninja.data = [{
         
           title: "三个什么——Three It is",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2010,7 +2076,7 @@ ninja.data = [{
         
           title: "台湾必然回归的两点说明——Two Points about Taiwan’s Inevitable Return",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2021,7 +2087,7 @@ ninja.data = [{
         
           title: "战后宣言——Postwar Anifesto",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2032,7 +2098,7 @@ ninja.data = [{
         
           title: "0.00000001的机会——Chance 0.00000001",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2043,7 +2109,7 @@ ninja.data = [{
         
           title: "俄乌战争｜Russia Ukraine War",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2054,7 +2120,7 @@ ninja.data = [{
         
           title: "美国、中国、俄罗斯——USA, China and Russia",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2065,29 +2131,18 @@ ninja.data = [{
         
           title: "选择比努力重要——Choice is more Important than Effort",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2022-02-24/choice-is-more-important-than-effort/";
           
         },
-      },{id: "post-对话-嘴炮与官员和资本家-dialogue-mouth-cannon-with-officials-and-capitalists",
-        
-          title: "对话：嘴炮与官员和资本家——Dialogue: Mouth Cannon with Officials and Capitalists",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022-02-23/dialogue-mouth-cannon-with-officials-and-capitalists/";
-          
-        },
       },{id: "post-历史和规则-history-and-rules",
         
           title: "历史和规则——History and Rules",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2098,7 +2153,7 @@ ninja.data = [{
         
           title: "3万字小说——A 30,000 Words Novel",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2109,7 +2164,7 @@ ninja.data = [{
         
           title: "如何维持长久的幸福、快乐，安康——How to Maintain Long-term Happiness, Joy, and Well-being",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2120,7 +2175,7 @@ ninja.data = [{
         
           title: "文字的力量——Power of Words",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2131,7 +2186,7 @@ ninja.data = [{
         
           title: "吃头发的人——The Man Eats Hair",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2142,7 +2197,7 @@ ninja.data = [{
         
           title: "骂人的道理（逻辑）——Logic of Scolding",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2153,7 +2208,7 @@ ninja.data = [{
         
           title: "国家是什么——What is a Country",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2164,7 +2219,7 @@ ninja.data = [{
         
           title: "过年的灵魂——Soul of the New Year",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2175,7 +2230,7 @@ ninja.data = [{
         
           title: "我的黄金时间——My Gloden Time",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2186,7 +2241,7 @@ ninja.data = [{
         
           title: "我希望我是你——I Hope I am You",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2197,7 +2252,7 @@ ninja.data = [{
         
           title: "这个世界——This World",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2208,7 +2263,7 @@ ninja.data = [{
         
           title: "我的爸爸——My Father",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2219,7 +2274,7 @@ ninja.data = [{
         
           title: "恶的相对论——Relativity of Evil",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2230,7 +2285,7 @@ ninja.data = [{
         
           title: "一个惊天地泣鬼神的梦——A Dream Shocking Sky and Earth, Weeping Ghosts and Gods",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2241,7 +2296,7 @@ ninja.data = [{
         
           title: "杀死该演员——Kill the Actor",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2252,7 +2307,7 @@ ninja.data = [{
         
           title: "谈民主——On Democracy",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2263,7 +2318,7 @@ ninja.data = [{
         
           title: "标准——Standard",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2274,7 +2329,7 @@ ninja.data = [{
         
           title: "校园霸凌——School Bullying",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2285,7 +2340,7 @@ ninja.data = [{
         
           title: "救命稻草——Life Saving Straw",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2296,7 +2351,7 @@ ninja.data = [{
         
           title: "成长——Growth",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2307,7 +2362,7 @@ ninja.data = [{
         
           title: "半篇作文——Half Composition",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2318,7 +2373,7 @@ ninja.data = [{
         
           title: "若这就是我的遗言——If This is My Last Words",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2329,7 +2384,7 @@ ninja.data = [{
         
           title: "流氓、富人——Rogues and Rich Men",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2340,29 +2395,18 @@ ninja.data = [{
         
           title: "意义的有无——The Yes and No of Meaning",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2021-11-19/the-yes-and-no-of-meaning/";
           
         },
-      },{id: "post-假-死的意义-hypothesis-meaning-of-death",
-        
-          title: "假：死的意义——Hypothesis: Meaning of Death",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021-11-19/hypothesis-meaning-of-death/";
-          
-        },
       },{id: "post-我的灵魂-my-soul",
         
           title: "我的灵魂——My Soul",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2373,7 +2417,7 @@ ninja.data = [{
         
           title: "在岸上——On the Shore",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2384,7 +2428,7 @@ ninja.data = [{
         
           title: "每一天的生活——Everyday’s Life",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2395,7 +2439,7 @@ ninja.data = [{
         
           title: "游戏的意义——Meaning of Game",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2406,7 +2450,7 @@ ninja.data = [{
         
           title: "今夜的拯救——Tonight’s Rescue",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2417,7 +2461,7 @@ ninja.data = [{
         
           title: "个人的悲欢——Personal Joys and Sorrows",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2428,7 +2472,7 @@ ninja.data = [{
         
           title: "最大的公平与正义——The Greatest Fairness and Justice",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2439,7 +2483,7 @@ ninja.data = [{
         
           title: "讲道德的人——Moral People",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2450,7 +2494,7 @@ ninja.data = [{
         
           title: "鱿鱼游戏，不同的观点——Squid Games, Different View",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2461,7 +2505,7 @@ ninja.data = [{
         
           title: "山那边的白云——White Clouds on other Side of Mountain",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2472,7 +2516,7 @@ ninja.data = [{
         
           title: "雨水和土壤——Rain and Soil",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2483,7 +2527,7 @@ ninja.data = [{
         
           title: "反对的声音｜Voice of Opposition",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2494,7 +2538,7 @@ ninja.data = [{
         
           title: "共同富裕的本质——Essence of Common Prosperity",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2505,7 +2549,7 @@ ninja.data = [{
         
           title: "修行人的生、死——Life and Death of People who Believe in Buddhism",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2516,29 +2560,18 @@ ninja.data = [{
         
           title: "自我安慰的话语——Self Comforting Words",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2021-09-05/self-comforting-words/";
           
         },
-      },{id: "post-人性悖论-直曲之间的辩证-paradox-of-human-nature-the-dialectic-between-straight-and-twisted",
-        
-          title: "人性悖论：直曲之间的辩证——Paradox of Human Nature: The Dialectic Between Straight and Twisted",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021-09-05/paradox-of-human-nature-the-dialectic-between-straight-and-twisted/";
-          
-        },
       },{id: "post-论我的存在-on-exist-of-i",
         
           title: "论我的存在——On Exist of I",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2549,7 +2582,7 @@ ninja.data = [{
         
           title: "共生关系——Symbiosis",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2560,29 +2593,18 @@ ninja.data = [{
         
           title: "三角关系——Triangular Relationship",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2021-08-15/triangular-relationship/";
           
         },
-      },{id: "post-权力的喉舌-爱国大v-mouthpiece-of-power-patriots-big-v",
-        
-          title: "权力的喉舌：爱国大V——Mouthpiece of Power: Patriots Big V",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021-07-17/mouthpiece-of-power-patriots-big-v/";
-          
-        },
       },{id: "post-实话和反语-truth-and-irony",
         
           title: "实话和反语——Truth and Irony",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2593,7 +2615,7 @@ ninja.data = [{
         
           title: "文人最基本的道德——Most Basic Morality of the Literati",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2604,7 +2626,7 @@ ninja.data = [{
         
           title: "理想国……——Utopia…",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2615,7 +2637,7 @@ ninja.data = [{
         
           title: "之一我的罪恶——One of My Sins",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2626,7 +2648,7 @@ ninja.data = [{
         
           title: "藩篱、栅栏和鲜花——Fences and Flowers",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2637,7 +2659,7 @@ ninja.data = [{
         
           title: "暗网｜dark-web",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2648,7 +2670,7 @@ ninja.data = [{
         
           title: "生老病死｜Birth and Aging, Illness and Death",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2659,7 +2681,7 @@ ninja.data = [{
         
           title: "免费观看中国境内（会员+付费）视频的方法",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2670,7 +2692,7 @@ ninja.data = [{
         
           title: "观点与表达｜Views and Expressions",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2681,7 +2703,7 @@ ninja.data = [{
         
           title: "一些一些一些｜Some Some Some",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2692,7 +2714,7 @@ ninja.data = [{
         
           title: "人性以偏概全的定义｜Partial Definition of Human Nature",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2703,7 +2725,7 @@ ninja.data = [{
         
           title: "同性恋是不是病｜Is Homosexuality a Disease",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2714,7 +2736,7 @@ ninja.data = [{
         
           title: "生命的终极——Ultimate of Life",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2725,7 +2747,7 @@ ninja.data = [{
         
           title: "台前幕后的婚礼——The Wedding Front Stage Behind Scenes",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2736,7 +2758,7 @@ ninja.data = [{
         
           title: "流星的死亡——Death of Meteor",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2747,7 +2769,7 @@ ninja.data = [{
         
           title: "死亡的一些理解——Some Understandings of Death",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2758,7 +2780,7 @@ ninja.data = [{
         
           title: "中国不会亡——China will not Perish",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2769,7 +2791,7 @@ ninja.data = [{
         
           title: "未即当下——Future is Now",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2780,7 +2802,7 @@ ninja.data = [{
         
           title: "浪漫星空——Romantic Starry Sky",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2791,7 +2813,7 @@ ninja.data = [{
         
           title: "前进的苦楚——Pains of Moving Forward",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2802,7 +2824,7 @@ ninja.data = [{
         
           title: "新造人——NCP",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2813,7 +2835,7 @@ ninja.data = [{
         
           title: "史记世系表",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2824,7 +2846,7 @@ ninja.data = [{
         
           title: "退守迷蒙森林——Retreat to Misty Forest (3-99)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2835,7 +2857,7 @@ ninja.data = [{
         
           title: "城墙与人心——Wall and Human Heart (3-)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2846,7 +2868,7 @@ ninja.data = [{
         
           title: "爱是什么——What is a Love",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2857,7 +2879,7 @@ ninja.data = [{
         
           title: "希雅，海神的女儿——Sea, Daughter of Ocean (4-)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2868,7 +2890,7 @@ ninja.data = [{
         
           title: "寻找海盗——Looking for the Pirates (4-)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2879,7 +2901,7 @@ ninja.data = [{
         
           title: "每个人的负重——Everyone’s Burden",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2890,7 +2912,7 @@ ninja.data = [{
         
           title: "爱人与护己——Love Others and Protect Oneself",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2901,7 +2923,7 @@ ninja.data = [{
         
           title: "要过的日子——Days to Live",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2912,7 +2934,7 @@ ninja.data = [{
         
           title: "黑暗中的星——Stars in Darkness",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2923,7 +2945,7 @@ ninja.data = [{
         
           title: "最终结局——The Final End",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2934,7 +2956,7 @@ ninja.data = [{
         
           title: "地图的一些讲解——Explanations of the Map",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2945,7 +2967,7 @@ ninja.data = [{
         
           title: "线装书的制法——Method of Making Thread Bound Books",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2956,7 +2978,7 @@ ninja.data = [{
         
           title: "关于爱情——About Love",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2967,7 +2989,7 @@ ninja.data = [{
         
           title: "于你无内的诗——Poem Without U",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2978,7 +3000,7 @@ ninja.data = [{
         
           title: "下跪与爱情——Kneel and Love",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -2989,7 +3011,7 @@ ninja.data = [{
         
           title: "她的无知，我的愚昧——Her Ignorance and mine",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3000,7 +3022,7 @@ ninja.data = [{
         
           title: "迷茫道路——Confusion Road",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3011,7 +3033,7 @@ ninja.data = [{
         
           title: "爱的艺术——Art of Love",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3022,7 +3044,7 @@ ninja.data = [{
         
           title: "黑夜过后——After Night",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3033,7 +3055,7 @@ ninja.data = [{
         
           title: "地狱，生命的海洋——Hell, the Ocean of Life (1-2)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3044,7 +3066,7 @@ ninja.data = [{
         
           title: "诗人的海洋——Poet’s Ocean",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3055,7 +3077,7 @@ ninja.data = [{
         
           title: "天空坠落一粒尘埃——A Dust Falling from Sky (1-1)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3066,7 +3088,7 @@ ninja.data = [{
         
           title: "平和，我的心",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3077,7 +3099,7 @@ ninja.data = [{
         
           title: "生活、诗和远方——Life, Poetry and Distance",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3088,7 +3110,7 @@ ninja.data = [{
         
           title: "缘分、岁月——Fate, Years",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3099,7 +3121,7 @@ ninja.data = [{
         
           title: "死亡和希望——Death and Hope",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3110,7 +3132,7 @@ ninja.data = [{
         
           title: "百年鸿沟——A Gap of a Hundred Years",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3121,18 +3143,18 @@ ninja.data = [{
         
           title: "前言、序",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2018-01-01/qianyan-xu/";
           
         },
-      },{id: "post-乩学初知",
+      },{id: "post-探索-汉阳舟子集-乩学入门篇-从天地人三才到祖炁纯阳-揭示扶乩为感通机制的奥义-并展现其为修性养神之捷径-discover-the-foundation-of-spirit-writing-practice-in-the-hanyang-boatman-s-anthology-where-heaven-earth-man-triads-and-primal-qi-form-the-basis-of-spiritual-communication-and-self-cultivation",
         
-          title: "乩学初知",
+          title: "探索《汉阳舟子集》乩学入门篇，从天地人三才到祖炁纯阳，揭示扶乩为感通机制的奥义，并展现其为修性养神之捷径。Discover the foundation of spirit-writing practice in The Hanyang Boatman’s Anthology, where Heaven-Earth-Man...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3143,7 +3165,7 @@ ninja.data = [{
         
           title: "香山菩萨传",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3154,7 +3176,7 @@ ninja.data = [{
         
           title: "饮中八仙联诗",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3165,7 +3187,7 @@ ninja.data = [{
         
           title: "逍遥文",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3176,7 +3198,7 @@ ninja.data = [{
         
           title: "舟子挽船诗",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3187,7 +3209,7 @@ ninja.data = [{
         
           title: "瑶池内侍仙姬传",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3198,7 +3220,7 @@ ninja.data = [{
         
           title: "理事、坛规、凡例",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3209,7 +3231,7 @@ ninja.data = [{
         
           title: "清秋咏月醉仙家赋（以题为韵）",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3220,7 +3242,7 @@ ninja.data = [{
         
           title: "海蝉仙歌",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3231,7 +3253,7 @@ ninja.data = [{
         
           title: "张宋二公联诗（二月十五日）",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3242,7 +3264,7 @@ ninja.data = [{
         
           title: "张、宋二公传",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3253,7 +3275,7 @@ ninja.data = [{
         
           title: "开坛降",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3264,7 +3286,7 @@ ninja.data = [{
         
           title: "岳武穆王诗歌",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3275,7 +3297,7 @@ ninja.data = [{
         
           title: "宋公愚人自愚说",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3286,7 +3308,7 @@ ninja.data = [{
         
           title: "原集目录",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3297,7 +3319,7 @@ ninja.data = [{
         
           title: "南华老人排律诗",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3308,7 +3330,7 @@ ninja.data = [{
         
           title: "八天君联诗",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3319,18 +3341,18 @@ ninja.data = [{
         
           title: "词语释义",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2018-01-01/ciyu/";
           
         },
-      },{id: "post-孤山处士述梦",
+      },{id: "post-在-汉阳舟子集-中-一位孤山隐士于梦中聆听古人讲道-揭示因果-君子与小人的伦理差别-以及儒释道三教思想的诗性融合-in-the-hanyang-boatman-s-anthology-a-hermit-dreams-of-sages-debating-virtue-and-karma-unveiling-a-poetic-fusion-of-confucian-taoist-and-buddhist-ethics-through-allegorical-dream-vision",
         
-          title: "孤山处士述梦",
+          title: "在《汉阳舟子集》中，一位孤山隐士于梦中聆听古人讲道，揭示因果、君子与小人的伦理差别，以及儒释道三教思想的诗性融合。In The Hanyang Boatman’s Anthology, a hermit dreams of sages debating virtue and...",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3341,7 +3363,7 @@ ninja.data = [{
         
           title: "时间线——Time Line",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3352,7 +3374,7 @@ ninja.data = [{
         
           title: "相关介质、以及结局——Medium and Ending",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3363,7 +3385,7 @@ ninja.data = [{
         
           title: "昨夜、今日——Last Night, Today",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3374,29 +3396,18 @@ ninja.data = [{
         
           title: "当你沉睡时——When You are Asleep",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2017-12-13/e5bd93e4bda0e6b289e79da1e697b6-when-you-are-asleep/";
           
         },
-      },{id: "post-人物关系-城墙内的居民-characters-relationship-residents-inside-the-wall",
-        
-          title: "人物关系：城墙内的居民——Characters Relationship: Residents inside the Wall",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2017-12-10/characters-relationship-residents-inside-the-wall/";
-          
-        },
       },{id: "post-创作计划-writing-plan",
         
           title: "创作计划——Writing Plan",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3407,7 +3418,7 @@ ninja.data = [{
         
           title: "繁忙的地下世界——The Busy Underworld",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3418,7 +3429,7 @@ ninja.data = [{
         
           title: "钱和理想——Money and Ideals",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3429,29 +3440,18 @@ ninja.data = [{
         
           title: "鸡汤和爱情——Chicken Soup and Love",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2017-10-22/chicken-soup-and-love/";
           
         },
-      },{id: "post-人物关系-大洋居民-characters-relationship-ocean-residents",
-        
-          title: "人物关系：大洋居民——Characters Relationship: Ocean Residents",
-        
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2017-10-13/characters-relationship-ocean-residents/";
-          
-        },
       },{id: "post-生命中的河流-女鬼与我-rivers-in-life-ghost-and-me",
         
           title: "生命中的河流，女鬼与我——Rivers in Life, Ghost and Me",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3462,7 +3462,7 @@ ninja.data = [{
         
           title: "这是爱情啊，更是诗歌——This is Love, but also Poetry",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3473,7 +3473,7 @@ ninja.data = [{
         
           title: "王子如梦记｜Princes&amp;#8217; Dream (4-1)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3484,7 +3484,7 @@ ninja.data = [{
         
           title: "冬雪寒——Winter Snow and Cold Plum",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3495,7 +3495,7 @@ ninja.data = [{
         
           title: "八月、花儿与微风——August, Flowers and Breeze",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3506,7 +3506,7 @@ ninja.data = [{
         
           title: "国王、马修之墓——King and Matthew&amp;#8217;s Cemetery (3-100)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3517,7 +3517,7 @@ ninja.data = [{
         
           title: "给蟋蟀们的赞歌——Hymn for Crickets",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3528,7 +3528,7 @@ ninja.data = [{
         
           title: "苦难人的爱情——Love of Victims",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3539,7 +3539,7 @@ ninja.data = [{
         
           title: "现实世界我是一个哑巴——I’m a Mute in Real World",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3550,7 +3550,7 @@ ninja.data = [{
         
           title: "马修的形体——Matthew&amp;#8217;s Body (4-)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3561,7 +3561,7 @@ ninja.data = [{
         
           title: "灵魂伴侣——Soulmate",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3572,7 +3572,7 @@ ninja.data = [{
         
           title: "爱你的人——One Loves You",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3583,7 +3583,7 @@ ninja.data = [{
         
           title: "王子的情劫——Love Robbery of Prince (4-)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3594,7 +3594,7 @@ ninja.data = [{
         
           title: "征程开始——On the Journey (4-)",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3605,7 +3605,7 @@ ninja.data = [{
         
           title: "思考和想象力——Thinking and Imagination",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3616,7 +3616,7 @@ ninja.data = [{
         
           title: "六月的风——Wind in June",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3627,7 +3627,7 @@ ninja.data = [{
         
           title: "离开——Leaving",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3638,7 +3638,7 @@ ninja.data = [{
         
           title: "像是抑郁——Depression",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3649,7 +3649,7 @@ ninja.data = [{
         
           title: "中华新韵到底是怎么一回事？——What Exactly is the New Chinese Rhyme System?",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3660,7 +3660,7 @@ ninja.data = [{
         
           title: "韵发展史略——A Brief History of the Development of Rhymes",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3671,7 +3671,7 @@ ninja.data = [{
         
           title: "3月8日成都的雨——March 8th, Rain in Chengdu",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3682,7 +3682,7 @@ ninja.data = [{
         
           title: "吾系不知汝——I Don&amp;#8217;t Know You",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3693,7 +3693,7 @@ ninja.data = [{
         
           title: "黑暗痛苦——Dark Pains",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3704,7 +3704,7 @@ ninja.data = [{
         
           title: "浪仙——Wandering Immortal",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3715,7 +3715,7 @@ ninja.data = [{
         
           title: "孤独的月亮——The Lonely Moon",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3726,7 +3726,7 @@ ninja.data = [{
         
           title: "恰似冬风——Just Like Winter Wind",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3737,7 +3737,7 @@ ninja.data = [{
         
           title: "如果明天我离开——If I Die Tomorrow",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3748,7 +3748,7 @@ ninja.data = [{
         
           title: "过去式——Past Tense",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3759,7 +3759,7 @@ ninja.data = [{
         
           title: "美芽胚子——Bud Embryo",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3770,7 +3770,7 @@ ninja.data = [{
         
           title: "悬崖——Precipice",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3781,7 +3781,7 @@ ninja.data = [{
         
           title: "什么是诗歌——What is Poetry",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3792,7 +3792,7 @@ ninja.data = [{
         
           title: "生活是什么——What is Life",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3803,7 +3803,7 @@ ninja.data = [{
         
           title: "甘肃西和白雀寺，僧人的一天——A Day of a Monk at Baique Temple, Xihe, Gansu",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3814,7 +3814,7 @@ ninja.data = [{
         
           title: "樵牧——Woodcutters and Herders",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3825,7 +3825,7 @@ ninja.data = [{
         
           title: "暂别白雀寺——Temporary Farewell to Baique Temple",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3836,7 +3836,7 @@ ninja.data = [{
         
           title: "露西、尼塞、我——Lucy, Nisai and Me",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3847,7 +3847,7 @@ ninja.data = [{
         
           title: "尸体——The Corpse",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3858,7 +3858,7 @@ ninja.data = [{
         
           title: "诗人送花——Poet Sending the Flowers",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3869,7 +3869,7 @@ ninja.data = [{
         
           title: "我已经完成的事——Things I Have Done",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3880,7 +3880,7 @@ ninja.data = [{
         
           title: "锥子之死——Death of the Awl",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3891,7 +3891,7 @@ ninja.data = [{
         
           title: "它们，他们——They and Them",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3902,7 +3902,7 @@ ninja.data = [{
         
           title: "秋夜云雨——Clouds and Rains in Autumn Night",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3913,7 +3913,7 @@ ninja.data = [{
         
           title: "乌云漫布——Dark Clouds Spread",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3924,7 +3924,7 @@ ninja.data = [{
         
           title: "窗台外的向日葵花——The Sunflower Outside the Windowsill",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3935,7 +3935,7 @@ ninja.data = [{
         
           title: "四季——Four Seasons",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3946,7 +3946,7 @@ ninja.data = [{
         
           title: "尘土、尘垢——The Dust, The Dirt",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3957,7 +3957,7 @@ ninja.data = [{
         
           title: "杨柳和风——The Willow, The Wind",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3968,7 +3968,7 @@ ninja.data = [{
         
           title: "牛郎和织女——NiuLang and ZhiNv",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3979,7 +3979,7 @@ ninja.data = [{
         
           title: "佛说——The Buddha Said",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -3990,7 +3990,7 @@ ninja.data = [{
         
           title: "前方的路——The Road Ahead",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4001,7 +4001,7 @@ ninja.data = [{
         
           title: "等待死亡的过程——Process of Waiting for Death",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4012,7 +4012,7 @@ ninja.data = [{
         
           title: "林芝——Linzhi",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4023,7 +4023,7 @@ ninja.data = [{
         
           title: "四月——April",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4034,7 +4034,7 @@ ninja.data = [{
         
           title: "三月十二日——March 12",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4045,7 +4045,7 @@ ninja.data = [{
         
           title: "风、雨——The Wind, The Rain",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4056,7 +4056,7 @@ ninja.data = [{
         
           title: "西藏——Tibet",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4067,7 +4067,7 @@ ninja.data = [{
         
           title: "布达拉宫——The Potala Palace",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4078,7 +4078,7 @@ ninja.data = [{
         
           title: "夜半三更——Late at Night",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4089,7 +4089,7 @@ ninja.data = [{
         
           title: "白云——White Clouds",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4100,7 +4100,7 @@ ninja.data = [{
         
           title: "谎言——Lies",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4111,7 +4111,7 @@ ninja.data = [{
         
           title: "与其、不如——Instead and it is Better",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4122,7 +4122,7 @@ ninja.data = [{
         
           title: "醉酒鬼——Drunkards",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4133,7 +4133,7 @@ ninja.data = [{
         
           title: "大雪与少年——Heavy Snow and Boy",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4144,7 +4144,7 @@ ninja.data = [{
         
           title: "僵化的思想——Rigid Thoughts",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4155,7 +4155,7 @@ ninja.data = [{
         
           title: "思想——Thoughts",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4166,7 +4166,7 @@ ninja.data = [{
         
           title: "25岁时的爱情——Love at 25",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4177,7 +4177,7 @@ ninja.data = [{
         
           title: "佛的心境——Buddha&amp;#8217;s Mind",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4188,7 +4188,7 @@ ninja.data = [{
         
           title: "梦的集合——Collection of Dreams 1",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4199,7 +4199,7 @@ ninja.data = [{
         
           title: "梦醒——Dream Over",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4210,7 +4210,7 @@ ninja.data = [{
         
           title: "煮稀饭——Cooking Porridge",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4221,7 +4221,7 @@ ninja.data = [{
         
           title: "青春记忆——Memory of Youth",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4232,7 +4232,7 @@ ninja.data = [{
         
           title: "情感——Emotions",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4243,7 +4243,7 @@ ninja.data = [{
         
           title: "诱惑与自我——Temptations and Oneself",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4254,7 +4254,7 @@ ninja.data = [{
         
           title: "唾沫星子——Spittle",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4265,7 +4265,7 @@ ninja.data = [{
         
           title: "悲伤的眼泪——Tears of Sadness",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4276,7 +4276,7 @@ ninja.data = [{
         
           title: "红灯笼——Red Lanterns",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4287,7 +4287,7 @@ ninja.data = [{
         
           title: "杜撰，林则徐之死——Apocryphal Death of Lin Zexu",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4298,7 +4298,7 @@ ninja.data = [{
         
           title: "生活琐事——Trivialities of Life",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4309,7 +4309,7 @@ ninja.data = [{
         
           title: "寸头——Buzz Cut",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4320,7 +4320,7 @@ ninja.data = [{
         
           title: "梦的回响——Echoes of Dream",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4331,7 +4331,7 @@ ninja.data = [{
         
           title: "真的伤口——The Real Wound",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4342,7 +4342,7 @@ ninja.data = [{
         
           title: "黄昏、黎明——The Dusk, The Dawn",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4353,7 +4353,7 @@ ninja.data = [{
         
           title: "毕业赠",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4364,7 +4364,7 @@ ninja.data = [{
         
           title: "唐宋后裔（祭）",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4375,7 +4375,7 @@ ninja.data = [{
         
           title: "花香——Fragrance of Flowers",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4386,7 +4386,7 @@ ninja.data = [{
         
           title: "夏夜——Summer Nights",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4397,7 +4397,7 @@ ninja.data = [{
         
           title: "秋风独座——A Seat Alone in Autumn Wind",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4408,7 +4408,7 @@ ninja.data = [{
         
           title: "思念的温度——Warmth of Yearning",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4419,7 +4419,7 @@ ninja.data = [{
         
           title: "一种幸福——A Kind of Happiness",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4430,7 +4430,7 @@ ninja.data = [{
         
           title: "大街——Big Street",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4441,7 +4441,7 @@ ninja.data = [{
         
           title: "静心——Quiet Heart",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4452,7 +4452,7 @@ ninja.data = [{
         
           title: "玉泉-滴水岩——YuQuan DiShuiYan",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4463,7 +4463,7 @@ ninja.data = [{
         
           title: "黑夜里的太阳——The Sun in the Nights",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4474,7 +4474,7 @@ ninja.data = [{
         
           title: "乐活的树子——Funny Tree 2",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4485,7 +4485,7 @@ ninja.data = [{
         
           title: "乐活的树子——Funny Tree 1",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4496,7 +4496,7 @@ ninja.data = [{
         
           title: "攀大——Panzhihua University",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4507,7 +4507,7 @@ ninja.data = [{
         
           title: "春日——Days of Spring",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4518,7 +4518,7 @@ ninja.data = [{
         
           title: "神龟——Divine Turtles",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4529,7 +4529,7 @@ ninja.data = [{
         
           title: "鹰——Eagles",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4540,7 +4540,7 @@ ninja.data = [{
         
           title: "夜孤沉筒——Fishing Alone at Night",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4551,7 +4551,7 @@ ninja.data = [{
         
           title: "微凉的风——Cool Winds",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4562,7 +4562,7 @@ ninja.data = [{
         
           title: "寂静的夜——Silent Nights",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4573,7 +4573,7 @@ ninja.data = [{
         
           title: "茶园——Tea Garden",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4584,7 +4584,7 @@ ninja.data = [{
         
           title: "纯情梦想——Pure Dreams",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4595,7 +4595,7 @@ ninja.data = [{
         
           title: "平静的心——Peaceful Heart",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4606,7 +4606,7 @@ ninja.data = [{
         
           title: "视听与表象——Audiovisual and Appearance",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4617,7 +4617,7 @@ ninja.data = [{
         
           title: "羊皮古书——The Ancient Parchment",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -4628,7 +4628,7 @@ ninja.data = [{
         
           title: "凡星——Ordinary Stars",
         
-        description: "完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致",
+        description: "",
         section: "Posts",
         handler: () => {
           
