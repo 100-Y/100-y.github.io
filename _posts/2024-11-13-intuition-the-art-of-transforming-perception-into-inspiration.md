@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 直觉：从感知到灵感的艺术——Intuition: The Art of Transforming Perception into Inspiration
+title: 直觉——从感知到灵感的艺术 / Intuition - The Art of Transforming Perception into Inspiration
 date: 2024-11-13
 excerpt:
 description:

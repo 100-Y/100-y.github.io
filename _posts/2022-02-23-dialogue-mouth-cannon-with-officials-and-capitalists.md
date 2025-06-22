@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 对话：嘴炮与官员和资本家——Dialogue: Mouth Cannon with Officials and Capitalists
+title: 对话——嘴炮与官员和资本家 / Dialogue - Mouth Cannon with Officials and Capitalists
 date: 2022-02-23
 excerpt:
 description:

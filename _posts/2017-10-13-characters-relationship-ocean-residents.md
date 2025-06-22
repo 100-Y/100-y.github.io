@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 人物关系：大洋居民——Characters Relationship: Ocean Residents
+title: 人物关系——大洋居民 / Characters Relationship - Ocean Residents
 date: 2017-10-13
 excerpt:
 description:

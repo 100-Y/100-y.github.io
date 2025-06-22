@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 假：死的意义——Hypothesis: Meaning of Death
+title: 假——死的意义 / Hypothesis - Meaning of Death
 date: 2021-11-19
 excerpt:
 description:

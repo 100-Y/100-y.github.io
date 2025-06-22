@@ -15,7 +15,7 @@ giscus_comments: true
 
 **相关介质**
 
-连通现世、异界的井口、河流，或是开启海城墙内外大门的钥匙。[人物关系：大洋居民](/_posts/2017-10-13-characters-relationship-ocean-residents.md)已经有说到，这里再具体阐释一下。
+连通现世、异界的井口、河流，或是开启海城墙内外大门的钥匙。[人物关系——大洋居民]({% link _posts/2017-10-13-characters-relationship-ocean-residents.md %})，已经有说到，这里再具体阐释一下。
 
 即“二十年旋转周期”指的就是，现世（the World）与异界（the Outsider）各自地域先分别运行，然后产生的一个交点。这个交点，类似于两个行星在各自轨道运行，某天，它们相遇，打通了相互进入彼此轨道的桥梁。在现世地域中，桥梁的一头是海城墙内的某处“井口”；异界里，则是墙外的某条河流。
 
@@ -31,7 +31,7 @@ giscus_comments: true
 
 **Media**
 
-The well mouth and river that connect the World and the Outsider, or the key that opens the gate inside and outside the Sea Wall. [Characters Relationship: Ocean Residents](/_posts/2017-10-13-characters-relationship-ocean-residents.md) has already mentioned, here explain in more detail.
+The well mouth and river that connect the World and the Outsider, or the key that opens the gate inside and outside the Sea Wall. [Characters Relationship - Ocean Residents]({% link _posts/2017-10-13-characters-relationship-ocean-residents.md %}), has already mentioned, here explain in more detail.
 
 That is, the “twenty-year rotation cycle” refers to the World and the Outsider each running separately, and then producing an intersection. This intersection, similar to two planets running on their own orbits, one day, they meet, open up a bridge to enter each other’s orbits. In the World region, one end of the bridge is a “well mouth” somewhere inside the Sea Wall; in the Outsider, it is a river outside the wall.
 
