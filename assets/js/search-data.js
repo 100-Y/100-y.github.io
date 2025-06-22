@@ -136,9 +136,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-05-08/pigs-utopia/";
           
         },
-      },{id: "post-citizen揭示安全并非技术产物-而是信任结构中的制度投射与参与权力之争-citizen-reveals-that-safety-is-not-technological-outcome-but-projection-of-institutional-trust-and-right-to-define-danger",
+      },{id: "post-安全的定义权-信任结构之争",
         
-          title: "Citizen揭示安全并非技术产物，而是信任结构中的制度投射与参与权力之争。Citizen reveals that safety is not technological outcome, but projection of institutional trust...",
+          title: "安全的定义权：信任结构之争",
         
         description: "",
         section: "Posts",
@@ -169,9 +169,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-05-05/domains-for-sale/";
           
         },
-      },{id: "post-在面对危机时-洒米驱邪是一种带有安慰性质的传统行为-它揭示了民间信仰在人类情感应对机制中的价值-scattering-rice-during-crisis-is-a-comforting-traditional-act-revealing-the-value-of-folk-beliefs-in-human-emotional-coping",
+      },{id: "post-洒米驱赶邪祟的隔房幺娘",
         
-          title: "在面对危机时，洒米驱邪是一种带有安慰性质的传统行为，它揭示了民间信仰在人类情感应对机制中的价值。Scattering rice during crisis is a comforting traditional act, revealing the value of...",
+          title: "洒米驱赶邪祟的隔房幺娘",
         
         description: "",
         section: "Posts",
@@ -180,9 +180,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-05-02/rice-to-ward-off-evil-spirits/";
           
         },
-      },{id: "post-从心理疏导到急性应对-掌握换气过度综合征的标准处理路径-a-clear-treatment-approach-for-hyperventilation-syndrome-from-psychological-relief-to-acute-phase-rebreathing-techniques",
+      },{id: "post-换气过度综合征处理指南",
         
-          title: "从心理疏导到急性应对，掌握换气过度综合征的标准处理路径。A clear treatment approach for hyperventilation syndrome—from psychological relief to acute-phase rebreathing techniques....",
+          title: "换气过度综合征处理指南",
         
         description: "",
         section: "Posts",
@@ -191,9 +191,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-05-01/hyperventilation-syndrome/";
           
         },
-      },{id: "post-在情绪混乱与集体愚昧的环境中-悄然构建心理独立系统-完成一场温柔而坚定的自我突围-amid-emotional-turmoil-and-collective-ignorance-quietly-build-a-mentally-independent-system-for-a-gentle-yet-resolute-breakout",
+      },{id: "post-隐秘突围-在集体愚昧中构建心理独立的认知系统",
         
-          title: "在情绪混乱与集体愚昧的环境中，悄然构建心理独立系统，完成一场温柔而坚定的自我突围。Amid emotional turmoil and collective ignorance, quietly build a mentally independent system for...",
+          title: "隐秘突围：在集体愚昧中构建心理独立的认知系统",
         
         description: "",
         section: "Posts",
@@ -202,9 +202,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-30/hidden-breakout/";
           
         },
-      },{id: "post-懒-低效-勤快-聪明-本篇文章带你识别四种行动模型-理解如何选择适合自己的-效率路径-laziness-doesn-t-mean-inefficiency-and-diligence-isn-t-always-smart-this-article-helps-you-identify-four-action-models-and-choose-your-personal-path-to-efficiency",
+      },{id: "post-要做勤快的懒人",
         
-          title: "懒≠低效，勤快≠聪明。本篇文章带你识别四种行动模型，理解如何选择适合自己的“效率路径”。Laziness doesn’t mean inefficiency, and diligence isn’t always smart. This article helps you...",
+          title: "要做勤快的懒人",
         
         description: "",
         section: "Posts",
@@ -213,9 +213,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-29/diligent-lazy-man/";
           
         },
-      },{id: "post-2025年4月中国大陆约有1000万活跃用户与100万付费用户-折射vpn与支付结构下的真实使用图景-as-of-april-2025-around-10-million-active-and-1-million-paid-users-in-china-reflect-real-usage-under-vpn-and-payment-constraints",
+      },{id: "post-chatgpt中国用户估算-免费与付费结构",
         
-          title: "2025年4月中国大陆约有1000万活跃用户与100万付费用户，折射VPN与支付结构下的真实使用图景。As of April 2025, around 10 million active and 1 million paid users...",
+          title: "ChatGPT中国用户估算：免费与付费结构",
         
         description: "",
         section: "Posts",
@@ -224,9 +224,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-29/chatgpt-china-users/";
           
         },
-      },{id: "post-真正的爱-不是陪同献祭-而是在慌乱中按下暂停键-拒绝让恐惧替代判断-true-love-is-not-rushing-into-sacrifice-but-pausing-in-chaos-to-resist-fear-based-decisions",
+      },{id: "post-真正的爱-是在慌乱中稳住船",
         
-          title: "真正的爱，不是陪同献祭，而是在慌乱中按下暂停键，拒绝让恐惧替代判断。True love is not rushing into sacrifice, but pausing in chaos to resist...",
+          title: "真正的爱，是在慌乱中稳住船",
         
         description: "",
         section: "Posts",
@@ -235,9 +235,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-25/true-love-steady-the-boat/";
           
         },
-      },{id: "post-契合不是同频-而是在差异中仍能共振的能力-是一种持续生成的关系-compatibility-is-not-sameness-but-the-capacity-to-resonate-through-difference-a-dynamic-ongoing-relation",
+      },{id: "post-契合度的探讨",
         
-          title: "契合不是同频，而是在差异中仍能共振的能力，是一种持续生成的关系。Compatibility is not sameness but the capacity to resonate through difference—a dynamic, ongoing...",
+          title: "契合度的探讨",
         
         description: "",
         section: "Posts",
@@ -246,9 +246,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-21/nature-of-compatibility/";
           
         },
-      },{id: "post-无知不是知识缺失-而是系统性合谋-它令化疗在终末期悄然加速崩塌-ignorance-is-not-lack-of-knowledge-but-systemic-collusion-it-lets-chemotherapy-quietly-dismantle-life-at-the-end",
+      },{id: "post-无知的协奏曲-化疗如何悄然毁灭一个生命",
         
-          title: "无知不是知识缺失，而是系统性合谋；它令化疗在终末期悄然加速崩塌。Ignorance is not lack of knowledge, but systemic collusion; It lets chemotherapy quietly...",
+          title: "无知的协奏曲：化疗如何悄然毁灭一个生命",
         
         description: "",
         section: "Posts",
@@ -257,9 +257,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-19/symphony-of-unknowing/";
           
         },
-      },{id: "post-当药物剥夺进食能力-生的尊严悄然被抽空-这不是拯救-而是无声的谋杀-when-medicine-deprives-one-of-the-ability-to-eat-dignity-of-life-is-quietly-hollowed-out-this-is-not-salvation-but-a-silent-murder",
+      },{id: "post-药神中的洛基-吞咽之死的技术暴力",
         
-          title: "当药物剥夺进食能力，生的尊严悄然被抽空——这不是拯救，而是无声的谋杀。When medicine deprives one of the ability to eat, dignity of life is...",
+          title: "药神中的洛基：吞咽之死的技术暴力",
         
         description: "",
         section: "Posts",
@@ -268,9 +268,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-16/loki-in-medicine-god/";
           
         },
-      },{id: "post-文章通过喇叭与隧道的隐喻-揭示表达在媒介放大下的异化过程-反思现代语言如何被技术剥离主观性-沦为机制化的虚响-the-article-through-the-metaphors-of-the-megaphone-and-tunnel-reveals-how-expression-is-alienated-under-media-amplification-reflecting-on-the-loss-of-subjectivity-in-modern-language-as-it-becomes-a-mechanized-echo",
+      },{id: "post-喇叭的方向-媒介放大与表达异化的隐喻分析",
         
-          title: "文章通过喇叭与隧道的隐喻，揭示表达在媒介放大下的异化过程，反思现代语言如何被技术剥离主观性，沦为机制化的虚响。The article, through the metaphors of the megaphone and tunnel, reveals how expression...",
+          title: "喇叭的方向：媒介放大与表达异化的隐喻分析",
         
         description: "",
         section: "Posts",
@@ -290,9 +290,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-10/right-to-decay-when-systems-refuse-to-rot-the-ashes-will-bury-all/";
           
         },
-      },{id: "post-本文分析了多种跨境资金出入路径的成本与风险-指出通过加密货币-fiat24-和-wise-组合的路径在降低费用和提高安全性方面表现最佳-this-article-analyzes-various-cross-border-fund-transfer-routes-highlighting-that-the-combination-of-cryptocurrency-fiat24-and-wise-offers-the-lowest-costs-and-highest-security",
+      },{id: "post-跨境出入金路径对比-加密货币-fiat24-wise",
         
-          title: "本文分析了多种跨境资金出入路径的成本与风险，指出通过加密货币、Fiat24 和 Wise 组合的路径在降低费用和提高安全性方面表现最佳。​This article analyzes various cross-border fund transfer routes, highlighting that...",
+          title: "跨境出入金路径对比：加密货币 + Fiat24 + Wise",
         
         description: "",
         section: "Posts",
@@ -301,9 +301,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-10/cross-border-transfer-crypto-fiat24-wise/";
           
         },
-      },{id: "post-一首关于归还与放下的诗-以宁静的语言讲述在黄昏中悄然告别的方式-唤起对内在和平的共鸣-a-poem-about-returning-and-letting-go-told-in-serene-language-evoking-a-gentle-farewell-whispered-at-dusk-and-resonating-with-inner-peace",
+      },{id: "post-再见-可以安静一点-一首关于温柔归还与内心和解的诗",
         
-          title: "一首关于归还与放下的诗，以宁静的语言讲述在黄昏中悄然告别的方式，唤起对内在和平的共鸣。A poem about returning and letting go, told in serene language, evoking a...",
+          title: "再见，可以安静一点：一首关于温柔归还与内心和解的诗",
         
         description: "",
         section: "Posts",
@@ -323,9 +323,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-09/anonymouss-ferry-a-poetic-crossing-on-existence-and-identity/";
           
         },
-      },{id: "post-反思危机中的自救误区-当防御成为倒钩-命运悄然被抵押-揭示结构性反伤机制-a-reflection-on-how-crisis-responses-turn-into-barbed-defenses-silently-pledging-life-and-exposing-the-paradox-of-self-harm-within-self-preservation",
+      },{id: "post-危机中的自我误伤-命如何被悄然抵押",
         
-          title: "反思危机中的自救误区：当防御成为倒钩，命运悄然被抵押，揭示结构性反伤机制。A reflection on how crisis responses turn into barbed defenses, silently pledging life...",
+          title: "危机中的自我误伤：命如何被悄然抵押",
         
         description: "",
         section: "Posts",
@@ -334,9 +334,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-08/pledged-lives/";
           
         },
-      },{id: "post-探索-恒定的夜-一首揭示系统操控与个体命运之间张力的诗歌-在算法时代的静默中-黑夜成为舞台上的主角-explore-the-constant-night-a-poem-unveiling-the-tension-between-system-control-and-human-fate-where-silence-reigns-and-night-becomes-the-lead-actor-on-a-digitized-stage",
+      },{id: "post-恒定的夜-数字剧本中的被演绎之人",
         
-          title: "探索《恒定的夜》，一首揭示系统操控与个体命运之间张力的诗歌，在算法时代的静默中，黑夜成为舞台上的主角。Explore The Constant Night, a poem unveiling the tension between system control and...",
+          title: "恒定的夜：数字剧本中的被演绎之人",
         
         description: "",
         section: "Posts",
@@ -356,9 +356,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-07/anti-harvest-self-operating-system/";
           
         },
-      },{id: "post-很多人如同无魂做菜般地生活-仅为完成任务却失去热情与自我-many-live-like-they-cook-without-soul-just-completing-tasks-losing-passion-and-identity-along-the-way",
+      },{id: "post-无味之作-你是在生活-还是在执行程序",
         
-          title: "很多人如同无魂做菜般地生活，仅为完成任务却失去热情与自我。Many live like they cook without soul—just completing tasks, losing passion and identity...",
+          title: "无味之作：你是在生活，还是在执行程序？",
         
         description: "",
         section: "Posts",
@@ -400,9 +400,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-04/the-border-outpost-of-thought-roaming/";
           
         },
-      },{id: "post-裂缝中的低语也能震响历史-在静默中传承理想-这是一段属于众人的无声史诗-whispers-in-the-cracks-can-still-shake-history-this-is-a-silent-epic-of-ideals-passed-on-by-the-voices-of-the-many",
+      },{id: "post-裂缝里的回声-那些未说出口的理想之声",
         
-          title: "裂缝中的低语也能震响历史。在静默中传承理想，这是一段属于众人的无声史诗。Whispers in the cracks can still shake history. This is a silent epic...",
+          title: "裂缝里的回声：那些未说出口的理想之声",
         
         description: "",
         section: "Posts",
@@ -576,9 +576,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-03-06/program-as-governance/";
           
         },
-      },{id: "post-一条只能前行的通道-象征信任的单向灌注-本文揭示制度化信任如何掩盖个体的声音-并提出-从自我开始-的逆流可能-a-one-way-passage-symbolizes-trust-flowing-top-down-this-piece-reveals-how-institutionalized-trust-silences-individuals-and-proposes-a-reversal-starting-with-the-self",
+      },{id: "post-信任的单向流动-制度化服从与觉醒的隐喻",
         
-          title: "一条只能前行的通道，象征信任的单向灌注；本文揭示制度化信任如何掩盖个体的声音，并提出“从自我开始”的逆流可能。A one-way passage symbolizes trust flowing top-down; this piece reveals how institutionalized trust...",
+          title: "信任的单向流动：制度化服从与觉醒的隐喻",
         
         description: "",
         section: "Posts",
@@ -686,9 +686,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-02-27/you-shall-have-what-you-seek/";
           
         },
-      },{id: "post-在这个善恶模糊-规则颠倒的时代-如何活下去又不迷失-本手册提供五大策略-助你在乱世中保存灵魂-in-an-era-where-rules-blur-and-morality-fades-how-do-you-survive-without-losing-yourself-this-manual-offers-five-strategies-to-keep-your-soul-intact-in-chaos",
+      },{id: "post-乱世生存五法则-如何在风暴中保持自我",
         
-          title: "在这个善恶模糊、规则颠倒的时代，如何活下去又不迷失？本手册提供五大策略，助你在乱世中保存灵魂。In an era where rules blur and morality fades, how do you survive...",
+          title: "乱世生存五法则：如何在风暴中保持自我",
         
         description: "",
         section: "Posts",
@@ -829,9 +829,9 @@ ninja.data = [{
             window.location.href = "/blog/2024-12-30/salt-on-the-wound/";
           
         },
-      },{id: "post-本文借-节日-之名-反思人类赋予时间意义的方式-以诗性语言揭示-真正属于我们的-是那些未被标记却悄然流逝的瞬间-framed-by-the-concept-of-festivals-this-piece-reflects-on-how-humans-seek-to-give-meaning-to-time-ultimately-revealing-in-poetic-language-that-what-truly-belongs-to-us-are-the-unmarked-silently-passing-moments",
+      },{id: "post-光的楔子-wedges-of-light",
         
-          title: "本文借“节日”之名，反思人类赋予时间意义的方式，以诗性语言揭示：真正属于我们的，是那些未被标记却悄然流逝的瞬间。Framed by the concept of “festivals,” this piece reflects on how humans seek...",
+          title: "光的楔子——Wedges of Light",
         
         description: "",
         section: "Posts",
@@ -1445,9 +1445,9 @@ ninja.data = [{
             window.location.href = "/blog/2024-08-04/rich-mind-strong-body/";
           
         },
-      },{id: "post-增肌减脂训练手册-涵盖科学饮食-系统训练与营养补充-助你高效实现健身目标-a-complete-muscle-gain-and-fat-loss-manual-with-smart-meal-planning-structured-workouts-and-key-nutrition-tips-for-efficient-fitness-results",
+      },{id: "post-增肌减脂终极指南-系统饮食-训练计划",
         
-          title: "增肌减脂训练手册，涵盖科学饮食、系统训练与营养补充，助你高效实现健身目标。A complete muscle gain and fat loss manual with smart meal planning, structured...",
+          title: "增肌减脂终极指南：系统饮食+训练计划",
         
         description: "",
         section: "Posts",
@@ -3128,9 +3128,9 @@ ninja.data = [{
             window.location.href = "/blog/2018-01-01/qianyan-xu/";
           
         },
-      },{id: "post-探索-汉阳舟子集-乩学入门篇-从天地人三才到祖炁纯阳-揭示扶乩为感通机制的奥义-并展现其为修性养神之捷径-discover-the-foundation-of-spirit-writing-practice-in-the-hanyang-boatman-s-anthology-where-heaven-earth-man-triads-and-primal-qi-form-the-basis-of-spiritual-communication-and-self-cultivation",
+      },{id: "post-乩学初知",
         
-          title: "探索《汉阳舟子集》乩学入门篇，从天地人三才到祖炁纯阳，揭示扶乩为感通机制的奥义，并展现其为修性养神之捷径。Discover the foundation of spirit-writing practice in The Hanyang Boatman’s Anthology, where Heaven-Earth-Man...",
+          title: "乩学初知",
         
         description: "",
         section: "Posts",
@@ -3326,9 +3326,9 @@ ninja.data = [{
             window.location.href = "/blog/2018-01-01/ciyu/";
           
         },
-      },{id: "post-在-汉阳舟子集-中-一位孤山隐士于梦中聆听古人讲道-揭示因果-君子与小人的伦理差别-以及儒释道三教思想的诗性融合-in-the-hanyang-boatman-s-anthology-a-hermit-dreams-of-sages-debating-virtue-and-karma-unveiling-a-poetic-fusion-of-confucian-taoist-and-buddhist-ethics-through-allegorical-dream-vision",
+      },{id: "post-孤山处士述梦",
         
-          title: "在《汉阳舟子集》中，一位孤山隐士于梦中聆听古人讲道，揭示因果、君子与小人的伦理差别，以及儒释道三教思想的诗性融合。In The Hanyang Boatman’s Anthology, a hermit dreams of sages debating virtue and...",
+          title: "孤山处士述梦",
         
         description: "",
         section: "Posts",
