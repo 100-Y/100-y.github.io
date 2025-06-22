@@ -21,17 +21,17 @@ latest_posts:
 
 ---
 
-由 **<a href='/'>100-Y</a>**（<u>100年的简称</u>）创立的个人网站，旨在探索和分享，`跨时间的文化共鸣与深刻思考`。
+由 **<a href='/'>100-Y</a>**（`100年的简称`）创立的个人网站，旨在探索和分享，**<mark>跨时间的文化共鸣与深刻思考</mark>**。
 
-<u>36525天，代表一个人一生的天数，象征着时间的流逝和生命的珍贵。</u>网站涵盖各种主题，反映对生活和社会的深刻理解。通过这些内容，100-Y 在 **<a href='/'>36525.day</a>** 上创建了一个反思和表达的平台，邀请读者与作者一同思考生活、社会和人性。
+36525天，代表`一个人一生的天数`，**<mark>象征着时间的流逝和生命的珍贵</mark>**。网站涵盖各种主题，反映对生活和社会的深刻理解。通过这些内容，100-Y 在 **<a href='/'>36525.day</a>** 上创建了一个反思和表达的平台，邀请读者与作者一同思考生活、社会和人性。
 
 敬请期待网站的持续更新，更多精彩内容将陆续呈现。
 
 /
 
-A personal website created by **<a href='/'>100-Y</a>** (<u>the abbreviation of 100 years</u>), it aims to explore and share, **`Cultural Resonances and Profound Thoughts Across Time`**.
+A personal website created by **<a href='/'>100-Y</a>** (`the abbreviation of 100 years`), it aims to explore and share, **<mark>Cultural Resonances and Profound Thoughts Across Time</mark>**.
 
-<u>36,525 days, represents the number of days in a person's life, symbolizing the passage of time and the preciousness of life.</u> The website covers a variety of topics, reflecting a deep understanding of life and society. Through these contents, 100-Y creates a platform for reflection and expression on **<a href='/'>36525.day</a>**, inviting readers to think about life, society and human nature with the author.
+36,525 days, represents `the number of days in a person's life`, **<mark>symbolizing the passage of time and the preciousness of life</mark>**. The website covers a variety of topics, reflecting a deep understanding of life and society. Through these contents, 100-Y creates a platform for reflection and expression on **<a href='/'>36525.day</a>**, inviting readers to think about life, society and human nature with the author.
 
 Please look forward to the continuous update of the website, and more exciting content will be presented one after another.
 
