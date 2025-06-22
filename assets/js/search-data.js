@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/privacy/";
           },
-        },{id: "post-批量将图片文件名改为小写",
+        },{id: "post-html-标签-markdown-语法-在-vs-code-中结合使用的实战指南",
+        
+          title: "HTML 标签 + Markdown 语法：在 VS Code 中结合使用的实战指南",
+        
+        description: "通过 VS Code 快捷键与 Emmet 包裹功能，实现 Markdown 文本加粗、高亮、下划线等扩展格式，全面掌握 Markdown 语法 × HTML 标签 的实战技巧。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-22/html-tags-and-markdown-syntax/";
+          
+        },
+      },{id: "post-批量将图片文件名改为小写",
         
           title: "批量将图片文件名改为小写",
         
