@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "猥琐发育、浪，不折腾｜Conservative, aggressive, and moderate"
+title: 猥琐发育、浪，不折腾｜Conservative, aggressive, and moderate
 date: 2022-12-26
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/12/26  
 猥琐发育，是保守，比如胡锦涛、温家宝；浪，是激进，比如毛泽东和习近平。无底线的保守，是软蛋；无底线的激进，则是莽夫。选择一个人无底线地浪，还是一群人无底线地猥琐发育？答案非常明显。

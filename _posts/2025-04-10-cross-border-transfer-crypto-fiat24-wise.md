@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "跨境出入金路径对比：加密货币 + Fiat24 + Wise"
+title: 跨境出入金路径对比：加密货币 + Fiat24 + Wise
 date: 2025-04-10
-excerpt: "本文分析了多种跨境资金出入路径的成本与风险，指出通过加密货币、Fiat24 和 Wise 组合的路径在降低费用和提高安全性方面表现最佳。​This article analyzes various cross-border fund transfer routes, highlighting that the combination of cryptocurrency, Fiat24, and Wise offers the lowest costs and highest security."
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+title: 本文分析了多种跨境资金出入路径的成本与风险，指出通过加密货币、Fiat24 和 Wise 组合的路径在降低费用和提高安全性方面表现最佳。​This article analyzes various cross-border fund transfer routes, highlighting that the combination of cryptocurrency, Fiat24, and Wise offers the lowest costs and highest security.
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags: internet
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 磨损最小路径：（微信/支付宝—）加密货币—Fiat24—Wise—IBKR—Wise（—Fiat24—加密货币）—“微信/支付宝”；
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "一朵白云｜A white cloud"
+title: 一朵白云｜A white cloud
 date: 2023-07-24
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/07/24  
 在这个夏日的傍晚，天空是一片淡淡的蓝色，像一块干净的布。一朵白云悠闲地飘在空中，它的形状像一座雪山，或者一个棉花糖。它的底部是平坦的，像一层薄雾，而它的顶部是圆润的，像一团绵羊毛。它散发着柔和的光芒，仿佛被太阳亲吻过。它看起来是那么的轻盈和自由，让人想要伸出手去触摸它。

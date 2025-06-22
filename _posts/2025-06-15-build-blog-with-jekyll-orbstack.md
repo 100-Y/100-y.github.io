@@ -142,9 +142,9 @@ YYYY-MM-DD-your-title.md
 ```
 ---
 layout: post
-title: "我的第一篇文章"
+title: 我的第一篇文章
 date: 2025-06-20
-excerpt: "这是文章摘要"
+title: 这是文章摘要
 categories: [博客]
 tags: [jekyll, al-folio]
 ---

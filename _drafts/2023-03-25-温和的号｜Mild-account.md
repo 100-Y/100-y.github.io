@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "温和的号｜Mild account"
+title: 温和的号｜Mild account
 date: 2023-03-25
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/03/25  
 温和的号，但只要也是触犯到一部分激进组织，比如：说“鸡蛋”无论怎样就是好吃的“小粉红或爱国大v”，也可以导致被封。根源是，话语权的进一步压缩，需要统一被转移到声量更大的群体之上。

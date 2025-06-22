@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "杜撰，林则徐之死——Apocryphal Death of Lin Zexu"
+title: 杜撰，林则徐之死——Apocryphal Death of Lin Zexu
 date: 2015-01-02
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 某天林兄（林则徐）和辫子哥（某皇帝）又畅步在御花园：“林兄，听说最近有人吸毒身亡，看来邪恶的毒品又滋生力量了！”辫子哥。
 

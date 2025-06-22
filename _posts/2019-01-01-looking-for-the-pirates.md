@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "寻找海盗——Looking for the Pirates (4-)"
+title: 寻找海盗——Looking for the Pirates (4-)
 date: 2019-01-01
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Sea-Wall
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 “亲爱的王子，要知道啊，  
 即使是最亲密无间的朋友，  

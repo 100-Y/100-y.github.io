@@ -2,16 +2,16 @@
 layout: post
 title: 换气过度综合征处理指南
 date: 2025-05-01
-excerpt: "从心理疏导到急性应对，掌握换气过度综合征的标准处理路径。A clear treatment approach for hyperventilation syndrome—from psychological relief to acute-phase rebreathing techniques."
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+title: 从心理疏导到急性应对，掌握换气过度综合征的标准处理路径。A clear treatment approach for hyperventilation syndrome—from psychological relief to acute-phase rebreathing techniques.
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Daily-Life
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 - 向患者解释清楚症状与过度通气之间的联系，解除患者精神负担，消除恐惧心理。
 - 必要时给予谷维素、溴剂、镇静剂等药物配合。

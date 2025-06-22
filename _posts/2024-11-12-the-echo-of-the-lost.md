@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "遗失的回声——The Echo of the Lost"
+title: 遗失的回声——The Echo of the Lost
 date: 2024-11-12
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 在一个阴云密布的黄昏，湿润的空气中弥漫着草木的气息。一条狭窄的小路穿越在荒野之间，两旁是枝条纠缠的古老树林，树叶似乎在无声地低语。微弱的光线透过密集的枝叶洒在泥土上，点点光斑在风的轻拂下摇曳不定。远处，有一座孤独的小屋，烟囱里飘出的袅袅炊烟如同一丝记忆的残余，仿佛在召唤着某个失落的故事，而你却无法触及它的起点。
 

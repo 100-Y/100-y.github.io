@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "飞的是命——Flew away is Fate"
+title: 飞的是命——Flew away is Fate
 date: 2022-03-09
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 时运不济、渡劫飞升，要与命抗争，不曾想、到最后，丢的是自己，飞的是命；命在，自己却没了。
 

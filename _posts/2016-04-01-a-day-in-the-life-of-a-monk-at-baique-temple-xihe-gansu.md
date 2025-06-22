@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "甘肃西和白雀寺，僧人的一天——A Day of a Monk at Baique Temple, Xihe, Gansu"
+title: 甘肃西和白雀寺，僧人的一天——A Day of a Monk at Baique Temple, Xihe, Gansu
 date: 2016-04-01
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 截至2016年3月，甘肃省西和县白雀寺，常住僧人、道士共5名。 其中比丘两名：法号分别是明法、明圆，比丘尼一名：法号道学。又各自本名：刘具甲（1946年生人）、符瑞儿（1949年生人），和汪学花（1950年生人）。另坤道（即女道士）两名：称谓又分别是独嗣贞和张兴盛。各自本名：独一贞（80岁余）和张月琴（80后）。
 

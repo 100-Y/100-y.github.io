@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "镜墙后的回声——Echoes Behind the Mirror Wall"
+title: 镜墙后的回声——Echoes Behind the Mirror Wall
 date: 2025-03-06
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 在隐形律令的灰影之中，纪律如同一面无声的镜墙，它以冻结听觉的方式折返于行动的每一个节点。哪怕只是一次轻触——一次文件上传，便可能触发意识触发器的连锁反应，使个体陷入一场象征性归罪的仪式中。在这样的制度光晕下，信任早已变成稀薄空气，个体只得以防御仪式维持自身存在，报备成为一种生存策略，而非透明的沟通。
 

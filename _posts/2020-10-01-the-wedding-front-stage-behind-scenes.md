@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "台前幕后的婚礼——The Wedding Front Stage Behind Scenes"
+title: 台前幕后的婚礼——The Wedding Front Stage Behind Scenes
 date: 2020-10-01
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 婚礼这一套私人财产交接程序，台上有人配合表演，台下有人吃瓜看戏，还有人台前幕后，“尔虞我诈”、“裹挟摆布”，真是世态尽显。原本两个人私密的事情，大张旗鼓，被搞成“游街示众”。台下看客，指手画脚，议论纷纷。等待“刽子手”“行刑”，该配合的表演，表演完毕。
 

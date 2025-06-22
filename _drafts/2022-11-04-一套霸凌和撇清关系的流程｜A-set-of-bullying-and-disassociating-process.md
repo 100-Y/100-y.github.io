@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "一套霸凌和撇清关系的流程｜A set of bullying and disassociating process"
+title: 一套霸凌和撇清关系的流程｜A set of bullying and disassociating process
 date: 2022-11-04
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/11/04  
 学校发文——教师、学生照做——照做的学生与不照做的学生之间相互pk（斗争），赢的学生压倒输的学生——输的不听话的学生，接受学校教师的教育——教学校、教师双赢。

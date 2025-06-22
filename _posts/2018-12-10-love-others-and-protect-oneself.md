@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "爱人与护己——Love Others and Protect Oneself"
+title: 爱人与护己——Love Others and Protect Oneself
 date: 2018-12-10
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 请不要把一个人想的很好，也不要把一个人看得很坏！打的坐出租车，一定开窗留个缝隙。洗澡，也一定留个风口。学会预见！尤其关乎身家性命的事情，务必联想其有可能导致的最坏过程和后果。
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "石头城｜Stone city"
+title: 石头城｜Stone city
 date: 2023-11-20
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/11/20在一片高高的雪山之上，有一群嬉戏打闹的孩子。其中，有位年龄与我相符的女子。一行人，有说有笑，诉说雪山的美丽和纯洁。这不是第一次出现这样的情况，站在高耸的山峰之中，四处都是让双眼睁不开的白色积雪。
 

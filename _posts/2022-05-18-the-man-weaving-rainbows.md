@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "编织彩虹的人——The man Weaving Rainbows"
+title: 编织彩虹的人——The man Weaving Rainbows
 date: 2022-05-18
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 校园里，有人徒手，在艰难地攀爬。一层又一层的阶梯。顾不及拉上快隐约掉落的裤子。旁边一侧寝室的学生，不理解，有些充满着鄙视；有些说着什么，好奇看ta接下来的行动。
 

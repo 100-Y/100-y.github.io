@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "阴招与阳谋的力量｜Power of Yin tactics and Yang strategies"
+title: 阴招与阳谋的力量｜Power of Yin tactics and Yang strategies
 date: 2023-12-29
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/12/29将坏人的个人联系方式或把柄，出卖至境外或境内个人、机构或组织运行的账号，比如反串、钓鱼、诈骗等。让更坏的，来欺负这个坏人。
 

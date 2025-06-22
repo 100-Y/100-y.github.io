@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "给阿英的一首诗｜A poem to Ah Ying"
+title: 给阿英的一首诗｜A poem to Ah Ying
 date: 2024-03-01
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2024/03/01目前我所有的烦恼，  
 半数源自于你，阿英。  

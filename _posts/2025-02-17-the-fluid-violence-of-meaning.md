@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "流动中的意义暴力——The Fluid Violence of Meaning"
+title: 流动中的意义暴力——The Fluid Violence of Meaning
 date: 2025-02-17
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 意义从非静止，它是一场流动的命名暴力。鼎已空，羽翼染绿，符号成为治理的皮肤、遗忘的接口。我们被图像包围，却失去解释权——在主流注脚下沉默，在算法编剧中复制理解。而真正的反叛，不是呐喊，而是撕开命名之手，夺回那尚未批准的自我。
 

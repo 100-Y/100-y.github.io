@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "符号的囚笼——The Cage of Symbols"
+title: 符号的囚笼——The Cage of Symbols
 date: 2025-02-17
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 在意义的雾中，符号如裂镜，映出凝视者的欲望与惧怕。它不再中性，而是被光影涂抹成旗帜、刀锋。叙事由目光完成，观看成了编码，转发成了立场，符号沦为情绪的兵器。
 

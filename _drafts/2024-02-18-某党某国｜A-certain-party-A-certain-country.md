@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "某党某国｜A certain party A certain country"
+title: 某党某国｜A certain party A certain country
 date: 2024-02-18
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2024/02/18为什么“某党”（敏感词替代），针对俄罗斯（包括俄国和苏联），侵略和殖民“某国”的历史，闭口不谈？因为，身为参与者、局中人或棋子，开脱不了当中之间的关系。（02-18）
 

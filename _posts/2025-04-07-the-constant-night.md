@@ -2,16 +2,16 @@
 layout: post
 title: 恒定的夜：数字剧本中的被演绎之人
 date: 2025-04-07
-excerpt: "探索《恒定的夜》，一首揭示系统操控与个体命运之间张力的诗歌，在算法时代的静默中，黑夜成为舞台上的主角。Explore The Constant Night, a poem unveiling the tension between system control and human fate, where silence reigns and night becomes the lead actor on a digitized stage."
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+title: 探索《恒定的夜》，一首揭示系统操控与个体命运之间张力的诗歌，在算法时代的静默中，黑夜成为舞台上的主角。Explore The Constant Night, a poem unveiling the tension between system control and human fate, where silence reigns and night becomes the lead actor on a digitized stage.
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 夜，不再行走。  
 它坐在系统的膝上，被命名为“背景”。

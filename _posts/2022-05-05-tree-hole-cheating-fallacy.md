@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "树洞谬论——Tree Hole Fallacy"
+title: 树洞谬论——Tree Hole Fallacy
 date: 2022-05-05
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 不善于在朋友圈表达自己意识的男女，多半也会在其它平台，对其ta陌生人，偷偷表达。
 

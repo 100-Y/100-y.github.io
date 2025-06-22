@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "一种肃杀的氛围｜An atmosphere of killing"
+title: 一种肃杀的氛围｜An atmosphere of killing
 date: 2022-11-22
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/11/22  
 全国不断持续蔓延的一种肃杀氛围，给我一种不好的感觉：这个冬春之际，要打仗了。接下来，或许才到，“真的好日子”来临。

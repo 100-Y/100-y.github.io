@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "养蛊自噬｜Raising gu to devour oneself"
+title: 养蛊自噬｜Raising gu to devour oneself
 date: 2022-12-16
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/12/16  
 微博的清零派和封控爱好者，都在看胡锡进出笑话，嘲讽，甚至巴不得他送死。好让封控政策回到，11月时候的状态。这与唐飞（躺匪，微博对立术语）又称放开派，截然不同。

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "无名之境——The Nameless Realm"
+title: 无名之境——The Nameless Realm
 date: 2025-02-07
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 在裂纹之镜的边缘，观看如同水中之火，真实与虚构的交界变成回音的迷宫。注视者的眼中倒映着创作者的影子，而创作者的沉默，成为无法翻译的低语。在象征织网的张力中，每一个标签都是一把锁，而自由只诞生于拒绝命名的时刻。
 

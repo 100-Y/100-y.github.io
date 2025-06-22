@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "肿瘤的解法｜Solution for tumors"
+title: 肿瘤的解法｜Solution for tumors
 date: 2023-03-17
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/03/17  
 “肿瘤”，最粗暴的良性解决方法，是让占着茅坑已经拉不了太多屎的人，荣归故里、告老还乡，然后ta们的财富进行半路的“截杀”和“重新分配”。继而，层出不穷分配问题的出现；再“教育”……寻找替代一切的“工作”，让“性质”发生根本上的转变，从而改造所有人的“命”……

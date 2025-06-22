@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "如何隐喻地进行创作？——How to Create Metaphorically?"
+title: 如何隐喻地进行创作？——How to Create Metaphorically?
 date: 2024-11-02
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
+excerpt:
+description:
 reader_suggested_tags:
   - '["Leadership","Mindset","Personal Development","English","Procrastination"]'
   - '["Leadership","Mindset","Personal Development","English","Procrastination"]'
@@ -13,7 +13,7 @@ tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 步骤1。定义自己给出的“专有名词”。  
 步骤2。类比“专有名词”。  

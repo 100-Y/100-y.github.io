@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "人民之词——The Word People"
+title: 人民之词——The Word People
 date: 2024-11-30
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 我听见“人民”这个词在广播里重复，沙哑、铿锵，像一枚旧铜币在空碗里翻滚。它有时像父亲的鞋印，踩在泥地上，有力却模糊；有时像广场上的喊声，被扩音器拉长，空洞而嘹亮。
 

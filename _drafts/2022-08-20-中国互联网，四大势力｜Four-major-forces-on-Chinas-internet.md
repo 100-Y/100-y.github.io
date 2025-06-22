@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "中国互联网，四大势力｜Four major forces, on China’s internet"
+title: 中国互联网，四大势力｜Four major forces, on China’s internet
 date: 2022-08-20
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/08/20  
 第一大势力，引导舆论的红色大V等，大部分吃体制内饭，完成工作任务的同时，也领取平台额外的俸禄，性质上，属于是正规水军。占比15％，逐年有上升的趋势。

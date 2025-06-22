@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "领导的话｜Leader’s words"
+title: 领导的话｜Leader’s words
 date: 2022-09-11
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/09/11  
 领导的话，搁一些人眼里，就跟放屁一样。也就手下的人，听得最仔细、执行起来最认真。无论怎样的“令”（话），只要能让领导开心、满意，昧着良心都要将事情做好、做得更好。领导成了ta们的衣食父母，ta们虽心里不甘、情也不愿，但还是成了领导的跑腿。

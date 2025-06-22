@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "不再等待——No Longer Waiting"
+title: 不再等待——No Longer Waiting
 date: 2024-11-28
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 我不再等那个回信息的人。他甚至不知道我撑伞的那晚，鞋子进了水，脚在地铁里冻得发青……我开始收藏被拒绝时的表情——嘴角翘了一点又放下的那种，那是他们内心的真实……如果我是一只装满热水的瓶子，我要把瓶口拧紧，不再漏出去。
 

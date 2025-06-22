@@ -2,16 +2,16 @@
 layout: post
 title: 乱世生存五法则：如何在风暴中保持自我
 date: 2025-02-27
-excerpt: "在这个善恶模糊、规则颠倒的时代，如何活下去又不迷失？本手册提供五大策略，助你在乱世中保存灵魂。In an era where rules blur and morality fades, how do you survive without losing yourself? This manual offers five strategies to keep your soul intact in chaos."
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+title: 在这个善恶模糊、规则颠倒的时代，如何活下去又不迷失？本手册提供五大策略，助你在乱世中保存灵魂。In an era where rules blur and morality fades, how do you survive without losing yourself? This manual offers five strategies to keep your soul intact in chaos.
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 乱世之中，肉身不过是流动的筹码，思想是易碎的奢侈品，规则是一场反复被书写和篡改的骗局。你站在这张血色棋盘上，不是棋手，不是棋子，而是随时可能被抹去的一抹痕迹。你问，如何独善其身？
 

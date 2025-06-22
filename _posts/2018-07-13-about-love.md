@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "关于爱情——About Love"
+title: 关于爱情——About Love
 date: 2018-07-13
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 一段感情，经历过后，最害怕的不是两个人没在一起；而是身处漩涡中的两人，没有获得成长。成长了，那么这段感情经历的双方，无论怎样，最后都不要觉得后悔！因为经历了各自的高兴，也经历了彼此所带来的悲伤。
 

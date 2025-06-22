@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "木偶的一生｜The life of a puppet"
+title: 木偶的一生｜The life of a puppet
 date: 2023-05-03
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/05/03  
 我曾是奴隶，遭受主人的鞭打、蹂躏、折磨。我曾是逃亡者，冒着生命危险，挣脱了锁链，追求自由的光芒。我曾是恋人，遇到了她，那双明亮的眼睛，那张甜美的嘴唇，那颗温柔的心灵。我曾是丈夫，与她结为连理，誓言永恒不变，共度风雨艰辛。我曾是父亲，看着孩子们出生、成长、离去，为他们感到骄傲、忧虑、无奈。

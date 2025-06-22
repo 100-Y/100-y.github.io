@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "不当人的后果｜Consequences of not being a human"
+title: 不当人的后果｜Consequences of not being a human
 date: 2023-09-16
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/09/16自己\*\*不当人\*\*，然后把别人也不当人……当大家都不当人的时候，人类原始丑陋的兽性，就彻底释放给暴露出来了。
 

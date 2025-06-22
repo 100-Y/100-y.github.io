@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "第三次世界大战｜The World War Three"
+title: 第三次世界大战｜The World War Three
 date: 2023-10-08
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/10/08当以色列与哈马斯之间的战火燃烧，“黎巴嫩和叙利亚”，极有可能成为“下一个战场”。接着是“伊拉克和也门”，“埃及、约旦、科威特、巴林、阿拉伯联合酋长国和卡塔尔”……直到战火蔓延到“沙特阿拉伯与伊朗”。再然后，便是“台湾海峡”，中国、俄罗斯与美国、日本等。第三次世界大战，便正式开打。
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "程序即治理——Program as Governance"
+title: 程序即治理——Program as Governance
 date: 2025-03-06
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 有人坐在那里，很久了，不记得第几次会议，名字与议题一同褪色，只剩钟声在墙上轻响，如潮，不再漫上岸。话语来了又走，像褶皱的纸，像风中飘起的同一面横幅，每年都说“我们在治理”，却无人起身。
 

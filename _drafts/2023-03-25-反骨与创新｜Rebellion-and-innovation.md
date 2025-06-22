@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "反骨与创新｜Rebellion and innovation"
+title: 反骨与创新｜Rebellion and innovation
 date: 2023-03-25
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/03/25  
 反骨是一种不顺从、不妥协、不随波逐流的性格特征。它可以促进创新的发展，因为反骨的人敢于挑战传统，敢于尝试新事物，敢于表达自己的想法。反骨没有绝对的好坏，它取决于反骨的目的、方式和结果。

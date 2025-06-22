@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "三观中价值观的测试｜Valueview test in Threeviews"
+title: 三观中价值观的测试｜Valueview test in Threeviews
 date: 2022-12-29
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/12/29  
 如何简单判断一个人，是否：境外势力还是爱国、间谍还是家暴男，汉奸、走狗还是红卫兵、义和团等（引申义）。试试多次当面，指出ta们，以及ta们所引以为傲事业的缺点，然后看ta们的反应。

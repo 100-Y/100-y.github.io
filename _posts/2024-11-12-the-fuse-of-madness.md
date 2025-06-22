@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "疯狂的导火索——The Fuse of Madness"
+title: 疯狂的导火索——The Fuse of Madness
 date: 2024-11-12
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 一种被抛弃的羞耻与愤怒，成为孤注一掷的疯狂导火索。不是一个理性之人该做的决定，却是在一个被信任和爱驱逐的人，跌入绝望深渊后的唯一宣泄出口。
 

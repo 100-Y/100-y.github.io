@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "光的楔子——Wedges of Light"
+title: 光的楔子——Wedges of Light
 date: 2024-12-30
-excerpt: "本文借“节日”之名，反思人类赋予时间意义的方式，以诗性语言揭示：真正属于我们的，是那些未被标记却悄然流逝的瞬间。Framed by the concept of “festivals,” this piece reflects on how humans seek to give meaning to time—ultimately revealing, in poetic language, that what truly belongs to us are the unmarked, silently passing moments."
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+title: 本文借“节日”之名，反思人类赋予时间意义的方式，以诗性语言揭示：真正属于我们的，是那些未被标记却悄然流逝的瞬间。Framed by the concept of “festivals,” this piece reflects on how humans seek to give meaning to time—ultimately revealing, in poetic language, that what truly belongs to us are the unmarked, silently passing moments.
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 节日是人类为时间所写的诗，  
 是在无声流逝中安放的一次短暂停顿。  

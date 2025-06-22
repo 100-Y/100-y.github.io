@@ -2,16 +2,16 @@
 layout: post
 title: ChatGPT中国用户估算：免费与付费结构
 date: 2025-04-29
-excerpt: "2025年4月中国大陆约有1000万活跃用户与100万付费用户，折射VPN与支付结构下的真实使用图景。As of April 2025, around 10 million active and 1 million paid users in China reflect real usage under VPN and payment constraints."
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+title: 2025年4月中国大陆约有1000万活跃用户与100万付费用户，折射VPN与支付结构下的真实使用图景。As of April 2025, around 10 million active and 1 million paid users in China reflect real usage under VPN and payment constraints.
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags: internet
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 截至 **2025 年 4 月**，中国大陆用户使用 ChatGPT 的活跃人数与付费人数，按主流分析路径与中位估算如下：
 

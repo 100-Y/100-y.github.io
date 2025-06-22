@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "“出门装瓜娃儿”的智慧——Wisdom of Feigning Simplicity"
+title: “出门装瓜娃儿”的智慧——Wisdom of Feigning Simplicity
 date: 2024-11-13
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 “出门装瓜娃儿”是一种收敛锋芒、隐藏棱角的生活哲学。在陌生或潜藏风险的环境中，以无害、无辜的姿态示人，不仅能降低风险，还能避免外界的敌意与猜忌。正如庄子所说的“无用之用”，看似愚钝的行为往往能够化解冲突，减少摩擦，从而达到保护自己的目的。
 

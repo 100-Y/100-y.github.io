@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "荣耀的重量——The Weight of Glory"
+title: 荣耀的重量——The Weight of Glory
 date: 2025-02-25
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 旌旗高悬，未曾触地，忠义的光辉在风中猎猎，却照不见枯黄的田垄与荒芜的炊烟。刘备以“正统”之名踏入益州，如同风中执剑者，用锈迹斑斑的信念斩开了本已宁静的土壤。而后，诸葛亮在断裂的节奏中敲响战鼓，十万青壮在朝北的山路上消失，只留下空井与流失的春水。
 

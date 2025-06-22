@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "梦的集合——Collection of Dreams 1"
+title: 梦的集合——Collection of Dreams 1
 date: 2015-01-11
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 梦见和陌生大姐去宾馆开房，进电梯被负责监控认识的人捉住，当场作罢；梦见父母和陌生人撕打，自己也加入扭转了战局；梦见和大学同学一起赶车；梦见有女生喜欢我，却不敢表白……
 

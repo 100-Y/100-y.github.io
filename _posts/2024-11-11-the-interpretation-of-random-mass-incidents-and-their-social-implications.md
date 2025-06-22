@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "随机群发事件的解读及其社会隐喻——The Interpretation of Random Mass Incidents and Their Social Implications"
+title: 随机群发事件的解读及其社会隐喻——The Interpretation of Random Mass Incidents and Their Social Implications
 date: 2024-11-11
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 随机群发事件通常被视为“个体偶然行为”，这一解读反映了社会对集体困境和系统性问题的回避倾向。通过简化为个体的偶然选择，社会避免了对结构性问题的深刻反思，也忽略了共性痛点的存在。
 

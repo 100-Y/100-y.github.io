@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "同富裕和共沉沦——Rich and sinking together"
+title: 同富裕和共沉沦——Rich and sinking together
 date: 2022-10-06
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/10/06  
 共沉沦，大概是一些中国人，面对困境，安慰自己，最能隐忍的品质。——“又不是只我一人，这样”：这样一种豁达的观念，疫情之下……体现得淋漓尽致。

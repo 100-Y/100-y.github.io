@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "重复土壤的原因｜Reason for repeated soil"
+title: 重复土壤的原因｜Reason for repeated soil
 date: 2023-03-14
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/03/14  
 是奴才习惯性进行，自我主动式的阉割？不断培育，生产悲剧理所应当重复的土壤。还是真就被胁迫，不得有误地遵循，至上而下部门的所有要求？可能后者犹豫，会思考自己是不是还有别的选择；前者，深入骨髓的执行基因，已然不允许ta们再有一丝，多余的想法了。

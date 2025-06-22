@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "人性之恶｜Evil of human nature"
+title: 人性之恶｜Evil of human nature
 date: 2023-05-03
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/05/03  
 把人性往最坏处想，总是可以避免一些悲剧始料不及地发生。比如路上“挑衅”行驶不规范车辆的行人，车辆转头就可能选择将挑衅的行人碾死。不胜枚举的案例……

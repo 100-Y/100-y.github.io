@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "警察与出版社｜Police and the publishing houses"
+title: 警察与出版社｜Police and the publishing houses
 date: 2023-05-18
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/05/18  
 2016年，甘肃西和礼县寺庙考察之行归来，租房，被成都本地一家新起的二手代理租房公司（优客逸家），欺骗办理了贷款租房的合同，类似后来爆雷的蛋壳公寓的代理模式。

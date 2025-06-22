@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "郑州富士康暴力事件｜The violent incident of Zhengzhou Foxconn"
+title: 郑州富士康暴力事件｜The violent incident of Zhengzhou Foxconn
 date: 2022-12-06
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/12/06  
 世界杯期间（2022年11月22日至23日），郑州富士康，中牟等临近地区。一个关于“企业假合同，工人维权，特警维稳”的故事。

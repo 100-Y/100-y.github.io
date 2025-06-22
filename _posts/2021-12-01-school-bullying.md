@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "校园霸凌——School Bullying"
+title: 校园霸凌——School Bullying
 date: 2021-12-01
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 说到校园霸凌，小学在厕所里被人掐过喉咙，初中走廊楼梯的过道，被男生推过；午睡休息的时间，被女生画过眼睫毛……成绩不错，长的好看，这些都不是原因；重要的是，我将推我的同学反推了回去，也向班主任举报了其他欺负我的同学。
 

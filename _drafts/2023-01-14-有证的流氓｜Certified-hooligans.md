@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "有证的流氓｜Certified hooligans"
+title: 有证的流氓｜Certified hooligans
 date: 2023-01-14
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/01/14  
 个人，利用ta人提供的“信道”，浏览网络“非法”内容。算不得很大的一个问题。但要是独自搭建，再有偿付费给ta人。就要被定性为“现行犯”了。

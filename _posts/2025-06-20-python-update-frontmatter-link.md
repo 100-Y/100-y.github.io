@@ -2,8 +2,8 @@
 layout: post
 title: 用 Python 脚本自动同步 Markdown 文章 Front Matter 的图片链接
 date: 2025-06-20
-excerpt: 通过 Python 脚本批量更新 博客 Front Matter 中的图片字段，实现文章与图片文件名自动匹配，提升维护效率。"
-description: "本文介绍如何利用 Python 脚本自动替换 Jekyll 博客文章 Front Matter 中的 og_image 和 thumbnail 字段，保持图片路径与本地图片文件名一致，适用于大量文章的自动化管理。"
+excerpt: 通过 Python 脚本批量更新 博客 Front Matter 中的图片字段，实现文章与图片文件名自动匹配，提升维护效率。
+description: 通过 Python 脚本批量更新 博客 Front Matter 中的图片字段，实现文章与图片文件名自动匹配，提升维护效率。
 og_image: /assets/img/blog/python-update-frontmatter-link.webp
 thumbnail: /assets/img/blog/python-update-frontmatter-link.webp
 categories: Internet

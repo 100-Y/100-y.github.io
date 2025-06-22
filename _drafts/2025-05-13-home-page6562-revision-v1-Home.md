@@ -5,7 +5,7 @@ date: 2025-05-13
 layout: revision
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 ## Original
 

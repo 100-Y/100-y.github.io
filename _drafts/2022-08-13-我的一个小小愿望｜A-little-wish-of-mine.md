@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "我的一个小小愿望｜A little wish of mine"
+title: 我的一个小小愿望｜A little wish of mine
 date: 2022-08-13
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/08/13  
 “朋友圈里”，所有好友都能正常浏览互联网；都有获得所有免费知识的权利和能力；也都能自由地思考，都有独立的意识。向外，不仅清晰知道ta人的优缺点；对内，同时还能深刻剖析自己。

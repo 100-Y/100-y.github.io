@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "诱惑与自我——Temptations and Oneself"
+title: 诱惑与自我——Temptations and Oneself
 date: 2015-01-06
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 坚持做好一件事情并不容易，因为有很多很多的诱惑，要你去戒除，或是时间长短，但始终有困难、难以戒除……而这些诱惑，真实造就你以后的遗憾。
 

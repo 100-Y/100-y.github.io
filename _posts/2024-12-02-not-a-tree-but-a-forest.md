@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "不是树，而是森林——Not a Tree, But a Forest"
+title: 不是树，而是森林——Not a Tree, But a Forest
 date: 2024-12-02
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 我本以为只要点亮一处，整座屋子就会亮起来，但灯泡碎了，电线缠成死结。走廊尽头忽然飘来一阵旧乐曲，我跟着旋律走，途中踩碎了几页笔记。那些本以为无用的句子，如今却像散落在地板上的糖果，闪着光。不是我理解了什么，而是它们突然允许我靠近。
 

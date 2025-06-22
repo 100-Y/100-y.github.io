@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "境外敌对势力产品｜Overseas hostile forces products"
+title: 境外敌对势力产品｜Overseas hostile forces products
 date: 2023-10-02
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/10/02手机不被或减少被“当局”监控的方法，通用。选择“境外敌对势力”系列产品作为备用机，不插电话卡、WiFi版，并安装“便于隐藏与沟通”的加密聊天软件。比如：公益性质的Nostr、Briar，等非盈利团队或组织运营的App。
 

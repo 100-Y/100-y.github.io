@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "无知者无罪——The Ignorant are not Guilty"
+title: 无知者无罪——The Ignorant are not Guilty
 date: 2025-03-12
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 在**无声洪流**之中，**存在**如同一颗被抛入时光深渊的火种，它以**静默燃烧**的姿态穿越**原野风暴**，将“何为罪”的质问悄然溶解于生命的缝隙。无知不是过错，而是**透明容器**般的开始，在那里，一切尚未被污染，一切皆有可能。
 

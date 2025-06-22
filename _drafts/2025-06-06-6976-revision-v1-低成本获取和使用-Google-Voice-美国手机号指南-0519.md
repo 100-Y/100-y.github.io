@@ -5,7 +5,7 @@ date: 2025-06-06
 layout: revision
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 要以最低成本获取一个可用于注册 Google Voice (GV) 的美国手机号并避免持续套餐费用，以下是两种主要方案：
 

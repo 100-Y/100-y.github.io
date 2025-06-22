@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "帮助陷入沼泽的同胞｜Help the compatriots stuck in swamp"
+title: 帮助陷入沼泽的同胞｜Help the compatriots stuck in swamp
 date: 2022-11-22
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/11/22  
 很多人，都忘本了。包括以前的自己，忘了最初一开始，应该成为怎样的一个人。一个能同情ta人遭遇，可以伸出援助之手，而不是“事不关己高高挂起”，抛弃一部分良知，也要努力奋进向上爬的冷漠之徒。

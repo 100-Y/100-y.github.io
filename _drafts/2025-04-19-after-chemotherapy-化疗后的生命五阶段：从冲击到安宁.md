@@ -2,16 +2,16 @@
 layout: post
 title: 化疗后的生命五阶段：从冲击到安宁
 date: 2025-04-19
-excerpt: "化疗之后，如何陪伴一个人走完最后旅程？五阶段图解与守护建议，一文看懂。How do you walk with someone after chemotherapy, all the way to the end? A five-stage guide with care insights."
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+title: 化疗之后，如何陪伴一个人走完最后旅程？五阶段图解与守护建议，一文看懂。How do you walk with someone after chemotherapy, all the way to the end? A five-stage guide with care insights.
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 这是一份关于高龄个体化疗后，从系统冲击到临终照护的通用图景（含每阶段守护与补救要点）
 

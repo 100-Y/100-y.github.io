@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "回信：亲爱的写诗人｜Reply: Dear Poet"
+title: 回信：亲爱的写诗人｜Reply: Dear Poet
 date: 2023-12-31
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/12/31如果你是阿英，收到以下这样一封信件（\[\*\*写给阿英的信\*\*\](https://www.notion.so/Letter-to-Ah-Ying-b93df540b57542e48229feadff924d04?pvs=21)），你会有怎么样的一些感受，并且你会相应怎样写一封回信？
 

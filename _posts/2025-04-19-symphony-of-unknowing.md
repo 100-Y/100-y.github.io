@@ -2,16 +2,16 @@
 layout: post
 title: 无知的协奏曲：化疗如何悄然毁灭一个生命
 date: 2025-04-19
-excerpt: "无知不是知识缺失，而是系统性合谋；它令化疗在终末期悄然加速崩塌。Ignorance is not lack of knowledge, but systemic collusion; It lets chemotherapy quietly dismantle life at the end."
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+title: 无知不是知识缺失，而是系统性合谋；它令化疗在终末期悄然加速崩塌。Ignorance is not lack of knowledge, but systemic collusion; It lets chemotherapy quietly dismantle life at the end.
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 无知，在化疗、临终医疗和家庭冲突中，并不是简单的“知识缺乏”，而是一种**多维度、层层叠加的结构性幽暗**。它不是一个盲点，而更像是**一道道缓慢关闭的门**，把人一步步引向孤独、误判与无法承受的选择。
 

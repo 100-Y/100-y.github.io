@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "晨间失衡——Morning Disorientation"
+title: 晨间失衡——Morning Disorientation
 date: 2024-11-25
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 清晨，窗外寒风拍打窗棂，我裹在被窝中，半梦半醒。耳塞仍堵着耳朵，隔绝喧嚣，却挡不住寒意的渗透。揉眼摘下耳塞，鼻腔一阵胀痛袭来，我本能地擤了鼻涕——那一瞬，耳中轰然作响。
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "爱是什么——What is a Love"
+title: 爱是什么——What is a Love
 date: 2019-03-30
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 爱是什么？  
 爱是熟睡时给的亲吻，湿润你的嘴唇，温暖我的心窝。  

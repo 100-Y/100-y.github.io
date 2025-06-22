@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "企业、领导、狗——Enterprises, Leaders and Dogs"
+title: 企业、领导、狗——Enterprises, Leaders and Dogs
 date: 2022-03-24
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 政治觉悟高的企业，不能劝它善良，得夸它精明。同理，促进经济发展的领导，不能总讲ta向钱看，还要看ta帮扶了多少精明的企业。
 

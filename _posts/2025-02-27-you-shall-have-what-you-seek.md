@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "你将获得你所求的一切——You Shall Have What You Seek"
+title: 你将获得你所求的一切——You Shall Have What You Seek
 date: 2025-02-27
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 夜幕低垂。空气沉闷，像一层无形的压迫。身后传来低声的窃语，是非交错，悄然刺穿夜色。我静静地听着，直到话语的锋芒割破底线，胸腔翻涌，无法再忍。猛然起身，声音在寂静中炸裂，惊得众人对视，目光交错间，是错愕、惊惧，还是暗藏的幸灾乐祸？
 

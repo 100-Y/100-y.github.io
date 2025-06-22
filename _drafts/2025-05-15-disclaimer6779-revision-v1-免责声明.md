@@ -3,13 +3,13 @@ layout: post
 title: 免责声明
 date: 2025-05-15
 excerpt: '本站内容仅供参考，涉敏感或专业信息请自行判断与承担风险。Content is for reference only; discretion and risk are solely the user''s when engaging with sensitive or specialized information.'
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
+description:
 layout: revision
 footnotes:
     - ''
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 本网站所载一切内容（包括但不限于文字、图像、音频、视频）仅供一般信息、观点或创意交流之用，不构成也不应被视为任何形式的专业建议、官方立场或法律责任承担。
 

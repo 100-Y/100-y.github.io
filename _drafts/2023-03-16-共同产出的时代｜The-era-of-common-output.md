@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "共同产出的时代｜The era of common output"
+title: 共同产出的时代｜The era of common output
 date: 2023-03-16
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/03/16  
 抛开本质，行内从业人员不会有任何入门阶段的限制。人人都可以是甲方、乙方。（分配问题，也将再一次成为人类面临的，急待解决的巨大问题。）

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "服从性测试与专业防护知识｜Obedience tests and professional protection knowledges"
+title: 服从性测试与专业防护知识｜Obedience tests and professional protection knowledges
 date: 2023-09-24
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/09/24学校是教书育人的地方，不是劳改营。替代学校的方案：家庭教育➕社会实践，配合人工智能（非阉割版本）。
 

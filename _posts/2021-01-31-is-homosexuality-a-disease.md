@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "同性恋是不是病｜Is Homosexuality a Disease"
+title: 同性恋是不是病｜Is Homosexuality a Disease
 date: 2021-01-31
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 在我看来，至少男同是。年龄差距很大的更是。这是一种对于人格意义上的操控。国家应该建立、健全有关变性人的法案，鼓励这类人士，自愿接受心理治疗，甚至为他们提供免费的性别改造服务。
 

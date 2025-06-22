@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "条约闪电｜Treaty lightnings"
+title: 条约闪电｜Treaty lightnings
 date: 2023-04-26
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/04/26  
 梦见两人走在一条城市熟悉道路的两边，高楼建筑都推倒成为了桑田。

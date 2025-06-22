@@ -5,7 +5,7 @@ date: 2025-05-15
 layout: revision
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 ### 无评论、无上传媒体、无您的数据；本站仅使用 Google 广告 Cookie，并嵌入来自 YouTube 的内容。
 

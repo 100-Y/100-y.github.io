@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "假：死的意义——Hypothesis: Meaning of Death"
+title: 假：死的意义——Hypothesis: Meaning of Death
 date: 2021-11-19
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 **假使当你明白**，人类存在于这个世界上，根本没有任何意义。以后，你就会觉得，你可以什么都不用期待，也没有任何必要。什么喜乐悲欢、俗世凡尘，通通都与你无关。
 

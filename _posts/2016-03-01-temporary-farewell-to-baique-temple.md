@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "暂别白雀寺——Temporary Farewell to Baique Temple"
+title: 暂别白雀寺——Temporary Farewell to Baique Temple
 date: 2016-03-01
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
+excerpt:
+description:
 reader_suggested_tags:
   - '["Travel","Taiwan","Hiking","Taipei","Asia"]'
   - '["Travel","Taiwan","Hiking","Taipei","Asia"]'
@@ -13,7 +13,7 @@ tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 那是一个清晨，阳光明媚，但寒风刺骨。我暂别了白雀寺的僧人，带着部分行囊启程前往礼县。路上，会见事先约好的当地朋友，他们热情地请我吃了一顿香喷喷的肉包子，使得我暖和了一些。吃完饭，我便独自一人来到县城的汽车站，买了去香山的车票。
 

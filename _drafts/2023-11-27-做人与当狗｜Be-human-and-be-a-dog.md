@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "做人与当狗｜Be human and be a dog"
+title: 做人与当狗｜Be human and be a dog
 date: 2023-11-27
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/11/27做好人——做人——莫当狗——当好狗——不咬人——咬坏人。在做好人与咬坏人之间，出于同等程度的一个难度。
 

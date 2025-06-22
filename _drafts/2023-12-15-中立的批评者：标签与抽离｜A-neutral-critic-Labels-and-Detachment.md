@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "中立的批评者：标签与抽离｜A neutral critic: Labels and Detachment"
+title: 中立的批评者：标签与抽离｜A neutral critic: Labels and Detachment
 date: 2023-12-15
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/12/15“标签”之间，存在的“伪善和假恶”问题。“立场与角度”，成为唯一区分的方式；也是极其不可靠的标准。
 

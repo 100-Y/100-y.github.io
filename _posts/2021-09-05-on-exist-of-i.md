@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "论我的存在——On Exist of I"
+title: 论我的存在——On Exist of I
 date: 2021-09-05
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 “我”，压根就不存在。“我”之所以存在，是因为我的父母。而我的父母的存在，则是因为他们各自父母的存在。他们各自父母，又因为他们各自父母的存在……所以，没有他们的存在，就没有“我”。
 

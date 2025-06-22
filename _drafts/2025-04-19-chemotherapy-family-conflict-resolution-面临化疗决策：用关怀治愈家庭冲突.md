@@ -2,16 +2,16 @@
 layout: post
 title: 面临化疗决策：用关怀治愈家庭冲突
 date: 2025-04-19
-excerpt: "When families face chemotherapy decisions, conflict isn’t about blame—it’s love in tension. Explore how to rebuild understanding through structure, emotion, and action."
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+title: When families face chemotherapy decisions, conflict isn’t about blame—it’s love in tension. Explore how to rebuild understanding through structure, emotion, and action.
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 围绕重大医疗决策（如化疗）所产生的家庭冲突，其复杂，不仅在于“意见不一”，更在于每一个人都在扮演不同的角色、承担不同的情绪，却没有得到同等的理解与释放渠道。
 

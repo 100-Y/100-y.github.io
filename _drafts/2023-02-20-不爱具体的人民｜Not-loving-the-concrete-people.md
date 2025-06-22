@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "不爱具体的人民｜Not loving the concrete people"
+title: 不爱具体的人民｜Not loving the concrete people
 date: 2023-02-20
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/02/20  
 一般来说，它指的是一种对人类的抽象爱，而不是对个人的具体爱。暗示了一种自恋或道德优越感，不是真正的关怀或同情。

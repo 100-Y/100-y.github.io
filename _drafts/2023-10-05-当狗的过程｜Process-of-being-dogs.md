@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "当狗的过程｜Process of being dogs"
+title: 当狗的过程｜Process of being dogs
 date: 2023-10-05
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/10/05各项充满人生，上好的抉择，也无非是主动当“谁的狗”而已。狗会拆家，遭受虐待，被抛弃；会绝境中存活，肆无忌惮的奔跑，攻击甚至被一些人吃掉。
 

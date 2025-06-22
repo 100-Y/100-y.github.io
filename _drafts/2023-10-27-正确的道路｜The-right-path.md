@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "正确的道路｜The right path"
+title: 正确的道路｜The right path
 date: 2023-10-27
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/10/27你以为的各方面都不错能够交心的朋友，在第一眼看后你朋友圈的内容，就会将你删除。这说明了一个什么问题？
 

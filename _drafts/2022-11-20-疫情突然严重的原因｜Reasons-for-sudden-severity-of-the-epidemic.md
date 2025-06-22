@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "疫情突然严重的原因｜Reasons for sudden severity of the epidemic"
+title: 疫情突然严重的原因｜Reasons for sudden severity of the epidemic
 date: 2022-11-20
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/11/20  
 总有一些“无脑子”，天真且肆意地认为，疫情突然又变得严重，是因为不再坚持动态清零政策的缘故。将一切原因归咎于，不配合的人群。而压根不去探讨：疫苗、核酸、方舱等，内部人为制造谋取自身前（钱）途的因素；以及国际、整个大环境的外部影响。

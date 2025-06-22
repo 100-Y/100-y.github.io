@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "统一指示下的虚假自由——False Freedom Under Unified Command"
+title: 统一指示下的虚假自由——False Freedom Under Unified Command
 date: 2024-08-11
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 “统一指示下的虚假自由”是一个深刻的矛盾命题，它指向了一种表面上似乎给予了选择和行动空间，但实则被隐藏在强大控制背后的“自由”。这种虚假自由，本质上是控制的伪装，是思想、行动、表达的绑缚，伪装成了个体选择的权利，实则是在一个看似宽松、灵活的框架内，维持着对个体的高度操控和统一指令。
 

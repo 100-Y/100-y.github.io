@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "花园管理规则和指导方针｜Garden management rules and guidelines"
+title: 花园管理规则和指导方针｜Garden management rules and guidelines
 date: 2023-03-06
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/03/06  
 在这个大花园里，有很多美丽而香甜的花朵，也有一些隐匿在阴暗处的虫子。它们偷偷地啃噬着花朵的根茎和叶片，让花园生去了光彩和沃力。请问我们这些普通的游客，如何能够把这些虫子揪出来，让它们受到应有的惩罚呢？

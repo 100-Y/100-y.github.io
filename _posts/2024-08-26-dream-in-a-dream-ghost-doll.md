@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "梦中梦：鬼魅娃娃——Dream in a Dream: Ghost Doll"
+title: 梦中梦：鬼魅娃娃——Dream in a Dream: Ghost Doll
 date: 2024-08-26
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 一天，孙婆带着她的家人以及半岁小孩去爬山。小孩光着脚丫屁颠屁颠走在长满杂草的小道。我跟在小孩最后边。小孩要求抱抱，前面的其它孩子已经走很快，隔了有一段路程了。无奈，只好有我来，担负这个责任。
 

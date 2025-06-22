@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "抖音，好的一点｜One good point of Douyin"
+title: 抖音，好的一点｜One good point of Douyin
 date: 2022-11-22
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/11/22  
 抖音，好的一点是，定位“不同城市”，可以看见一些相对真实的完整信息。没有操作门槛，每一个体，都能轻易发出自己的声音，包括，很多很多社会“底层”，发出的一些最最真实的声音。

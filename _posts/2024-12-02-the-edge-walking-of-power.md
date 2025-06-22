@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "权力擦边的过程——The Edge-Walking of Power"
+title: 权力擦边的过程——The Edge-Walking of Power
 date: 2024-12-02
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 权力不是利剑，而是一缕会呼吸的雾；不是暴君，而是体贴的舞者；不是毁灭规则，而是诱导规则自我演变。在灰色的绸缎之上，它裁剪制度，粉饰语言，试探人心，最终不露痕迹地篡改了边界。
 

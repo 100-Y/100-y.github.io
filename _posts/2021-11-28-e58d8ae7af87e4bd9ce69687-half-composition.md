@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "半篇作文——Half Composition"
+title: 半篇作文——Half Composition
 date: 2021-11-28
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 梦里初中、课上，手写了半篇8、9万字的作文。四处找订书机，怎么排队与借，也轮不到我。在同学们都差不多装订好、上交完毕的时候，我的作业本子又突然变成了一本厚的书……
 

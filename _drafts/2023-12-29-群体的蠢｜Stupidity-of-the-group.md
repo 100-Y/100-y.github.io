@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "群体的蠢｜Stupidity of the group"
+title: 群体的蠢｜Stupidity of the group
 date: 2023-12-29
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/12/29远离社会中各式各样、故步自封，放弃学习的“蠢人”。不然，就得被ta们一系列的骚操作，给气死。
 

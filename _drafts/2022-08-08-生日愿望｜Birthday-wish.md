@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "生日愿望｜Birthday wish"
+title: 生日愿望｜Birthday wish
 date: 2022-08-08
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2022/08/08  
 寻得：隔空比划，自动输出文字的记录机器；或者一种，可以识别脑电波的未来意识流的产品。闭上双眼也能，正常操控；睡觉、休息时，都能实时书写。

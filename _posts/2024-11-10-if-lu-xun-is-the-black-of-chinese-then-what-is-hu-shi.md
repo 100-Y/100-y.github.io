@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "如果说鲁迅是“支黑”，那么胡适又是“什么”？——If Lu Xun is the Black of Chinese, Then What is Hu Shi?"
+title: 如果说鲁迅是“支黑”，那么胡适又是“什么”？——If Lu Xun is the Black of Chinese, Then What is Hu Shi?
 date: 2024-11-10
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 将鲁迅视作“支黑”，无非是在他冷峻、批判的文字里捕捉到了一种直面民族弊病的决绝态度——如同医者的锐利刀锋，切割出一片自我剖析的伤口，让民族能见血、见骨。而胡适呢？他或许是“支灰”。不同于鲁迅的尖锐反叛，胡适倾向温和的改良与包容的西化。胡适主张渐进地改变现实，既认可传统价值，又大胆接纳西方文明。他的姿态像是温吞的灰色，似远不似近的幽暗。他不摧毁，而是温柔劝解；不怒目相视，而是和颜而对。
 

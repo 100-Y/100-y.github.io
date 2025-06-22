@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "道德绑架之恶与平衡——Evil and Balance of Moral Coercion"
+title: 道德绑架之恶与平衡——Evil and Balance of Moral Coercion
 date: 2024-10-29
-excerpt: "（这里写摘要）"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 讨论道德绑架中，教人牺牲（高尚的美）的恶的性质，要远远高于，冷眼旁观（平庸之恶）。而这两者之间的一个平衡，关键在于选择而非束缚，尊重个体而非强加优越，关心理解而非冷漠旁观。既不过度介入，也不袖手旁观。
 

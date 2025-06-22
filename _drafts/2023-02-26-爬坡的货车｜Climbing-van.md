@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "爬坡的货车｜Climbing van"
+title: 爬坡的货车｜Climbing van
 date: 2023-02-26
-excerpt: "这里填写摘要"
-description: 完整描述，用于搜索引擎与社交平台预览，最长 160 字，可与 excerpt 一致
-og_image: /assets/img/blog/xxxxxxxx
-thumbnail: /assets/img/blog/xxxxxxxx
+excerpt:
+description:
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/xxxxxxxx" style="width:100%;" alt="xxxxxxxx">
+<img src="/assets/img/blog/" style="width:100%;" alt="">
 
 2023/02/26  
 梦见搭乘一辆爬坡的货车……溜到一块，城建外观十分不错、相当齐整且装饰豪华、美丽大方的，西域荒漠城外街。下车拍照纪念，微信上云同步收藏。
