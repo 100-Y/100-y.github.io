@@ -22,13 +22,13 @@ Markdown 是写作界的轻量标记语言明星，语法简洁、格式清晰�
 
 ---
 
-| 目标样式 | HTML 标签               | Markdown 语法 | 输出效果          |
-| -------- | ----------------------- | ------------- | ----------------- |
-| 加粗     | `<strong>text</strong>` | `**text**`    | **text**          |
-| 斜体     | `<em>text</em>`         | `*text*`      | _text_            |
-| 删除线   | `<del>text</del>`       | `~~text~~`    | ~~text~~          |
-| 高亮     | `<mark>text</mark>`     | X（不支持）   | <mark>text</mark> |
-| 下划线   | `<u>text</u>`           | X（不支持）   | <u>text</u>       |
+| 样式   | HTML                    | Markdown    | 效果              |
+| ------ | ----------------------- | ----------- | ----------------- |
+| 加粗   | `<strong>text</strong>` | `**text**`  | **text**          |
+| 斜体   | `<em>text</em>`         | `*text*`    | _text_            |
+| 删除线 | `<del>text</del>`       | `~~text~~`  | ~~text~~          |
+| 高亮   | `<mark>text</mark>`     | X（不支持） | <mark>text</mark> |
+| 下划线 | `<u>text</u>`           | X（不支持） | <u>text</u>       |
 
 ---
 
