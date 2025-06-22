@@ -114,6 +114,17 @@ ninja.data = [{
             window.location.href = "/blog/2025-06-17/jekyll-update-gemfile-guide/";
           
         },
+      },{id: "post-危机生存法则-crisis-survival-rules",
+        
+          title: "危机生存法则 / Crisis Survival Rules",
+        
+        description: "在生命威胁、求助无门或体制失灵的危机中，理性与坚韧才是手中最锋利的剑刃，劈开一条通向生存与正义的幽径。In times of crisis, when life is threatened, help is unavailable, or systems fail, reason and tenacity are the sharpest blades in hands, cutting a hidden path toward survival and justice.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-17/crisis-survival-rules/";
+          
+        },
       },{id: "post-全流程指南-用-jekyll-al-folio-github-orbstack-打造本地博客系统-macos-专用",
         
           title: "全流程指南：用 Jekyll + al-folio + GitHub + Orbstack 打造本地博客系统（macOS 专用）",
