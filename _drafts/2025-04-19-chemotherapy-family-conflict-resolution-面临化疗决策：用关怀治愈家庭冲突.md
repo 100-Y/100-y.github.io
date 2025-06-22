@@ -2,7 +2,7 @@
 layout: post
 title: 面临化疗决策：用关怀治愈家庭冲突
 date: 2025-04-19
-title: When families face chemotherapy decisions, conflict isn’t about blame—it’s love in tension. Explore how to rebuild understanding through structure, emotion, and action.
+excerpt: When families face chemotherapy decisions, conflict isn’t about blame—it’s love in tension. Explore how to rebuild understanding through structure, emotion, and action.
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

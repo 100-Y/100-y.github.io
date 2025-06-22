@@ -2,7 +2,7 @@
 layout: post
 title: 孤山处士述梦
 date: 2018-01-01
-title: 在《汉阳舟子集》中，一位孤山隐士于梦中聆听古人讲道，揭示因果、君子与小人的伦理差别，以及儒释道三教思想的诗性融合。In The Hanyang Boatman’s Anthology, a hermit dreams of sages debating virtue and karma, unveiling a poetic fusion of Confucian, Taoist, and Buddhist ethics through allegorical dream vision.
+excerpt: 在《汉阳舟子集》中，一位孤山隐士于梦中聆听古人讲道，揭示因果、君子与小人的伦理差别，以及儒释道三教思想的诗性融合。In The Hanyang Boatman’s Anthology, a hermit dreams of sages debating virtue and karma, unveiling a poetic fusion of Confucian, Taoist, and Buddhist ethics through allegorical dream vision.
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

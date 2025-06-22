@@ -2,7 +2,7 @@
 layout: post
 title: 再见，可以安静一点：一首关于温柔归还与内心和解的诗
 date: 2025-04-09
-title: 一首关于归还与放下的诗，以宁静的语言讲述在黄昏中悄然告别的方式，唤起对内在和平的共鸣。A poem about returning and letting go, told in serene language, evoking a gentle farewell whispered at dusk and resonating with inner peace.
+excerpt: 一首关于归还与放下的诗，以宁静的语言讲述在黄昏中悄然告别的方式，唤起对内在和平的共鸣。A poem about returning and letting go, told in serene language, evoking a gentle farewell whispered at dusk and resonating with inner peace.
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

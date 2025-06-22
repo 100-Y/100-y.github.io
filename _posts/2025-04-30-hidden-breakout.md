@@ -2,7 +2,7 @@
 layout: post
 title: 隐秘突围：在集体愚昧中构建心理独立的认知系统
 date: 2025-04-30
-title: 在情绪混乱与集体愚昧的环境中，悄然构建心理独立系统，完成一场温柔而坚定的自我突围。Amid emotional turmoil and collective ignorance, quietly build a mentally independent system for a gentle yet resolute breakout.
+excerpt: 在情绪混乱与集体愚昧的环境中，悄然构建心理独立系统，完成一场温柔而坚定的自我突围。Amid emotional turmoil and collective ignorance, quietly build a mentally independent system for a gentle yet resolute breakout.
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

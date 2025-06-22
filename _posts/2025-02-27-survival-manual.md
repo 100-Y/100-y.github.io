@@ -2,7 +2,7 @@
 layout: post
 title: 乱世生存五法则：如何在风暴中保持自我
 date: 2025-02-27
-title: 在这个善恶模糊、规则颠倒的时代，如何活下去又不迷失？本手册提供五大策略，助你在乱世中保存灵魂。In an era where rules blur and morality fades, how do you survive without losing yourself? This manual offers five strategies to keep your soul intact in chaos.
+excerpt: 在这个善恶模糊、规则颠倒的时代，如何活下去又不迷失？本手册提供五大策略，助你在乱世中保存灵魂。In an era where rules blur and morality fades, how do you survive without losing yourself? This manual offers five strategies to keep your soul intact in chaos.
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

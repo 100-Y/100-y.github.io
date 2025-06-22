@@ -2,7 +2,7 @@
 layout: post
 title: 信任的单向流动：制度化服从与觉醒的隐喻
 date: 2025-03-06
-title: 一条只能前行的通道，象征信任的单向灌注；本文揭示制度化信任如何掩盖个体的声音，并提出“从自我开始”的逆流可能。A one-way passage symbolizes trust flowing top-down; this piece reveals how institutionalized trust silences individuals and proposes a reversal—starting with the self.
+excerpt: 一条只能前行的通道，象征信任的单向灌注；本文揭示制度化信任如何掩盖个体的声音，并提出“从自我开始”的逆流可能。A one-way passage symbolizes trust flowing top-down; this piece reveals how institutionalized trust silences individuals and proposes a reversal—starting with the self.
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

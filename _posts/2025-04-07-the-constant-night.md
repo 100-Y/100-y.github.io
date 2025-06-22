@@ -2,7 +2,7 @@
 layout: post
 title: 恒定的夜：数字剧本中的被演绎之人
 date: 2025-04-07
-title: 探索《恒定的夜》，一首揭示系统操控与个体命运之间张力的诗歌，在算法时代的静默中，黑夜成为舞台上的主角。Explore The Constant Night, a poem unveiling the tension between system control and human fate, where silence reigns and night becomes the lead actor on a digitized stage.
+excerpt: 探索《恒定的夜》，一首揭示系统操控与个体命运之间张力的诗歌，在算法时代的静默中，黑夜成为舞台上的主角。Explore The Constant Night, a poem unveiling the tension between system control and human fate, where silence reigns and night becomes the lead actor on a digitized stage.
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/
