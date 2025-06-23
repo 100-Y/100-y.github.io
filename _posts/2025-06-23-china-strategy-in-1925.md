@@ -10,7 +10,7 @@ tags: strategy china
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/hina-strategy-in-1925.webp" style="width:100%;" alt="hina-strategy-in-1925">
 
 假使你身处 **<mark>1925年的中国</mark>**，<u>拥有更强大的境外支持——包括资金、技术与国际影响力</u>——那么确实有可能比**<mark>国民党与共产党</mark>**做得更好，但关键在于你是否能以超越时代局限的视野与执行力推进统一、发展与社会整合。
 
