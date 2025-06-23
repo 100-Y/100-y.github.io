@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/privacy/";
           },
-        },{id: "post-html-标签-markdown-语法-在-vs-code-中结合使用的实战指南",
+        },{id: "post-1925年的中国战略-china-strategy-in-1925",
+        
+          title: "1925年的中国战略 / China Strategy in 1925",
+        
+        description: "拥有更强境外支持的你，能否在1925年中国重构统一与现代化？从教育、外交、治理到经济，设想一套超越历史局限的战略。With stronger external support, could you reshape unification and modernization in China in 1925? From education and diplomacy to governance and the economy, this is a strategy that seeks to transcend the historical constraints of the time.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-23/china-strategy-in-1925/";
+          
+        },
+      },{id: "post-html-标签-markdown-语法-在-vs-code-中结合使用的实战指南",
         
           title: "HTML 标签 + Markdown 语法：在 VS Code 中结合使用的实战指南",
         
@@ -147,9 +158,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-06-15/build-blog-with-jekyll-orbstack/";
           
         },
-      },{id: "post-被托管的世界-the-managed-world",
+      },{id: "post-被托管的世界-猪的乌托邦-the-managed-world-pig-39-s-utopia",
         
-          title: "被托管的世界 / The Managed World",
+          title: "被托管的世界，猪的乌托邦 / The Managed World, Pig&#39;s Utopia",
         
         description: "逃出屠宰场的猪建起乌托邦，却在幸福托管中陷入新围栏。这是结构性的问题。Pigs escaped slaughterhouse to build a utopia—only to find new fences in the name of protection. This is about structure.",
         section: "Posts",
