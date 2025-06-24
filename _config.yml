@@ -12,13 +12,13 @@ middle_name:
 last_name:
 future: true
 contact_note: >
-  #替换为@，以发送您的电子邮件 / # to @, to send your email
+  #替换为@，以发送您的电子邮件。# to @, to send your email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  以「36525 天」为象征，这是某人用一生在写的一本书 / Symbolizing 36,525 days — a book someone writes across a lifetime
+  以「36525 天」为象征，这是某人用一生在写的一本书。Symbolizing 36,525 days — a book someone writes across a lifetime.
 footer_text: >
 
-keywords: 个人时间容器, 精神栖息地, 梦的档案馆, 诗意日常, 自由写作, 思考的片段 / Personal Time Capsule, Mental Sanctuary, Dream Archive, Poetic Everyday, Free Writing, Fragments of Thought
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+keywords: 个人时间容器, 精神栖息地, 梦的档案馆, 诗意日常, 自由写作, 思考的片段。 Personal Time Capsule, Mental Sanctuary, Dream Archive, Poetic Everyday, Free Writing, Fragments of Thought.
+icon: logo.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://36525.day # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
