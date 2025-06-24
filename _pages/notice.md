@@ -32,8 +32,8 @@ Users are **<mark>advised to independently verify all information, exercise disc
 
 ---
 
-**<mark>署名—非商业性使用—禁止演绎</mark>** 4.0 协议国际版：本网站的所有内容，包括但不限于文本、图片、图形和代码，除非另有说明，均为网站所有者的知识产权。未经授权，禁止复制或再分发。您可以引用或引用内容，但需注明出处并附上指向本网站的**<a href='/'>链接</a>**。
+**<mark>署名—非商业性使用—禁止演绎</mark>** 4.0 协议国际版：<u>本网站的所有内容，包括但不限于文字、图像、音频、视频</u>，除非另有说明，均为网站所有者的知识产权。未经授权，禁止复制或再分发。您可以引用或引用内容，但需注明出处并附上指向本网站的**<a href='/'>链接</a>**。
 
 ---
 
-**<mark>CC BY-NC-ND</mark>** 4.0: All content on this website, including but not limited to text, images, graphics, and code, is the intellectual property of the website owner unless otherwise stated. Unauthorized reproduction or redistribution is prohibited. You may quote or reference content with proper attribution and a **<a href='/'>Link</a>** back to this site.
+**<mark>CC BY-NC-ND</mark>** 4.0: <u>All content on this website, including but not limited to text, images, audio, video</u>, is the intellectual property of the website owner unless otherwise stated. Unauthorized reproduction or redistribution is prohibited. You may quote or reference content with proper attribution and a **<a href='/'>Link</a>** back to this site.
