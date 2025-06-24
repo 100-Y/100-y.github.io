@@ -173,7 +173,7 @@ ninja.data = [{
         
           title: "安全的定义权：信任结构之争",
         
-        description: "",
+        description: "Citizen揭示安全并非技术产物，而是信任结构中的制度投射与参与权力之争。Citizen reveals that safety is not technological outcome, but projection of institutional trust and right to define danger.",
         section: "Posts",
         handler: () => {
           
@@ -206,7 +206,7 @@ ninja.data = [{
         
           title: "洒米驱赶邪祟的隔房幺娘",
         
-        description: "",
+        description: "在面对危机时，洒米驱邪是一种带有安慰性质的传统行为，它揭示了民间信仰在人类情感应对机制中的价值。Scattering rice during crisis is a comforting traditional act, revealing the value of folk beliefs in human emotional coping.",
         section: "Posts",
         handler: () => {
           
@@ -217,7 +217,7 @@ ninja.data = [{
         
           title: "换气过度综合征处理指南",
         
-        description: "",
+        description: "从心理疏导到急性应对，掌握换气过度综合征的标准处理路径。A clear treatment approach for hyperventilation syndrome—from psychological relief to acute-phase rebreathing techniques.",
         section: "Posts",
         handler: () => {
           
@@ -228,7 +228,7 @@ ninja.data = [{
         
           title: "隐秘突围：在集体愚昧中构建心理独立的认知系统",
         
-        description: "",
+        description: "在情绪混乱与集体愚昧的环境中，悄然构建心理独立系统，完成一场温柔而坚定的自我突围。Amid emotional turmoil and collective ignorance, quietly build a mentally independent system for a gentle yet resolute breakout.",
         section: "Posts",
         handler: () => {
           
@@ -239,7 +239,7 @@ ninja.data = [{
         
           title: "要做勤快的懒人",
         
-        description: "",
+        description: "懒≠低效，勤快≠聪明。本篇文章带你识别四种行动模型，理解如何选择适合自己的“效率路径”。Laziness doesn’t mean inefficiency, and diligence isn’t always smart. This article helps you identify four action models and choose your personal path to efficiency.",
         section: "Posts",
         handler: () => {
           
@@ -250,7 +250,7 @@ ninja.data = [{
         
           title: "ChatGPT中国用户估算：免费与付费结构",
         
-        description: "",
+        description: "2025年4月中国大陆约有1000万活跃用户与100万付费用户，折射VPN与支付结构下的真实使用图景。As of April 2025, around 10 million active and 1 million paid users in China reflect real usage under VPN and payment constraints.",
         section: "Posts",
         handler: () => {
           
@@ -261,7 +261,7 @@ ninja.data = [{
         
           title: "真正的爱，是在慌乱中稳住船",
         
-        description: "",
+        description: "真正的爱，不是陪同献祭，而是在慌乱中按下暂停键，拒绝让恐惧替代判断。True love is not rushing into sacrifice, but pausing in chaos to resist fear-based decisions.",
         section: "Posts",
         handler: () => {
           
@@ -272,7 +272,7 @@ ninja.data = [{
         
           title: "契合度的探讨",
         
-        description: "",
+        description: "契合不是同频，而是在差异中仍能共振的能力，是一种持续生成的关系。Compatibility is not sameness but the capacity to resonate through difference—a dynamic, ongoing relation.",
         section: "Posts",
         handler: () => {
           
@@ -283,7 +283,7 @@ ninja.data = [{
         
           title: "无知的协奏曲：化疗如何悄然毁灭一个生命",
         
-        description: "",
+        description: "无知不是知识缺失，而是系统性合谋；它令化疗在终末期悄然加速崩塌。Ignorance is not lack of knowledge, but systemic collusion; It lets chemotherapy quietly dismantle life at the end.",
         section: "Posts",
         handler: () => {
           
@@ -294,7 +294,7 @@ ninja.data = [{
         
           title: "药神中的洛基：吞咽之死的技术暴力",
         
-        description: "",
+        description: "当药物剥夺进食能力，生的尊严悄然被抽空——这不是拯救，而是无声的谋杀。When medicine deprives one of the ability to eat, dignity of life is quietly hollowed out—this is not salvation, but a silent murder.",
         section: "Posts",
         handler: () => {
           
@@ -305,7 +305,7 @@ ninja.data = [{
         
           title: "喇叭的方向：媒介放大与表达异化的隐喻分析",
         
-        description: "",
+        description: "文章通过喇叭与隧道的隐喻，揭示表达在媒介放大下的异化过程，反思现代语言如何被技术剥离主观性，沦为机制化的虚响。The article, through the metaphors of the megaphone and tunnel, reveals how expression is alienated under media amplification, reflecting on the loss of subjectivity in modern language as it becomes a mechanized echo.",
         section: "Posts",
         handler: () => {
           
@@ -316,7 +316,7 @@ ninja.data = [{
         
           title: "代谢的权利：当系统拒绝腐烂，骨灰终将埋葬一切",
         
-        description: "",
+        description: "一篇以“代谢”为象征的深度社会批评文章，揭示系统拒绝腐烂所引发的慢性崩坏。骨灰终将掩埋的，不只是制度本身，还有我们逃避的改变。A profound societal critique using &quot;metabolism&quot; as metaphor, exposing how the refusal to decay leads to systemic stagnation. The ashes will bury not just the system, but the change we feared to face.",
         section: "Posts",
         handler: () => {
           
@@ -327,7 +327,7 @@ ninja.data = [{
         
           title: "跨境出入金路径对比：加密货币 + Fiat24 + Wise",
         
-        description: "",
+        description: "本文分析了多种跨境资金出入路径的成本与风险，指出通过加密货币、Fiat24 和 Wise 组合的路径在降低费用和提高安全性方面表现最佳。​This article analyzes various cross-border fund transfer routes, highlighting that the combination of cryptocurrency, Fiat24, and Wise offers the lowest costs and highest security.",
         section: "Posts",
         handler: () => {
           
@@ -338,7 +338,7 @@ ninja.data = [{
         
           title: "再见，可以安静一点：一首关于温柔归还与内心和解的诗",
         
-        description: "",
+        description: "一首关于归还与放下的诗，以宁静的语言讲述在黄昏中悄然告别的方式，唤起对内在和平的共鸣。A poem about returning and letting go, told in serene language, evoking a gentle farewell whispered at dusk and resonating with inner peace.",
         section: "Posts",
         handler: () => {
           
@@ -349,7 +349,7 @@ ninja.data = [{
         
           title: "匿名者的渡口：一场关于“存在”与“身份”的诗性摆渡",
         
-        description: "",
+        description: "《匿名者的渡口》是一首探索“存在”与“身份”边界的哲学诗篇，在时间的皱褶中展开一场不被定义的摆渡。&quot;Anonymous’s Ferry&quot; is a philosophical poem exploring the boundaries of identity and existence, navigating a formless journey through the folds of time.",
         section: "Posts",
         handler: () => {
           
@@ -360,7 +360,7 @@ ninja.data = [{
         
           title: "危机中的自我误伤：命如何被悄然抵押",
         
-        description: "",
+        description: "反思危机中的自救误区：当防御成为倒钩，命运悄然被抵押，揭示结构性反伤机制。A reflection on how crisis responses turn into barbed defenses, silently pledging life and exposing the paradox of self-harm within self-preservation.",
         section: "Posts",
         handler: () => {
           
@@ -371,7 +371,7 @@ ninja.data = [{
         
           title: "恒定的夜：数字剧本中的被演绎之人",
         
-        description: "",
+        description: "探索《恒定的夜》，一首揭示系统操控与个体命运之间张力的诗歌，在算法时代的静默中，黑夜成为舞台上的主角。Explore The Constant Night, a poem unveiling the tension between system control and human fate, where silence reigns and night becomes the lead actor on a digitized stage.",
         section: "Posts",
         handler: () => {
           
@@ -393,7 +393,7 @@ ninja.data = [{
         
           title: "无味之作：你是在生活，还是在执行程序？",
         
-        description: "",
+        description: "很多人如同无魂做菜般地生活，仅为完成任务却失去热情与自我。Many live like they cook without soul—just completing tasks, losing passion and identity along the way.",
         section: "Posts",
         handler: () => {
           
@@ -437,7 +437,7 @@ ninja.data = [{
         
           title: "裂缝里的回声：那些未说出口的理想之声",
         
-        description: "",
+        description: "裂缝中的低语也能震响历史。在静默中传承理想，这是一段属于众人的无声史诗。Whispers in the cracks can still shake history. This is a silent epic of ideals passed on by the voices of the many.",
         section: "Posts",
         handler: () => {
           
@@ -613,7 +613,7 @@ ninja.data = [{
         
           title: "信任的单向流动：制度化服从与觉醒的隐喻",
         
-        description: "",
+        description: "一条只能前行的通道，象征信任的单向灌注；本文揭示制度化信任如何掩盖个体的声音，并提出“从自我开始”的逆流可能。A one-way passage symbolizes trust flowing top-down; this piece reveals how institutionalized trust silences individuals and proposes a reversal—starting with the self.",
         section: "Posts",
         handler: () => {
           
@@ -723,7 +723,7 @@ ninja.data = [{
         
           title: "乱世生存五法则：如何在风暴中保持自我",
         
-        description: "",
+        description: "在这个善恶模糊、规则颠倒的时代，如何活下去又不迷失？本手册提供五大策略，助你在乱世中保存灵魂。In an era where rules blur and morality fades, how do you survive without losing yourself? This manual offers five strategies to keep your soul intact in chaos.",
         section: "Posts",
         handler: () => {
           
@@ -866,7 +866,7 @@ ninja.data = [{
         
           title: "光的楔子——Wedges of Light",
         
-        description: "",
+        description: "本文借“节日”之名，反思人类赋予时间意义的方式，以诗性语言揭示：真正属于我们的，是那些未被标记却悄然流逝的瞬间。Framed by the concept of “festivals,” this piece reflects on how humans seek to give meaning to time—ultimately revealing, in poetic language, that what truly belongs to us are the unmarked, silently passing moments.",
         section: "Posts",
         handler: () => {
           
@@ -1482,7 +1482,7 @@ ninja.data = [{
         
           title: "增肌减脂终极指南：系统饮食+训练计划",
         
-        description: "",
+        description: "增肌减脂训练手册，涵盖科学饮食、系统训练与营养补充，助你高效实现健身目标。A complete muscle gain and fat loss manual with smart meal planning, structured workouts, and key nutrition tips for efficient fitness results.",
         section: "Posts",
         handler: () => {
           
@@ -3154,7 +3154,7 @@ ninja.data = [{
         
           title: "前言、序",
         
-        description: "",
+        description: "解读《汉阳舟子集》中的“命叙”序文，揭示香山菩萨设教传说、飞鸾扶乩的民间信仰结构与“清觉”意识之象征意义。An interpretive overview of the &quot;Ming Xu&quot; prefaces in The Hanyang Boatman’s Anthology, revealing the Xiangshan Bodhisattva myth, Daoist spirit-writing practices, and the symbolic call to awakening.",
         section: "Posts",
         handler: () => {
           
@@ -3165,7 +3165,7 @@ ninja.data = [{
         
           title: "乩学初知",
         
-        description: "",
+        description: "探索《汉阳舟子集》乩学入门篇，从天地人三才到祖炁纯阳，揭示扶乩为感通机制的奥义，并展现其为修性养神之捷径。Discover the foundation of spirit-writing practice in The Hanyang Boatman’s Anthology, where Heaven-Earth-Man triads and primal qi form the basis of spiritual communication and self-cultivation.",
         section: "Posts",
         handler: () => {
           
@@ -3363,7 +3363,7 @@ ninja.data = [{
         
           title: "孤山处士述梦",
         
-        description: "",
+        description: "在《汉阳舟子集》中，一位孤山隐士于梦中聆听古人讲道，揭示因果、君子与小人的伦理差别，以及儒释道三教思想的诗性融合。In The Hanyang Boatman’s Anthology, a hermit dreams of sages debating virtue and karma, unveiling a poetic fusion of Confucian, Taoist, and Buddhist ethics through allegorical dream vision.",
         section: "Posts",
         handler: () => {
           
