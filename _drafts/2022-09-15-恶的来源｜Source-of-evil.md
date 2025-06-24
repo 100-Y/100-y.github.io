@@ -2,7 +2,6 @@
 layout: post
 title: 恶的来源｜Source of evil
 date: 2022-09-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

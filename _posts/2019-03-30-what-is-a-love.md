@@ -2,7 +2,6 @@
 layout: post
 title: 爱是什么——What is a Love
 date: 2019-03-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

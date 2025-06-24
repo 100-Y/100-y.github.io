@@ -2,7 +2,6 @@
 layout: post
 title: 秋夜云雨——Clouds and Rains in Autumn Night
 date: 2015-09-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

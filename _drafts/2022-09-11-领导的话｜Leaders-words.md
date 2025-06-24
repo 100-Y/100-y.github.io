@@ -2,7 +2,6 @@
 layout: post
 title: 领导的话｜Leader’s words
 date: 2022-09-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

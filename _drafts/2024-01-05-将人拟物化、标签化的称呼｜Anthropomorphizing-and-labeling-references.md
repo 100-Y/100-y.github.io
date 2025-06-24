@@ -2,7 +2,6 @@
 layout: post
 title: 将人拟物化、标签化的称呼｜Anthropomorphizing and labeling references
 date: 2024-01-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

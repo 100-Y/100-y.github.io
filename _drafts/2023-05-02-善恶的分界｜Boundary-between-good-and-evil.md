@@ -2,7 +2,6 @@
 layout: post
 title: 善恶的分界｜Boundary between good and evil
 date: 2023-05-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 善意象征的王座——Throne of Benevolent Symbols
 date: 2024-11-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

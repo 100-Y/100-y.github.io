@@ -2,7 +2,6 @@
 layout: post
 title: 布达拉宫——The Potala Palace
 date: 2015-01-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

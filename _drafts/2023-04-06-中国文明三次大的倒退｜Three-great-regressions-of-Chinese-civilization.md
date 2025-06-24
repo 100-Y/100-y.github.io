@@ -2,7 +2,6 @@
 layout: post
 title: 中国文明三次大的倒退｜Three great regressions of Chinese civilization
 date: 2023-04-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

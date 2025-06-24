@@ -2,7 +2,6 @@
 layout: post
 title: 意识和罪——Consciousness and Guilty
 date: 2022-04-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

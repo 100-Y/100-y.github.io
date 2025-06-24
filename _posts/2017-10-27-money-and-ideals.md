@@ -2,7 +2,6 @@
 layout: post
 title: 钱和理想——Money and Ideals
 date: 2017-10-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

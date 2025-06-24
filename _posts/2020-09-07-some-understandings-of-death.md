@@ -2,7 +2,6 @@
 layout: post
 title: 死亡的一些理解——Some Understandings of Death
 date: 2020-09-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

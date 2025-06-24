@@ -2,7 +2,6 @@
 layout: post
 title: 暂别白雀寺——Temporary Farewell to Baique Temple
 date: 2016-03-01
-excerpt:
 description:
 reader_suggested_tags:
   - '["Travel","Taiwan","Hiking","Taipei","Asia"]'

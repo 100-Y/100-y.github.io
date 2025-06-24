@@ -2,7 +2,6 @@
 layout: post
 title: 羊皮古书——The Ancient Parchment
 date: 2011-01-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

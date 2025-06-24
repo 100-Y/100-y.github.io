@@ -2,7 +2,6 @@
 layout: post
 title: 经济衰弱之下的一个调整：软着陆的利益平衡与硬着陆的社会期待｜soft-landing-and-hard-landing
 date: 2024-05-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

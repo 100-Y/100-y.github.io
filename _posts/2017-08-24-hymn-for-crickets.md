@@ -2,7 +2,6 @@
 layout: post
 title: 给蟋蟀们的赞歌——Hymn for Crickets
 date: 2017-08-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

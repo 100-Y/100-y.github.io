@@ -2,7 +2,6 @@
 layout: post
 title: 东升的太阳｜Rising sun
 date: 2023-07-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

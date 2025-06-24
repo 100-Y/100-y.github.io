@@ -2,7 +2,6 @@
 layout: post
 title: 不当人的后果｜Consequences of not being a human
 date: 2023-09-16
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

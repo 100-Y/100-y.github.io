@@ -2,7 +2,6 @@
 layout: post
 title: 甘肃西和白雀寺，僧人的一天——A Day of a Monk at Baique Temple, Xihe, Gansu
 date: 2016-04-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

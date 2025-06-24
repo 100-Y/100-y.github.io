@@ -2,7 +2,6 @@
 layout: post
 title: 自由的奴隶｜A free slave
 date: 2023-05-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

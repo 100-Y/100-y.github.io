@@ -2,7 +2,6 @@
 layout: post
 title: 发消息｜Send a message
 date: 2023-08-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

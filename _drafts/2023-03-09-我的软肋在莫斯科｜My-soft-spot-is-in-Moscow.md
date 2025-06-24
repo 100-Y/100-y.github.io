@@ -2,7 +2,6 @@
 layout: post
 title: 我的软肋在莫斯科｜My soft spot is in Moscow
 date: 2023-03-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

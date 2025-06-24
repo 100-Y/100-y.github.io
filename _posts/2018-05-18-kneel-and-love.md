@@ -2,7 +2,6 @@
 layout: post
 title: 下跪与爱情——Kneel and Love
 date: 2018-05-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

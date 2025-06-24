@@ -2,7 +2,6 @@
 layout: post
 title: 风、雨——The Wind, The Rain
 date: 2015-02-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

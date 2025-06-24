@@ -2,7 +2,6 @@
 layout: post
 title: 地图的一些讲解——Explanations of the Map
 date: 2018-08-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

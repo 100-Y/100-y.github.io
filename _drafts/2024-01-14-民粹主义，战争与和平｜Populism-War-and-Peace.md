@@ -2,7 +2,6 @@
 layout: post
 title: 民粹主义，战争与和平｜Populism, War and Peace
 date: 2024-01-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

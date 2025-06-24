@@ -2,7 +2,6 @@
 layout: post
 title: 人民之词——The Word People
 date: 2024-11-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

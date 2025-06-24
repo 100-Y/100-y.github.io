@@ -2,7 +2,6 @@
 layout: post
 title: 荒诞小小说：永生｜Absurd little novel: Eternal life
 date: 2022-10-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

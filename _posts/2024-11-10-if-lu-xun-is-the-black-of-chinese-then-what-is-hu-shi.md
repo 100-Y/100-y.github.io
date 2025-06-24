@@ -2,7 +2,6 @@
 layout: post
 title: 如果说鲁迅是“支黑”，那么胡适又是“什么”？——If Lu Xun is the Black of Chinese, Then What is Hu Shi?
 date: 2024-11-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

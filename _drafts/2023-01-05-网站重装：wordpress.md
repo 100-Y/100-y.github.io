@@ -2,7 +2,6 @@
 layout: post
 title: 网站重装：wordpress
 date: 2023-01-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

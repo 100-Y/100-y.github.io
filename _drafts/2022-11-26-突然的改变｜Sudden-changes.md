@@ -2,7 +2,6 @@
 layout: post
 title: 突然的改变｜Sudden changes
 date: 2022-11-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

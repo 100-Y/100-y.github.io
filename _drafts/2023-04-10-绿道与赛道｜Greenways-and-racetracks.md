@@ -2,7 +2,6 @@
 layout: post
 title: 绿道与赛道｜Greenways and racetracks
 date: 2023-04-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

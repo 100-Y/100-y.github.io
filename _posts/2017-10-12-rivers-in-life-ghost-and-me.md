@@ -2,7 +2,6 @@
 layout: post
 title: 生命中的河流，女鬼与我——Rivers in Life, Ghost and Me
 date: 2017-10-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 微凉的风——Cool Winds
 date: 2011-08-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

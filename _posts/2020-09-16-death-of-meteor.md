@@ -2,7 +2,6 @@
 layout: post
 title: 流星的死亡——Death of Meteor
 date: 2020-09-16
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

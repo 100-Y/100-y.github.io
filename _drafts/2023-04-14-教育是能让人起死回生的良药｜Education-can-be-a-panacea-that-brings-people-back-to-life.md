@@ -2,7 +2,6 @@
 layout: post
 title: 教育是能让人起死回生的良药｜Education can be a panacea that brings people back to life
 date: 2023-04-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

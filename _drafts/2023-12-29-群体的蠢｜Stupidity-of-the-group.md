@@ -2,7 +2,6 @@
 layout: post
 title: 群体的蠢｜Stupidity of the group
 date: 2023-12-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

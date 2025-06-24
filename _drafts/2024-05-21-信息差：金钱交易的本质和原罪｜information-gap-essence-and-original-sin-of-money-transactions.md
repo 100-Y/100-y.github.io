@@ -2,7 +2,6 @@
 layout: post
 title: 信息差：金钱交易的本质和原罪｜information-gap-essence-and-original-sin-of-money-transactions
 date: 2024-05-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

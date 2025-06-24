@@ -2,7 +2,6 @@
 layout: post
 title: 三个什么——Three It is
 date: 2022-03-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

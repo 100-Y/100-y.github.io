@@ -2,7 +2,6 @@
 layout: post
 title: 中国左派和右派｜China leftists and rightists
 date: 2023-09-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

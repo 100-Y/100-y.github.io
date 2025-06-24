@@ -2,7 +2,6 @@
 layout: post
 title: 未即当下——Future is Now
 date: 2020-06-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

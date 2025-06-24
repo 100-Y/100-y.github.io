@@ -2,7 +2,6 @@
 layout: post
 title: 联合狗线｜United dog line
 date: 2023-01-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

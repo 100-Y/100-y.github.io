@@ -2,7 +2,6 @@
 layout: post
 title: 末句——The Final Sentence
 date: 2024-11-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 希望之所｜Places of hope
 date: 2023-09-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

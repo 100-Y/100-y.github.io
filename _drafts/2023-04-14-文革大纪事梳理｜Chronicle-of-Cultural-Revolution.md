@@ -2,7 +2,6 @@
 layout: post
 title: 文革大纪事梳理｜Chronicle of Cultural Revolution
 date: 2023-04-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

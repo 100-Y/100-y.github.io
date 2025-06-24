@@ -2,7 +2,6 @@
 layout: post
 title: 谈兴亡｜On rise and fall
 date: 2022-07-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

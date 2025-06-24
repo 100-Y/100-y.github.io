@@ -2,7 +2,6 @@
 layout: post
 title: 如何自定义ChatGPT——How to Customize Chatgpt
 date: 2024-11-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

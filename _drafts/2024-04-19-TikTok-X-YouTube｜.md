@@ -2,7 +2,6 @@
 layout: post
 title: TikTok X YouTube｜
 date: 2024-04-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

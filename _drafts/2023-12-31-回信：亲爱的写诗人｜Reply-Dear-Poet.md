@@ -2,7 +2,6 @@
 layout: post
 title: 回信：亲爱的写诗人｜Reply: Dear Poet
 date: 2023-12-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

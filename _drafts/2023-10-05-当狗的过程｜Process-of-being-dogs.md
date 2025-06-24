@@ -2,7 +2,6 @@
 layout: post
 title: 当狗的过程｜Process of being dogs
 date: 2023-10-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

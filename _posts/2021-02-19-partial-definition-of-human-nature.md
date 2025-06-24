@@ -2,7 +2,6 @@
 layout: post
 title: 人性以偏概全的定义｜Partial Definition of Human Nature
 date: 2021-02-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

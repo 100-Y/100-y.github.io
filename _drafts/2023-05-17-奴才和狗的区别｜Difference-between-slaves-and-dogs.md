@@ -2,7 +2,6 @@
 layout: post
 title: 奴才和狗的区别｜Difference between slaves and dogs
 date: 2023-05-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

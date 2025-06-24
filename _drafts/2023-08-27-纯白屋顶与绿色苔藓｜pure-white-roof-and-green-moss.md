@@ -2,7 +2,6 @@
 layout: post
 title: 纯白屋顶与绿色苔藓｜pure-white-roof-and-green-moss
 date: 2023-08-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

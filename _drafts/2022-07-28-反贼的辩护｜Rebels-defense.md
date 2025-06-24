@@ -2,7 +2,6 @@
 layout: post
 title: 反贼的辩护｜Rebel’s defense
 date: 2022-07-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

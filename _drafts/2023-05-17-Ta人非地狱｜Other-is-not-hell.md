@@ -2,7 +2,6 @@
 layout: post
 title: Ta人非地狱｜Other is not hell
 date: 2023-05-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

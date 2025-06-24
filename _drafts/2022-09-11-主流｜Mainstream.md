@@ -2,7 +2,6 @@
 layout: post
 title: 主流｜Mainstream
 date: 2022-09-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

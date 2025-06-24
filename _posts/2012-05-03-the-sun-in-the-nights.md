@@ -2,7 +2,6 @@
 layout: post
 title: 黑夜里的太阳——The Sun in the Nights
 date: 2012-05-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

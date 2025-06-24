@@ -2,7 +2,6 @@
 layout: post
 title: 当淫贼学会了写诗｜When an obscene thief learns to write poetry（18+）
 date: 2022-09-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

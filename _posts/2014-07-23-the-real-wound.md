@@ -2,7 +2,6 @@
 layout: post
 title: 真的伤口——The Real Wound
 date: 2014-07-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

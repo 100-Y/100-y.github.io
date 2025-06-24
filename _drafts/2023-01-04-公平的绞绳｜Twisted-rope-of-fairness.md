@@ -2,7 +2,6 @@
 layout: post
 title: 公平的绞绳｜Twisted rope of fairness
 date: 2023-01-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

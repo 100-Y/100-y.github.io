@@ -2,7 +2,6 @@
 layout: post
 title: 普京大帝与晋凉公｜Emperor Putin and Jin Liang Gong
 date: 2022-09-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

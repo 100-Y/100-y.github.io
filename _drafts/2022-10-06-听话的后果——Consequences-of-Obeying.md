@@ -2,7 +2,6 @@
 layout: post
 title: 听话的后果——Consequences of Obeying
 date: 2022-10-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

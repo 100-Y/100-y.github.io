@@ -2,7 +2,6 @@
 layout: post
 title: 吸引力的怪圈｜Vicious circle of attraction
 date: 2022-08-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

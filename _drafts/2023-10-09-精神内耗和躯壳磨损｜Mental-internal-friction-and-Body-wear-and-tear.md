@@ -2,7 +2,6 @@
 layout: post
 title: 精神内耗和躯壳磨损｜Mental internal friction and Body wear and tear
 date: 2023-10-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

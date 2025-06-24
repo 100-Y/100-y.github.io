@@ -2,7 +2,6 @@
 layout: post
 title: 人一旦失了心气｜Once a person loses their spirit
 date: 2024-02-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

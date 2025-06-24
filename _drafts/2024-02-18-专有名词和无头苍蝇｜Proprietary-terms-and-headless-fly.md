@@ -2,7 +2,6 @@
 layout: post
 title: 专有名词和无头苍蝇｜Proprietary terms and headless fly
 date: 2024-02-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

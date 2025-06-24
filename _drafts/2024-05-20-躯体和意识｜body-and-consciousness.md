@@ -2,7 +2,6 @@
 layout: post
 title: 躯体和意识｜body-and-consciousness
 date: 2024-05-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

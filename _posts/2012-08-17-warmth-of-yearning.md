@@ -2,7 +2,6 @@
 layout: post
 title: 思念的温度——Warmth of Yearning
 date: 2012-08-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

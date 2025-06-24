@@ -2,7 +2,6 @@
 layout: post
 title: 孤独的月亮——The Lonely Moon
 date: 2016-10-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

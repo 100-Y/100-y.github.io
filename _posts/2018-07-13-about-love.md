@@ -2,7 +2,6 @@
 layout: post
 title: 关于爱情——About Love
 date: 2018-07-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

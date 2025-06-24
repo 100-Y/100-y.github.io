@@ -2,7 +2,6 @@
 layout: post
 title: 谣言的悲哀｜Sorrow of rumors
 date: 2022-08-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

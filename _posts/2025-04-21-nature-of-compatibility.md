@@ -2,8 +2,7 @@
 layout: post
 title: 契合度的探讨
 date: 2025-04-21
-excerpt: 契合不是同频，而是在差异中仍能共振的能力，是一种持续生成的关系。Compatibility is not sameness but the capacity to resonate through difference—a dynamic, ongoing relation.
-description:
+description: 契合不是同频，而是在差异中仍能共振的能力，是一种持续生成的关系。Compatibility is not sameness but the capacity to resonate through difference—a dynamic, ongoing relation.
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/
 categories: Essays

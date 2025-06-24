@@ -2,7 +2,6 @@
 layout: post
 title: 现实世界我是一个哑巴——I’m a Mute in Real World
 date: 2017-08-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

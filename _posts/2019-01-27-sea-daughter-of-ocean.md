@@ -2,7 +2,6 @@
 layout: post
 title: 希雅，海神的女儿——Sea, Daughter of Ocean (4-)
 date: 2019-01-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 共产主义和资本主义的优缺点｜Pros and cons of Communism and Capitalism
 date: 2023-08-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

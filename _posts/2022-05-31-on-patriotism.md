@@ -2,7 +2,6 @@
 layout: post
 title: 谈爱国——On Patriotism
 date: 2022-05-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 天可汗与丐帮帮主｜Tian Khan and leader of the beggar gang
 date: 2023-05-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 露西、尼塞、我——Lucy, Nisai and Me
 date: 2016-01-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

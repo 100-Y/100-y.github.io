@@ -2,7 +2,6 @@
 layout: post
 title: 国王、马修之墓——King and Matthew&#8217;s Cemetery (3-100)
 date: 2017-09-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

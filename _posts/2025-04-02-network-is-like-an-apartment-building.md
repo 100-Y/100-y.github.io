@@ -2,7 +2,6 @@
 layout: post
 title: 网络就像一栋楼——Network Is Like an Apartment Building
 date: 2025-04-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

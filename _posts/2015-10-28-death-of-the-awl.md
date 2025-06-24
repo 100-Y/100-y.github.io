@@ -2,7 +2,6 @@
 layout: post
 title: 锥子之死——Death of the Awl
 date: 2015-10-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 夜晚的布达拉｜Potala at night
 date: 2023-03-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 无脑噱头营销｜Brainless gimmick marketing
 date: 2024-02-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

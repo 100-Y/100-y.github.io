@@ -2,7 +2,6 @@
 layout: post
 title: 工具与阶级：如何摆脱奴役｜Tools and class: how to break free from slavery
 date: 2023-06-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

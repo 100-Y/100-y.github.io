@@ -2,7 +2,6 @@
 layout: post
 title: 爱人与护己——Love Others and Protect Oneself
 date: 2018-12-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 初心——The Original Aspiration
 date: 2024-12-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 文革｜The Cultural Revolution
 date: 2023-02-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 特殊再融资债券｜Special refinancing bond
 date: 2023-09-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

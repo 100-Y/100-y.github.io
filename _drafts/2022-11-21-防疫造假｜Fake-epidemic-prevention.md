@@ -2,7 +2,6 @@
 layout: post
 title: 防疫造假｜Fake epidemic prevention
 date: 2022-11-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

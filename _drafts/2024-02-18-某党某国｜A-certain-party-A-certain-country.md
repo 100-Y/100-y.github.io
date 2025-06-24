@@ -2,7 +2,6 @@
 layout: post
 title: 某党某国｜A certain party A certain country
 date: 2024-02-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

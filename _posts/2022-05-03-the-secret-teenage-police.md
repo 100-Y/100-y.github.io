@@ -2,7 +2,6 @@
 layout: post
 title: 少年秘密警察——The Secret Teenage Police
 date: 2022-05-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: AI 内容生成与分发聚合系统
 date: 2025-03-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

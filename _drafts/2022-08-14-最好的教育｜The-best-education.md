@@ -2,7 +2,6 @@
 layout: post
 title: 最好的教育｜The best education
 date: 2022-08-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

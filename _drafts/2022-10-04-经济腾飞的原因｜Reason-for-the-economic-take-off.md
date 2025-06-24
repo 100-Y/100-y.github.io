@@ -2,7 +2,6 @@
 layout: post
 title: 经济腾飞的原因｜Reason for the economic take-off
 date: 2022-10-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

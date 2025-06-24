@@ -2,7 +2,6 @@
 layout: post
 title: 体能训练与营养补给：癌症干预的生活式可能
 date: 2025-03-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

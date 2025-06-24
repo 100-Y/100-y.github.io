@@ -2,7 +2,6 @@
 layout: post
 title: 最终结局——The Final End
 date: 2018-08-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

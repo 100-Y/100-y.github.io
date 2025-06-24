@@ -2,7 +2,6 @@
 layout: post
 title: 谁能被点名，谁须要供奉——Who Bears a Name, and Who Bears the Altar
 date: 2025-03-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 尹之力｜Power of Yin
 date: 2022-11-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

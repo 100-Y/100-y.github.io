@@ -2,7 +2,6 @@
 layout: post
 title: 疯狂的导火索——The Fuse of Madness
 date: 2024-11-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

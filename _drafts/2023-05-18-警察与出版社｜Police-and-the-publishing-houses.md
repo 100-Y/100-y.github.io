@@ -2,7 +2,6 @@
 layout: post
 title: 警察与出版社｜Police and the publishing houses
 date: 2023-05-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

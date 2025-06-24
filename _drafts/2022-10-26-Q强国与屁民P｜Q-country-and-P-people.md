@@ -2,7 +2,6 @@
 layout: post
 title: Q强国与屁民P｜Q country and P people
 date: 2022-10-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

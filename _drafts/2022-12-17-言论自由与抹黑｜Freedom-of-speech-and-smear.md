@@ -2,7 +2,6 @@
 layout: post
 title: 言论自由与抹黑｜Freedom of speech and smear
 date: 2022-12-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

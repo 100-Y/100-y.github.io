@@ -2,7 +2,6 @@
 layout: post
 title: 年轻人和韭菜｜Young and leek
 date: 2022-08-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 生活琐事——Trivialities of Life
 date: 2015-01-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 生活是什么——What is Life
 date: 2016-05-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

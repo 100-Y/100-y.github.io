@@ -2,7 +2,6 @@
 layout: post
 title: 它们，他们——They and Them
 date: 2015-10-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

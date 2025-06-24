@@ -2,7 +2,6 @@
 layout: post
 title: 前置过滤器、净水机｜Pre-filter, water purifier
 date: 2022-12-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 台湾地区民意分析｜Analysis of public opinion in Taiwan area
 date: 2024-01-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

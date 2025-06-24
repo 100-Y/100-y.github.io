@@ -2,7 +2,6 @@
 layout: post
 title: 知识差｜Knowledge gap
 date: 2023-07-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

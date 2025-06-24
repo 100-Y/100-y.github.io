@@ -2,7 +2,6 @@
 layout: post
 title: 夏夜——Summer Nights
 date: 2012-08-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

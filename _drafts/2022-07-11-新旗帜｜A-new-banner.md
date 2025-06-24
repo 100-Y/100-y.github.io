@@ -2,7 +2,6 @@
 layout: post
 title: 新旗帜｜A new banner
 date: 2022-07-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

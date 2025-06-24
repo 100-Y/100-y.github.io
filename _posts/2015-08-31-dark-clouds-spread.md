@@ -2,7 +2,6 @@
 layout: post
 title: 乌云漫布——Dark Clouds Spread
 date: 2015-08-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

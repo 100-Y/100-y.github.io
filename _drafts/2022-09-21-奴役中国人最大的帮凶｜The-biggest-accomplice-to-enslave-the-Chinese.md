@@ -2,7 +2,6 @@
 layout: post
 title: 奴役中国人最大的帮凶｜The biggest accomplice to enslave the Chinese
 date: 2022-09-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

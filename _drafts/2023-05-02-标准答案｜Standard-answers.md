@@ -2,7 +2,6 @@
 layout: post
 title: 标准答案｜Standard answers
 date: 2023-05-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

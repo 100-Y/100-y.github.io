@@ -2,7 +2,6 @@
 layout: post
 title: 大街——Big Street
 date: 2012-08-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

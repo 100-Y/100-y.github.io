@@ -2,7 +2,6 @@
 layout: post
 title: 一场混沌的舞台剧——A Chaotic Stage Play
 date: 2024-11-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

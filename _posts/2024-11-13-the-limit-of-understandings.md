@@ -2,7 +2,6 @@
 layout: post
 title: 理解的界限——The Limit of Understandings
 date: 2024-11-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

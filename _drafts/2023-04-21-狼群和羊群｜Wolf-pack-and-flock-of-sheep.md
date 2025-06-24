@@ -2,7 +2,6 @@
 layout: post
 title: 狼群和羊群｜Wolf pack and flock of sheep
 date: 2023-04-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

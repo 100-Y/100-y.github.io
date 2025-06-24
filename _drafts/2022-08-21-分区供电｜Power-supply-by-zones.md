@@ -2,7 +2,6 @@
 layout: post
 title: 分区供电｜Power supply by zones
 date: 2022-08-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 梦里，有人在祭祀魔鬼｜In a dream, someone was sacrificing devil
 date: 2022-08-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

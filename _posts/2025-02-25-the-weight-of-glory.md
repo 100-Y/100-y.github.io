@@ -2,7 +2,6 @@
 layout: post
 title: 荣耀的重量——The Weight of Glory
 date: 2025-02-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

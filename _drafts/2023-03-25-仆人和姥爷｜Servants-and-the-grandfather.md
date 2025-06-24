@@ -2,7 +2,6 @@
 layout: post
 title: 仆人和姥爷｜Servants and the grandfather
 date: 2023-03-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

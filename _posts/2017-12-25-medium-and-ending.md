@@ -2,7 +2,6 @@
 layout: post
 title: 相关介质、以及结局——Medium and Ending
 date: 2017-12-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 听话的奴隶｜Obedient slaves
 date: 2023-03-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

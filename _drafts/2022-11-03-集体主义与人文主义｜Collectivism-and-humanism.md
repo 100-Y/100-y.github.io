@@ -2,7 +2,6 @@
 layout: post
 title: 集体主义与人文主义｜Collectivism and humanism
 date: 2022-11-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

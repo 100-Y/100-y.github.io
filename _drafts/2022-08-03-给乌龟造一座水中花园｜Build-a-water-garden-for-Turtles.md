@@ -2,7 +2,6 @@
 layout: post
 title: 给乌龟造一座水中花园｜Build a water garden for Turtles
 date: 2022-08-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

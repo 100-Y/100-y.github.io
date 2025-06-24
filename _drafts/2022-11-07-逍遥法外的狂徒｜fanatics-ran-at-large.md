@@ -2,7 +2,6 @@
 layout: post
 title: 逍遥法外的狂徒｜fanatics-ran-at-large
 date: 2022-11-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

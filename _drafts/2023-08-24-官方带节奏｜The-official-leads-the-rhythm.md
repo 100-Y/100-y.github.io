@@ -2,7 +2,6 @@
 layout: post
 title: 官方带节奏｜The official leads the rhythm
 date: 2023-08-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

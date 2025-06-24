@@ -2,7 +2,6 @@
 layout: post
 title: 尸体——The Corpse
 date: 2015-12-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

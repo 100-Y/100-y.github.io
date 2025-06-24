@@ -2,7 +2,6 @@
 layout: post
 title: 正确的道路｜The right path
 date: 2023-10-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

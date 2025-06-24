@@ -2,7 +2,6 @@
 layout: post
 title: 群体社会——内耗与悲剧 / Group Society - Consumption and Tragedy
 date: 2022-06-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

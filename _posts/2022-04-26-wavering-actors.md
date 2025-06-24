@@ -2,7 +2,6 @@
 layout: post
 title: 摇摆的戏子——Wavering Actors
 date: 2022-04-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 同富裕和共沉沦——Rich and sinking together
 date: 2022-10-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

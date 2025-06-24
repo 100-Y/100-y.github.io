@@ -2,7 +2,6 @@
 layout: post
 title: 三观中价值观的测试｜Valueview test in Threeviews
 date: 2022-12-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

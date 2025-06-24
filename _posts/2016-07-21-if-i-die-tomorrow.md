@@ -2,7 +2,6 @@
 layout: post
 title: 如果明天我离开——If I Die Tomorrow
 date: 2016-07-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

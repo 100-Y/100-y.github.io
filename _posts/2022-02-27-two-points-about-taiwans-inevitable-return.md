@@ -2,7 +2,6 @@
 layout: post
 title: 台湾必然回归的两点说明——Two Points about Taiwan’s Inevitable Return
 date: 2022-02-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

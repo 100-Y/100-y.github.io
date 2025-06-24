@@ -2,7 +2,6 @@
 layout: post
 title: 修行人的生、死——Life and Death of People who Believe in Buddhism
 date: 2021-09-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

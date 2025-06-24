@@ -2,7 +2,6 @@
 layout: post
 title: 全流程指南：用 Jekyll + al-folio + GitHub + Orbstack 打造本地博客系统（macOS 专用）
 date: 2025-06-15
-excerpt: 教你如何用 Jekyll + al-folio 打造结构优雅、可自动部署、支持本地预览的博客系统，适用于 macOS 用户，结合 Orbstack、GitHub 与 VS Code 全流程优化。
 description: 教你如何用 Jekyll + al-folio 打造结构优雅、可自动部署、支持本地预览的博客系统，适用于 macOS 用户，结合 Orbstack、GitHub 与 VS Code 全流程优化。
 og_image: /assets/img/blog/build-blog-with-jekyll-orbstack.webp
 thumbnail: /assets/img/blog/build-blog-with-jekyll-orbstack.webp
@@ -144,7 +143,6 @@ YYYY-MM-DD-your-title.md
 layout: post
 title: 我的第一篇文章
 date: 2025-06-20
-excerpt: 这是文章摘要
 categories: [博客]
 tags: [jekyll, al-folio]
 ---

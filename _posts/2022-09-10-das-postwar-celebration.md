@@ -2,7 +2,6 @@
 layout: post
 title: 怛的战后庆典——Da&#8217;s Postwar Celebration (3-)
 date: 2022-09-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

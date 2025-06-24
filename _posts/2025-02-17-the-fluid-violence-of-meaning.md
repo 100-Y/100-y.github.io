@@ -2,7 +2,6 @@
 layout: post
 title: 流动中的意义暴力——The Fluid Violence of Meaning
 date: 2025-02-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

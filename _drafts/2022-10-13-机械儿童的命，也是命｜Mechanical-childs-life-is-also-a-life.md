@@ -2,7 +2,6 @@
 layout: post
 title: 机械儿童的命，也是命｜Mechanical child’s life, is also a life
 date: 2022-10-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

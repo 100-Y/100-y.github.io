@@ -2,7 +2,6 @@
 layout: post
 title: 锻炼身体和提高认知｜Exercising and improving cognition
 date: 2023-10-16
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

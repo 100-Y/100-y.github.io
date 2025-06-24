@@ -2,7 +2,6 @@
 layout: post
 title: 一个惊天地泣鬼神的梦——A Dream Shocking Sky and Earth, Weeping Ghosts and Gods
 date: 2022-01-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

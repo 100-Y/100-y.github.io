@@ -2,7 +2,6 @@
 layout: post
 title: 新的红宝书｜The new Red Book
 date: 2022-08-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

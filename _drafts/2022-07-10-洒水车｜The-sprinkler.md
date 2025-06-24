@@ -2,7 +2,6 @@
 layout: post
 title: 洒水车｜The sprinkler
 date: 2022-07-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 人物关系——城墙内的居民 / Characters Relationship - Residents inside the Wall
 date: 2017-12-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

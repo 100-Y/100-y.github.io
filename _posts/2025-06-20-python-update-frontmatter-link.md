@@ -2,7 +2,6 @@
 layout: post
 title: 用 Python 脚本自动同步 Markdown 文章 Front Matter 的图片链接
 date: 2025-06-20
-excerpt: 通过 Python 脚本批量更新 博客 Front Matter 中的图片字段，实现文章与图片文件名自动匹配，提升维护效率。
 description: 通过 Python 脚本批量更新 博客 Front Matter 中的图片字段，实现文章与图片文件名自动匹配，提升维护效率。
 og_image: /assets/img/blog/python-update-frontmatter-link.webp
 thumbnail: /assets/img/blog/python-update-frontmatter-link.webp

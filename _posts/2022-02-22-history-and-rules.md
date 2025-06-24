@@ -2,7 +2,6 @@
 layout: post
 title: 历史和规则——History and Rules
 date: 2022-02-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

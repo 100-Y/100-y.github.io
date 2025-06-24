@@ -2,7 +2,6 @@
 layout: post
 title: 与其、不如——Instead and it is Better
 date: 2015-01-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

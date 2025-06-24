@@ -2,7 +2,6 @@
 layout: post
 title: 权力擦边的过程——The Edge-Walking of Power
 date: 2024-12-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

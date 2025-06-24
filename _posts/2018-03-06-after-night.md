@@ -2,7 +2,6 @@
 layout: post
 title: 黑夜过后——After Night
 date: 2018-03-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

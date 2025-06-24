@@ -2,7 +2,6 @@
 layout: post
 title: 地方政府与墙头草｜Local governments and fence-sitters
 date: 2023-08-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

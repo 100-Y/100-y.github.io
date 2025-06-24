@@ -2,7 +2,6 @@
 layout: post
 title: 视听与表象——Audiovisual and Appearance
 date: 2011-01-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

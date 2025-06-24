@@ -2,7 +2,6 @@
 layout: post
 title: 于你无内的诗——Poem Without U
 date: 2018-07-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 党与宪法｜The party and the constitution
 date: 2023-08-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

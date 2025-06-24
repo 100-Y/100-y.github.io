@@ -2,7 +2,6 @@
 layout: post
 title: 夜半三更——Late at Night
 date: 2015-01-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 殊荣｜Special honor
 date: 2022-08-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

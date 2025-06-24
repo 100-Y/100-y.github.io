@@ -2,7 +2,6 @@
 layout: post
 title: 真爱｜the-true-love
 date: 2024-01-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

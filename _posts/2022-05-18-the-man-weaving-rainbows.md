@@ -2,7 +2,6 @@
 layout: post
 title: 编织彩虹的人——The man Weaving Rainbows
 date: 2022-05-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

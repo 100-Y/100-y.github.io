@@ -2,7 +2,6 @@
 layout: post
 title: 在岸上——On the Shore
 date: 2021-11-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

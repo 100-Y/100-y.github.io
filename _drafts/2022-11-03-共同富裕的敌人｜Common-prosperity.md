@@ -2,7 +2,6 @@
 layout: post
 title: 共同富裕的敌人｜Common prosperity
 date: 2022-11-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

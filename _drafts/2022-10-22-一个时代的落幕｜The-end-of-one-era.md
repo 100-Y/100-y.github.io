@@ -2,7 +2,6 @@
 layout: post
 title: 一个时代的落幕｜The end of one era
 date: 2022-10-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

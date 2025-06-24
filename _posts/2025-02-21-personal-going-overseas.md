@@ -2,7 +2,6 @@
 layout: post
 title: 个人出海——Personal Going Overseas
 date: 2025-02-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

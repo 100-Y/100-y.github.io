@@ -2,7 +2,6 @@
 layout: post
 title: 圣战分子与国家总统｜Holy warrior and national president
 date: 2023-08-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

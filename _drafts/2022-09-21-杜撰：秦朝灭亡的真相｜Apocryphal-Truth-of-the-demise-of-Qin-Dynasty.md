@@ -2,7 +2,6 @@
 layout: post
 title: 杜撰：秦朝灭亡的真相｜Apocryphal: Truth of the demise of Qin Dynasty
 date: 2022-09-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

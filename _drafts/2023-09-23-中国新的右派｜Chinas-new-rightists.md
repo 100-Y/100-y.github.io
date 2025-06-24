@@ -2,7 +2,6 @@
 layout: post
 title: 中国新的右派｜China’s new rightists
 date: 2023-09-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

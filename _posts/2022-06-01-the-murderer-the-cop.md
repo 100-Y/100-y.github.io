@@ -2,7 +2,6 @@
 layout: post
 title: 杀人犯、警察——The Murderer, The Police
 date: 2022-06-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

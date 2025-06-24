@@ -2,7 +2,6 @@
 layout: post
 title: 网络管控机器｜Network control machine
 date: 2022-10-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

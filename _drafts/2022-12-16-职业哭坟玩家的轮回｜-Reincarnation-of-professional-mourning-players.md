@@ -2,7 +2,6 @@
 layout: post
 title: 职业哭坟玩家的轮回｜ Reincarnation of professional mourning players
 date: 2022-12-16
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

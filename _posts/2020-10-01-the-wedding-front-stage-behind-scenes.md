@@ -2,7 +2,6 @@
 layout: post
 title: 台前幕后的婚礼——The Wedding Front Stage Behind Scenes
 date: 2020-10-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

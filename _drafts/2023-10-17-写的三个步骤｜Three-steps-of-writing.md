@@ -2,7 +2,6 @@
 layout: post
 title: 写的三个步骤｜Three steps of writing
 date: 2023-10-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

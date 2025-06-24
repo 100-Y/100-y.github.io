@@ -2,7 +2,6 @@
 layout: post
 title: 删句的，在编史——The One Who Deletes Is Writing History
 date: 2025-03-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

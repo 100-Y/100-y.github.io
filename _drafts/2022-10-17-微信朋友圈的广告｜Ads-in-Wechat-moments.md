@@ -2,7 +2,6 @@
 layout: post
 title: 微信朋友圈的广告｜Ads in Wechat moments
 date: 2022-10-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

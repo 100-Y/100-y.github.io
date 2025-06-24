@@ -2,7 +2,6 @@
 layout: post
 title: 实话和反语——Truth and Irony
 date: 2021-07-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

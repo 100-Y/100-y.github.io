@@ -2,7 +2,6 @@
 layout: post
 title: 嬴政与编氓｜Ying Zheng and the lowliest
 date: 2023-11-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 美好祖国的未来｜Future of the beautiful motherland
 date: 2022-07-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

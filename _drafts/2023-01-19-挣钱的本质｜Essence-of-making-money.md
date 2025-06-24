@@ -2,7 +2,6 @@
 layout: post
 title: 挣钱的本质｜Essence of making money
 date: 2023-01-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

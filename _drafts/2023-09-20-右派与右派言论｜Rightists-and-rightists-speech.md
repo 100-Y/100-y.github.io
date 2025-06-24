@@ -2,7 +2,6 @@
 layout: post
 title: 右派与右派言论｜Rightists and rightists speech
 date: 2023-09-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

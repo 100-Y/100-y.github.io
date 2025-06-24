@@ -2,7 +2,6 @@
 layout: post
 title: 韭菜的集体苏醒｜Collective awakening of the leeks
 date: 2024-01-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

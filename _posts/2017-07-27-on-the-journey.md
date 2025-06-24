@@ -2,7 +2,6 @@
 layout: post
 title: 征程开始——On the Journey (4-)
 date: 2017-07-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

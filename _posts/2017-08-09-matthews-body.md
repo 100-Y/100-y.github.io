@@ -2,7 +2,6 @@
 layout: post
 title: 马修的形体——Matthew&#8217;s Body (4-)
 date: 2017-08-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

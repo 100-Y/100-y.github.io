@@ -2,7 +2,6 @@
 layout: post
 title: 雪，小孩与老人｜Snow, children and old people
 date: 2024-01-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

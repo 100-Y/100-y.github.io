@@ -2,7 +2,6 @@
 layout: post
 title: 飞的是命——Flew away is Fate
 date: 2022-03-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

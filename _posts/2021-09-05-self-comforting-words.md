@@ -2,7 +2,6 @@
 layout: post
 title: 自我安慰的话语——Self Comforting Words
 date: 2021-09-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

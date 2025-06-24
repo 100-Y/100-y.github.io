@@ -2,7 +2,6 @@
 layout: post
 title: 缺点、不堪以及虚伪、恶｜Shortcomings and awkwardness, Hypocrisy and evil（草稿）
 date: 2022-08-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

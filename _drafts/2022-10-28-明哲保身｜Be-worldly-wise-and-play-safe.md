@@ -2,7 +2,6 @@
 layout: post
 title: 明哲保身｜Be worldly-wise and play safe
 date: 2022-10-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 重复土壤的原因｜Reason for repeated soil
 date: 2023-03-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

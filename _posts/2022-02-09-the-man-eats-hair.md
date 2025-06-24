@@ -2,7 +2,6 @@
 layout: post
 title: 吃头发的人——The Man Eats Hair
 date: 2022-02-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

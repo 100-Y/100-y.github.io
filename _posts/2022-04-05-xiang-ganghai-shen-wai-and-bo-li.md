@@ -2,7 +2,6 @@
 layout: post
 title: 香港，海参崴、伯力——Xiāng Gǎng，Hǎi\_Shēn\_Wǎi\_and\_Bó\_Lì
 date: 2022-04-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

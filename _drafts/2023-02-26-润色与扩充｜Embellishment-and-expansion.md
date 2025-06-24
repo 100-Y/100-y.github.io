@@ -2,7 +2,6 @@
 layout: post
 title: 润色与扩充｜Embellishment and expansion
 date: 2023-02-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

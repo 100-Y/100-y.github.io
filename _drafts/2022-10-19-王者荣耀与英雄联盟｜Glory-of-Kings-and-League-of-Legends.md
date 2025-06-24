@@ -2,7 +2,6 @@
 layout: post
 title: 王者荣耀与英雄联盟｜Glory of Kings and League of Legends
 date: 2022-10-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

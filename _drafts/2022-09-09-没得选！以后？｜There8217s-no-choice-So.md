@@ -2,7 +2,6 @@
 layout: post
 title: 没得选！以后？｜There&#8217;s no choice! So?
 date: 2022-09-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

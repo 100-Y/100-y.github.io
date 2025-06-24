@@ -2,7 +2,6 @@
 layout: post
 title: 过年的灵魂——Soul of the New Year
 date: 2022-01-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

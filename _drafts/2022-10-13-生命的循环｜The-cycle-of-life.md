@@ -2,7 +2,6 @@
 layout: post
 title: 生命的循环｜The cycle of life
 date: 2022-10-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

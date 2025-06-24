@@ -2,7 +2,6 @@
 layout: post
 title: 两种截然不同的选择｜two-completely-different-choices
 date: 2024-05-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

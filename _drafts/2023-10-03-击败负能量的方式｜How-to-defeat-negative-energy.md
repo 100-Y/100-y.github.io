@@ -2,7 +2,6 @@
 layout: post
 title: 击败负能量的方式｜How to defeat negative energy
 date: 2023-10-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

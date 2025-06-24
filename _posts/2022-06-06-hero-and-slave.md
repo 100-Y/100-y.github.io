@@ -2,7 +2,6 @@
 layout: post
 title: 英雄、奴隶——Hero and Slave
 date: 2022-06-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

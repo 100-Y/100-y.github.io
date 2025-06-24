@@ -2,7 +2,6 @@
 layout: post
 title: 年富、力强——Rich Mind, Strong Body
 date: 2024-08-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

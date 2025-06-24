@@ -2,7 +2,6 @@
 layout: post
 title: 境外敌对势力产品｜Overseas hostile forces products
 date: 2023-10-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

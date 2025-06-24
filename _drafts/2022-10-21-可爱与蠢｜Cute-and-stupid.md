@@ -2,7 +2,6 @@
 layout: post
 title: 可爱与蠢｜Cute and stupid
 date: 2022-10-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

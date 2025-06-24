@@ -2,7 +2,6 @@
 layout: post
 title: 天灾、人祸｜Natural and Man-made disasters
 date: 2022-08-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

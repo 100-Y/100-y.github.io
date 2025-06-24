@@ -2,7 +2,6 @@
 layout: post
 title: 爱你的人——One Loves You
 date: 2017-08-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

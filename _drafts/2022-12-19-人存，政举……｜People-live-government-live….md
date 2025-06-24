@@ -2,7 +2,6 @@
 layout: post
 title: 人存，政举……｜People live, government live…
 date: 2022-12-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

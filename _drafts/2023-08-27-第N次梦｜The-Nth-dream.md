@@ -2,7 +2,6 @@
 layout: post
 title: 第N次梦｜The Nth dream
 date: 2023-08-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 我已经完成的事——Things I Have Done
 date: 2015-10-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

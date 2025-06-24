@@ -2,7 +2,6 @@
 layout: post
 title: 春日——Days of Spring
 date: 2012-01-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

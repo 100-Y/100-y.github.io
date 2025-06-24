@@ -2,7 +2,6 @@
 layout: post
 title: 新时代的运动｜The movement in new era
 date: 2023-04-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

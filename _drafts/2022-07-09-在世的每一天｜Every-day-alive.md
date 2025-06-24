@@ -2,7 +2,6 @@
 layout: post
 title: 在世的每一天｜Every day alive
 date: 2022-07-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

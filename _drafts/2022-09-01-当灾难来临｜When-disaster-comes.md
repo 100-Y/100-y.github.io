@@ -2,7 +2,6 @@
 layout: post
 title: 当灾难来临｜When disaster comes
 date: 2022-09-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

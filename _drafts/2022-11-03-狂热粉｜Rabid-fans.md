@@ -2,7 +2,6 @@
 layout: post
 title: 狂热粉｜Rabid fans
 date: 2022-11-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

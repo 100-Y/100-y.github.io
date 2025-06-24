@@ -2,7 +2,6 @@
 layout: post
 title: 同沉沦、共醒悟｜Sink and awaken together
 date: 2022-11-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 医保、社保的本质｜Essence of Medical insurance and Social security
 date: 2023-02-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

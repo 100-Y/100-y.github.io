@@ -2,7 +2,6 @@
 layout: post
 title: 八月、花儿与微风——August, Flowers and Breeze
 date: 2017-09-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 实事求是和就事论事｜Seeking truth from facts, and dealing with matters on their own merits
 date: 2023-12-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

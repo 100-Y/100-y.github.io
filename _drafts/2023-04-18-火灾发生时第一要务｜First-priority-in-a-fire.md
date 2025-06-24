@@ -2,7 +2,6 @@
 layout: post
 title: 火灾发生时第一要务｜First priority in a fire
 date: 2023-04-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 党的军队，辱党｜Party’s army, insults the party
 date: 2023-05-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

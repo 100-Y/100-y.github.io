@@ -2,7 +2,6 @@
 layout: post
 title: 瘟疫的责任、权利与义务｜Responsibility, right and obligation of the plague
 date: 2023-10-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

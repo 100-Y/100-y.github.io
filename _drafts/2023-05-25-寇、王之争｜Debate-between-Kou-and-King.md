@@ -2,7 +2,6 @@
 layout: post
 title: 寇、王之争｜Debate between Kou and King
 date: 2023-05-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

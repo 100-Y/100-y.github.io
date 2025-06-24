@@ -2,7 +2,6 @@
 layout: post
 title: 程序即治理——Program as Governance
 date: 2025-03-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 黑暗森林法则——Law of Dark Forest
 date: 2023-02-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 官员基本的良心｜Basic conscience of officials
 date: 2022-09-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

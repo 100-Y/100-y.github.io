@@ -2,7 +2,6 @@
 layout: post
 title: 灵魂飞升的感觉｜Feeling of soul ascending
 date: 2023-04-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

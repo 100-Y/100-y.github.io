@@ -2,7 +2,6 @@
 layout: post
 title: 当你沉睡时——When You are Asleep
 date: 2017-12-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

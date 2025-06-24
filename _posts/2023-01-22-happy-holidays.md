@@ -2,7 +2,6 @@
 layout: post
 title: 节日快乐——Happy Holidays
 date: 2023-01-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

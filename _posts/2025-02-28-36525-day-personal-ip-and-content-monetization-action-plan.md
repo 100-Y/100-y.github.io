@@ -2,7 +2,6 @@
 layout: post
 title: 36525.day：个人IP与内容变现行动方案
 date: 2025-02-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

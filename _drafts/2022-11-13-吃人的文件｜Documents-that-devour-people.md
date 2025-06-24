@@ -2,7 +2,6 @@
 layout: post
 title: 吃人的文件｜Documents that devour people
 date: 2022-11-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

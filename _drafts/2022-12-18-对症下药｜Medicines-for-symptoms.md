@@ -2,7 +2,6 @@
 layout: post
 title: 对症下药｜Medicines for symptoms
 date: 2022-12-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

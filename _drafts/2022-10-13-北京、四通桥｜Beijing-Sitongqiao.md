@@ -2,7 +2,6 @@
 layout: post
 title: 北京、四通桥｜Beijing Sitongqiao
 date: 2022-10-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

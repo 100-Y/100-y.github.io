@@ -2,7 +2,6 @@
 layout: post
 title: 不同的人生｜Different lives
 date: 2023-01-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

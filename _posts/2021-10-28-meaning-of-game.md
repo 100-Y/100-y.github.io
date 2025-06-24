@@ -2,7 +2,6 @@
 layout: post
 title: 游戏的意义——Meaning of Game
 date: 2021-10-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

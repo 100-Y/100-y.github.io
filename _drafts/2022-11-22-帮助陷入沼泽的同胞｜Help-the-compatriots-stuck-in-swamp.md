@@ -2,7 +2,6 @@
 layout: post
 title: 帮助陷入沼泽的同胞｜Help the compatriots stuck in swamp
 date: 2022-11-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

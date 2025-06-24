@@ -2,7 +2,6 @@
 layout: post
 title: 符号的囚笼——The Cage of Symbols
 date: 2025-02-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

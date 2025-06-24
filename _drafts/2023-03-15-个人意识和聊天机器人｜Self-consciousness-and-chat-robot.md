@@ -2,7 +2,6 @@
 layout: post
 title: 个人意识和聊天机器人｜Self-consciousness and chat robot
 date: 2023-03-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

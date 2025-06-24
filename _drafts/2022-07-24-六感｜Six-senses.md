@@ -2,7 +2,6 @@
 layout: post
 title: 六感｜Six senses
 date: 2022-07-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

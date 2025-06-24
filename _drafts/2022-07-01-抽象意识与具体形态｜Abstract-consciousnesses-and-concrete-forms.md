@@ -2,7 +2,6 @@
 layout: post
 title: 抽象意识与具体形态｜Abstract consciousnesses and concrete forms
 date: 2022-07-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

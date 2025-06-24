@@ -2,7 +2,6 @@
 layout: post
 title: Domains for Sale
 date: 2025-05-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

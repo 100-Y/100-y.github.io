@@ -2,7 +2,6 @@
 layout: post
 title: 避免被屁熏死的方法｜Way to avoid being suffocated by farts
 date: 2022-09-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

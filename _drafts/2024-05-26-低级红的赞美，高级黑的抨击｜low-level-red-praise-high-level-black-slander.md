@@ -2,7 +2,6 @@
 layout: post
 title: 低级红的赞美，高级黑的抨击｜low-level-red-praise-high-level-black-slander
 date: 2024-05-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

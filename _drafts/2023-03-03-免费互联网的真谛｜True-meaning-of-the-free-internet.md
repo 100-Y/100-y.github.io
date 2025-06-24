@@ -2,7 +2,6 @@
 layout: post
 title: 免费互联网的真谛｜True meaning of the free internet
 date: 2023-03-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

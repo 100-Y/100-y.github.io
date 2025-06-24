@@ -2,8 +2,7 @@
 layout: post
 title: 无味之作：你是在生活，还是在执行程序？
 date: 2025-04-06
-excerpt: 很多人如同无魂做菜般地生活，仅为完成任务却失去热情与自我。Many live like they cook without soul—just completing tasks, losing passion and identity along the way.
-description:
+description: 很多人如同无魂做菜般地生活，仅为完成任务却失去热情与自我。Many live like they cook without soul—just completing tasks, losing passion and identity along the way.
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/
 categories: Phrases

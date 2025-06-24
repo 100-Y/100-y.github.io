@@ -2,7 +2,6 @@
 layout: post
 title: 假面骑士——Masked knights
 date: 2023-02-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

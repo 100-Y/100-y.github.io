@@ -2,7 +2,6 @@
 layout: post
 title: 分餐制度｜Separate dining system
 date: 2024-01-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

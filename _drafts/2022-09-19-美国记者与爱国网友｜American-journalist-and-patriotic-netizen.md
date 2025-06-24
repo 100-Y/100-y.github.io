@@ -2,7 +2,6 @@
 layout: post
 title: 美国记者与爱国网友｜American journalist and patriotic netizen
 date: 2022-09-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

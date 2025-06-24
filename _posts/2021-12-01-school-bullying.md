@@ -2,7 +2,6 @@
 layout: post
 title: 校园霸凌——School Bullying
 date: 2021-12-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 城墙与人心——Wall and Human Heart (3-)
 date: 2019-06-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 谈《隐入尘烟》｜On Return to Dust
 date: 2022-08-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

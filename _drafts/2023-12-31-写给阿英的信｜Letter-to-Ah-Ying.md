@@ -2,7 +2,6 @@
 layout: post
 title: 写给阿英的信｜Letter to Ah Ying
 date: 2023-12-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 国家是什么——What is a Country
 date: 2022-02-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 勇气与释然｜Courage and relief
 date: 2023-10-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

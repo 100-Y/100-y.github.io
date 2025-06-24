@@ -2,7 +2,6 @@
 layout: post
 title: 意识形态的一个循环｜A cycle of ideology
 date: 2024-01-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

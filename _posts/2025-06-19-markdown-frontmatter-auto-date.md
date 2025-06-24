@@ -2,7 +2,6 @@
 layout: post
 title: Markdown 批量更新 Front Matter 日期并重命名文件的实用脚本教程
 date: 2025-06-19
-excerpt: 利用 Python 与 Shell 脚本，从正文提取日期并自动写入或更新 YAML Front Matter 中的 date 字段，并批量按日期重命名文件名，适用于静态博客内容管理。
 description: 利用 Python 与 Shell 脚本，从正文提取日期并自动写入或更新 YAML Front Matter 中的 date 字段，并批量按日期重命名文件名，适用于静态博客内容管理。
 og_image: /assets/img/blog/markdown-frontmatter-auto-date.webp
 thumbnail: /assets/img/blog/markdown-frontmatter-auto-date.webp

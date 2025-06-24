@@ -2,7 +2,6 @@
 layout: post
 title: 小区与政府｜Community and government
 date: 2023-08-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

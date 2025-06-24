@@ -2,7 +2,6 @@
 layout: post
 title: 外儒内法｜Confucianism outwardly and Legalism inwardly
 date: 2022-09-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

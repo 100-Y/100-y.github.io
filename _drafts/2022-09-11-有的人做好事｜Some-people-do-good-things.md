@@ -2,7 +2,6 @@
 layout: post
 title: 有的人做好事｜Some people do good things
 date: 2022-09-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

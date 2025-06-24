@@ -2,7 +2,6 @@
 layout: post
 title: 速度的泪腺——在光的断层中失明 / Tear Duct of Speed - Going Blind in the Faultline of Light
 date: 2024-11-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

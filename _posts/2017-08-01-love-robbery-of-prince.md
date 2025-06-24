@@ -2,7 +2,6 @@
 layout: post
 title: 王子的情劫——Love Robbery of Prince (4-)
 date: 2017-08-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

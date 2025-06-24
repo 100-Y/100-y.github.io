@@ -2,7 +2,6 @@
 layout: post
 title: 宝新和丫丫｜Baoxin and Yaya
 date: 2023-03-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

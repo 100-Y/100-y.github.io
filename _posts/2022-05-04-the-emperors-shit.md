@@ -2,7 +2,6 @@
 layout: post
 title: 帝王的屎——The Emperor’s Shit
 date: 2022-05-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

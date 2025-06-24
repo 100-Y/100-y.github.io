@@ -2,7 +2,6 @@
 layout: post
 title: 云、雨｜The cloud, the rain
 date: 2022-08-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

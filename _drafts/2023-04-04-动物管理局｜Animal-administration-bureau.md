@@ -2,7 +2,6 @@
 layout: post
 title: 动物管理局｜Animal administration bureau
 date: 2023-04-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

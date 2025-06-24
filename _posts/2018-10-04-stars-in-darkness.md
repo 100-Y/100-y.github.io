@@ -2,7 +2,6 @@
 layout: post
 title: 黑暗中的星——Stars in Darkness
 date: 2018-10-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

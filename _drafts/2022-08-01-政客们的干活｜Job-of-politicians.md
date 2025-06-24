@@ -2,7 +2,6 @@
 layout: post
 title: 政客们的干活｜Job of politicians
 date: 2022-08-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

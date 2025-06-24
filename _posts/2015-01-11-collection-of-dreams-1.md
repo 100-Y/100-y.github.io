@@ -2,7 +2,6 @@
 layout: post
 title: 梦的集合——Collection of Dreams 1
 date: 2015-01-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

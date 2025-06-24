@@ -2,7 +2,6 @@
 layout: post
 title: 推恩令和群众斗群众｜Tui En Order and The masses fight the masses
 date: 2023-04-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

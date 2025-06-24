@@ -2,7 +2,6 @@
 layout: post
 title: 遥远的温柔——Distant Gentleness
 date: 2024-11-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

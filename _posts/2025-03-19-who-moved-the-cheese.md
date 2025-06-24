@@ -2,7 +2,6 @@
 layout: post
 title: 谁动了奶酪？——Who Moved the Cheese?
 date: 2025-03-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

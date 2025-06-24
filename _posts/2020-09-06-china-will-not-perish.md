@@ -2,7 +2,6 @@
 layout: post
 title: 中国不会亡——China will not Perish
 date: 2020-09-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

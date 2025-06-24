@@ -2,7 +2,6 @@
 layout: post
 title: 繁忙的地下世界——The Busy Underworld
 date: 2017-11-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

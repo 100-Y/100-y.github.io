@@ -2,7 +2,6 @@
 layout: post
 title: 诱惑与自我——Temptations and Oneself
 date: 2015-01-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

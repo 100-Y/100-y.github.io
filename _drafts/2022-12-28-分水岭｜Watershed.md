@@ -2,7 +2,6 @@
 layout: post
 title: 分水岭｜Watershed
 date: 2022-12-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

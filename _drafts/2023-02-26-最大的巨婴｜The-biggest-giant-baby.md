@@ -2,7 +2,6 @@
 layout: post
 title: 最大的巨婴｜The biggest giant baby
 date: 2023-02-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

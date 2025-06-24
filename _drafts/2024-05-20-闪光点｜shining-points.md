@@ -2,7 +2,6 @@
 layout: post
 title: 闪光点｜shining-points
 date: 2024-05-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

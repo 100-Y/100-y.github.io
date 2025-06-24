@@ -2,7 +2,6 @@
 layout: post
 title: 退守迷蒙森林——Retreat to Misty Forest (3-99)
 date: 2019-09-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 悲剧的意义｜Significance of tragedy
 date: 2023-08-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 阴招与阳谋的力量｜Power of Yin tactics and Yang strategies
 date: 2023-12-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 拉磨的驴、送死的炮兵｜The donkey grinds, the cannon fodder dies
 date: 2023-06-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 道德绑架之恶与平衡——Evil and Balance of Moral Coercion
 date: 2024-10-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

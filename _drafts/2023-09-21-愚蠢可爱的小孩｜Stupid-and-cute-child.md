@@ -2,7 +2,6 @@
 layout: post
 title: 愚蠢可爱的小孩｜Stupid and cute child
 date: 2023-09-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

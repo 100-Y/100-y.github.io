@@ -2,7 +2,6 @@
 layout: post
 title: 灵感的恶｜Evil of inspiration
 date: 2024-01-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

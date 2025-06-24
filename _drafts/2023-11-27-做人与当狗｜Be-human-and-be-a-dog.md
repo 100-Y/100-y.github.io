@@ -2,7 +2,6 @@
 layout: post
 title: 做人与当狗｜Be human and be a dog
 date: 2023-11-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

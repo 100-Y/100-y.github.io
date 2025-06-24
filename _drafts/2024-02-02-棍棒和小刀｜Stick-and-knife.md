@@ -2,7 +2,6 @@
 layout: post
 title: 棍棒和小刀｜Stick and knife
 date: 2024-02-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

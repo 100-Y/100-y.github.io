@@ -2,7 +2,6 @@
 layout: post
 title: 教师与洗脑｜Teachers and brainwashing
 date: 2023-09-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

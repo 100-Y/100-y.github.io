@@ -2,7 +2,6 @@
 layout: post
 title: 反对的声音｜Voice of Opposition
 date: 2021-09-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

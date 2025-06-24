@@ -2,7 +2,6 @@
 layout: post
 title: 亡者，路的尽头——End Road of Deceased
 date: 2024-11-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

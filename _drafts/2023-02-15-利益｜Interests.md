@@ -2,7 +2,6 @@
 layout: post
 title: 利益｜Interests
 date: 2023-02-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

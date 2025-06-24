@@ -2,7 +2,6 @@
 layout: post
 title: 悲伤的眼泪——Tears of Sadness
 date: 2015-01-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

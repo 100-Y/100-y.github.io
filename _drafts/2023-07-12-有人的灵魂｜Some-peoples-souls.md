@@ -2,7 +2,6 @@
 layout: post
 title: 有人的灵魂｜Some people’s souls
 date: 2023-07-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

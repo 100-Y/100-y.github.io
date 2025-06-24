@@ -2,7 +2,6 @@
 layout: post
 title: 教育的奴隶——Slave of Education
 date: 2022-04-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 阴沟里见不得光的臭虫｜Despicable bugs in the gutter
 date: 2022-10-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

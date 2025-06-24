@@ -2,7 +2,6 @@
 layout: post
 title: 退林还耕和农管｜Forests to farms and agricultural management
 date: 2023-04-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

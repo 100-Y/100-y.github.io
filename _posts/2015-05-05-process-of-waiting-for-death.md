@@ -2,7 +2,6 @@
 layout: post
 title: 等待死亡的过程——Process of Waiting for Death
 date: 2015-05-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

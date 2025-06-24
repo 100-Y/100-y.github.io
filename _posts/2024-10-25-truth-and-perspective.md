@@ -2,7 +2,6 @@
 layout: post
 title: 真相与视角——Truth and Perspective
 date: 2024-10-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

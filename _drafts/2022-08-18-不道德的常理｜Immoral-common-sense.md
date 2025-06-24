@@ -2,7 +2,6 @@
 layout: post
 title: 不道德的常理｜Immoral common sense
 date: 2022-08-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

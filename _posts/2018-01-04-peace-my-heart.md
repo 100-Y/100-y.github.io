@@ -2,7 +2,6 @@
 layout: post
 title: 平和，我的心
 date: 2018-01-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

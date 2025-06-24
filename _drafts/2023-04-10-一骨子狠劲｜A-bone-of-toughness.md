@@ -2,7 +2,6 @@
 layout: post
 title: 一骨子狠劲｜A bone of toughness
 date: 2023-04-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

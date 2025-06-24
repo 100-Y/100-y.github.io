@@ -2,7 +2,6 @@
 layout: post
 title: 战后宣言——Postwar Anifesto
 date: 2022-02-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

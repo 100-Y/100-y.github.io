@@ -2,7 +2,6 @@
 layout: post
 title: 前进的苦楚——Pains of Moving Forward
 date: 2020-03-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

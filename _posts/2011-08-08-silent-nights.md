@@ -2,7 +2,6 @@
 layout: post
 title: 寂静的夜——Silent Nights
 date: 2011-08-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

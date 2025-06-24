@@ -2,7 +2,6 @@
 layout: post
 title: 新域名计划——New Domain Plan
 date: 2025-02-26
-excerpt: 这里写摘要
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

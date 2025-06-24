@@ -2,7 +2,6 @@
 layout: post
 title: 写作当饭吃｜Make a living by writing
 date: 2022-08-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

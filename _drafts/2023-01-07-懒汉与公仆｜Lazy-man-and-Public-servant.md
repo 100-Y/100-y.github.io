@@ -2,7 +2,6 @@
 layout: post
 title: 懒汉与公仆｜Lazy man and Public servant
 date: 2023-01-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

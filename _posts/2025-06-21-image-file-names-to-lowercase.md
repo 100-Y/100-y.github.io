@@ -2,7 +2,6 @@
 layout: post
 title: 批量将图片文件名改为小写
 date: 2025-06-21
-excerpt: 使用 Bash 脚本批量将图片文件名统一转换为小写，解决 GitHub Pages 线上图片因大小写敏感导致无法显示的问题。
 description: 使用 Bash 脚本批量将图片文件名统一转换为小写，解决 GitHub Pages 线上图片因大小写敏感导致无法显示的问题。
 og_image: /assets/img/blog/image-file-names-to-lowercase.webp
 thumbnail: /assets/img/blog/image-file-names-to-lowercase.webp

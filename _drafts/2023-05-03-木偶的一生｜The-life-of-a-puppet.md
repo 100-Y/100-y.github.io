@@ -2,7 +2,6 @@
 layout: post
 title: 木偶的一生｜The life of a puppet
 date: 2023-05-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

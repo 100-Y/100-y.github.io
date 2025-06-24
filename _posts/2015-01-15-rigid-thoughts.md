@@ -2,7 +2,6 @@
 layout: post
 title: 僵化的思想——Rigid Thoughts
 date: 2015-01-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

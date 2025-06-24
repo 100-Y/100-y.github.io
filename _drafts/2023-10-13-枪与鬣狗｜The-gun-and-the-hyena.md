@@ -2,7 +2,6 @@
 layout: post
 title: 枪与鬣狗｜The gun and the hyena
 date: 2023-10-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

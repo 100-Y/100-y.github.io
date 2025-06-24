@@ -2,7 +2,6 @@
 layout: post
 title: 体制内的有些人｜Some people in the system
 date: 2022-08-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 另人生观、世界观的测试｜Lifeview and Worldview test in Threeviews
 date: 2022-12-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

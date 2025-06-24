@@ -2,7 +2,6 @@
 layout: post
 title: 今夜的拯救——Tonight’s Rescue
 date: 2021-10-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

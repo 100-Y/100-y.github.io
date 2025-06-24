@@ -2,7 +2,6 @@
 layout: post
 title: 无耻的人——Shameless People
 date: 2022-03-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

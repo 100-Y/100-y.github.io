@@ -2,7 +2,6 @@
 layout: post
 title: 太监的觉悟｜Consciousness of eunuchs
 date: 2023-04-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

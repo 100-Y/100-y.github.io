@@ -2,7 +2,6 @@
 layout: post
 title: 权力的货色｜Scums of power
 date: 2023-10-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

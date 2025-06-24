@@ -2,7 +2,6 @@
 layout: post
 title: 美芽胚子——Bud Embryo
 date: 2016-06-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

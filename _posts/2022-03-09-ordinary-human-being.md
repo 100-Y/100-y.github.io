@@ -2,7 +2,6 @@
 layout: post
 title: 平凡的人——Ordinary Human Being
 date: 2022-03-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

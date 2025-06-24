@@ -2,7 +2,6 @@
 layout: post
 title: 一种幸福——A Kind of Happiness
 date: 2012-08-16
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

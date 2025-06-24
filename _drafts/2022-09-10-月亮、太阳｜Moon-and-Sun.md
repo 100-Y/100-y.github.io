@@ -2,7 +2,6 @@
 layout: post
 title: 月亮、太阳｜Moon and Sun
 date: 2022-09-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

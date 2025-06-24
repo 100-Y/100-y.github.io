@@ -2,7 +2,6 @@
 layout: post
 title: 直球｜Straight ball
 date: 2023-12-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

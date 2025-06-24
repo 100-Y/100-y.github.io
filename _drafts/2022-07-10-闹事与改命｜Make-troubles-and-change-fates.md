@@ -2,7 +2,6 @@
 layout: post
 title: 闹事与改命｜Make troubles and change fates
 date: 2022-07-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

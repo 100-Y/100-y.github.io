@@ -2,7 +2,6 @@
 layout: post
 title: 思想漫游的边境哨站——The Border Outpost of Thought Roaming
 date: 2025-04-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

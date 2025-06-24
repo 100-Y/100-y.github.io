@@ -2,7 +2,6 @@
 layout: post
 title: 央视网与孔乙己文学｜CCTV and Kong Yiji literature
 date: 2023-03-16
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

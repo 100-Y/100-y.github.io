@@ -2,7 +2,6 @@
 layout: post
 title: 缔造者与卖国贼——Founder and Traitor
 date: 2024-11-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

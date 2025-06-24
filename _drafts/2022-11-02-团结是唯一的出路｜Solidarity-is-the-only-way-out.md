@@ -2,7 +2,6 @@
 layout: post
 title: 团结是唯一的出路｜Solidarity is the only way out
 date: 2022-11-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

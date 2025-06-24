@@ -2,7 +2,6 @@
 layout: post
 title: 创作计划——Writing Plan
 date: 2017-12-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

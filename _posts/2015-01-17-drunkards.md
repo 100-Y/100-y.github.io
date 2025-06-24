@@ -2,7 +2,6 @@
 layout: post
 title: 醉酒鬼——Drunkards
 date: 2015-01-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 镜墙后的回声——Echoes Behind the Mirror Wall
 date: 2025-03-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

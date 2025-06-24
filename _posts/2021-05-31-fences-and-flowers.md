@@ -2,7 +2,6 @@
 layout: post
 title: 藩篱、栅栏和鲜花——Fences and Flowers
 date: 2021-05-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

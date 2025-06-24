@@ -2,7 +2,6 @@
 layout: post
 title: 生日愿望｜Birthday wish
 date: 2022-08-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

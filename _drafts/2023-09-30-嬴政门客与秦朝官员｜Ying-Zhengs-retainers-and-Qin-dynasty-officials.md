@@ -2,7 +2,6 @@
 layout: post
 title: 嬴政门客与秦朝官员｜Ying Zheng’s retainers and Qin dynasty officials
 date: 2023-09-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

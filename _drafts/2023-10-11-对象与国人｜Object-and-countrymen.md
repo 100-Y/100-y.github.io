@@ -2,7 +2,6 @@
 layout: post
 title: 对象与国人｜Object and countrymen
 date: 2023-10-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

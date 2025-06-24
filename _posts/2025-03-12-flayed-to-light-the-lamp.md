@@ -2,7 +2,6 @@
 layout: post
 title: 剥皮点灯——Flayed to Light the Lamp
 date: 2025-03-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

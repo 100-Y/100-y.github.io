@@ -2,7 +2,6 @@
 layout: post
 title: 伐木经济｜Logging Economy
 date: 2024-01-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

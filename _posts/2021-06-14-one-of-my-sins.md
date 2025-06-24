@@ -2,7 +2,6 @@
 layout: post
 title: 之一我的罪恶——One of My Sins
 date: 2021-06-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 老路或战争｜Old road or war
 date: 2022-10-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

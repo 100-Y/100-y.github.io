@@ -2,7 +2,6 @@
 layout: post
 title: 宗教和党派｜Religion and faction
 date: 2023-03-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

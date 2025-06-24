@@ -2,7 +2,6 @@
 layout: post
 title: 孤灯｜Lonely lamp
 date: 2022-10-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

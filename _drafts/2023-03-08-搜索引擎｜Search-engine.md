@@ -2,7 +2,6 @@
 layout: post
 title: 搜索引擎｜Search engine
 date: 2023-03-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

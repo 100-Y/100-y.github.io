@@ -2,7 +2,6 @@
 layout: post
 title: 人人与垫脚石｜Everyone and stepping stones
 date: 2022-08-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 初心和白手起家｜Original intention and rags-to-riches
 date: 2024-01-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

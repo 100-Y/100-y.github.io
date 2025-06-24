@@ -2,7 +2,6 @@
 layout: post
 title: 为人民打江山，口号的由来｜Origin of the slogan, For people for the power
 date: 2022-10-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 秋风独座——A Seat Alone in Autumn Wind
 date: 2012-08-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

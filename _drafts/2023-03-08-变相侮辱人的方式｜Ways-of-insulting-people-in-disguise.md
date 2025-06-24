@@ -2,7 +2,6 @@
 layout: post
 title: 变相侮辱人的方式｜Ways of insulting people in disguise
 date: 2023-03-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

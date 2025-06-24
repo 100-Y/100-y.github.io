@@ -2,7 +2,6 @@
 layout: post
 title: 人性之恶｜Evil of human nature
 date: 2023-05-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

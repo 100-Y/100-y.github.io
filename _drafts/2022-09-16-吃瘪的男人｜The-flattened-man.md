@@ -2,7 +2,6 @@
 layout: post
 title: 吃瘪的男人｜The flattened man
 date: 2022-09-16
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

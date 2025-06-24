@@ -2,7 +2,6 @@
 layout: post
 title: 浪漫星空——Romantic Starry Sky
 date: 2020-06-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

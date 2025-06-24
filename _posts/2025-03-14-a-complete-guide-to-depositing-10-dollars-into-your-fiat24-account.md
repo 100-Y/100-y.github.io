@@ -2,7 +2,6 @@
 layout: post
 title: 将 10 美元转入 Fiat24 账户的完整指南
 date: 2025-03-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

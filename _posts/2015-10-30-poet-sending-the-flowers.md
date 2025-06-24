@@ -2,7 +2,6 @@
 layout: post
 title: 诗人送花——Poet Sending the Flowers
 date: 2015-10-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

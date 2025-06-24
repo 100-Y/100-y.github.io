@@ -2,7 +2,6 @@
 layout: post
 title: 如何进行政治体制的改革｜Political system reform
 date: 2023-04-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

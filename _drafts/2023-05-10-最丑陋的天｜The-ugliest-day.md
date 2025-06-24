@@ -2,7 +2,6 @@
 layout: post
 title: 最丑陋的天｜The ugliest day
 date: 2023-05-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

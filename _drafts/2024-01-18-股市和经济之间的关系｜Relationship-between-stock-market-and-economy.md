@@ -2,7 +2,6 @@
 layout: post
 title: 股市和经济之间的关系｜Relationship between stock market and economy
 date: 2024-01-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

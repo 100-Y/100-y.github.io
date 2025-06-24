@@ -2,7 +2,6 @@
 layout: post
 title: 精致利己主义者｜Sophisticated egoists
 date: 2023-11-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

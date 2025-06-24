@@ -2,7 +2,6 @@
 layout: post
 title: 养蛊自噬｜Raising gu to devour oneself
 date: 2022-12-16
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

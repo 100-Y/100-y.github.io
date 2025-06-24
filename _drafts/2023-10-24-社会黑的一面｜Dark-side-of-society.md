@@ -2,7 +2,6 @@
 layout: post
 title: 社会黑的一面｜Dark side of society
 date: 2023-10-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

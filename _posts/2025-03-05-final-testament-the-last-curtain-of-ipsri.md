@@ -2,7 +2,6 @@
 layout: post
 title: 遗言——IPSRI的终幕 / Final Testament - The Last Curtain of IPSRI
 date: 2025-03-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

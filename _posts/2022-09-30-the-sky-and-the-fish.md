@@ -2,7 +2,6 @@
 layout: post
 title: 天空和鱼儿——The sky and The Fish
 date: 2022-09-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

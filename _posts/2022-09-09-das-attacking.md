@@ -2,7 +2,6 @@
 layout: post
 title: 怛的袭来——Da&#8217;s Attacking (3-)
 date: 2022-09-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

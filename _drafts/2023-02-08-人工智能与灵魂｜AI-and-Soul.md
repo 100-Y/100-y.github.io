@@ -2,7 +2,6 @@
 layout: post
 title: 人工智能与灵魂｜AI and Soul
 date: 2023-02-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

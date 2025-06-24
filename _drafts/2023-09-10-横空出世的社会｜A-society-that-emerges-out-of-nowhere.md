@@ -2,7 +2,6 @@
 layout: post
 title: 横空出世的社会｜A society that emerges out of nowhere
 date: 2023-09-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

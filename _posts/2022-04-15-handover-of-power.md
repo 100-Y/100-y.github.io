@@ -2,7 +2,6 @@
 layout: post
 title: 权力的交接——Handover of Power
 date: 2022-04-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

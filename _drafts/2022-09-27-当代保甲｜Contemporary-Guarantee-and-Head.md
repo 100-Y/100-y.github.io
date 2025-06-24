@@ -2,7 +2,6 @@
 layout: post
 title: 当代保甲｜Contemporary Guarantee and Head
 date: 2022-09-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

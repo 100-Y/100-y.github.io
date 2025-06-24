@@ -2,7 +2,6 @@
 layout: post
 title: 这是爱情啊，更是诗歌——This is Love, but also Poetry
 date: 2017-10-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

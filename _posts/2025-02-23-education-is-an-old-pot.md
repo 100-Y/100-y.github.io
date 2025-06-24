@@ -2,7 +2,6 @@
 layout: post
 title: 教育是口锅——Education is an Old Pot
 date: 2025-02-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

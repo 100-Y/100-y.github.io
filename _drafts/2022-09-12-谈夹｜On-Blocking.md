@@ -2,7 +2,6 @@
 layout: post
 title: 谈“夹”｜On “Blocking”
 date: 2022-09-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

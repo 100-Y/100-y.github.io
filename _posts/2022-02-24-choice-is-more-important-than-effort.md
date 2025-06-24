@@ -2,7 +2,6 @@
 layout: post
 title: 选择比努力重要——Choice is more Important than Effort
 date: 2022-02-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

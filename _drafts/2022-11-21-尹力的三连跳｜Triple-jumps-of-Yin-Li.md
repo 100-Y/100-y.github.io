@@ -2,7 +2,6 @@
 layout: post
 title: 尹力的三连跳｜Triple jumps of Yin Li
 date: 2022-11-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 骂人的道理（逻辑）——Logic of Scolding
 date: 2022-02-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

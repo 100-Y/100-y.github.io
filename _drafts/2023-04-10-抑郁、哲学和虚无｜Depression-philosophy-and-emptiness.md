@@ -2,7 +2,6 @@
 layout: post
 title: 抑郁、哲学和虚无｜Depression, philosophy and emptiness
 date: 2023-04-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

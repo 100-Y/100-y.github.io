@@ -2,7 +2,6 @@
 layout: post
 title: 诗人的海洋——Poet’s Ocean
 date: 2018-01-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

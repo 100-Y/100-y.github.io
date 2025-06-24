@@ -2,7 +2,6 @@
 layout: post
 title: 防疫悲剧｜Tragedies of epidemic prevention
 date: 2022-11-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 猥琐发育、浪，不折腾｜Conservative, aggressive, and moderate
 date: 2022-12-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

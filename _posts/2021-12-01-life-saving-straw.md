@@ -2,7 +2,6 @@
 layout: post
 title: 救命稻草——Life Saving Straw
 date: 2021-12-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

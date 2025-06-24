@@ -2,7 +2,6 @@
 layout: post
 title: 秦始皇与嫪毐｜Qin Shihuang and Lao Ai
 date: 2023-05-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

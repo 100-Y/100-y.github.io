@@ -2,7 +2,6 @@
 layout: post
 title: 北京关卡｜Beijing checkpoint
 date: 2022-10-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

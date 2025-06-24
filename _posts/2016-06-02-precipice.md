@@ -2,7 +2,6 @@
 layout: post
 title: 悬崖——Precipice
 date: 2016-06-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

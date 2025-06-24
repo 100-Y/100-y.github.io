@@ -2,7 +2,6 @@
 layout: post
 title: 命运的窗口——The Window of Fate
 date: 2022-04-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

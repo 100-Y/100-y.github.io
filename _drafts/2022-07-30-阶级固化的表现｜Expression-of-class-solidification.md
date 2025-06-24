@@ -2,7 +2,6 @@
 layout: post
 title: 阶级固化的表现｜Expression of class solidification
 date: 2022-07-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

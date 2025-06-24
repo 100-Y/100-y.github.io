@@ -2,7 +2,6 @@
 layout: post
 title: 权力的喉舌——爱国大V / Mouthpiece of Power - Patriots Big V
 date: 2021-07-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

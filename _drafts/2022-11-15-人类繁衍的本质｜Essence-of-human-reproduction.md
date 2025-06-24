@@ -2,7 +2,6 @@
 layout: post
 title: 人类繁衍的本质｜Essence of human reproduction
 date: 2022-11-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

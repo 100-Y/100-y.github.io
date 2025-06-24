@@ -2,7 +2,6 @@
 layout: post
 title: 爱国和生意｜Patriotism and business
 date: 2022-08-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

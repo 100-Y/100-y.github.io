@@ -2,7 +2,6 @@
 layout: post
 title: 造车——Build Cars
 date: 2022-06-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

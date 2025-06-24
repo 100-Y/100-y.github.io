@@ -2,7 +2,6 @@
 layout: post
 title: 人性本能的恶｜Innate evil of human nature
 date: 2022-09-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 昨夜、今日——Last Night, Today
 date: 2017-12-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

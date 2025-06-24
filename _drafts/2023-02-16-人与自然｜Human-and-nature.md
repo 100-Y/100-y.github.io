@@ -2,7 +2,6 @@
 layout: post
 title: 人与自然｜Human and nature
 date: 2023-02-16
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 流氓、富人——Rogues and Rich Men
 date: 2021-11-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

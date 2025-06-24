@@ -2,7 +2,6 @@
 layout: post
 title: 恐慌性的根本原因｜Root cause of panic
 date: 2022-12-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

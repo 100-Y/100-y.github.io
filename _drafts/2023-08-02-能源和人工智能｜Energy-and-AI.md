@@ -2,7 +2,6 @@
 layout: post
 title: 能源和人工智能｜Energy and AI
 date: 2023-08-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 佛的心境——Buddha&#8217;s Mind
 date: 2015-01-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

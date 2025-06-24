@@ -2,7 +2,6 @@
 layout: post
 title: 压抑的希望｜Repressed hope
 date: 2022-10-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 一些一些一些｜Some Some Some
 date: 2021-05-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

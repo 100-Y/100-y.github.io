@@ -2,7 +2,6 @@
 layout: post
 title: 对徽标的分析｜analysis-of-the-logo
 date: 2024-05-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

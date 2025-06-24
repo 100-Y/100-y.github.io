@@ -2,7 +2,6 @@
 layout: post
 title: 背锅的人｜Someone to take the blame
 date: 2022-12-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

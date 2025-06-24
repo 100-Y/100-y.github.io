@@ -2,7 +2,6 @@
 layout: post
 title: 各类空间密闭休闲娱乐场所｜All kinds of closed spaces for leisure and entertainment
 date: 2022-10-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 躺平式干部｜Lying flat cadres
 date: 2023-01-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

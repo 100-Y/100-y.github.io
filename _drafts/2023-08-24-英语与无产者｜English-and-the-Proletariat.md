@@ -2,7 +2,6 @@
 layout: post
 title: 英语与无产者｜English and the Proletariat
 date: 2023-08-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 喊着人民万岁却把人民万碎的人——Those who Shout Long Live the People but Bring about Long Live the Broken People
 date: 2024-11-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

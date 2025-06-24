@@ -2,7 +2,6 @@
 layout: post
 title: 玩梗日｜Day of playing jokes
 date: 2023-11-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

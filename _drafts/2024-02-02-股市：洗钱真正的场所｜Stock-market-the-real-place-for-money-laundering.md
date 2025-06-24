@@ -2,7 +2,6 @@
 layout: post
 title: 股市：洗钱真正的场所｜Stock market: the real place for money laundering
 date: 2024-02-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

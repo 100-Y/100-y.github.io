@@ -2,7 +2,6 @@
 layout: post
 title: 死亡的贡献——Contribution of Death
 date: 2024-11-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

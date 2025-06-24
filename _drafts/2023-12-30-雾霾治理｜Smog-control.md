@@ -2,7 +2,6 @@
 layout: post
 title: 雾霾治理｜Smog control
 date: 2023-12-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

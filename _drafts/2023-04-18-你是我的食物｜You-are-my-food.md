@@ -2,7 +2,6 @@
 layout: post
 title: 你是我的食物｜You are my food
 date: 2023-04-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

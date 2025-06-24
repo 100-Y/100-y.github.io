@@ -2,7 +2,6 @@
 layout: post
 title: 文盲不识字，发文凭就好了——The Illiterate May Not Read, But a Diploma Will Be Fine
 date: 2024-11-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

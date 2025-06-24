@@ -2,7 +2,6 @@
 layout: post
 title: 树洞谬论——Tree Hole Fallacy
 date: 2022-05-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

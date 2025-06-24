@@ -2,7 +2,6 @@
 layout: post
 title: 什么是诗歌——What is Poetry
 date: 2016-06-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 双重标准——Double Standards
 date: 2022-06-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

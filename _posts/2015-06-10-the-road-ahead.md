@@ -2,7 +2,6 @@
 layout: post
 title: 前方的路——The Road Ahead
 date: 2015-06-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

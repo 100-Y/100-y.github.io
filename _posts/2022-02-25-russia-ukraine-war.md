@@ -2,7 +2,6 @@
 layout: post
 title: 俄乌战争｜Russia Ukraine War
 date: 2022-02-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

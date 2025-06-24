@@ -2,7 +2,6 @@
 layout: post
 title: 怛的战前动员——Da&#8217;s Prewar Mobilization (3-)
 date: 2022-09-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

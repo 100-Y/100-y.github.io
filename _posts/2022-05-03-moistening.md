@@ -2,7 +2,6 @@
 layout: post
 title: 沁润——Moistening
 date: 2022-05-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

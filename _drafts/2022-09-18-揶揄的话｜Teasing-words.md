@@ -2,7 +2,6 @@
 layout: post
 title: 揶揄的话｜Teasing words
 date: 2022-09-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 只讲党性的人｜People who only talk about party spirit
 date: 2023-04-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

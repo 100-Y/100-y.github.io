@@ -2,7 +2,6 @@
 layout: post
 title: 毛泽东的信徒｜Believers of Mao
 date: 2022-08-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

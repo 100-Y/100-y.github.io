@@ -2,7 +2,6 @@
 layout: post
 title: 贺兰峰批判刘亚洲的文章｜He Lanfeng on Liu Yazhou
 date: 2023-04-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

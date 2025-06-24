@@ -2,7 +2,6 @@
 layout: post
 title: 玉泉-滴水岩——YuQuan DiShuiYan
 date: 2012-07-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

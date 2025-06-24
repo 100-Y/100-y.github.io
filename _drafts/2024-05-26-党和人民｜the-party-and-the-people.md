@@ -2,7 +2,6 @@
 layout: post
 title: 党和人民｜the-party-and-the-people
 date: 2024-05-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

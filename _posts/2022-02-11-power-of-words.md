@@ -2,7 +2,6 @@
 layout: post
 title: 文字的力量——Power of Words
 date: 2022-02-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

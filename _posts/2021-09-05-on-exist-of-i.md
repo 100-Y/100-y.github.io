@@ -2,7 +2,6 @@
 layout: post
 title: 论我的存在——On Exist of I
 date: 2021-09-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

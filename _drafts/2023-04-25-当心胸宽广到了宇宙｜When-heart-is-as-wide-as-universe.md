@@ -2,7 +2,6 @@
 layout: post
 title: 当心胸宽广到了宇宙｜When heart is as wide as universe
 date: 2023-04-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

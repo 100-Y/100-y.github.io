@@ -2,7 +2,6 @@
 layout: post
 title: macOS 本地从零开始配置 Prettier + VS Code
 date: 2025-06-18
-excerpt: 本文详细介绍如何在 macOS 本地通过 Homebrew 安装 Node.js，并结合 Prettier 与 VS Code，实现对 Markdown、YAML、HTML、JS 等常见格式的自动与批量格式化。
 description: 本文详细介绍如何在 macOS 本地通过 Homebrew 安装 Node.js，并结合 Prettier 与 VS Code，实现对 Markdown、YAML、HTML、JS 等常见格式的自动与批量格式化。
 og_image: /assets/img/blog/prettier-nodejs-vscode.webp
 thumbnail: /assets/img/blog/prettier-nodejs-vscode.webp

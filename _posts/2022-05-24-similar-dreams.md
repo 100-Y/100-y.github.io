@@ -2,7 +2,6 @@
 layout: post
 title: 相通的梦——Similar Dreams
 date: 2022-05-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 执行力的真相——The Truth of Execution
 date: 2025-02-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

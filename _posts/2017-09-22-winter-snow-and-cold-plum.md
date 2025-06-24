@@ -2,7 +2,6 @@
 layout: post
 title: 冬雪寒——Winter Snow and Cold Plum
 date: 2017-09-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

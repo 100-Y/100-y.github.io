@@ -2,7 +2,6 @@
 layout: post
 title: 伤口上的盐——Salt on the Wound
 date: 2024-12-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

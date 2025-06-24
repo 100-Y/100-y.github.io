@@ -2,7 +2,6 @@
 layout: post
 title: 安身立命的第一法则｜First rule of living
 date: 2023-04-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 致富士康工友的一首诗｜A poem to foxconn workers
 date: 2023-03-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

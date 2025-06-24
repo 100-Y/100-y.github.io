@@ -2,7 +2,6 @@
 layout: post
 title: 量子灵学｜quantum-spirituality
 date: 2022-11-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

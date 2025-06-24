@@ -2,7 +2,6 @@
 layout: post
 title: 这个世界——This World
 date: 2022-01-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 逝去中的灵感｜Passing inspiration
 date: 2023-02-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

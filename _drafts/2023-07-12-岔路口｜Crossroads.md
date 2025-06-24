@@ -2,7 +2,6 @@
 layout: post
 title: 岔路口｜Crossroads
 date: 2023-07-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

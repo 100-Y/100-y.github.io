@@ -2,7 +2,6 @@
 layout: post
 title: 政客和军人｜Politicians and soldiers
 date: 2022-08-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

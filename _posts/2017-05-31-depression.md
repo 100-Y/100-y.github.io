@@ -2,7 +2,6 @@
 layout: post
 title: 像是抑郁——Depression
 date: 2017-05-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 谁是尼玛，我是尼玛｜who-is-nima-i-am-nima
 date: 2024-05-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

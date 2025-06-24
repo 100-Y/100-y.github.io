@@ -2,7 +2,6 @@
 layout: post
 title: 自由意志主义最佳的体现｜Best expression of libertarianism
 date: 2023-01-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 雨水和土壤——Rain and Soil
 date: 2021-09-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

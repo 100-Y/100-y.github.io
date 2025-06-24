@@ -2,7 +2,6 @@
 layout: post
 title: 鸡尸粉｜Chicken corpse powder
 date: 2023-03-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

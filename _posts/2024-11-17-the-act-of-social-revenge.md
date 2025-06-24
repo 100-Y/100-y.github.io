@@ -2,7 +2,6 @@
 layout: post
 title: 报复社会的行为——The Act of Social Revenge
 date: 2024-11-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

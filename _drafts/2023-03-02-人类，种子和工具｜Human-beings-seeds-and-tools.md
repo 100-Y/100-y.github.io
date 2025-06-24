@@ -2,7 +2,6 @@
 layout: post
 title: 人类，种子和工具｜Human beings, seeds and tools
 date: 2023-03-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

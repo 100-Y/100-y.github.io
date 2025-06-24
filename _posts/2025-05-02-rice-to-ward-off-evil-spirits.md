@@ -2,8 +2,7 @@
 layout: post
 title: 洒米驱赶邪祟的隔房幺娘
 date: 2025-05-02
-excerpt: 在面对危机时，洒米驱邪是一种带有安慰性质的传统行为，它揭示了民间信仰在人类情感应对机制中的价值。Scattering rice during crisis is a comforting traditional act, revealing the value of folk beliefs in human emotional coping.
-description:
+description: 在面对危机时，洒米驱邪是一种带有安慰性质的传统行为，它揭示了民间信仰在人类情感应对机制中的价值。Scattering rice during crisis is a comforting traditional act, revealing the value of folk beliefs in human emotional coping.
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/
 categories: Notes

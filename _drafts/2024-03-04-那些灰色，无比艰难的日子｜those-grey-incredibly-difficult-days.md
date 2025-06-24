@@ -2,7 +2,6 @@
 layout: post
 title: 那些灰色，无比艰难的日子｜those-grey-incredibly-difficult-days
 date: 2024-03-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

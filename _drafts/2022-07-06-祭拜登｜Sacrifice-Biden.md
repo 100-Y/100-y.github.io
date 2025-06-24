@@ -2,7 +2,6 @@
 layout: post
 title: 祭拜登｜Sacrifice Biden
 date: 2022-07-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 内外兼修｜Cultivate oneself both internally and externally
 date: 2024-01-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

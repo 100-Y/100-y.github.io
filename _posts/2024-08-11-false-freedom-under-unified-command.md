@@ -2,7 +2,6 @@
 layout: post
 title: 统一指示下的虚假自由——False Freedom Under Unified Command
 date: 2024-08-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

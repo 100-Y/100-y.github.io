@@ -2,7 +2,6 @@
 layout: post
 title: 嘲讽与启迪｜Mockery and enlightenment
 date: 2022-08-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

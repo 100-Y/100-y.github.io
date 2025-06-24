@@ -2,7 +2,6 @@
 layout: post
 title: 人性区分和统一：基础、层级，认知和意识｜Distinction and unity of human nature: foundation, hierarchy, cognition and consciousness
 date: 2024-01-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 国家与人｜Country and human
 date: 2022-08-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

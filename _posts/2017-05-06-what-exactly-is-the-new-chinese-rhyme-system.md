@@ -2,7 +2,6 @@
 layout: post
 title: 中华新韵到底是怎么一回事？——What Exactly is the New Chinese Rhyme System?
 date: 2017-05-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

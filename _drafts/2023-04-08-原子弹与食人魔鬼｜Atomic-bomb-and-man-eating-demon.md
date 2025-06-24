@@ -2,7 +2,6 @@
 layout: post
 title: 原子弹与食人魔鬼｜Atomic bomb and man-eating demon
 date: 2023-04-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

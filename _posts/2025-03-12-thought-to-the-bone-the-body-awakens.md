@@ -2,7 +2,6 @@
 layout: post
 title: 思想入骨，肉身觉醒——Thought to the Bone, the Body Awakens
 date: 2025-03-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 别有用心的教育｜Ulterior education
 date: 2023-03-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

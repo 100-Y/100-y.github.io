@@ -2,7 +2,6 @@
 layout: post
 title: 不是树，而是森林——Not a Tree, But a Forest
 date: 2024-12-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 她的无知，我的愚昧——Her Ignorance and mine
 date: 2018-04-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

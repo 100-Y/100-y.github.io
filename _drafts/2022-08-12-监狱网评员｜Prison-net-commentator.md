@@ -2,7 +2,6 @@
 layout: post
 title: 监狱网评员｜Prison net commentator
 date: 2022-08-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

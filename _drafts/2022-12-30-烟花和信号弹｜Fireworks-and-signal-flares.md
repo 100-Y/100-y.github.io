@@ -2,7 +2,6 @@
 layout: post
 title: 烟花和信号弹｜Fireworks and signal flares
 date: 2022-12-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

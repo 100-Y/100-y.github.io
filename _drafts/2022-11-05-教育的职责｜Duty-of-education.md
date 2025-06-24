@@ -2,7 +2,6 @@
 layout: post
 title: 教育的职责｜Duty of education
 date: 2022-11-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

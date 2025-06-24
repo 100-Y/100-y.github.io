@@ -2,7 +2,6 @@
 layout: post
 title: 苦海｜suffering-sea
 date: 2023-05-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 白云——White Clouds
 date: 2015-01-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

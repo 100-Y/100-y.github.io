@@ -2,7 +2,6 @@
 layout: post
 title: 天空坠落一粒尘埃——A Dust Falling from Sky (1-1)
 date: 2018-01-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

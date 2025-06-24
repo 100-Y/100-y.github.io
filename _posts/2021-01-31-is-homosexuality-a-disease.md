@@ -2,7 +2,6 @@
 layout: post
 title: 同性恋是不是病｜Is Homosexuality a Disease
 date: 2021-01-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

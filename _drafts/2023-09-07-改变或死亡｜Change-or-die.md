@@ -2,7 +2,6 @@
 layout: post
 title: 改变或死亡｜Change or die
 date: 2023-09-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

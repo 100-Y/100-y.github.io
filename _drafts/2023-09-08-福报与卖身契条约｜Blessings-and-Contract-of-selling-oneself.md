@@ -2,7 +2,6 @@
 layout: post
 title: 福报与卖身契条约｜Blessings and Contract of selling oneself
 date: 2023-09-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

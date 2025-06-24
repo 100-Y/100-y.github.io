@@ -2,7 +2,6 @@
 layout: post
 title: 蛆的认知｜Cognition of maggots
 date: 2023-03-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

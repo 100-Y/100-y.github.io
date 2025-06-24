@@ -2,7 +2,6 @@
 layout: post
 title: 恶的相对论——Relativity of Evil
 date: 2022-01-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

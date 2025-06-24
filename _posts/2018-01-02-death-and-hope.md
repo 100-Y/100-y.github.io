@@ -2,7 +2,6 @@
 layout: post
 title: 死亡和希望——Death and Hope
 date: 2018-01-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

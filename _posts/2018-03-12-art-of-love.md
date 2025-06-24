@@ -2,7 +2,6 @@
 layout: post
 title: 爱的艺术——Art of Love
 date: 2018-03-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

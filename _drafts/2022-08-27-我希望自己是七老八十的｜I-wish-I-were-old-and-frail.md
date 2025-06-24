@@ -2,7 +2,6 @@
 layout: post
 title: 我希望自己是七老八十的｜I wish I were old and frail
 date: 2022-08-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

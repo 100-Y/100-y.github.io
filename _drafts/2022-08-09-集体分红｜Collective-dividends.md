@@ -2,7 +2,6 @@
 layout: post
 title: 集体分红｜Collective dividends
 date: 2022-08-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 浅谈婴幼儿家庭教育｜On family education for infants
 date: 2023-01-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

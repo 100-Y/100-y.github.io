@@ -2,7 +2,6 @@
 layout: post
 title: 意淫，精神内耗最大的由头｜Fantasy, biggest cause of mental exhaustion
 date: 2022-08-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 适当的尊重｜Proper respect
 date: 2022-07-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

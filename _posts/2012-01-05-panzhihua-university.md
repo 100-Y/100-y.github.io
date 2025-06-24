@@ -2,7 +2,6 @@
 layout: post
 title: 攀大——Panzhihua University
 date: 2012-01-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

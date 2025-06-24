@@ -2,7 +2,6 @@
 layout: post
 title: 我的一个小小愿望｜A little wish of mine
 date: 2022-08-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 一套霸凌和撇清关系的流程｜A set of bullying and disassociating process
 date: 2022-11-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

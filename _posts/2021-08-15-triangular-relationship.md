@@ -2,7 +2,6 @@
 layout: post
 title: 三角关系——Triangular Relationship
 date: 2021-08-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

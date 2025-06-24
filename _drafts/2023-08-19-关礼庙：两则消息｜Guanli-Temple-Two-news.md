@@ -2,7 +2,6 @@
 layout: post
 title: 关礼庙：两则消息｜Guanli Temple: Two news
 date: 2023-08-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

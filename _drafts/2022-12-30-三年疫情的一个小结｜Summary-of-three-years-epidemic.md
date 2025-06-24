@@ -2,7 +2,6 @@
 layout: post
 title: 三年疫情的一个小结｜Summary of three years epidemic
 date: 2022-12-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 个人的悲欢——Personal Joys and Sorrows
 date: 2021-10-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

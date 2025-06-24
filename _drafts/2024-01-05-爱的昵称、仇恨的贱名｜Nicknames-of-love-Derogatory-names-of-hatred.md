@@ -2,7 +2,6 @@
 layout: post
 title: 爱的昵称、仇恨的贱名｜Nicknames of love, Derogatory names of hatred
 date: 2024-01-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

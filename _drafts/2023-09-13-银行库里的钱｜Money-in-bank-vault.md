@@ -2,7 +2,6 @@
 layout: post
 title: 银行库里的钱｜Money in bank vault
 date: 2023-09-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

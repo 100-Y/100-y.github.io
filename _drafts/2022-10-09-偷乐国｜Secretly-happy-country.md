@@ -2,7 +2,6 @@
 layout: post
 title: 偷乐国｜Secretly happy country
 date: 2022-10-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

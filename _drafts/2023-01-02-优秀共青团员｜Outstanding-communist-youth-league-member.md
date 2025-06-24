@@ -2,7 +2,6 @@
 layout: post
 title: 优秀共青团员｜Outstanding communist youth league member
 date: 2023-01-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 虚假繁荣｜False prosperity
 date: 2022-08-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

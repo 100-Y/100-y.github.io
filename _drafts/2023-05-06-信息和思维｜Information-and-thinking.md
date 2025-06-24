@@ -2,7 +2,6 @@
 layout: post
 title: 信息和思维｜Information and thinking
 date: 2023-05-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

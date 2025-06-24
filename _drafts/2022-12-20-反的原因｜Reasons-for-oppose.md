@@ -2,7 +2,6 @@
 layout: post
 title: 反的原因｜Reasons for oppose
 date: 2022-12-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

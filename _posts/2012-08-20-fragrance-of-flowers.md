@@ -2,7 +2,6 @@
 layout: post
 title: 花香——Fragrance of Flowers
 date: 2012-08-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

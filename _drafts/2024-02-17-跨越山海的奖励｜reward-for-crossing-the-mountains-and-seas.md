@@ -2,7 +2,6 @@
 layout: post
 title: 跨越山海的奖励｜reward-for-crossing-the-mountains-and-seas
 date: 2024-02-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

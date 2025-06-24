@@ -2,7 +2,6 @@
 layout: post
 title: 寻找海盗——Looking for the Pirates (4-)
 date: 2019-01-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

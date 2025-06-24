@@ -2,7 +2,6 @@
 layout: post
 title: 抑郁的个体——The Depressed Individual
 date: 2024-11-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

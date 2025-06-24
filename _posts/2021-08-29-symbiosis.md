@@ -2,7 +2,6 @@
 layout: post
 title: 共生关系——Symbiosis
 date: 2021-08-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 单身的好处——Benefits of Being Single
 date: 2022-05-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

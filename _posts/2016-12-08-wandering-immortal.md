@@ -2,7 +2,6 @@
 layout: post
 title: 浪仙——Wandering Immortal
 date: 2016-12-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

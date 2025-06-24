@@ -2,7 +2,6 @@
 layout: post
 title: 希望的通道｜A hope channel
 date: 2022-11-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

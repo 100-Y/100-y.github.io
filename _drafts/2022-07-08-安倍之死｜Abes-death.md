@@ -2,7 +2,6 @@
 layout: post
 title: 安倍之死｜Abe’s death
 date: 2022-07-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

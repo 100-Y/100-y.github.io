@@ -2,7 +2,6 @@
 layout: post
 title: 随机群发事件的解读及其社会隐喻——The Interpretation of Random Mass Incidents and Their Social Implications
 date: 2024-11-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

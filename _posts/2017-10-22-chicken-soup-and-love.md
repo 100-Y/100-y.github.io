@@ -2,7 +2,6 @@
 layout: post
 title: 鸡汤和爱情——Chicken Soup and Love
 date: 2017-10-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

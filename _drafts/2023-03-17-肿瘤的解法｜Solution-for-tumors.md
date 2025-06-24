@@ -2,7 +2,6 @@
 layout: post
 title: 肿瘤的解法｜Solution for tumors
 date: 2023-03-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

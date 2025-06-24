@@ -2,7 +2,6 @@
 layout: post
 title: 疫情志愿者｜Epidemic volunteers
 date: 2022-10-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

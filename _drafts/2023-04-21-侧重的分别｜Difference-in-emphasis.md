@@ -2,7 +2,6 @@
 layout: post
 title: 侧重的分别｜Difference in emphasis
 date: 2023-04-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

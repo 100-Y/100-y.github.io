@@ -2,7 +2,6 @@
 layout: post
 title: 古代朝鲜｜Ancient Korea
 date: 2022-05-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

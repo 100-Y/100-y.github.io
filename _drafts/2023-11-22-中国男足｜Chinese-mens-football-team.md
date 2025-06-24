@@ -2,7 +2,6 @@
 layout: post
 title: 中国男足｜Chinese men’s football team
 date: 2023-11-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

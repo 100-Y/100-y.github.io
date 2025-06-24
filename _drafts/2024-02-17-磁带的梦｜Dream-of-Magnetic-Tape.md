@@ -2,7 +2,6 @@
 layout: post
 title: 磁带的梦｜Dream of Magnetic Tape
 date: 2024-02-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

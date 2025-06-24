@@ -2,7 +2,6 @@
 layout: post
 title: 种子与播种者——Seeds and Sowers
 date: 2022-04-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

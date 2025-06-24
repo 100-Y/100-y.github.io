@@ -2,7 +2,6 @@
 layout: post
 title: 那个精致利己的毛左——That Left Egoism\_Maoist
 date: 2024-12-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

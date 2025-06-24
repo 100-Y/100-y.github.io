@@ -2,7 +2,6 @@
 layout: post
 title: 狗腿和英雄｜Lackey and hero
 date: 2024-02-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

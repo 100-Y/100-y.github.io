@@ -2,7 +2,6 @@
 layout: post
 title: 站起来的原因｜Reasons to stand up
 date: 2022-11-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 东北意志、黄俄精神与变种｜Northeastern will, Yellow Russian spirit, and its variant
 date: 2024-02-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

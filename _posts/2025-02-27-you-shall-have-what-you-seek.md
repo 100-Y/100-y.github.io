@@ -2,7 +2,6 @@
 layout: post
 title: 你将获得你所求的一切——You Shall Have What You Seek
 date: 2025-02-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

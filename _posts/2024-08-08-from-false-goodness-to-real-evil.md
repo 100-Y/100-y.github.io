@@ -2,7 +2,6 @@
 layout: post
 title: 从虚假的善到切实的恶——From False Goodness to Real Evil
 date: 2024-08-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 等待行刑的过程｜Process of awaiting execution
 date: 2022-09-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

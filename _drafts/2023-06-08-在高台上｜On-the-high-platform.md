@@ -2,7 +2,6 @@
 layout: post
 title: 在高台上｜On the high platform
 date: 2023-06-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

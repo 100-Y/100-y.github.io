@@ -2,7 +2,6 @@
 layout: post
 title: 不再等待——No Longer Waiting
 date: 2024-11-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 妖风｜Demonic wind
 date: 2023-03-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 美国、中国、俄罗斯——USA, China and Russia
 date: 2022-02-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

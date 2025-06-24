@@ -2,7 +2,6 @@
 layout: post
 title: 36525天，Yaniék—雅捏克—Яниэк—يانيك：“百年”新词，跨文化的构造逻辑
 date: 2025-02-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

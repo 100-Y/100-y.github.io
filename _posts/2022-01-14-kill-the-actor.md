@@ -2,7 +2,6 @@
 layout: post
 title: 杀死该演员——Kill the Actor
 date: 2022-01-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

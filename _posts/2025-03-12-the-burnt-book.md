@@ -2,7 +2,6 @@
 layout: post
 title: 燃尽之书——The Burnt Book
 date: 2025-03-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

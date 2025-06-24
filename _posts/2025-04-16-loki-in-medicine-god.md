@@ -2,8 +2,7 @@
 layout: post
 title: 药神中的洛基：吞咽之死的技术暴力
 date: 2025-04-16
-excerpt: 当药物剥夺进食能力，生的尊严悄然被抽空——这不是拯救，而是无声的谋杀。When medicine deprives one of the ability to eat, dignity of life is quietly hollowed out—this is not salvation, but a silent murder.
-description:
+description: 当药物剥夺进食能力，生的尊严悄然被抽空——这不是拯救，而是无声的谋杀。When medicine deprives one of the ability to eat, dignity of life is quietly hollowed out—this is not salvation, but a silent murder.
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/
 categories: Notes

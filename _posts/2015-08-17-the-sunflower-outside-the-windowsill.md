@@ -2,7 +2,6 @@
 layout: post
 title: 窗台外的向日葵花——The Sunflower Outside the Windowsill
 date: 2015-08-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

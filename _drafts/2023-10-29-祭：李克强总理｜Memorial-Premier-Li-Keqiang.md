@@ -2,7 +2,6 @@
 layout: post
 title: 祭：李克强总理｜Memorial: Premier Li Keqiang
 date: 2023-10-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

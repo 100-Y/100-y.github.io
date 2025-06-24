@@ -2,7 +2,6 @@
 layout: post
 title: 四季——Four Seasons
 date: 2015-07-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

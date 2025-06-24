@@ -2,7 +2,6 @@
 layout: post
 title: 中立的批评者：标签与抽离｜A neutral critic: Labels and Detachment
 date: 2023-12-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

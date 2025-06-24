@@ -2,7 +2,6 @@
 layout: post
 title: 科学上网——Scientific Internet Surfing
 date: 2025-02-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

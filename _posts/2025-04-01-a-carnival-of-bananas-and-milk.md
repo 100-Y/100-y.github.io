@@ -2,7 +2,6 @@
 layout: post
 title: 香蕉和牛奶的狂欢——A Carnival of Bananas and Milk
 date: 2025-04-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

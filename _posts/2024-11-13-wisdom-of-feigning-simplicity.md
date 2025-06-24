@@ -2,7 +2,6 @@
 layout: post
 title: “出门装瓜娃儿”的智慧——Wisdom of Feigning Simplicity
 date: 2024-11-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

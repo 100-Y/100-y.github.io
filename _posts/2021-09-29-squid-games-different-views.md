@@ -2,7 +2,6 @@
 layout: post
 title: 鱿鱼游戏，不同的观点——Squid Games, Different View
 date: 2021-09-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

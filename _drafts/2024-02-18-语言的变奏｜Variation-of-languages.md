@@ -2,7 +2,6 @@
 layout: post
 title: 语言的变奏｜Variation of languages
 date: 2024-02-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

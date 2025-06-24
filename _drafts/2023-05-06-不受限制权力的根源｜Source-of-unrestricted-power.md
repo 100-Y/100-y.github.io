@@ -2,7 +2,6 @@
 layout: post
 title: 不受限制权力的根源｜Source of unrestricted power
 date: 2023-05-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

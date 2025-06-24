@@ -2,7 +2,6 @@
 layout: post
 title: 臭味相同的人——People who smell the same
 date: 2023-02-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

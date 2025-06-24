@@ -2,7 +2,6 @@
 layout: post
 title: 合法的毒品｜Legal drug
 date: 2024-01-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

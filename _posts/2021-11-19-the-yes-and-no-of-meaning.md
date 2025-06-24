@@ -2,7 +2,6 @@
 layout: post
 title: 意义的有无——The Yes and No of Meaning
 date: 2021-11-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

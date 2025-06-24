@@ -2,7 +2,6 @@
 layout: post
 title: 极左与极右｜Extreme left and extreme right
 date: 2022-12-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

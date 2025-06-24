@@ -2,7 +2,6 @@
 layout: post
 title: 如何维持长久的幸福、快乐，安康——How to Maintain Long-term Happiness, Joy, and Well-being
 date: 2022-02-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

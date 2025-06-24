@@ -2,7 +2,6 @@
 layout: post
 title: 生命的终极——Ultimate of Life
 date: 2020-11-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

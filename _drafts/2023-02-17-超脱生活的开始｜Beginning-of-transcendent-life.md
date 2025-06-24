@@ -2,7 +2,6 @@
 layout: post
 title: 超脱生活的开始｜Beginning of transcendent life
 date: 2023-02-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

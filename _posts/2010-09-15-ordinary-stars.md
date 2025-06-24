@@ -2,7 +2,6 @@
 layout: post
 title: 凡星——Ordinary Stars
 date: 2010-09-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

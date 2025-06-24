@@ -2,7 +2,6 @@
 layout: post
 title: 供销社｜Supply and marketing cooperatives
 date: 2022-10-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

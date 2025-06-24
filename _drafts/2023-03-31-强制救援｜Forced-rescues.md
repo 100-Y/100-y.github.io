@@ -2,7 +2,6 @@
 layout: post
 title: 强制救援｜Forced rescues
 date: 2023-03-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

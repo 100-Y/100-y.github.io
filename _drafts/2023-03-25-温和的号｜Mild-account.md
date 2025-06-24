@@ -2,7 +2,6 @@
 layout: post
 title: 温和的号｜Mild account
 date: 2023-03-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

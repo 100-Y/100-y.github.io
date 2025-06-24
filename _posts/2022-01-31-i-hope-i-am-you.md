@@ -2,7 +2,6 @@
 layout: post
 title: 我希望我是你——I Hope I am You
 date: 2022-01-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

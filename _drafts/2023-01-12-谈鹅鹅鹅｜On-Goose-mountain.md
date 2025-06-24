@@ -2,7 +2,6 @@
 layout: post
 title: 谈鹅鹅鹅｜On Goose mountain
 date: 2023-01-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

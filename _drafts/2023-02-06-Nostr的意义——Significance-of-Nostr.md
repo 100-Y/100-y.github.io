@@ -2,7 +2,6 @@
 layout: post
 title: Nostr的意义——Significance of Nostr
 date: 2023-02-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 海峡两岸的政客与人民｜Politicians and people between Taiwan Strait
 date: 2022-08-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

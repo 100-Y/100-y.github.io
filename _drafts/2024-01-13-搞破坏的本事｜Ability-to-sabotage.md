@@ -2,7 +2,6 @@
 layout: post
 title: 搞破坏的本事｜Ability to sabotage
 date: 2024-01-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

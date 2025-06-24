@@ -2,7 +2,6 @@
 layout: post
 title: 高级别的高级黑｜Advanced high-level blacken
 date: 2023-09-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

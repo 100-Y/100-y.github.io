@@ -2,7 +2,6 @@
 layout: post
 title: 马克思和秦始皇，张献忠与学生｜Marx and Qin Shihuang, Zhang Xianzhong and students
 date: 2023-04-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

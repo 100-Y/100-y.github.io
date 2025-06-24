@@ -2,7 +2,6 @@
 layout: post
 title: 通天的枷锁｜Shackle to heaven
 date: 2022-12-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

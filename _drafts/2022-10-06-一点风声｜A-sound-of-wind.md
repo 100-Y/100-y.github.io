@@ -2,7 +2,6 @@
 layout: post
 title: 一点风声｜A sound of wind
 date: 2022-10-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 吾系不知汝——I Don&#8217;t Know You
 date: 2017-02-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

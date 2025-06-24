@@ -2,7 +2,6 @@
 layout: post
 title: 从冷漠到狂热、从ChatGPT到DeepSeek：AI 话语权的操控与认知驯化
 date: 2025-03-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

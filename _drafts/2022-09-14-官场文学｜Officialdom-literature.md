@@ -2,7 +2,6 @@
 layout: post
 title: 官场文学｜Officialdom literature
 date: 2022-09-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

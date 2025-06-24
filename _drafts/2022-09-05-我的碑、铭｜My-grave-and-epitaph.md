@@ -2,7 +2,6 @@
 layout: post
 title: 我的碑、铭｜My grave and epitaph
 date: 2022-09-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

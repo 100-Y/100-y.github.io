@@ -2,7 +2,6 @@
 layout: post
 title: 牛郎和织女——NiuLang and ZhiNv
 date: 2015-06-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

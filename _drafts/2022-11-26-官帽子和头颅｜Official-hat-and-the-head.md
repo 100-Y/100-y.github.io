@@ -2,7 +2,6 @@
 layout: post
 title: 官帽子和头颅｜Official hat and the head
 date: 2022-11-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

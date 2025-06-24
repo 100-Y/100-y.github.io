@@ -2,7 +2,6 @@
 layout: post
 title: 大雪与少年——Heavy Snow and Boy
 date: 2015-01-16
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

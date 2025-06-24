@@ -2,7 +2,6 @@
 layout: post
 title: 十天、叶子树｜Ten days and leaf tree
 date: 2024-12-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

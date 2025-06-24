@@ -2,7 +2,6 @@
 layout: post
 title: 人工智能之战｜The War of AI
 date: 2023-03-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

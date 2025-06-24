@@ -2,7 +2,6 @@
 layout: post
 title: 常态化核酸检测和封城｜Normalised nucleic acid testing and city closures
 date: 2022-09-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

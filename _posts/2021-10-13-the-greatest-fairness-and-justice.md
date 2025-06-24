@@ -2,7 +2,6 @@
 layout: post
 title: 最大的公平与正义——The Greatest Fairness and Justice
 date: 2021-10-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

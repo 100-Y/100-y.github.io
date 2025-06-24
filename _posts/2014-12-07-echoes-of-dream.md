@@ -2,7 +2,6 @@
 layout: post
 title: 梦的回响——Echoes of Dream
 date: 2014-12-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

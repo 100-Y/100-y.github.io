@@ -2,7 +2,6 @@
 layout: post
 title: 大一统思想｜The great unification idea
 date: 2023-02-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

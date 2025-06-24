@@ -2,7 +2,6 @@
 layout: post
 title: 成年人缓解痛苦，合法又不伤害ta人的方式｜Legal and harmless ways for adults to relieve pains
 date: 2022-08-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

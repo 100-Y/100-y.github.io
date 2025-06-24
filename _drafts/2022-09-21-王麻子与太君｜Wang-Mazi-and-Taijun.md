@@ -2,7 +2,6 @@
 layout: post
 title: 王麻子与太君｜Wang Mazi and Taijun
 date: 2022-09-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

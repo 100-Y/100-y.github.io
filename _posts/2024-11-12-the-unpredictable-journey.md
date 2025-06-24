@@ -2,7 +2,6 @@
 layout: post
 title: 不可预知的旅途——The Unpredictable Journey
 date: 2024-11-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 谈民主——On Democracy
 date: 2021-12-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

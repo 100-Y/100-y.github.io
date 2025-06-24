@@ -2,7 +2,6 @@
 layout: post
 title: 大学本科毕业论文设计｜Design of undergraduate thesis
 date: 2022-08-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 成都冬天的雾霾｜The haze in winter in Chengdu
 date: 2023-12-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

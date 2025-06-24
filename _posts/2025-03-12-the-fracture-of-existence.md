@@ -2,7 +2,6 @@
 layout: post
 title: 存在的裂缝——The Fracture of Existence
 date: 2025-03-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

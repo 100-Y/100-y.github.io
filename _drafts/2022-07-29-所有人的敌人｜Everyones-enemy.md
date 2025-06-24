@@ -2,7 +2,6 @@
 layout: post
 title: 所有人的敌人｜Everyone’s enemy
 date: 2022-07-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

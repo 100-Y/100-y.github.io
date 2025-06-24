@@ -2,7 +2,6 @@
 layout: post
 title: 打拳的本质——Essence of Boxing
 date: 2022-05-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

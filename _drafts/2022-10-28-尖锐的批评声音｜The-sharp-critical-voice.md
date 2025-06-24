@@ -2,7 +2,6 @@
 layout: post
 title: 尖锐的批评声音｜The sharp critical voice
 date: 2022-10-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 顶尖人物：象牙塔与知行合一｜Top figures: Ivory tower and Unity of knowledge and action
 date: 2024-01-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

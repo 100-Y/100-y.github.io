@@ -2,7 +2,6 @@
 layout: post
 title: 生老病死｜Birth and Aging, Illness and Death
 date: 2021-05-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

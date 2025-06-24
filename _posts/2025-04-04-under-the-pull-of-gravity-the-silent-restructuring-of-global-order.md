@@ -2,7 +2,6 @@
 layout: post
 title: 引力之下——全球秩序的无声重构 / Under the Pull of Gravity - The Silent Restructuring of Global Order
 date: 2025-04-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

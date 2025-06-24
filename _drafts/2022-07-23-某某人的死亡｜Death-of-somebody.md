@@ -2,7 +2,6 @@
 layout: post
 title: 某某人的死亡｜Death of somebody
 date: 2022-07-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

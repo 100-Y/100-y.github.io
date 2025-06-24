@@ -2,7 +2,6 @@
 layout: post
 title: 反收割自我操作系统——Anti-harvest Self-operating System
 date: 2025-04-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

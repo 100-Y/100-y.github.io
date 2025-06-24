@@ -2,7 +2,6 @@
 layout: post
 title: 想要股市好｜To improve stock market
 date: 2024-02-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

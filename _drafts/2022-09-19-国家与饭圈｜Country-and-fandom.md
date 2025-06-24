@@ -2,7 +2,6 @@
 layout: post
 title: 国家与饭圈｜Country and fandom
 date: 2022-09-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

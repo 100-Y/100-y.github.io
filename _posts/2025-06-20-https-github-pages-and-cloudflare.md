@@ -2,7 +2,6 @@
 layout: post
 title: GitHub Pages + Cloudflare 自定义域名 HTTPS 配置指南
 date: 2025-06-20
-excerpt:
 description:
 og_image: /assets/img/blog/https-github-pages-and-cloudflare.webp
 thumbnail: /assets/img/blog/https-github-pages-and-cloudflare.webp

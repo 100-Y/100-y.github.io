@@ -2,7 +2,6 @@
 layout: post
 title: 个人炒菜指南｜Personal stir-frying guide
 date: 2024-12-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

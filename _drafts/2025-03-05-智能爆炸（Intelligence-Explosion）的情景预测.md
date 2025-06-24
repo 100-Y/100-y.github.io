@@ -2,7 +2,6 @@
 layout: post
 title: 智能爆炸”（Intelligence Explosion）的情景预测
 date: 2025-03-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 扣帽子｜ Label a hat
 date: 2022-12-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

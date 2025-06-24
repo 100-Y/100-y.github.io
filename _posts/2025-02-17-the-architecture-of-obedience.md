@@ -2,7 +2,6 @@
 layout: post
 title: 顺从的建筑学——The Architecture of Obedience
 date: 2025-02-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

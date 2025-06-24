@@ -2,7 +2,6 @@
 layout: post
 title: 遥远的土地——A Distant Land
 date: 2024-11-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

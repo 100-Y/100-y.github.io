@@ -2,7 +2,6 @@
 layout: post
 title: 呜呜喳喳——Whining and Babbling
 date: 2022-05-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

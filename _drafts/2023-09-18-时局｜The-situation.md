@@ -2,7 +2,6 @@
 layout: post
 title: 时局｜The situation
 date: 2023-09-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

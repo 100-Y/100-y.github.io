@@ -2,7 +2,6 @@
 layout: post
 title: 官方精选评论｜Official featured reviews
 date: 2023-01-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

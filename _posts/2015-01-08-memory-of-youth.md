@@ -2,7 +2,6 @@
 layout: post
 title: 青春记忆——Memory of Youth
 date: 2015-01-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

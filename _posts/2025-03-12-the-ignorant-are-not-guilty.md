@@ -2,7 +2,6 @@
 layout: post
 title: 无知者无罪——The Ignorant are not Guilty
 date: 2025-03-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

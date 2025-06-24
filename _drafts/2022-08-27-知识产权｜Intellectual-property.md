@@ -2,7 +2,6 @@
 layout: post
 title: 知识产权｜Intellectual property
 date: 2022-08-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

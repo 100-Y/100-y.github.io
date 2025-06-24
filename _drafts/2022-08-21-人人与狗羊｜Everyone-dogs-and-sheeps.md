@@ -2,7 +2,6 @@
 layout: post
 title: 人人与狗羊｜Everyone, dogs and sheeps
 date: 2022-08-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 李子柒的作品——Li Ziqi&#8217;s Work
 date: 2024-11-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 夜孤沉筒——Fishing Alone at Night
 date: 2011-08-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

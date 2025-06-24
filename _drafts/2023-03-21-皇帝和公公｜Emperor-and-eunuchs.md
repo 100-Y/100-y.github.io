@@ -2,7 +2,6 @@
 layout: post
 title: 皇帝和公公｜Emperor and eunuchs
 date: 2023-03-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

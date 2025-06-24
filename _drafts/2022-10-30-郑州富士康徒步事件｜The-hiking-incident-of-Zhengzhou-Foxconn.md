@@ -2,7 +2,6 @@
 layout: post
 title: 郑州富士康徒步事件｜The hiking incident of Zhengzhou Foxconn
 date: 2022-10-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

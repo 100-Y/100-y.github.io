@@ -2,7 +2,6 @@
 layout: post
 title: 新闻和文旅｜News and cultural tourism
 date: 2024-01-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

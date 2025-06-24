@@ -2,7 +2,6 @@
 layout: post
 title: 观点与表达｜Views and Expressions
 date: 2021-05-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 台湾省与广汉市｜taiwan-province-and-guanghan-city
 date: 2024-05-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

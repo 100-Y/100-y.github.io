@@ -2,7 +2,6 @@
 layout: post
 title: A4纸，写在未来｜A4 paper, written in the future
 date: 2022-11-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

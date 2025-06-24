@@ -2,7 +2,6 @@
 layout: post
 title: “坏”的一种具体呈现｜A concrete presentation of “bad”
 date: 2023-12-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 残疾与恶｜Disability and wickedness
 date: 2024-01-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 医院和燃料｜Hospital and fuels
 date: 2023-09-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

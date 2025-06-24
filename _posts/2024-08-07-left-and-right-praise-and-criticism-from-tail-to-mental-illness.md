@@ -2,7 +2,6 @@
 layout: post
 title: 左右，赞美和批评——从尾巴谈论到精神病 / Left and Right, Praise and Criticism - From Tail to Mental Illness
 date: 2024-08-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

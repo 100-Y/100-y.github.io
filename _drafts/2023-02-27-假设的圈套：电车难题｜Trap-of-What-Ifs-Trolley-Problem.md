@@ -2,7 +2,6 @@
 layout: post
 title: 假设的圈套：电车难题｜Trap of What Ifs: Trolley Problem
 date: 2023-02-27
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

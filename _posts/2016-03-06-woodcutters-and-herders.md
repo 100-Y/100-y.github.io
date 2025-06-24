@@ -2,7 +2,6 @@
 layout: post
 title: 樵牧——Woodcutters and Herders
 date: 2016-03-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

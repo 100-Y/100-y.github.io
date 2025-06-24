@@ -2,7 +2,6 @@
 layout: post
 title: 改革开放与闭关锁国｜Reform and opening up, Close passes and seal off country
 date: 2023-04-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

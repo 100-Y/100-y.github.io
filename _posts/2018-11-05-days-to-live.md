@@ -2,7 +2,6 @@
 layout: post
 title: 要过的日子——Days to Live
 date: 2018-11-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

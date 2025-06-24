@@ -2,7 +2,6 @@
 layout: post
 title: 石头城｜Stone city
 date: 2023-11-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

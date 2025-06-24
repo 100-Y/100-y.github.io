@@ -2,7 +2,6 @@
 layout: post
 title: 十一年翻墙的经验和教训｜Eleven years’ experiences and lessons from circumventing the firewall
 date: 2022-10-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

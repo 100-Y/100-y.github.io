@@ -2,7 +2,6 @@
 layout: post
 title: 若这就是我的遗言——If This is My Last Words
 date: 2021-11-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

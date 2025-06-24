@@ -2,7 +2,6 @@
 layout: post
 title: 闭嘴的力量——Power of Shut Up
 date: 2024-11-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 鸵鸟的小丑｜Clown of ostriches
 date: 2023-04-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

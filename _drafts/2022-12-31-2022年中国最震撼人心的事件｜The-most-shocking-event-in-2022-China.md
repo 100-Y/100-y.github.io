@@ -2,7 +2,6 @@
 layout: post
 title: 2022年中国最震撼人心的事件｜The most shocking event in 2022 China
 date: 2022-12-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

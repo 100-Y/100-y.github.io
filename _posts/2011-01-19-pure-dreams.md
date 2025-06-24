@@ -2,7 +2,6 @@
 layout: post
 title: 纯情梦想——Pure Dreams
 date: 2011-01-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

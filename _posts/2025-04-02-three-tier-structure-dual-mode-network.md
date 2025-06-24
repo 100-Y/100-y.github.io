@@ -2,7 +2,6 @@
 layout: post
 title: 三层结构，双态网络：家庭网络架构中的角色分工与流量分流策略
 date: 2025-04-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

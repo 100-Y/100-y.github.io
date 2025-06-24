@@ -2,7 +2,6 @@
 layout: post
 title: 黑暗痛苦——Dark Pains
 date: 2017-01-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 怎样的一种德性｜What a kind of moral character
 date: 2023-08-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

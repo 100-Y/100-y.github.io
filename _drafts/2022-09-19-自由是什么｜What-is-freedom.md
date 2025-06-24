@@ -2,7 +2,6 @@
 layout: post
 title: 自由是什么｜What is freedom
 date: 2022-09-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

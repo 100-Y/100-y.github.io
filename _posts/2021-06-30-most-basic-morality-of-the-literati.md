@@ -2,7 +2,6 @@
 layout: post
 title: 文人最基本的道德——Most Basic Morality of the Literati
 date: 2021-06-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

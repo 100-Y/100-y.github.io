@@ -2,7 +2,6 @@
 layout: post
 title: 毛泽东与邓小平的功和过｜Merits and demerits of Mao and Deng
 date: 2023-04-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

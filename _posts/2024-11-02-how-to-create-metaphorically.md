@@ -2,7 +2,6 @@
 layout: post
 title: 如何隐喻地进行创作？——How to Create Metaphorically?
 date: 2024-11-02
-excerpt:
 description:
 reader_suggested_tags:
   - '["Leadership","Mindset","Personal Development","English","Procrastination"]'

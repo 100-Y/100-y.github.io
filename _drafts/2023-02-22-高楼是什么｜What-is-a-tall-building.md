@@ -2,7 +2,6 @@
 layout: post
 title: 高楼是什么｜What is a tall building
 date: 2023-02-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

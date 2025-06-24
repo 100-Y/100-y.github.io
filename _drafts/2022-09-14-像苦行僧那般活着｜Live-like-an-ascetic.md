@@ -2,7 +2,6 @@
 layout: post
 title: 像苦行僧那般活着｜Live like an ascetic
 date: 2022-09-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

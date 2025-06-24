@@ -2,7 +2,6 @@
 layout: post
 title: 勇敢的人民——Brave People
 date: 2022-06-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

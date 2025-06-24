@@ -2,7 +2,6 @@
 layout: post
 title: 每个人的负重——Everyone’s Burden
 date: 2018-12-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

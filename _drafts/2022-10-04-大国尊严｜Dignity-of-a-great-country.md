@@ -2,7 +2,6 @@
 layout: post
 title: 大国尊严｜Dignity of a great country
 date: 2022-10-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

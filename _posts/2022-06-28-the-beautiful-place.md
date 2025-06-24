@@ -2,7 +2,6 @@
 layout: post
 title: 美好地方——The Beautiful Place
 date: 2022-06-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

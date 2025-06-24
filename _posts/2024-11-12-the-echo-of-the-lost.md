@@ -2,7 +2,6 @@
 layout: post
 title: 遗失的回声——The Echo of the Lost
 date: 2024-11-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

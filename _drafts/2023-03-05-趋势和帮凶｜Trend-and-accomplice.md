@@ -2,7 +2,6 @@
 layout: post
 title: 趋势和帮凶｜Trend and accomplice
 date: 2023-03-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

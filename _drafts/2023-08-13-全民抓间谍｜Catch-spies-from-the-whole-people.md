@@ -2,7 +2,6 @@
 layout: post
 title: 全民抓间谍｜Catch spies from the whole people
 date: 2023-08-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

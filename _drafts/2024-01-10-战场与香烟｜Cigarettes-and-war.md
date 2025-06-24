@@ -2,7 +2,6 @@
 layout: post
 title: 战场与香烟｜Cigarettes and war
 date: 2024-01-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

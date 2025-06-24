@@ -2,7 +2,6 @@
 layout: post
 title: 正常人的事情｜Normal people things
 date: 2022-12-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

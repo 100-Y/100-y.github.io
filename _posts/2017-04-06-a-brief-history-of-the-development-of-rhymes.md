@@ -2,7 +2,6 @@
 layout: post
 title: 韵发展史略——A Brief History of the Development of Rhymes
 date: 2017-04-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

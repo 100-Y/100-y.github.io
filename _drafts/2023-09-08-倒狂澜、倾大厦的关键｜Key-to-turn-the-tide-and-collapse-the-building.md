@@ -2,7 +2,6 @@
 layout: post
 title: 倒狂澜、倾大厦的关键｜Key to turn the tide and collapse the building
 date: 2023-09-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

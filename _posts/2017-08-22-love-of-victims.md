@@ -2,7 +2,6 @@
 layout: post
 title: 苦难人的爱情——Love of Victims
 date: 2017-08-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

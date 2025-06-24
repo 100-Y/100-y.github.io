@@ -2,7 +2,6 @@
 layout: post
 title: 一种自由意志的体现｜A manifestation of free will
 date: 2022-12-17
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 线装书的制法——Method of Making Thread Bound Books
 date: 2018-08-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

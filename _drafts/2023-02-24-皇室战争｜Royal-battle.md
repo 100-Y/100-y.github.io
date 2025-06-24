@@ -2,7 +2,6 @@
 layout: post
 title: 皇室战争｜Royal battle
 date: 2023-02-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

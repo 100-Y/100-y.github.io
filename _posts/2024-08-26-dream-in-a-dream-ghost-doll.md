@@ -2,7 +2,6 @@
 layout: post
 title: 梦中梦——鬼魅娃娃 / Dream in a Dream - Ghost Doll
 date: 2024-08-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

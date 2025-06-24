@@ -2,7 +2,6 @@
 layout: post
 title: ChatGPT，简评｜Brief review
 date: 2023-03-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

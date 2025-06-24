@@ -2,7 +2,6 @@
 layout: post
 title: 渴望与劣根性｜desire-and-inferior-nature
 date: 2024-05-16
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

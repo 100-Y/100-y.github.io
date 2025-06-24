@@ -2,7 +2,6 @@
 layout: post
 title: 右倾的左派｜Right-leaning leftists
 date: 2023-12-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

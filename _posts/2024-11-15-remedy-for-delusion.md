@@ -2,7 +2,6 @@
 layout: post
 title: 空想的良药——Remedy for Delusion
 date: 2024-11-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

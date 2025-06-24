@@ -2,7 +2,6 @@
 layout: post
 title: 甩锅的六种级别｜Six levels of pass the buck
 date: 2022-11-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

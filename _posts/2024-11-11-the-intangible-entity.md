@@ -2,7 +2,6 @@
 layout: post
 title: 无形之物——The Intangible Entity
 date: 2024-11-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

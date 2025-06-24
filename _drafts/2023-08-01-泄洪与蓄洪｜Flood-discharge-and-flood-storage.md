@@ -2,7 +2,6 @@
 layout: post
 title: 泄洪与蓄洪｜Flood discharge and flood storage
 date: 2023-08-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

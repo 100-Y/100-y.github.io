@@ -2,7 +2,6 @@
 layout: post
 title: 虚无的意义｜Meaning of nothingness
 date: 2023-04-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

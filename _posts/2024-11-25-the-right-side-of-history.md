@@ -2,7 +2,6 @@
 layout: post
 title: 历史正确的一边——The Right Side of History
 date: 2024-11-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

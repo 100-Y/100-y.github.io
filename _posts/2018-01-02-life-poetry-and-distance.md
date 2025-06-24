@@ -2,7 +2,6 @@
 layout: post
 title: 生活、诗和远方——Life, Poetry and Distance
 date: 2018-01-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

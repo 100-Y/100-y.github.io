@@ -2,7 +2,6 @@
 layout: post
 title: 无限悲哀——Infinite Sorrow
 date: 2022-05-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

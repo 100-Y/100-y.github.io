@@ -2,7 +2,6 @@
 layout: post
 title: 生，长｜Born and grow up
 date: 2023-11-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 朝阳——The Morning Sun
 date: 2024-10-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

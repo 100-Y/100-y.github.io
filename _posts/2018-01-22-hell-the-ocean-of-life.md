@@ -2,7 +2,6 @@
 layout: post
 title: 地狱，生命的海洋——Hell, the Ocean of Life (1-2)
 date: 2018-01-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

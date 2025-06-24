@@ -2,7 +2,6 @@
 layout: post
 title: 杜撰，林则徐之死——Apocryphal Death of Lin Zexu
 date: 2015-01-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

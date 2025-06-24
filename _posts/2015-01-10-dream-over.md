@@ -2,7 +2,6 @@
 layout: post
 title: 梦醒——Dream Over
 date: 2015-01-10
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

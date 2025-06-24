@@ -2,7 +2,6 @@
 layout: post
 title: 一本正经揶揄人的方法：茅台与狗｜A serious way to tease someone: Moutai and dogs
 date: 2024-01-31
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 不爱具体的人民｜Not loving the concrete people
 date: 2023-02-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

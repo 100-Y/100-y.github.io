@@ -2,7 +2,6 @@
 layout: post
 title: 你我都有美好的未来｜You and I all have a bright future
 date: 2022-09-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

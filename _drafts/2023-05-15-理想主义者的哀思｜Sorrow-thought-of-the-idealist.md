@@ -2,7 +2,6 @@
 layout: post
 title: 理想主义者的哀思｜Sorrow thought of the idealist
 date: 2023-05-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

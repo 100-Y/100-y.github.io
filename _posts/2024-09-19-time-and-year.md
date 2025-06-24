@@ -2,7 +2,6 @@
 layout: post
 title: 岁月时光——Time and Year
 date: 2024-09-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

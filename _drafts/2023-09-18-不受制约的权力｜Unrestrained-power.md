@@ -2,7 +2,6 @@
 layout: post
 title: 不受制约的权力｜Unrestrained power
 date: 2023-09-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

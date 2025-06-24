@@ -2,7 +2,6 @@
 layout: post
 title: 流水的政府，打铁的人民｜A government of flowing water, and a people of forging iron
 date: 2023-07-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 一朵白云｜A white cloud
 date: 2023-07-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

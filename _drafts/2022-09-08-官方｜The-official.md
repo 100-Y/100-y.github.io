@@ -2,7 +2,6 @@
 layout: post
 title: 官方｜The official
 date: 2022-09-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

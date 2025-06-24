@@ -2,7 +2,6 @@
 layout: post
 title: 影子秩序之下——Beneath the Shadow Order
 date: 2025-03-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 王子如梦记｜Princes&#8217; Dream (4-1)
 date: 2017-10-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

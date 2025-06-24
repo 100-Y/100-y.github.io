@@ -2,7 +2,6 @@
 layout: post
 title: 第三次世界大战｜The World War Three
 date: 2023-10-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

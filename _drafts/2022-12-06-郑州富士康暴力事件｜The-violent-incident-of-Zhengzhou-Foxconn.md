@@ -2,7 +2,6 @@
 layout: post
 title: 郑州富士康暴力事件｜The violent incident of Zhengzhou Foxconn
 date: 2022-12-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

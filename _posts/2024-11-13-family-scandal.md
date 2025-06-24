@@ -2,7 +2,6 @@
 layout: post
 title: 家丑——Family Scandal
 date: 2024-11-13
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

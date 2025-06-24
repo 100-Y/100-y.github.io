@@ -2,7 +2,6 @@
 layout: post
 title: 共同富裕的本质——Essence of Common Prosperity
 date: 2021-09-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

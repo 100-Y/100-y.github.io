@@ -2,7 +2,6 @@
 layout: post
 title: 煮稀饭——Cooking Porridge
 date: 2015-01-09
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

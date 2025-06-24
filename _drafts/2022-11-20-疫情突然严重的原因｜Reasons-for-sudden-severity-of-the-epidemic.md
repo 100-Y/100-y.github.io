@@ -2,7 +2,6 @@
 layout: post
 title: 疫情突然严重的原因｜Reasons for sudden severity of the epidemic
 date: 2022-11-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

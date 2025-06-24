@@ -2,7 +2,6 @@
 layout: post
 title: 驳斥“为人民服务”的谬论｜Refute the fallacy of “Serving the people”
 date: 2023-12-23
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

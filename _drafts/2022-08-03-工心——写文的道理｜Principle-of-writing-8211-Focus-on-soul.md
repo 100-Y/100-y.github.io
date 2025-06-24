@@ -2,7 +2,6 @@
 layout: post
 title: 工心——写文的道理｜Principle of writing &#8211; Focus on soul
 date: 2022-08-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 条约闪电｜Treaty lightnings
 date: 2023-04-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

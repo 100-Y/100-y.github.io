@@ -2,7 +2,6 @@
 layout: post
 title: 盲目爱国的表现｜Expression of blind patriotism
 date: 2022-08-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

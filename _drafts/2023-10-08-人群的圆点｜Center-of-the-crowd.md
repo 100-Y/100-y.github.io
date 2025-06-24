@@ -2,7 +2,6 @@
 layout: post
 title: 人群的圆点｜Center of the crowd
 date: 2023-10-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 一秒万年｜A second of ten thousand years
 date: 2022-07-07
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

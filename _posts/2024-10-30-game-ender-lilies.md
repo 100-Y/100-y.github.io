@@ -2,7 +2,6 @@
 layout: post
 title: 游戏《终焉的百合花》有感 / Game - Ender Lilies
 date: 2024-10-30
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

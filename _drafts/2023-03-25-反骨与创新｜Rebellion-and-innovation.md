@@ -2,7 +2,6 @@
 layout: post
 title: 反骨与创新｜Rebellion and innovation
 date: 2023-03-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

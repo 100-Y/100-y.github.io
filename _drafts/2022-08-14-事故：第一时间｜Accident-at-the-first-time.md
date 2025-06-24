@@ -2,7 +2,6 @@
 layout: post
 title: 事故：第一时间｜Accident: at the first time
 date: 2022-08-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

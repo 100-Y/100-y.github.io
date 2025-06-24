@@ -2,7 +2,6 @@
 layout: post
 title: 给阿英的一首诗｜A poem to Ah Ying
 date: 2024-03-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

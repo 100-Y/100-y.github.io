@@ -2,7 +2,6 @@
 layout: post
 title: 劣币驱逐良币的地方｜places-where-bad-money-drives-out-good
 date: 2024-05-15
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

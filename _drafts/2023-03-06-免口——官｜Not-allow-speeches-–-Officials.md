@@ -2,7 +2,6 @@
 layout: post
 title: 免口——官｜Not allow speeches – Officials
 date: 2023-03-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

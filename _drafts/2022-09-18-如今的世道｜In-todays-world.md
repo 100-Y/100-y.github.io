@@ -2,7 +2,6 @@
 layout: post
 title: 如今的世道｜In today’s world
 date: 2022-09-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

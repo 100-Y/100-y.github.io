@@ -2,7 +2,6 @@
 layout: post
 title: 抖音，好的一点｜One good point of Douyin
 date: 2022-11-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

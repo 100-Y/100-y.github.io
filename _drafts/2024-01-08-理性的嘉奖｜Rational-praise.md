@@ -2,7 +2,6 @@
 layout: post
 title: 理性的嘉奖｜Rational praise
 date: 2024-01-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

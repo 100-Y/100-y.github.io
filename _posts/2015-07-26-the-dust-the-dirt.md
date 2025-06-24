@@ -2,7 +2,6 @@
 layout: post
 title: 尘土、尘垢——The Dust, The Dirt
 date: 2015-07-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

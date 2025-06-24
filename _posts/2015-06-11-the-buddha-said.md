@@ -2,7 +2,6 @@
 layout: post
 title: 佛说——The Buddha Said
 date: 2015-06-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

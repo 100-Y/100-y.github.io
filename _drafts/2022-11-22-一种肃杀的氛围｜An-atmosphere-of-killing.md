@@ -2,7 +2,6 @@
 layout: post
 title: 一种肃杀的氛围｜An atmosphere of killing
 date: 2022-11-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

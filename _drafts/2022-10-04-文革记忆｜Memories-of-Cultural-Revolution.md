@@ -2,7 +2,6 @@
 layout: post
 title: 文革记忆｜Memories of Cultural Revolution
 date: 2022-10-04
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

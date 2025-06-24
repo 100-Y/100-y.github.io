@@ -2,7 +2,6 @@
 layout: post
 title: 远离内心傻逼的自己｜Stay away from the foolish self of inner heart
 date: 2022-12-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

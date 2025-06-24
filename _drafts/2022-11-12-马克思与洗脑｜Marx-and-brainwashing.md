@@ -2,7 +2,6 @@
 layout: post
 title: 马克思与洗脑｜Marx and brainwashing
 date: 2022-11-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

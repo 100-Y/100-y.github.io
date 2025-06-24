@@ -2,7 +2,6 @@
 layout: post
 title: 花园管理规则和指导方针｜Garden management rules and guidelines
 date: 2023-03-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 神龟——Divine Turtles
 date: 2012-01-01
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

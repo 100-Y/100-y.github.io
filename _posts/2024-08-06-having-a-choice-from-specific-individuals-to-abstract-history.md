@@ -2,7 +2,6 @@
 layout: post
 title: 有得选——之从具体的人谈论到抽象的历史 / Having a Choice - From Specific Individuals to Abstract History
 date: 2024-08-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 婊子与牌坊｜The bitch and the archway
 date: 2023-02-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

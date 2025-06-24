@@ -2,7 +2,6 @@
 layout: post
 title: 一篇 deta-surf 的产品使用介绍
 date: 2025-03-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

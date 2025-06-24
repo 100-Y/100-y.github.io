@@ -2,7 +2,6 @@
 layout: post
 title: 百年鸿沟——A Gap of a Hundred Years
 date: 2018-01-02
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

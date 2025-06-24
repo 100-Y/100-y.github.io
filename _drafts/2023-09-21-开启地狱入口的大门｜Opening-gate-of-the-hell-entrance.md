@@ -2,7 +2,6 @@
 layout: post
 title: 开启地狱入口的大门｜Opening gate of the hell entrance
 date: 2023-09-21
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

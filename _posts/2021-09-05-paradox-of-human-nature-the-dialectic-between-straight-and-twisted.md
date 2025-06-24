@@ -2,7 +2,6 @@
 layout: post
 title: 人性悖论——直曲之间的辩证 / Paradox of Human Nature - The Dialectic Between Straight and Twisted
 date: 2021-09-05
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

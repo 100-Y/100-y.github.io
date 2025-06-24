@@ -2,7 +2,6 @@
 layout: post
 title: 中国互联网，四大势力｜Four major forces, on China’s internet
 date: 2022-08-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

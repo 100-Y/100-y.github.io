@@ -2,7 +2,6 @@
 layout: post
 title: 制度的手指——The Fingers of the System
 date: 2025-02-28
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

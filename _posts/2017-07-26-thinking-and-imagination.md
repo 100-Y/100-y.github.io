@@ -2,7 +2,6 @@
 layout: post
 title: 思考和想象力——Thinking and Imagination
 date: 2017-07-26
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

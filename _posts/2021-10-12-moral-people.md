@@ -2,7 +2,6 @@
 layout: post
 title: 讲道德的人——Moral People
 date: 2021-10-12
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: 在喧哗中看见结构——Seeing Structure in the Noise
 date: 2025-02-25
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

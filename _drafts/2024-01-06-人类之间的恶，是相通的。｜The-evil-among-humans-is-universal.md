@@ -2,7 +2,6 @@
 layout: post
 title: 人类之间的恶，是相通的。｜The evil among humans, is universal.
 date: 2024-01-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

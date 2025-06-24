@@ -2,7 +2,6 @@
 layout: post
 title: 红灯笼——Red Lanterns
 date: 2015-01-03
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

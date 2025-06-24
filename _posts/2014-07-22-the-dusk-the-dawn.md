@@ -2,7 +2,6 @@
 layout: post
 title: 黄昏、黎明——The Dusk, The Dawn
 date: 2014-07-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

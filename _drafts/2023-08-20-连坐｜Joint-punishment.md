@@ -2,7 +2,6 @@
 layout: post
 title: 连坐｜Joint punishment
 date: 2023-08-20
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

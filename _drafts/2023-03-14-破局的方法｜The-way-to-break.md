@@ -2,7 +2,6 @@
 layout: post
 title: 破局的方法｜The way to break
 date: 2023-03-14
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

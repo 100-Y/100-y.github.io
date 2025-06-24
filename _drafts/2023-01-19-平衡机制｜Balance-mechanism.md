@@ -2,7 +2,6 @@
 layout: post
 title: 平衡机制｜Balance mechanism
 date: 2023-01-19
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

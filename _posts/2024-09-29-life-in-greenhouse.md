@@ -2,7 +2,6 @@
 layout: post
 title: 温室中的生命——Life in Greenhouse
 date: 2024-09-29
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

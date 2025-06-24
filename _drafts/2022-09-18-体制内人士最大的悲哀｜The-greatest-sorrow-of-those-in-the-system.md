@@ -2,7 +2,6 @@
 layout: post
 title: 体制内人士最大的悲哀｜The greatest sorrow of those in the system
 date: 2022-09-18
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

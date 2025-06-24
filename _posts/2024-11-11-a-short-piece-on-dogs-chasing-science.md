@@ -2,7 +2,6 @@
 layout: post
 title: 一篇“狗撵科学”的短文——A Short Piece on Dogs Chasing Science
 date: 2024-11-11
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

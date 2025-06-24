@@ -2,7 +2,6 @@
 layout: post
 title: 拦脚石｜Stumbling blocks
 date: 2022-07-06
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

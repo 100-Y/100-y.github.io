@@ -2,7 +2,6 @@
 layout: post
 title: 过去式——Past Tense
 date: 2016-06-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

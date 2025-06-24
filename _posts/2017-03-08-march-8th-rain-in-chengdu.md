@@ -2,7 +2,6 @@
 layout: post
 title: 3月8日成都的雨——March 8th, Rain in Chengdu
 date: 2017-03-08
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

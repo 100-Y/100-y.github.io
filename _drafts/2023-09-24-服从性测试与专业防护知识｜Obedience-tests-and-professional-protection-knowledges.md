@@ -2,7 +2,6 @@
 layout: post
 title: 服从性测试与专业防护知识｜Obedience tests and professional protection knowledges
 date: 2023-09-24
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/

@@ -2,7 +2,6 @@
 layout: post
 title: A股：慨ta人以慷｜A-share: Give generously to others
 date: 2023-08-22
-excerpt:
 description:
 og_image: /assets/img/blog/
 thumbnail: /assets/img/blog/
