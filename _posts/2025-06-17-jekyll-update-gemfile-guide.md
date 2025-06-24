@@ -46,32 +46,32 @@ Some dependencies were deleted from your gemfile, but the lockfile can't be upda
 
 ---
 
-1. **修改 Gemfile**
+修改 Gemfile
 
-   ```ruby
-   # 删除或注释掉不需要的插件
-   # gem "jekyll-jupyter-notebook"
-   ```
+```ruby
+# 删除或注释掉不需要的插件
+# gem "jekyll-jupyter-notebook"
+```
 
-2. **允许更新锁文件**
+允许更新锁文件
 
-   ```bash
-   bundle config set frozen false
-   ```
+```bash
+bundle config set frozen false
+```
 
-3. **更新依赖并重生成 Gemfile.lock**
+更新依赖并重生成 `Gemfile.lock`
 
-   ```bash
-   bundle install
-   ```
+```bash
+bundle install
+```
 
-4. **提交改动**
+提交改动
 
-   ```bash
-   git add Gemfile Gemfile.lock
-   git commit -m "Update dependencies"
-   git push
-   ```
+```bash
+git add Gemfile Gemfile.lock
+git commit -m "Update dependencies"
+git push
+```
 
 ---
 
