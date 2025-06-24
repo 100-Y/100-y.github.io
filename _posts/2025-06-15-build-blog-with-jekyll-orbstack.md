@@ -21,7 +21,7 @@ giscus_comments: true
 
 ---
 
-## 准备工作
+## 一、准备工作
 
 ---
 
@@ -33,7 +33,7 @@ giscus_comments: true
 
 ---
 
-## 工具清单
+## 二、工具清单
 
 ---
 
@@ -46,11 +46,11 @@ giscus_comments: true
 
 ---
 
-## 使用 al-folio 模板创建 GitHub 博客仓库
+## 三、使用 al-folio 模板创建 GitHub 博客仓库
 
 ---
 
-### 第一步：创建仓库
+### 1. 创建仓库
 
 ---
 
@@ -60,7 +60,7 @@ giscus_comments: true
 
 ---
 
-### 第二步：配置 GitHub Actions 权限
+### 2. 配置 GitHub Actions 权限
 
 ---
 
@@ -69,7 +69,7 @@ giscus_comments: true
 
 ---
 
-### 第三步：修改 `_config.yml`
+### 3. 修改 `_config.yml`
 
 ---
 
@@ -80,7 +80,7 @@ baseurl: ""
 
 ---
 
-### 第四步：设置 GitHub Pages 来源
+### 4. 设置 GitHub Pages 来源
 
 ---
 
@@ -94,11 +94,11 @@ baseurl: ""
 
 ---
 
-## 本地开发：用 GitHub Desktop + Orbstack 快速预览
+## 四、本地开发：用 GitHub Desktop + Orbstack 快速预览
 
 ---
 
-### 克隆仓库（GitHub Desktop）
+### 1. 克隆仓库（GitHub Desktop）
 
 ---
 
@@ -107,7 +107,7 @@ GitHub Desktop → File → Clone repository...
 
 ---
 
-### 启动 Jekyll 博客容器（Orbstack）
+### 2. 启动 Jekyll 博客容器（Orbstack）
 
 ---
 
@@ -122,11 +122,11 @@ docker compose up        # 启动容器
 
 ---
 
-## 撰写新文章并部署上线
+## 五、撰写新文章并部署上线
 
 ---
 
-### 新建 Markdown 文章（放入 `_posts/`）
+### 1. 新建 Markdown 文章（放入 `_posts/`）
 
 ---
 
@@ -150,7 +150,7 @@ tags: [jekyll, al-folio]
 
 ---
 
-### 提交并部署
+### 2. 提交并部署
 
 ---
 

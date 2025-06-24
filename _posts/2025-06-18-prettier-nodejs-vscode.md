@@ -16,7 +16,7 @@ giscus_comments: true
 
 ---
 
-## 安装 Node.js（推荐使用 Homebrew）
+## 一、安装 Node.js（推荐使用 Homebrew）
 
 ---
 
@@ -55,7 +55,7 @@ source ~/.zprofile
 
 ---
 
-## 在项目中安装 Prettier
+## 二、在项目中安装 Prettier
 
 ---
 
@@ -79,7 +79,7 @@ npm install --save-dev prettier
 
 ---
 
-## 安装 VS Code 插件：Prettier
+## 三、安装 VS Code 插件：Prettier
 
 ---
 
@@ -94,7 +94,7 @@ Prettier - Code formatter
 
 ---
 
-## 配置 VS Code 自动格式化
+## 四、配置 VS Code 自动格式化
 
 ---
 
@@ -120,11 +120,11 @@ Prettier - Code formatter
 
 ---
 
-## 配置 Prettier 行为（可选）
+## 五、配置 Prettier 行为（可选）
 
 ---
 
-### 创建 `.prettierrc` 文件
+### 1. 创建 `.prettierrc` 文件
 
 ---
 
@@ -144,7 +144,7 @@ Prettier - Code formatter
 
 ---
 
-### 创建 `.prettierignore` 文件
+### 2. 创建 `.prettierignore` 文件
 
 ---
 
@@ -160,7 +160,7 @@ docs/vendor
 
 ---
 
-## 批量格式化项目文件
+## 六、批量格式化项目文件
 
 ---
 

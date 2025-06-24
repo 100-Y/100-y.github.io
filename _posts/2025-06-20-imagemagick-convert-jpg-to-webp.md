@@ -16,7 +16,7 @@ giscus_comments: true
 
 ---
 
-## 为什么选择 WebP？
+## 一、为什么选择 WebP？
 
 ---
 
@@ -29,7 +29,7 @@ WebP 是由 Google 推出的图片格式，支持有损和无损压缩，文件�
 
 ---
 
-## ImageMagick 简介
+## 二、ImageMagick 简介
 
 ---
 
@@ -37,7 +37,7 @@ ImageMagick 是强大的开源图像处理工具，支持超过 200 种图片格
 
 ---
 
-## 环境准备
+## 三、环境准备
 
 ---
 
@@ -56,7 +56,7 @@ ImageMagick 是强大的开源图像处理工具，支持超过 200 种图片格
 
 ---
 
-## 批量转换脚本示例
+## 四、批量转换脚本示例
 
 ---
 
@@ -84,7 +84,7 @@ echo "All images converted and saved in $OUTPUT_DIR"
 
 ---
 
-## 运行步骤
+## 五、运行步骤
 
 ---
 
@@ -106,7 +106,7 @@ echo "All images converted and saved in $OUTPUT_DIR"
 
 ---
 
-## 总结
+## 六、总结
 
 ---
 

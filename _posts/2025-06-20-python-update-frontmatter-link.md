@@ -12,7 +12,7 @@ giscus_comments: true
 
 <img src="/assets/img/blog/python-update-frontmatter-link.webp" style="width:100%;" alt="python-update-frontmatter-link">
 
-## 背景
+## 一、背景
 
 ---
 
@@ -20,7 +20,7 @@ giscus_comments: true
 
 ---
 
-## 需求分析
+## 二、需求分析
 
 ---
 
@@ -36,7 +36,7 @@ giscus_comments: true
 
 ---
 
-## 解决方案
+## 三、解决方案
 
 ---
 
@@ -54,7 +54,7 @@ giscus_comments: true
 
 ---
 
-## 最终脚本展示 `update_thumbnail.py`
+## 四、最终脚本展示 `update_thumbnail.py`
 
 ---
 
@@ -139,7 +139,7 @@ for post_file in post_files:
 
 ---
 
-## 使用说明
+## 五、使用说明
 
 ---
 
@@ -169,7 +169,7 @@ for post_file in post_files:
 
 ---
 
-## 处理示例
+## 六、处理示例
 
 ---
 

@@ -16,7 +16,7 @@ giscus_comments: true
 
 ---
 
-## 基础概念
+## 一、基础概念
 
 ---
 
@@ -28,7 +28,7 @@ giscus_comments: true
 
 ---
 
-## 常见问题及错误信息
+## 二、常见问题及错误信息
 
 ---
 
@@ -42,7 +42,7 @@ Some dependencies were deleted from your gemfile, but the lockfile can't be upda
 
 ---
 
-## 正确修改依赖的流程
+## 三、正确修改依赖的流程
 
 ---
 
@@ -75,7 +75,7 @@ Some dependencies were deleted from your gemfile, but the lockfile can't be upda
 
 ---
 
-## CI/CD 构建注意事项
+## 四、CI/CD 构建注意事项
 
 ---
 
@@ -87,7 +87,7 @@ Some dependencies were deleted from your gemfile, but the lockfile can't be upda
 
 ---
 
-## 常见坑 vs 解决方案
+## 五、常见坑 vs 解决方案
 
 ---
 
@@ -100,7 +100,7 @@ Some dependencies were deleted from your gemfile, but the lockfile can't be upda
 
 ---
 
-## 快速命令汇总（复制即用）
+## 六、快速命令汇总（复制即用）
 
 ---
 
@@ -117,7 +117,7 @@ git push
 
 ---
 
-## 总结建议
+## 七、总结建议
 
 ---
 

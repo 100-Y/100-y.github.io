@@ -10,8 +10,6 @@ tags: bash gh-pages
 giscus_comments: true
 ---
 
-## 批量将图片文件名改为小写（保留扩展名）
-
 ---
 
 在使用 GitHub Pages 搭建博客的过程中，常会遇到这样的问题：本地图片能正常显示，线上却无法查看。根本原因在于：GitHub Pages 的服务器是大小写敏感的。例如，MyImage.JPG 与 myimage.JPG 在本地可能等价，但线上并不识别为同一文件。
@@ -45,7 +43,7 @@ done
 
 ---
 
-## 使用方法
+**<mark>使用方法</mark>**
 
 ---
 

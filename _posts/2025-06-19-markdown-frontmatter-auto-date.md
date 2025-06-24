@@ -16,7 +16,7 @@ giscus_comments: true
 
 ---
 
-## 目标
+## 一、目标
 
 ---
 
@@ -27,11 +27,11 @@ giscus_comments: true
 
 ---
 
-## 使用 Python 脚本自动更新 `date:` 字段
+## 二、使用 Python 脚本自动更新 `date:` 字段
 
 ---
 
-### 脚本说明
+### 1. 脚本说明
 
 ---
 
@@ -41,7 +41,7 @@ giscus_comments: true
 
 ---
 
-### 脚本代码（保存为 `update_date.py`）
+### 2. 脚本代码（保存为 `update_date.py`）
 
 ---
 
@@ -89,11 +89,11 @@ print(f"Updated {filename} with date: {date_str}")
 
 ---
 
-## Shell 脚本按 `date:` 字段批量重命名文件
+## 三、Shell 脚本按 `date:` 字段批量重命名文件
 
 ---
 
-### 脚本代码（可保存为 `rename_by_date.sh`）
+### 1. 脚本代码（可保存为 `rename_by_date.sh`）
 
 ---
 
@@ -112,7 +112,7 @@ done
 
 ---
 
-### 整段逻辑说明
+### 2. 整段逻辑说明
 
 ---
 
@@ -129,7 +129,7 @@ done
 
 ---
 
-### 效果示例
+### 3. 效果示例
 
 ---
 
@@ -139,7 +139,7 @@ done
 
 ---
 
-## 使用方法（终端中执行）
+## 四、使用方法（终端中执行）
 
 ---
 

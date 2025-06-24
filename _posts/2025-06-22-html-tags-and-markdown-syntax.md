@@ -18,7 +18,7 @@ Markdown 是写作界的轻量标记语言明星，语法简洁、格式清晰�
 
 ---
 
-## HTML 标签 vs Markdown 语法对照表
+## 一、HTML 标签 vs Markdown 语法对照表
 
 ---
 
@@ -35,11 +35,11 @@ Markdown 是写作界的轻量标记语言明星，语法简洁、格式清晰�
 
 ---
 
-## 在 VS Code 中高效使用 HTML + Markdown
+## 二、在 VS Code 中高效使用 HTML + Markdown
 
 ---
 
-### 自动补全 Markdown 语法
+### 1. 自动补全 Markdown 语法
 
 ---
 
@@ -53,7 +53,7 @@ VS Code 对 Markdown 提供原生语法补全：
 
 ---
 
-### Emmet 快捷键包裹 HTML 标签
+### 2. Emmet 快捷键包裹 HTML 标签
 
 ---
 
@@ -73,7 +73,7 @@ Markdown 不支持 `<mark>`、`<u>` 等格式？用 Emmet 来救场！
 
 ---
 
-### 绑定快捷键（推荐：Shift + Space）
+### 3. 绑定快捷键（推荐：Shift + Space）
 
 ---
 
@@ -91,7 +91,7 @@ Markdown 不支持 `<mark>`、`<u>` 等格式？用 Emmet 来救场！
 
 ---
 
-## 推荐 HTML + Markdown 组合写法示例
+## 三、推荐 HTML + Markdown 组合写法示例
 
 ---
 

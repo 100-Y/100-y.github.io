@@ -17,7 +17,7 @@ giscus_comments: true
 
 ---
 
-## 准备工作
+## 一、准备工作
 
 ---
 
@@ -29,7 +29,7 @@ giscus_comments: true
 
 ---
 
-## 配置 Cloudflare DNS
+## 二、配置 Cloudflare DNS
 
 ---
 
@@ -50,11 +50,11 @@ giscus_comments: true
 
 ---
 
-## 配置 Cloudflare SSL（启用 HTTPS）
+## 三、配置 Cloudflare SSL（启用 HTTPS）
 
 ---
 
-### 开启 Universal SSL（自动证书）
+### 1. 开启 Universal SSL（自动证书）
 
 ---
 
@@ -67,7 +67,7 @@ giscus_comments: true
 
 ---
 
-### 设置正确的 SSL 模式
+### 2. 设置正确的 SSL 模式
 
 ---
 
@@ -82,11 +82,11 @@ giscus_comments: true
 
 ---
 
-## 配置 GitHub 仓库
+## 四、配置 GitHub 仓库
 
 ---
 
-### 添加 CNAME 文件（必须）
+### 1. 添加 CNAME 文件（必须）
 
 ---
 
@@ -100,7 +100,7 @@ xxxx.xx
 
 ---
 
-## 启用 GitHub Pages 并绑定域名
+## 五、启用 GitHub Pages 并绑定域名
 
 ---
 
@@ -122,7 +122,7 @@ xxxx.xx
 
 ---
 
-### 如 Enforce HTTPS 无法启用，怎么办？
+### 1. 如 Enforce HTTPS 无法启用，怎么办？
 
 ---
 
@@ -134,7 +134,7 @@ xxxx.xx
 
 ---
 
-### 解决方法
+### 2. 解决方法
 
 ---
 
@@ -144,11 +144,11 @@ xxxx.xx
 
 ---
 
-## 附加推荐：绑定 www 子域 + 裸域跳转
+## 六、附加推荐：绑定 www 子域 + 裸域跳转
 
 ---
 
-### 添加 www 子域
+### 1. 添加 www 子域
 
 ---
 
@@ -160,7 +160,7 @@ Cloudflare → DNS 添加：
 
 ---
 
-### 设置裸域自动跳转至 www
+### 2. 设置裸域自动跳转至 www
 
 ---
 
@@ -175,7 +175,7 @@ Cloudflare → `Rules → Redirect Rules` 添加规则：
 
 ---
 
-## 常见问题速查
+## 七、常见问题速查
 
 ---
 
@@ -188,7 +188,7 @@ Cloudflare → `Rules → Redirect Rules` 添加规则：
 
 ---
 
-## 总结配置顺序
+## 八、总结配置顺序
 
 ---
 
