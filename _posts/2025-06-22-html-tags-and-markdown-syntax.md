@@ -10,7 +10,7 @@ tags: markdown html
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/html-tags-and-markdown-syntax.webp" style="width:100%;" alt="html-tags-and-markdown-syntax">
 
 ---
 
