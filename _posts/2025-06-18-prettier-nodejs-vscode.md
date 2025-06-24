@@ -90,8 +90,6 @@ npm install --save-dev prettier
 Prettier - Code formatter
 ```
 
-> 插件作者为：`esbenp.prettier-vscode`
-
 ---
 
 ## 四、配置 VS Code 自动格式化
