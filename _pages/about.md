@@ -27,7 +27,7 @@ latest_posts:
 
 敬请期待网站的持续更新，更多精彩内容将陆续呈现。
 
-/
+---
 
 A personal website created by **<a href='/'>100-Y</a>** (<u>the abbreviation of 100 years</u>), it aims to explore and share, **<mark>Cultural Resonances and Profound Thoughts Across Time</mark>**.
 

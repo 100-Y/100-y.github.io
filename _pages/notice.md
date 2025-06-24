@@ -18,7 +18,7 @@ nav_order: 4
 
 用户在阅读、下载、转发或采纳本站内容时，**<mark>应自行甄别真伪、独立判断、并承担全部风险</mark>**。如您对本站内容有异议，或认为存在不当信息，请及时联系我们处理。
 
-/
+---
 
 **<mark>All contents</mark>** on this website (<u>including but not limited to text, images, audio, video</u>) is provided for general informational, creative, or opinion-sharing purposes only. It does not constitute and should not be considered any form of professional advice, official position, or legal liability.
 
@@ -34,6 +34,6 @@ Users are **<mark>advised to independently verify all information, exercise disc
 
 **<mark>署名—非商业性使用—禁止演绎</mark>** 4.0 协议国际版：本网站的所有内容，包括但不限于文本、图片、图形和代码，除非另有说明，均为网站所有者的知识产权。未经授权，禁止复制或再分发。您可以引用或引用内容，但需注明出处并附上指向本网站的**<a href='/'>链接</a>**。
 
-/
+---
 
 **<mark>CC BY-NC-ND</mark>** 4.0: All content on this website, including but not limited to text, images, graphics, and code, is the intellectual property of the website owner unless otherwise stated. Unauthorized reproduction or redistribution is prohibited. You may quote or reference content with proper attribution and a **<a href='/'>Link</a>** back to this site.

@@ -13,7 +13,11 @@ giscus_comments: true
 
 <img src="/assets/img/blog/anti-chinese-of-new-era.webp" style="width:100%;" alt="anti-chinese-of-new-era">
 
-## 披着忠诚外衣的压迫者
+---
+
+## 新时代的支黑
+
+---
 
 他们说自己是红的，是旗帜的一角，是忠诚的化身。  
 可他们挥动的不是温柔的风，而是利刃。
@@ -37,9 +41,11 @@ giscus_comments: true
 他们是信仰的伪影，是铁血的幻觉，  
 是披着忠诚燃烧人民的无声火种。
 
-/
+---
 
-## Oppressors Cloaked in Loyalty
+## Anti-Chinese of New Era
+
+---
 
 They call themselves red, an edge of the flag, a symbol of loyalty.  
 But what they wave is no breeze of compassion, it is a blade.

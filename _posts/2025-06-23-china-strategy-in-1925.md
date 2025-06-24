@@ -12,13 +12,23 @@ giscus_comments: true
 
 <img src="/assets/img/blog/china-strategy-in-1925.webp" style="width:100%;" alt="china-strategy-in-1925">
 
+---
+
+## 1925年的中国战略
+
+---
+
 假使你身处 **<mark>1925年的中国</mark>**，<u>拥有更强大的境外支持——包括资金、技术与国际影响力</u>——那么确实有可能比**<mark>国民党与共产党</mark>**做得更好，但关键在于你是否能以超越时代局限的视野与执行力推进统一、发展与社会整合。
 
 相比军阀混战或激烈内战导致的高昂代价，你可以通过经济诱导和社会协商实现高效统一；通过乡村教育和技术转移快速扫盲与工业化；以渐进式土地改革与市场激励缩小城乡差距；在社会治理上包容各阶层与文化传统，减少撕裂与动荡；在外交上灵活平衡列强，争取最大自主空间；并提前建立现代军队与危机管理体系，提高国家韧性。
 
 你若坚持：**<mark>以人为本、内外平衡、速度与稳健并重</mark>**，并借<u>助现代治理手段防腐防乱</u>，就可能打造一个既避免历史悲剧、又走出独立自主发展道路的现代中国，比任何后来者都更快更稳更少代价地实现国家崛起。
 
-/
+---
+
+## China Strategy in 1925
+
+---
 
 If you were in **<mark>China in 1925</mark>**, <u>with stronger external support—including funding, technology, and international influence</u>—it would indeed be possible to perform better than **<mark>the Kuomintang (KMT) or the Communist Party</mark>**. The key lies in whether you can advance unification, development, and social integration with a vision and execution that transcend the limitations of the time.
 

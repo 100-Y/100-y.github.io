@@ -16,7 +16,7 @@ featured: true
 
 ---
 
-## 猪的乌托邦
+## 被托管的世界，猪的乌托邦
 
 ---
 
@@ -77,7 +77,7 @@ featured: true
 
 ---
 
-## Pig's Utopia
+## The Managed World, Pig's Utopia
 
 ---
 

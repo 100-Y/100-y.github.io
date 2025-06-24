@@ -14,7 +14,7 @@ giscus_comments: true
 
 ---
 
-## 当世界沉默时，自救是唯一的出路
+## 危机生存法则
 
 ---
 
@@ -43,7 +43,7 @@ giscus_comments: true
 
 ---
 
-## When the World Falls Silent, Self-Rescue Becomes the Only Way Out
+## Crisis Survival Rules
 
 ---
 
@@ -69,5 +69,3 @@ Even if your body is restrained, your mind must remain free. That is <u>the last
 
 In the depths of desperation, **<mark>reason and tenacity</mark>** are your <u>sharpest blades in hands</u>, **<mark>cutting a hidden path toward survival and justice</mark>**.  
 The road may be long and thorny, but as long as even a faint spark remains, you have a direction to follow.
-
----
