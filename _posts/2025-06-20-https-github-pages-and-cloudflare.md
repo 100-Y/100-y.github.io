@@ -86,7 +86,7 @@ giscus_comments: true
 
 ---
 
-### 1. 添加 CNAME 文件（必须）
+### 添加 CNAME 文件（必须）
 
 ---
 
