@@ -3,14 +3,14 @@ layout: post
 title: Markdown 批量更新 Front Matter 日期并重命名文件的实用脚本教程
 date: 2025-06-19
 description: 利用 Python 与 Shell 脚本，从正文提取日期并自动写入或更新 YAML Front Matter 中的 date 字段，并批量按日期重命名文件名，适用于静态博客内容管理。
-og_image: /assets/img/blog/markdown-frontmatter-auto-date.webp
-thumbnail: /assets/img/blog/markdown-frontmatter-auto-date.webp
+og_image: /assets/img/blog/markdown-frontmatter-auto-date.svg
+thumbnail: /assets/img/blog/markdown-frontmatter-auto-date.svg
 categories: Internet
 tags: markdown frontmatter python bash
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/markdown-frontmatter-auto-date.webp" style="width:100%;" alt="markdown-frontmatter-auto-date">
+<img src="/assets/img/blog/markdown-frontmatter-auto-date.svg" style="width:100%;" alt="markdown-frontmatter-auto-date">
 
 在构建基于 Jekyll 或 Hugo 的博客时，标准化的 Front Matter 格式（尤其是 `date:` 字段）至关重要。本文介绍一个两步自动化方案：使用 Python 提取正文日期并插入到 YAML Front Matter 中，然后使用 Shell 脚本按 `date:` 重命名所有 Markdown 文件。
 

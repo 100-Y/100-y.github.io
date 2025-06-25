@@ -3,14 +3,14 @@ layout: post
 title: 使用 ImageMagick 批量转换 JPG 为 WebP 格式，提升网页性能
 date: 2025-06-20
 description: 介绍如何使用 ImageMagick 在本地批量将 JPG 图片转换为 WebP 格式，有效减小图片体积、提升网页加载速度，并提供适用于 macOS、Linux 的完整脚本与操作指南。
-og_image: /assets/img/blog/imagemagick-convert-jpg-to-webp.webp
-thumbnail: /assets/img/blog/imagemagick-convert-jpg-to-webp.webp
+og_image: /assets/img/blog/imagemagick-convert-jpg-to-webp.svg
+thumbnail: /assets/img/blog/imagemagick-convert-jpg-to-webp.svg
 categories: Internet
 tags: image-magick webp bash
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/imagemagick-convert-jpg-to-webp.webp" style="width:100%;" alt="imagemagick-convert-jpg-to-webp">
+<img src="/assets/img/blog/imagemagick-convert-jpg-to-webp.svg" style="width:100%;" alt="imagemagick-convert-jpg-to-webp">
 
 在现代网页优化中，图片格式的选择和压缩率直接影响页面加载速度和用户体验。WebP 作为一种现代图片格式，兼具优秀的压缩率和较好的兼容性，已被广泛应用于网站图片优化。本文介绍如何使用开源工具 ImageMagick 实现本地批量将 JPG 图片转换为 WebP 格式，简洁高效，适合开发者和设计师。
 
