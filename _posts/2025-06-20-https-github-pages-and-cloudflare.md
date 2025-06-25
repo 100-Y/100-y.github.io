@@ -2,15 +2,15 @@
 layout: post
 title: GitHub Pages + Cloudflare 自定义域名 HTTPS 配置指南
 date: 2025-06-20
-description:
-og_image: /assets/img/blog/https-github-pages-and-cloudflare.webp
-thumbnail: /assets/img/blog/https-github-pages-and-cloudflare.webp
+description: 使用 GitHub Pages 与 Cloudflare 配置自定义域名与 HTTPS，加速部署个人网站。Configure custom domains and HTTPS with GitHub Pages and Cloudflare to securely deploy personal websites.
+og_image: /assets/img/blog/https-github-pages-and-cloudflare.svg
+thumbnail: /assets/img/blog/https-github-pages-and-cloudflare.svg
 categories: Internet
 tags: gh-pages cloudflare
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/https-github-pages-and-cloudflare.webp" style="width:100%;" alt="https-github-pages-and-cloudflare">
+<img src="/assets/img/blog/https-github-pages-and-cloudflare.svg" style="width:100%;" alt="https-github-pages-and-cloudflare">
 
 借助 GitHub Pages 托管静态网站，再通过 Cloudflare 实现 DNS 管理、HTTPS 加密与全球加速，是构建高效、安全个人博客或站点的现代主流方案。
 本文将手把手带你配置自定义域名（如 `xxxx.xx`），实现 HTTPS 安全访问，并解决常见的证书问题如 `Enforce HTTPS — Unavailable` 和 `SSL 526 错误`。
