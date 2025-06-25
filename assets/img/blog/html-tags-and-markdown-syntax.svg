@@ -64,7 +64,7 @@
   <text x="150" y="360" font-family="'Source Code Pro', monospace" font-size="14" fill="#f97316">&lt;/div&gt;</text>
   
   <!-- Cursor -->
-  <rect x="500" y="330" width="2" height="18" fill="#ffffff" opacity="0.8">
+  <rect x="520" y="330" width="2" height="18" fill="#ffffff" opacity="0.8">
     <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
   </rect>
   

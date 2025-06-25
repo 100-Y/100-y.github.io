@@ -88,17 +88,17 @@
   </g>
   
   <!-- 标题 -->
-  <text x="300" y="80" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold" 
+  <text x="300" y="100" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold" 
         filter="drop-shadow(0 2px 10px rgba(0,0,0,0.3))">
     Image File Names
   </text>
-  <text x="300" y="120" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold" 
+  <text x="300" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold" 
         filter="drop-shadow(0 2px 10px rgba(0,0,0,0.3))">
     to Lowercase
   </text>
   
   <!-- 左侧文件图标 (大写) -->
-  <g transform="translate(120, 200)">
+  <g transform="translate(120, 220)">
     <rect width="120" height="140" fill="white" rx="15" filter="url(#dropShadow)"/>
     
     <!-- 文件角标 -->
@@ -115,7 +115,7 @@
   </g>
   
   <!-- 右侧文件图标 (小写) -->
-  <g transform="translate(360, 200)">
+  <g transform="translate(360, 220)">
     <rect width="120" height="140" fill="white" rx="15" filter="url(#dropShadow)"/>
     
     <!-- 成功标记 -->
@@ -133,9 +133,9 @@
   </g>
   
   <!-- 右下角字母对比 -->
-  <g transform="translate(450, 520)">
+  <g transform="translate(380, 520)">
     <text x="0" y="0" fill="rgba(255,255,255,0.3)" font-family="Arial, sans-serif" font-size="48" font-weight="bold">A</text>
-    <text x="60" y="-10" fill="rgba(255,255,255,0.5)" font-family="Arial, sans-serif" font-size="24">→</text>
+    <text x="50" y="-10" fill="rgba(255,255,255,0.5)" font-family="Arial, sans-serif" font-size="24">→</text>
     <text x="90" y="0" fill="#4CAF50" font-family="Arial, sans-serif" font-size="48" font-weight="bold" filter="url(#glow)">a</text>
   </g>
   
