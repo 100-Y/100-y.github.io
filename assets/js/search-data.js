@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/privacy/";
           },
-        },{id: "post-1925年的中国战略-china-strategy-in-1925",
+        },{id: "post-上海密局-the-shanghai-gambit",
+        
+          title: "上海密局 / The Shanghai Gambit",
+        
+        description: "一场关于信念与现实冲突的惊悚小说。A political thriller about belief colliding with reality.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025-06-24/the-shanghai-gambit/";
+          
+        },
+      },{id: "post-1925年的中国战略-china-strategy-in-1925",
         
           title: "1925年的中国战略 / China Strategy in 1925",
         
