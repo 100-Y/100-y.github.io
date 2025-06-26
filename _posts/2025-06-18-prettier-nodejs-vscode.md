@@ -12,6 +12,8 @@ giscus_comments: true
 
 <img src="/assets/img/blog/prettier-nodejs-vscode.svg" style="width:100%;" alt="prettier-nodejs-vscode">
 
+---
+
 本指南适用于希望**批量格式化 Markdown、YAML、HTML、JS、CSS 等文件**的用户，尤其适合使用 VS Code 的用户。
 
 ---

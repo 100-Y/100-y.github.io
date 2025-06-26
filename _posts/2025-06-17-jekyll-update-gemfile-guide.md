@@ -34,9 +34,7 @@ giscus_comments: true
 
 **场景**：你删除了某个插件（如 `jekyll-jupyter-notebook`）后，仅更新了 `Gemfile`，没改 `Gemfile.lock`，结果在 CI 构建时报错：
 
-```text
-Some dependencies were deleted from your gemfile, but the lockfile can't be updated because frozen mode is set
-```
+`Some dependencies were deleted from your gemfile, but the lockfile can't be updated because frozen mode is set`
 
 **原因**：CI 环境默认开启 `frozen` 模式，禁止自动更新 `Gemfile.lock`，以避免依赖变更带来的不确定性。
 
