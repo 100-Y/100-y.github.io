@@ -12,6 +12,8 @@ giscus_comments: true
 
 <img src="/assets/img/blog/markdown-frontmatter-auto-date.svg" style="width:100%;" alt="markdown-frontmatter-auto-date">
 
+---
+
 在构建基于 Jekyll 或 Hugo 的博客时，标准化的 Front Matter 格式（尤其是 `date:` 字段）至关重要。本文介绍一个两步自动化方案：使用 Python 提取正文日期并插入到 YAML Front Matter 中，然后使用 Shell 脚本按 `date:` 重命名所有 Markdown 文件。
 
 ---
