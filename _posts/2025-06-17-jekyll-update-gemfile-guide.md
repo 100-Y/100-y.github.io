@@ -3,14 +3,14 @@ layout: post
 title: Jekyll 依赖管理：正确修改 Gemfile 并避免构建错误
 date: 2025-06-17
 description: 本文整理了在 Jekyll 项目中正确修改 Gemfile 和 Gemfile.lock 的最佳实践，并附上常见问题与解决方案。
-og_image: /assets/img/blog/jekyll-update-gemfile-guide.webp
-thumbnail: /assets/img/blog/jekyll-update-gemfile-guide.webp
+og_image: /assets/img/blog/jekyll-update-gemfile-guide.svg
+thumbnail: /assets/img/blog/jekyll-update-gemfile-guide.svg
 categories: Internet
 tags: jekyll gemfile
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/jekyll-update-gemfile-guide.webp" style="width:100%;" alt="jekyll-update-gemfile-guide">
+<img src="/assets/img/blog/jekyll-update-gemfile-guide.svg" style="width:100%;" alt="jekyll-update-gemfile-guide">
 
 当你在维护 Jekyll 项目时，**修改 Gemfile 后却忘记更新 Gemfile.lock**，很容易导致构建失败（特别是在 GitHub Actions、Cloudflare Pages 等 CI/CD 环境）。本文总结了常见问题、正确做法和命令技巧，帮你避免踩坑。
 
