@@ -3,14 +3,14 @@ layout: post
 title: 原子弹与食人魔鬼｜Atomic bomb and man-eating demon
 date: 2023-04-08
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/08  
 原子弹光束一样的爆炸之下，会诞生一个真正的食人魔鬼。

@@ -3,14 +3,14 @@ layout: post
 title: 有得选——之从具体的人谈论到抽象的历史 / Having a Choice - From Specific Individuals to Abstract History
 date: 2024-08-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 对某一件事的看法？往往，我都站“有得选”的一方。“劳东燕”和“胡锡进”们，各自确实有着“专属的蠢”，但ta们也有一个共同点，就是会尝试从其它角度，提供一些不同的选择。相比较，一开始同样是“一条道走到黑，只坚持有一个标准答案存在”的其ta选手，两者似乎“聪慧”了许多。
 

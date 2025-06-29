@@ -3,14 +3,14 @@ layout: post
 title: 纯白屋顶与绿色苔藓｜pure-white-roof-and-green-moss
 date: 2023-08-27
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/08/27夏日阳光照耀  
 纯白屋顶画布  

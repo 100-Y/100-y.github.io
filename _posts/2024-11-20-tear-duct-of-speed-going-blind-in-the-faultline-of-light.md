@@ -3,14 +3,14 @@ layout: post
 title: 速度的泪腺——在光的断层中失明 / Tear Duct of Speed - Going Blind in the Faultline of Light
 date: 2024-11-20
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 铁轨开始流泪，泪水是热的，划过金属的每一寸皮肤，带出焦味与光的残骸。车厢在震颤，像时间把自己咀嚼后又吐回轨道。
 

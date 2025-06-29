@@ -3,14 +3,14 @@ layout: post
 title: 死亡的一些理解——Some Understandings of Death
 date: 2020-09-07
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 如果生命有意义，那么苦难也一定有。苦难是生命不可踢出的一部分，就像命运和死亡一样。没有苦难和死亡，人的生命便不完整。
 

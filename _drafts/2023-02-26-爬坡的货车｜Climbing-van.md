@@ -3,14 +3,14 @@ layout: post
 title: 爬坡的货车｜Climbing van
 date: 2023-02-26
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/02/26  
 梦见搭乘一辆爬坡的货车……溜到一块，城建外观十分不错、相当齐整且装饰豪华、美丽大方的，西域荒漠城外街。下车拍照纪念，微信上云同步收藏。

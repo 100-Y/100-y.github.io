@@ -3,14 +3,14 @@ layout: post
 title: 台湾地区民意分析｜Analysis of public opinion in Taiwan area
 date: 2024-01-14
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/01/14根据选举的结果而言，目前至少60%的维持现状，即“不统不独”。且最多33.5%的“统派”（一中各表）和最多40%的“独派”（一中单边）。
 

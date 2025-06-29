@@ -3,14 +3,14 @@ layout: post
 title: 改变或死亡｜Change or die
 date: 2023-09-07
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/09/07…民心&gt;房地产（教育、医疗、食品…）&lt;互联网金融&lt;地方债务&lt;中央财政&lt;官员的忠诚度&lt;民心…
 

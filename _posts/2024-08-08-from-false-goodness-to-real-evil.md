@@ -3,14 +3,14 @@ layout: post
 title: 从虚假的善到切实的恶——From False Goodness to Real Evil
 date: 2024-08-08
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 从偷盗贩卖的尸体，到无偿捐献的同种骨植入材料。从殡仪馆，到医药公司，到医院；从员工，医药代表，再到医生。相关的每个人，背地里都实实在在披着恶魔的皮，却在阳光下行使着神圣的职责。
 

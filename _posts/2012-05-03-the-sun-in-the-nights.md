@@ -3,14 +3,14 @@ layout: post
 title: 黑夜里的太阳——The Sun in the Nights
 date: 2012-05-03
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 白云无法安慰  
 躁动的人心，  

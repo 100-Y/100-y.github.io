@@ -3,14 +3,14 @@ layout: post
 title: 谈鹅鹅鹅｜On Goose mountain
 date: 2023-01-12
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/01/12  
 一个关于“人、欲望和妖”的故事。

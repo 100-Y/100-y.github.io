@@ -3,14 +3,14 @@ layout: post
 title: 人一旦失了心气｜Once a person loses their spirit
 date: 2024-02-20
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/02/20人一旦失了心气，就像一盏油尽的孤灯，一只折翅的飞鸟。会消沉地想放弃努力，然后颓废地浪费时间，最后悲观地失去希望。鸿沟无法填补时，认为一切都将只是命运无情的安排。
 

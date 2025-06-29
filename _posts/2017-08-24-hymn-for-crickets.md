@@ -3,14 +3,14 @@ layout: post
 title: 给蟋蟀们的赞歌——Hymn for Crickets
 date: 2017-08-24
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 立秋刚没过去多久，  
 思春的动物就按耐不住内心狂热的躁动了。  

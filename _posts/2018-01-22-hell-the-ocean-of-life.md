@@ -3,14 +3,14 @@ layout: post
 title: 地狱，生命的海洋——Hell, the Ocean of Life (1-2)
 date: 2018-01-22
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Sea-Wall
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 万物之初，毁谤者——  
 撒旦，还不是天使；  

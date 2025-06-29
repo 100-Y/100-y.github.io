@@ -3,14 +3,14 @@ layout: post
 title: 韵发展史略——A Brief History of the Development of Rhymes
 date: 2017-04-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 **浅谈切韵、广韵、平水、声律启蒙、注音、拼音、新韵**
 

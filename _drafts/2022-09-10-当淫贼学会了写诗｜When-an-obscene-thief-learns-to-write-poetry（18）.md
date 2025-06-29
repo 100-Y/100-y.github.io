@@ -3,14 +3,14 @@ layout: post
 title: 当淫贼学会了写诗｜When an obscene thief learns to write poetry（18+）
 date: 2022-09-10
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/09/10  
 用以展示和揭露自己内心，“丑陋不堪”的一面。同时，区分和讽刺，那些欲遮还羞、只敢搞擦边球的“屎尿屁诗”。

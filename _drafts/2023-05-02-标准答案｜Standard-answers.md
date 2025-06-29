@@ -3,14 +3,14 @@ layout: post
 title: 标准答案｜Standard answers
 date: 2023-05-02
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/05/02  
 不听某话，便不配怎么、怎么、怎么！

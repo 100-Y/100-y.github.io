@@ -3,14 +3,14 @@ layout: post
 title: 如何维持长久的幸福、快乐，安康——How to Maintain Long-term Happiness, Joy, and Well-being
 date: 2022-02-15
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 因为周围环境，遇到的人、事；因为逐渐“长大”；因为别人家的孩子，因为自家亲人……
 

@@ -3,14 +3,14 @@ layout: post
 title: 人性以偏概全的定义｜Partial Definition of Human Nature
 date: 2021-02-19
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 人为塑造英雄与败类，其实都是在对人性进行以偏概全的定义，没有什么不对，人性本就如此；这就好比，主义救不了人，救人的主体反到是人。
 

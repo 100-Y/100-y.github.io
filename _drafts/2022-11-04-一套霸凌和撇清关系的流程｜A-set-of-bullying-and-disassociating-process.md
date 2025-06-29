@@ -3,14 +3,14 @@ layout: post
 title: 一套霸凌和撇清关系的流程｜A set of bullying and disassociating process
 date: 2022-11-04
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/11/04  
 学校发文——教师、学生照做——照做的学生与不照做的学生之间相互pk（斗争），赢的学生压倒输的学生——输的不听话的学生，接受学校教师的教育——教学校、教师双赢。

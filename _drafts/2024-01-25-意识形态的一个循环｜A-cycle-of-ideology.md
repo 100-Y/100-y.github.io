@@ -3,14 +3,14 @@ layout: post
 title: 意识形态的一个循环｜A cycle of ideology
 date: 2024-01-25
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/01/25…极左（一个人的无底线）、左派（特定）、右倾的左派（扩大），左倾的右派（缩小）、右派（全体）、极右（一群人的无底线）…
 

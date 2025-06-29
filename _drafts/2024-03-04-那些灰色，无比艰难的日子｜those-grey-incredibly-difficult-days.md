@@ -3,14 +3,14 @@ layout: post
 title: 那些灰色，无比艰难的日子｜those-grey-incredibly-difficult-days
 date: 2024-03-04
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/03/04# \*\*grey-incredibly-difficult-days\*\*
 

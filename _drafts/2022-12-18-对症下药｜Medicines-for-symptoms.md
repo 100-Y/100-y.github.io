@@ -3,14 +3,14 @@ layout: post
 title: 对症下药｜Medicines for symptoms
 date: 2022-12-18
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/12/18  
 未经体力消耗阵阵的肌肉疼痛，不曾风寒侵袭导致原因不明的咳嗽，排除空气污染因素造成的上呼吸道感染，正常情况突然短暂的头昏目眩，等一系列身体状况切实的反应，都可能是新冠流行感冒中标的初期体现。

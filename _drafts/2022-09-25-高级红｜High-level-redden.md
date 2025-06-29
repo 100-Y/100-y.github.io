@@ -3,14 +3,14 @@ layout: post
 title: 高级红｜High-level redden
 date: 2022-09-25
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/09/25  
 \*\*万岁！万岁、万岁，万万岁！“厉害了我的国”，“伟大了你的党”……就如同：新华门，天安门……两侧的标语。

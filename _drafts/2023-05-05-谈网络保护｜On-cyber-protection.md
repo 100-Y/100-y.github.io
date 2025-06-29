@@ -3,14 +3,14 @@ layout: post
 title: 谈网络保护｜On cyber protection
 date: 2023-05-05
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/05/05  
 联网：ProtonVPN等 + Tor Browser等

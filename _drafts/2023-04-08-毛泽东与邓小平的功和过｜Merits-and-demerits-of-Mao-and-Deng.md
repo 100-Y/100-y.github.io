@@ -3,14 +3,14 @@ layout: post
 title: 毛泽东与邓小平的功和过｜Merits and demerits of Mao and Deng
 date: 2023-04-08
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/08  
 如果非要探讨毛泽东与邓小平的“功和过”。邓的“过”是三分，那么毛就是满十；毛的“功”是七，那么邓便是十四。而后继者，无非都是在消耗或是增加，二者各自的“红利”。

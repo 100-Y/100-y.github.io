@@ -3,14 +3,14 @@ layout: post
 title: 石头城｜Stone city
 date: 2023-11-20
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/11/20在一片高高的雪山之上，有一群嬉戏打闹的孩子。其中，有位年龄与我相符的女子。一行人，有说有笑，诉说雪山的美丽和纯洁。这不是第一次出现这样的情况，站在高耸的山峰之中，四处都是让双眼睁不开的白色积雪。
 

@@ -3,14 +3,14 @@ layout: post
 title: 谈兴亡｜On rise and fall
 date: 2022-07-27
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/07/27  
 共产主义，兴；民粹主义，亡……兴亡，在一念之间。兴亡，不仅仅是口号；兴亡，也是利用来宣传，方便自己篡权和统治的工具……

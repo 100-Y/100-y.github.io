@@ -3,14 +3,14 @@ layout: post
 title: 权力的喉舌——爱国大V / Mouthpiece of Power - Patriots Big V
 date: 2021-07-17
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 指望“爱国大V”们（假爱国）关注，对外影响不好的大事，那是在茅坑里打电筒——（找屎）。Ta们爱的不是国，更不是她的国民；而是向上的权力，是打着爱国主义旗帜，挂人民路灯而非“资本家”（广义）的蛀虫、真流氓。
 

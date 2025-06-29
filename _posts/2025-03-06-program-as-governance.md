@@ -3,14 +3,14 @@ layout: post
 title: 程序即治理——Program as Governance
 date: 2025-03-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 有人坐在那里，很久了，不记得第几次会议，名字与议题一同褪色，只剩钟声在墙上轻响，如潮，不再漫上岸。话语来了又走，像褶皱的纸，像风中飘起的同一面横幅，每年都说“我们在治理”，却无人起身。
 

@@ -3,14 +3,14 @@ layout: post
 title: 一骨子狠劲｜A bone of toughness
 date: 2023-04-10
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/10  
 世界无论哪里的“男人”，都有那么“一骨子狠劲”，控制不住内心的困兽，可能随时随地都会将其施放。

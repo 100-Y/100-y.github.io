@@ -3,14 +3,14 @@ layout: post
 title: 当代保甲｜Contemporary Guarantee and Head
 date: 2022-09-27
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/09/27  
 \*\*保甲\*\*：用于旧时代统治者，统治人民的制度。若干家编作一甲，若干甲编作一保。保设保长，甲设甲长。以便统治者对人民实行层层管制。

@@ -3,14 +3,14 @@ layout: post
 title: 拉磨的驴、送死的炮兵｜The donkey grinds, the cannon fodder dies
 date: 2023-06-23
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/06/23  
 体制内拉磨的驴，和战场上送死的炮兵，是一个比喻，用来形容一些为了某种利益或目的而出卖自己的人，或者一些为了完成任务而不顾自己生命的人。

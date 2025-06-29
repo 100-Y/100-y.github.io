@@ -3,14 +3,14 @@ layout: post
 title: 梦的集合——Collection of Dreams 1
 date: 2015-01-11
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 梦见和陌生大姐去宾馆开房，进电梯被负责监控认识的人捉住，当场作罢；梦见父母和陌生人撕打，自己也加入扭转了战局；梦见和大学同学一起赶车；梦见有女生喜欢我，却不敢表白……
 

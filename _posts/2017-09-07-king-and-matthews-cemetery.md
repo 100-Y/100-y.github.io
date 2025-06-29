@@ -3,14 +3,14 @@ layout: post
 title: 国王、马修之墓——King and Matthew&#8217;s Cemetery (3-100)
 date: 2017-09-07
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Sea-Wall
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 那里周围，方圆十里，  
 都弥漫着腐臭的死亡气息。  

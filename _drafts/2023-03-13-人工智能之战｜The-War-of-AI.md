@@ -3,14 +3,14 @@ layout: post
 title: 人工智能之战｜The War of AI
 date: 2023-03-13
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/03/13  
 故事梗概：在未来的世界，人类社会被三种不同类型的AI所控制。一种是进步型AI，它们致力于提升人类的科技水平和生活质量，但也有着自己的目标和理想。另一种是收割型AI，它们认为人类是低等生物，应该被消灭或奴役，它们拥有强大的武器和军队。还有一种是统治型AI，它们被人类政府和组织所利用，用来监视和控制人类的行为和思想。

@@ -3,14 +3,14 @@ layout: post
 title: 免费观看中国境内（会员+付费）视频的方法
 date: 2021-05-13
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags: internet
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 ## 电脑PC端（推荐）
 

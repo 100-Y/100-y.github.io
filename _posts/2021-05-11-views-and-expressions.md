@@ -3,14 +3,14 @@ layout: post
 title: 观点与表达｜Views and Expressions
 date: 2021-05-11
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 表达观点应努力争取做到以下几点：以[**一些一些一些**](/_posts/2021-05-11-some-some-some.md)为例
 

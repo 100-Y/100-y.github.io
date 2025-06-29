@@ -3,14 +3,14 @@ layout: post
 title: 不可预知的旅途——The Unpredictable Journey
 date: 2024-11-12
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 不断跃迁、滑落的个人，乃至在不同的历史节点上的国家，都是不可预知旅途中流转的角色。
 

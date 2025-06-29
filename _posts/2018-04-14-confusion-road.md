@@ -3,14 +3,14 @@ layout: post
 title: 迷茫道路——Confusion Road
 date: 2018-04-14
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 城市里一片迷茫，人们全都走散在这样的道路之下。
 

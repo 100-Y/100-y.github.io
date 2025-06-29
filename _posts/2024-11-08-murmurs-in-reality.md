@@ -3,14 +3,14 @@ layout: post
 title: 现实中的呢喃——Murmurs in Reality
 date: 2024-11-08
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 夜色如水，  
 低语在氤氲中缠绕。  

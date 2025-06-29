@@ -3,14 +3,14 @@ layout: post
 title: 三观中价值观的测试｜Valueview test in Threeviews
 date: 2022-12-29
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/12/29  
 如何简单判断一个人，是否：境外势力还是爱国、间谍还是家暴男，汉奸、走狗还是红卫兵、义和团等（引申义）。试试多次当面，指出ta们，以及ta们所引以为傲事业的缺点，然后看ta们的反应。

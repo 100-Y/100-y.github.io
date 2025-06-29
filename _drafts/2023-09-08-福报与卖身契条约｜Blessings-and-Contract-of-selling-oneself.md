@@ -3,14 +3,14 @@ layout: post
 title: 福报与卖身契条约｜Blessings and Contract of selling oneself
 date: 2023-09-08
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/09/08强制听从“上级”的安排与召唤，是“五斗米”们必要付出的代价之一。“吃人嘴软、拿人手短”，这一社会通用的卖身契条约，在“机构和组织”层面，也体现得淋漓尽致；更是作为“福报”有关的最佳论据之一。
 

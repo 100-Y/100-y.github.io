@@ -3,14 +3,14 @@ layout: post
 title: 喊着人民万岁却把人民万碎的人——Those who Shout Long Live the People but Bring about Long Live the Broken People
 date: 2024-11-17
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 喊“人民万岁”是一种表层的承诺，而“人民万碎”却是内在权力失控和信仰崩塌的体现。这种分裂不只是个人的伪善，更是结构性矛盾的镜像：高喊的口号越大声，实际行为的裂缝可能越深刻，宛如一个虚伪的祭坛，表面的辉煌掩盖不了地基的坍塌。这种矛盾不仅是一种心理上的自我背叛，更是一种公共信任的崩塌，其最终影响往往会成为社会心理疤痕的象征。
 

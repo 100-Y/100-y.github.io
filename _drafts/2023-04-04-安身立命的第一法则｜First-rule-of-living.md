@@ -3,14 +3,14 @@ layout: post
 title: 安身立命的第一法则｜First rule of living
 date: 2023-04-04
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/04  
 把人或情况往最坏处想。

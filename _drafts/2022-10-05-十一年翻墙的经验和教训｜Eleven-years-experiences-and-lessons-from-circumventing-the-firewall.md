@@ -3,14 +3,14 @@ layout: post
 title: 十一年翻墙的经验和教训｜Eleven years’ experiences and lessons from circumventing the firewall
 date: 2022-10-05
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/10/05  
 据自己十一年翻墙的经验和教训，提出以下几点，浏览国际互联网的建议：

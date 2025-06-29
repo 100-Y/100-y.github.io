@@ -3,14 +3,14 @@ layout: post
 title: 美芽胚子——Bud Embryo
 date: 2016-06-03
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 小时候，人们都叫我美芽胚子，  
 说等着看我长大后的样子。  

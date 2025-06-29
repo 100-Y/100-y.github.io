@@ -3,14 +3,14 @@ layout: post
 title: 狼群和羊群｜Wolf pack and flock of sheep
 date: 2023-04-21
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/21  
 从前，有一群狼，他们经常饿肚子，因为他们不会打猎，只会偷吃别人的食物。他们看到山坡上有一群肥美的羊，就想出了一个计划。

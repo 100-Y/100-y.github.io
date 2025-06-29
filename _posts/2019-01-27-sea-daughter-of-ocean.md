@@ -3,14 +3,14 @@ layout: post
 title: 希雅，海神的女儿——Sea, Daughter of Ocean (4-)
 date: 2019-01-27
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Sea-Wall
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 凉风还是清晨，秋月还是无霜？都不及梦中的你，和你给的温存……
 

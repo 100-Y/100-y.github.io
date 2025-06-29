@@ -3,14 +3,14 @@ layout: post
 title: 郑州富士康暴力事件｜The violent incident of Zhengzhou Foxconn
 date: 2022-12-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/12/06  
 世界杯期间（2022年11月22日至23日），郑州富士康，中牟等临近地区。一个关于“企业假合同，工人维权，特警维稳”的故事。

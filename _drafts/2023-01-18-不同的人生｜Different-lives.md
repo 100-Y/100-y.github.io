@@ -3,14 +3,14 @@ layout: post
 title: 不同的人生｜Different lives
 date: 2023-01-18
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/01/18  
 某个人、某个阶段，开始变得唯唯诺诺，不太敢自由发表，或是拥有个人独特的见解。这时，大概率这人的潜意识，正在同当时所处的环境如何地进行抗争，比如：选择是否要被其同化、控制和吞噬，还是隐藏、躺平与反击。

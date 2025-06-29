@@ -3,14 +3,14 @@ layout: post
 title: 闹事与改命｜Make troubles and change fates
 date: 2022-07-10
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/07/10  
 所有人类，如果一生下来，想要的什么东西，都可以拥有，那么ta们，便不再会闹事。所以，闹事的根本原因，还是变化、有无的一个问题。是初始分配、是政策扶持、是区分对待……是剥削与反抗，更是人性与反人性之间的较量。

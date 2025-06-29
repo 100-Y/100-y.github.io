@@ -3,14 +3,14 @@ layout: post
 title: 横空出世的社会｜A society that emerges out of nowhere
 date: 2023-09-10
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/09/10“横空出世”的社会，必定是“牛马当道”、危机四伏的年代。此，投机、进阶的“牛马”；非彼，遭受压榨和剥削的牛马。
 

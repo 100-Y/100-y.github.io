@@ -3,14 +3,14 @@ layout: post
 title: 存在的裂缝——The Fracture of Existence
 date: 2025-03-12
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 在认知深渊之中，清醒如同一柄冷冽的剖析刀锋，它以无声切割的姿态，穿越宏观噩梦般的现实构造，将“存在即剥削”的真相隐现于意识边缘。由此，个体对于行动意义的挣扎，便在悬空之塔的缝隙间悄然燃起一缕灰烬火种。
 

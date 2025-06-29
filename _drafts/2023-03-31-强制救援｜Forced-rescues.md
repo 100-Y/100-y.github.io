@@ -3,14 +3,14 @@ layout: post
 title: 强制救援｜Forced rescues
 date: 2023-03-31
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/03/31  
 “强制救援”，不顾生命本体的心理需求，在未征得其情况，生命告知、意愿妥协（同意救援）的前提，便步步紧逼采取，各类主观“为您好”的救助行为。

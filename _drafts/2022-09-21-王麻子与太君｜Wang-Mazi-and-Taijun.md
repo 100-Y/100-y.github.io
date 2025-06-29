@@ -3,14 +3,14 @@ layout: post
 title: 王麻子与太君｜Wang Mazi and Taijun
 date: 2022-09-21
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/09/21  
 \*\*王麻子\*\*，刚举报完隔壁共产党员，领着\*\*太君\*\*奖赏的几块大洋，就潇潇洒洒地跑去买酒吃。

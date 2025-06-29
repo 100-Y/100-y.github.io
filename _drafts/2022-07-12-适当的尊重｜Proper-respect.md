@@ -3,14 +3,14 @@ layout: post
 title: 适当的尊重｜Proper respect
 date: 2022-07-12
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/07/12  
 世间，每个人都有ta自己，要走的路、该吃的苦……强行安排另一个人的人生，无论怎样，都是在剥夺ta们自由选择的权利。所以“冷漠”就好。冷漠，是对ta人人生，适当的一种尊重。

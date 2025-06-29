@@ -3,14 +3,14 @@ layout: post
 title: 爱是什么——What is a Love
 date: 2019-03-30
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 爱是什么？  
 爱是熟睡时给的亲吻，湿润你的嘴唇，温暖我的心窝。  

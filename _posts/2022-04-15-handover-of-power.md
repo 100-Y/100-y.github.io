@@ -3,14 +3,14 @@ layout: post
 title: 权力的交接——Handover of Power
 date: 2022-04-15
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 权力掌握在年轻人手里，是个灾难；因为年轻人爱国，盲目。权力掌握在老年人手里，是另一个灾难；因为老年人爱国，自以为是。那么谁，应该掌握权力，那些实事求是的官员，将会是最好的选择。
 

@@ -3,14 +3,14 @@ layout: post
 title: 抖音，好的一点｜One good point of Douyin
 date: 2022-11-22
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/11/22  
 抖音，好的一点是，定位“不同城市”，可以看见一些相对真实的完整信息。没有操作门槛，每一个体，都能轻易发出自己的声音，包括，很多很多社会“底层”，发出的一些最最真实的声音。

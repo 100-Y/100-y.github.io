@@ -3,14 +3,14 @@ layout: post
 title: 荒诞小小说：永生｜Absurd little novel: Eternal life
 date: 2022-10-19
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/10/19  
 我在想，呆会儿戴着头盔出去骑车，绕新建中的\*\*天府大道北延线和新三星堆博物馆\*\*，跑一圈……路上，突然出现一辆横冲直撞的大车，我来不及躲闪，头盔连着脑袋，一起被大车车轮压扁……

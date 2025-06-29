@@ -3,14 +3,14 @@ layout: post
 title: 集体主义与人文主义｜Collectivism and humanism
 date: 2022-11-03
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/11/03  
 集体主义，没有个人隐私；个人，也绝不能凌驾于集体之上。这便是为什么：多数国人，可以随意侵犯其ta少数，而又不遭受强烈惩罚，还自得其乐的，根髓和原因。

@@ -3,14 +3,14 @@ layout: post
 title: 嘲讽与启迪｜Mockery and enlightenment
 date: 2022-08-24
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/08/24  
 启迪，所能迸发出的能量，比嘲讽带来的伤害，要低数十倍……那些受到嘲讽伤害，然后再去伤害ta人的人，愈发地消亡；启迪的大军，才能更牢牢占据住，中心的地位。

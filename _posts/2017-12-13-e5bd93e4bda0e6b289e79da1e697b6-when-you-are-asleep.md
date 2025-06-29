@@ -3,14 +3,14 @@ layout: post
 title: 当你沉睡时——When You are Asleep
 date: 2017-12-13
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 当你沉睡时，月亮就召唤醒你。  
 皎兔来送她的情书——嫦娥也选择与你幽会；  

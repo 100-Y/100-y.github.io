@@ -3,14 +3,14 @@ layout: post
 title: 服从性测试与专业防护知识｜Obedience tests and professional protection knowledges
 date: 2023-09-24
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/09/24学校是教书育人的地方，不是劳改营。替代学校的方案：家庭教育➕社会实践，配合人工智能（非阉割版本）。
 

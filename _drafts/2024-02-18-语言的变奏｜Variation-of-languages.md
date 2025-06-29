@@ -3,14 +3,14 @@ layout: post
 title: 语言的变奏｜Variation of languages
 date: 2024-02-18
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/02/18讽反，指槐骂桑。这一变奏，也是逐渐发展到“低级红”的过程。至于所谓的“高级红”（不过自身纯正面宣传的描述手法，加之外部纯反面教材的提及），只需将“讽反”的时针，调至顺时针的方向，坚定站稳立场的角度问题。
 

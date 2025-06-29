@@ -3,14 +3,14 @@ layout: post
 title: 炮灰的悲鸣｜Sorrowful cry of cannon fodders
 date: 2023-10-03
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/10/03炮灰，总是在第一时间  
 就被安排上场，充填弹坑……  

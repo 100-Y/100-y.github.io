@@ -3,14 +3,14 @@ layout: post
 title: 一点风声｜A sound of wind
 date: 2022-10-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/10/06  
 一点风声，草就聚集起来；殊不知，是有人准备在草堆的中心，实施点火。

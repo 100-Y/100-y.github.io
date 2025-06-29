@@ -3,14 +3,14 @@ layout: post
 title: 对徽标的分析｜analysis-of-the-logo
 date: 2024-05-18
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/05/18不同立场，决定不同前往的方向。这便需要，将各种立场进行整合，从而得出一个相对完善、准确的答案。万事万物，就像宇宙（意识）动态性质地发展，归根结底，其起点和终局是“固定维持不变”的。
 

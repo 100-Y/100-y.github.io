@@ -3,14 +3,14 @@ layout: post
 title: 当狗的过程｜Process of being dogs
 date: 2023-10-05
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/10/05各项充满人生，上好的抉择，也无非是主动当“谁的狗”而已。狗会拆家，遭受虐待，被抛弃；会绝境中存活，肆无忌惮的奔跑，攻击甚至被一些人吃掉。
 

@@ -3,14 +3,14 @@ layout: post
 title: 山那边的白云——White Clouds on other Side of Mountain
 date: 2021-09-26
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 山的那边，有几朵大的白云……  
 这边一朵——乌云；  

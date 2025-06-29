@@ -3,14 +3,14 @@ layout: post
 title: 正确的道路｜The right path
 date: 2023-10-27
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/10/27你以为的各方面都不错能够交心的朋友，在第一眼看后你朋友圈的内容，就会将你删除。这说明了一个什么问题？
 

@@ -3,14 +3,14 @@ layout: post
 title: 杜撰：秦朝灭亡的真相｜Apocryphal: Truth of the demise of Qin Dynasty
 date: 2022-09-21
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/09/21  
 近日，秦国一农民，身体老是抱恙，无法按时完成，年度的粮食缴纳额度。暗地里的某天，农民发现，一走私盐的商贩。将商贩举报到衙门，于是衙门充公了商贩的所有器具和收益。并答应农民，下一年再征收欠下的粮款。\*\*农民感激涕零\*\*。

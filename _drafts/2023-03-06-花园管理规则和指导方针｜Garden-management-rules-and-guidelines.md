@@ -3,14 +3,14 @@ layout: post
 title: 花园管理规则和指导方针｜Garden management rules and guidelines
 date: 2023-03-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/03/06  
 在这个大花园里，有很多美丽而香甜的花朵，也有一些隐匿在阴暗处的虫子。它们偷偷地啃噬着花朵的根茎和叶片，让花园生去了光彩和沃力。请问我们这些普通的游客，如何能够把这些虫子揪出来，让它们受到应有的惩罚呢？

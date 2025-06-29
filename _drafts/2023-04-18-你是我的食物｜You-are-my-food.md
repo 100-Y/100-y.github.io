@@ -3,14 +3,14 @@ layout: post
 title: 你是我的食物｜You are my food
 date: 2023-04-18
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/18  
 根据：\[\*\*原子弹和食人魔鬼｜Atomic bomb and man-eating demon\*\*\](https://www.notion.so/Atomic-bomb-and-man-eating-demon-c9738565a19e4f569048e16c5f206371?pvs=21)，写一篇魔幻现实主义小说。

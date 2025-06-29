@@ -3,14 +3,14 @@ layout: post
 title: 新时代的运动｜The movement in new era
 date: 2023-04-04
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/04  
 新时代的运动，约等于，社会转移分配不公的问题，纯纯的割韭菜行为。

@@ -3,14 +3,14 @@ layout: post
 title: 跨越山海的奖励｜reward-for-crossing-the-mountains-and-seas
 date: 2024-02-17
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/02/17某一个阶段，还充满伤感、忧郁，彷徨与无助的心情。现在，只有愉悦、乐观、身心强大的体验。这可能，便是跨越“山海”，辛勤获取的奖励。
 

@@ -3,14 +3,14 @@ layout: post
 title: 文革｜The Cultural Revolution
 date: 2023-02-27
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/02/27  
 一种苏联笑话式地，将高级红描成高级黑的，一场假吧意思放鸣，实则争利夺权、排除异己的，个人民主运动。

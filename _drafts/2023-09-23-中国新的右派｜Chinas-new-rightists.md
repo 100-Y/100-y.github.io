@@ -3,14 +3,14 @@ layout: post
 title: 中国新的右派｜China’s new rightists
 date: 2023-09-23
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/09/23对比毛时代的“反右运动”，中国如今新的“右派”，包含哪些群体？
 

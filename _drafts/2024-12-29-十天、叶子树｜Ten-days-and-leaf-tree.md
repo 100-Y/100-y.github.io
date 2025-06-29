@@ -3,14 +3,14 @@ layout: post
 title: 十天、叶子树｜Ten days and leaf tree
 date: 2024-12-29
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 十天，是一棵叶子树， 生命循环的周期。
 

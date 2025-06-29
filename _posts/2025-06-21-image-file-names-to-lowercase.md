@@ -3,14 +3,14 @@ layout: post
 title: 批量将图片文件名改为小写
 date: 2025-06-21
 description: 使用 Bash 脚本批量将图片文件名统一转换为小写，解决 GitHub Pages 线上图片因大小写敏感导致无法显示的问题。
-og_image: /assets/img/blog/image-file-names-to-lowercase.svg
-thumbnail: /assets/img/blog/image-file-names-to-lowercase.svg
+og_image: /assets/img/blog/png/image-file-names-to-lowercase.png
+thumbnail: /assets/img/blog/svg/image-file-names-to-lowercase.svg
 categories: Internet
 tags: bash gh-pages
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/image-file-names-to-lowercase.svg" style="width:100%;" alt="image-file-names-to-lowercase">
+<img src="/assets/img/blog/svg/image-file-names-to-lowercase.svg" alt="image-file-names-to-lowercase" style="width:100%">
 
 ---
 

@@ -3,14 +3,14 @@ layout: post
 title: 站起来的原因｜Reasons to stand up
 date: 2022-11-28
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/11/28  
 抖音（泛指），站队踩刹车一派；不像微博，话语权，全在狂热粉红一边。当刹车，被彻底拔掉；便是抖音，被独裁的当天。随之而来漫长的黑夜，将成为所有人的明天。

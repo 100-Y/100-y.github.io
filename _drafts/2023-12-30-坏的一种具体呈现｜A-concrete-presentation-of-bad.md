@@ -3,14 +3,14 @@ layout: post
 title: “坏”的一种具体呈现｜A concrete presentation of “bad”
 date: 2023-12-30
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/12/30通过对“坏”的一种具体呈现，不是对坏有一个模仿、比较，或是鼓励去侮辱它。这种坏的具体呈现，是扪心自问，也是对“善”的一种反作用力引导。
 

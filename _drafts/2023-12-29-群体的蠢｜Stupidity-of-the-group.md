@@ -3,14 +3,14 @@ layout: post
 title: 群体的蠢｜Stupidity of the group
 date: 2023-12-29
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/12/29远离社会中各式各样、故步自封，放弃学习的“蠢人”。不然，就得被ta们一系列的骚操作，给气死。
 

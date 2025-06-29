@@ -3,14 +3,14 @@ layout: post
 title: 动物管理局｜Animal administration bureau
 date: 2023-04-04
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/04  
 在一个遥远的国度，有一个动物管理局，负责管理所有的动物。动物管理局的宗旨是让所有的动物都能和谐共处，不分种族、颜色、大小和能力。为了实现这个目标，动物管理局制定了一套统一的教育制度，要求所有的动物都必须接受相同的课程，学习相同的知识和技能。

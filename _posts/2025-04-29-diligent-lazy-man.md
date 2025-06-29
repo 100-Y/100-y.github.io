@@ -3,14 +3,14 @@ layout: post
 title: 要做勤快的懒人
 date: 2025-04-29
 description: 懒≠低效，勤快≠聪明。本篇文章带你识别四种行动模型，理解如何选择适合自己的“效率路径”。Laziness doesn’t mean inefficiency, and diligence isn’t always smart. This article helps you identify four action models and choose your personal path to efficiency.
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 勤快的做法，用手分开做；比较勤快的做法，慌乱没有计划地安排多种工具；比较懒的做法，提前富有效率地使用单一工具；懒的替代做法，热水和钱，即时搞定一切。
 

@@ -3,14 +3,14 @@ layout: post
 title: 成年人缓解痛苦，合法又不伤害ta人的方式｜Legal and harmless ways for adults to relieve pains
 date: 2022-08-12
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/08/12  
 之一：是\*\*获得短暂的“愉悦感”\*\*。通过正常的生理需求……运动、游戏等等，获得\*\*精神、肉体\*\*上的双重满足。但不要，\*\*沉迷其中\*\*；因为，不仅更加痛苦，长时间持续性的兴奋，也足以致人死亡。

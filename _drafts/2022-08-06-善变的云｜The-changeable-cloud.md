@@ -3,14 +3,14 @@ layout: post
 title: 善变的云｜The changeable cloud
 date: 2022-08-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/08/06  
 先是像亚欧大陆，像一个扎辫子的小女孩儿。不一会儿，就变成一个，送出飞吻的老头。待影子越拉越长，又成了一摊，刚窝的屎。真奇特啊！

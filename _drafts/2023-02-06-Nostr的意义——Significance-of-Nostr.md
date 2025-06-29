@@ -3,14 +3,14 @@ layout: post
 title: Nostr的意义——Significance of Nostr
 date: 2023-02-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/02/06  
 用户可以匿名发表，任何自己想要发表的言论，不被追查；平台也提供相关屏蔽、举报、拉黑的功能。

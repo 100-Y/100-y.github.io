@@ -3,14 +3,14 @@ layout: post
 title: 社会的渣滓｜Dregs of society
 date: 2024-01-08
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/01/08“底层”遭受煎熬的蝼蚁，寻求安慰：期待“上层”的雄蜂，与ta们一样，都是“社会的渣滓”。事实也，一并如此。圣人光环备出的年代；必将是，人吃人历史的严重空档。
 

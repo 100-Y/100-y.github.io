@@ -3,14 +3,14 @@ layout: post
 title: 信任的单向流动：制度化服从与觉醒的隐喻
 date: 2025-03-06
 description: 一条只能前行的通道，象征信任的单向灌注；本文揭示制度化信任如何掩盖个体的声音，并提出“从自我开始”的逆流可能。A one-way passage symbolizes trust flowing top-down; this piece reveals how institutionalized trust silences individuals and proposes a reversal—starting with the self.
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 你在走一条只能向前的通道，入口像信仰一样宽阔，出口却细如命令的缝隙。没有回头的余地，因为回头不是被禁止，而是从未被教过。你学会了相信那些声音洪亮的人：讲台上的人、穿白袍的人、戴徽章的人、控制PPT翻页的人。他们说这是光明、是秩序、是安全，但你隐约觉得，那光，是一个方向性的投影，照亮的不是世界，而是通道的尽头——那并非出口，而是判决台。
 

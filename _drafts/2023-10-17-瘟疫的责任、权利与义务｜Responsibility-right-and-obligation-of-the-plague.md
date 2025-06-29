@@ -3,14 +3,14 @@ layout: post
 title: 瘟疫的责任、权利与义务｜Responsibility, right and obligation of the plague
 date: 2023-10-17
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/10/17羊出的毛，织成衣物盖在人身上；不仅羊毛卖不了一分钱，羊还得定期向修理工人支付“380元的修理费用”。
 

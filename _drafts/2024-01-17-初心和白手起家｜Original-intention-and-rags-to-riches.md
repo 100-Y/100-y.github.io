@@ -3,14 +3,14 @@ layout: post
 title: 初心和白手起家｜Original intention and rags-to-riches
 date: 2024-01-17
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/01/17不要过份倡导初心。“初心”，经不起上下历史轮番地打量；与，众多商人所谓的“白手起家”，如出一辙。效果，只会适得其反。
 

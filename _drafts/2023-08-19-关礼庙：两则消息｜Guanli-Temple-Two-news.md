@@ -3,14 +3,14 @@ layout: post
 title: 关礼庙：两则消息｜Guanli Temple: Two news
 date: 2023-08-19
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/08/19“关礼庙”，在举办天下第一届英雄竞技大赛，各路神仙、凡人一同参加，共百人，50组，两两抽签，一一决胜。“林荆”率先出场，可出场前，庙观发生了一个小小插曲：每一组参加比赛的英雄，都需要先到庙观下信息不明的民居，按照规定时间内，先获取两则关键的消息。
 

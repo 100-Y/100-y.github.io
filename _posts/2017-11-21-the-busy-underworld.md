@@ -3,14 +3,14 @@ layout: post
 title: 繁忙的地下世界——The Busy Underworld
 date: 2017-11-21
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 在繁忙的地下世界，醒来：  
 套在尸袋中的鬼人，和你打招呼……  

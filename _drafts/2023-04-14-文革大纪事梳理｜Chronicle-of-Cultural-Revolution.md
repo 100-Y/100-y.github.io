@@ -3,14 +3,14 @@ layout: post
 title: 文革大纪事梳理｜Chronicle of Cultural Revolution
 date: 2023-04-14
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/14  
 \# \*\*文革理由｜Reasons for the Cultural Revolution\*\*

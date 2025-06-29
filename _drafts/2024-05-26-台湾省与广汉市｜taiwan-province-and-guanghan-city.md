@@ -3,14 +3,14 @@ layout: post
 title: 台湾省与广汉市｜taiwan-province-and-guanghan-city
 date: 2024-05-26
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/05/26讲一个，中国大陆地区（中华人民共和国）和中国台湾地区（中华民国）的人民，普遍都不愿承认和接受的事实：台湾是一个省；台湾省属于中华民国。这样的一个关系，好比就像：即使大部分广汉人不认为自己是德阳人，但广汉一定也成为不了广州。
 

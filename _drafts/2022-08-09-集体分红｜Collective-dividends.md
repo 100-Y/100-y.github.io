@@ -3,14 +3,14 @@ layout: post
 title: 集体分红｜Collective dividends
 date: 2022-08-09
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/08/09  
 集体经济分红，看似（好的一面），是给部分群众带来了收益，实则（坏的一方），还是剥削了其ta的人民。比如，商铺分红：集体剥削租户，租户克扣消费者……买单，最终还是落到每一个消费者头上。

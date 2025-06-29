@@ -3,14 +3,14 @@ layout: post
 title: 贺兰峰批判刘亚洲的文章｜He Lanfeng on Liu Yazhou
 date: 2023-04-12
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/12  
 宣传口说他是“双面人”……

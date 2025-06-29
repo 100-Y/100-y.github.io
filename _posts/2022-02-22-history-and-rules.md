@@ -3,14 +3,14 @@ layout: post
 title: 历史和规则——History and Rules
 date: 2022-02-22
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 历史，由强权书写，历史，不是真实的历史；规则，由既得利益者制定，规则，只属于普通人的规则。
 

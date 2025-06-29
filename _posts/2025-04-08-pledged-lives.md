@@ -3,14 +3,14 @@ layout: post
 title: 危机中的自我误伤：命如何被悄然抵押
 date: 2025-04-08
 description: 反思危机中的自救误区：当防御成为倒钩，命运悄然被抵押，揭示结构性反伤机制。A reflection on how crisis responses turn into barbed defenses, silently pledging life and exposing the paradox of self-harm within self-preservation.
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 我们以为危机来自他方，便仓皇布阵，却不知布阵之手，早已误植倒钩。伤口不是敌造成的，而是你反身划开的意图本身。在一场自救之举里，命，被悄然抵押。
 

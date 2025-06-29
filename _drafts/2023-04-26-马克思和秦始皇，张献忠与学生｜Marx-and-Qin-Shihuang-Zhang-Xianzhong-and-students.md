@@ -3,14 +3,14 @@ layout: post
 title: 马克思和秦始皇，张献忠与学生｜Marx and Qin Shihuang, Zhang Xianzhong and students
 date: 2023-04-26
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/26  
 一个穿着古代服装在现代的一个学校里，结合了马克思和秦始皇思想的年轻学生。

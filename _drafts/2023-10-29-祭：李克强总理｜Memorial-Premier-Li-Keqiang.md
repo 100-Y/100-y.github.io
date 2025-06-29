@@ -3,14 +3,14 @@ layout: post
 title: 祭：李克强总理｜Memorial: Premier Li Keqiang
 date: 2023-10-29
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/10/29不“同流合污”，已不容易；能“坚守底线”，更为君子。
 

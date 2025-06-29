@@ -3,14 +3,14 @@ layout: post
 title: 那个精致利己的毛左——That Left Egoism\_Maoist
 date: 2024-12-03
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 不愿放弃手中权力，下定决心戒严的某一瞬间，尹锡悦还是活成了“那个精致利己的毛左”。
 

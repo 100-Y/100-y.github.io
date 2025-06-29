@@ -3,14 +3,14 @@ layout: post
 title: 直觉——从感知到灵感的艺术 / Intuition - The Art of Transforming Perception into Inspiration
 date: 2024-11-13
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 直觉，是从潜意识深处打捞出的感知，不受语言和分析框架的束缚。它模糊却真实，是一种“顿悟”式的隐秘共鸣，为灵感注入源源不绝的生命力。与其在创作中急于分析，不如先感受当下的氛围，放下控制，让直觉自然流淌，成为灵感的向导。
 

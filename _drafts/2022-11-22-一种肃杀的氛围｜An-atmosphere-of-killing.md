@@ -3,14 +3,14 @@ layout: post
 title: 一种肃杀的氛围｜An atmosphere of killing
 date: 2022-11-22
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/11/22  
 全国不断持续蔓延的一种肃杀氛围，给我一种不好的感觉：这个冬春之际，要打仗了。接下来，或许才到，“真的好日子”来临。

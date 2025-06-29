@@ -3,14 +3,14 @@ layout: post
 title: 美好祖国的未来｜Future of the beautiful motherland
 date: 2022-07-11
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/07/11  
 庙堂之上，有的替资本，有的替权力……为数不多的，还在真心想为人民。资本的无序扩张，最初，源自于权力内部的支持；部分相互勾连的既得利益者们，不知何为满足。于是，便有了改革势力与回头派的摩擦，进而衍生出：资本操控权力、权力不满资本的诸多问题。庙堂之下：富农、中产……有的，早已成为权力、资本的狗腿；有的，挤破了头都想，进去分一杯羹。

@@ -3,14 +3,14 @@ layout: post
 title: 反贼的觉悟｜Awakening of a rebel
 date: 2022-08-24
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/08/24  
 一个优秀的反贼，应当兼具拍马屁、唱赞歌的本领，以及干实事、肯付出的觉悟。相反，明目张胆地唱反调、搞批评，不仅会使得爱国者跳出，让领导下不来台；同时也让真正的反贼——自己的同袍，提心吊胆。惹得一身骚的同时，里外不是人。

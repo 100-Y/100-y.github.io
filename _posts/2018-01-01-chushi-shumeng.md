@@ -3,14 +3,14 @@ layout: post
 title: 孤山处士述梦
 date: 2018-01-01
 description: 在《汉阳舟子集》中，一位孤山隐士于梦中聆听古人讲道，揭示因果、君子与小人的伦理差别，以及儒释道三教思想的诗性融合。In The Hanyang Boatman’s Anthology, a hermit dreams of sages debating virtue and karma, unveiling a poetic fusion of Confucian, Taoist, and Buddhist ethics through allegorical dream vision.
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: hyzzj
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 呵呵，俺性孤僻。「卜居」西湖之孤山，不慕荣利，不求闻达。朝廷屡屡征聘，皆辞不往就。日惟养鹤「莳」梅于孤岭，谢绝尘俗。托足儒林，寄迹旷野，闗情林泉，适意山水。虽无富贵荣禄之乐，亦足以畅怀适性。所与游者，皆当时隐士。古人云：座上客长满，樽中酒不空，谈笑有鸿儒，往来无白丁。「仆」有之矣。
 

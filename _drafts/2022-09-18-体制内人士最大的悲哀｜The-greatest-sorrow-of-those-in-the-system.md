@@ -3,14 +3,14 @@ layout: post
 title: 体制内人士最大的悲哀｜The greatest sorrow of those in the system
 date: 2022-09-18
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/09/18  
 系统，对体制内人士的监控（剥削），社会人士远不及ta们。每个人都要求务必是保密的工具人。身在其中，衷心、听令，便是唯一的正确。

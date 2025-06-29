@@ -3,14 +3,14 @@ layout: post
 title: 报复社会的行为——The Act of Social Revenge
 date: 2024-11-17
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 报复社会的行为往往源于极端的心理扭曲和情绪积压。选择无辜的路人而非直接报复加害者，反映出几种深层次的心理动因：
 

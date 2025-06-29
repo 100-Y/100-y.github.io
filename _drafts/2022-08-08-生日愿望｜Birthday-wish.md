@@ -3,14 +3,14 @@ layout: post
 title: 生日愿望｜Birthday wish
 date: 2022-08-08
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/08/08  
 寻得：隔空比划，自动输出文字的记录机器；或者一种，可以识别脑电波的未来意识流的产品。闭上双眼也能，正常操控；睡觉、休息时，都能实时书写。

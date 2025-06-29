@@ -3,14 +3,14 @@ layout: post
 title: 恶的来源｜Source of evil
 date: 2022-09-15
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/09/15  
 恶，是毫无节制的需求；是欲望挣脱瓶颈的牢笼。恶，是意识在对需求和欲望，进行某种向外、非良性方式驱动。所以恶，一定是对外，弊ta的。（自残……那不叫恶，是内在精神不能，自洽、免疫，而呈现出某种矛盾、应激的状态。）

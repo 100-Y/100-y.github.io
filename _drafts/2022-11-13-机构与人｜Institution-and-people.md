@@ -3,14 +3,14 @@ layout: post
 title: 机构与人｜Institution and people
 date: 2022-11-13
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/11/13  
 任何机构，它都是死的！有人，不断因此丢了性命；也总有人，维护和坚守这么一个虚头巴脑的东西。人，才是第一生产力！

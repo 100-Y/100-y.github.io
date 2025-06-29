@@ -3,14 +3,14 @@ layout: post
 title: 窗台外的向日葵花——The Sunflower Outside the Windowsill
 date: 2015-08-17
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 向日葵花，窗台外面的向日葵花；  
 透过窗台就能看见她。  

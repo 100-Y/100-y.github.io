@@ -3,14 +3,14 @@ layout: post
 title: 量子灵学｜quantum-spirituality
 date: 2022-11-12
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/11/12  
 量子灵学是一个术语，指的是一套试图将意识、智慧、灵性或神秘的世界观与量子力学及其解释联系起来的形而上学信仰和实践。有些人认为，量子物理可以揭示真实的现实和人类心灵在创造或影响现实中的作用。量子灵学经常受到科学家和怀疑者的批评，认为它是伪科学或骗局。

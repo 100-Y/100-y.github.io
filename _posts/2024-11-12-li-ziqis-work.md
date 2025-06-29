@@ -3,14 +3,14 @@ layout: post
 title: 李子柒的作品——Li Ziqi&#8217;s Work
 date: 2024-11-12
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 李子柒的作品如田园诗般唯美，每一帧都像静谧的画卷，勾勒出人们对自然和乡土的渴望。她用精致的镜头、自然的光影、细腻的构图，将古老生活的宁静与和谐展现得淋漓尽致。
 

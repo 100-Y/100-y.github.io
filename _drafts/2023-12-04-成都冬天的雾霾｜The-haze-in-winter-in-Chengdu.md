@@ -3,14 +3,14 @@ layout: post
 title: 成都冬天的雾霾｜The haze in winter in Chengdu
 date: 2023-12-04
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/12/04成都冬天的雾霾要人命，二十年如一日的那种。就像头顶牵满了波斯（蜘蛛）网，网上尽是巨大的颗粒与尘埃。人站在网下，用扫把捣鼓，巨大的颗粒与尘埃落得整个屋子到处都是。扫都扫不干净。
 

@@ -3,14 +3,14 @@ layout: post
 title: 谈民主——On Democracy
 date: 2021-12-07
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 民主，首先不是一国之言。不是美式、英式的选民投票，也不是中式、朝式全过程的参与。不是你能批评领导人，而我不能的因言获罪。（或许这本身就是谬论）
 

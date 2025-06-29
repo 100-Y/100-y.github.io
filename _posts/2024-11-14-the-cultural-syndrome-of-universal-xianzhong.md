@@ -3,14 +3,14 @@ layout: post
 title: “遍地献忠”的文化症候——The Cultural Syndrome of Universal Xianzhong
 date: 2024-11-14
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 **集体焦虑的极端化表达**
 

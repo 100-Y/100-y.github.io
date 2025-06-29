@@ -3,14 +3,14 @@ layout: post
 title: 36525天，Yaniék—雅捏克—Яниэк—يانيك：“百年”新词，跨文化的构造逻辑
 date: 2025-02-24
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 结合联合国所有官方语言，创造一个新的代表年和百年的单词。
 

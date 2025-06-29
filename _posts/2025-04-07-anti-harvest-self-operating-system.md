@@ -3,14 +3,14 @@ layout: post
 title: 反收割自我操作系统——Anti-harvest Self-operating System
 date: 2025-04-07
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: AI-Assisted
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 一种可练习、可复制、可穿越系统性割裂的生命结构设计。
 

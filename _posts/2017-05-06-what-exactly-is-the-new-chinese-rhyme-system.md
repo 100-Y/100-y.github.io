@@ -3,14 +3,14 @@ layout: post
 title: 中华新韵到底是怎么一回事？——What Exactly is the New Chinese Rhyme System?
 date: 2017-05-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 **浅谈十六韵与注音符号、汉语拼音**
 

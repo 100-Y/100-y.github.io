@@ -3,14 +3,14 @@ layout: post
 title: 分水岭｜Watershed
 date: 2022-12-28
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/12/28  
 \*\*分水岭\*\*，在悲观者的眼里：是，短时间内的回光返照；来路以及去向，仍旧充满悲情的色彩。乐观的人看来：吃好、睡好，船到桥头自然直。

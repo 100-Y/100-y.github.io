@@ -3,14 +3,14 @@ layout: post
 title: 阴招与阳谋的力量｜Power of Yin tactics and Yang strategies
 date: 2023-12-29
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/12/29将坏人的个人联系方式或把柄，出卖至境外或境内个人、机构或组织运行的账号，比如反串、钓鱼、诈骗等。让更坏的，来欺负这个坏人。
 

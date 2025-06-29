@@ -3,14 +3,14 @@ layout: post
 title: 美国、中国、俄罗斯——USA, China and Russia
 date: 2022-02-24
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 在美方看来，苏联和中方是对全球最大的威胁。相反，在苏联和中方看来，美方是。
 

@@ -3,14 +3,14 @@ layout: post
 title: 一本正经揶揄人的方法：茅台与狗｜A serious way to tease someone: Moutai and dogs
 date: 2024-01-31
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/01/31借道新的话题或内容，各种“抛砖引玉”性质地岔开主旨；然后夹杂实事求是的态度，开展与进行一场欲抑先扬式的阐述和表达。
 

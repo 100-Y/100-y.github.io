@@ -3,14 +3,14 @@ layout: post
 title: 你我都有美好的未来｜You and I all have a bright future
 date: 2022-09-11
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/09/11  
 社会身份、等级的划分，往往是由，现实的冷嘲热讽，所决定的。比如，看见当官的、美丽的，很多人就前去巴结；瞧见衣衫褴褛、要饭的，就跑去施舍。

@@ -3,14 +3,14 @@ layout: post
 title: 某某人的死亡｜Death of somebody
 date: 2022-07-23
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/07/23  
 梦见还算亲戚却有点敌对关系的某某人，独自一人的死亡……梦见一个本不应该在某处的某个人，重复做着这个人在别处的这人，已经完成的事情。

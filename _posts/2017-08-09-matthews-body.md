@@ -3,14 +3,14 @@ layout: post
 title: 马修的形体——Matthew&#8217;s Body (4-)
 date: 2017-08-09
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Sea-Wall
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 现实，悲哀的聚集场所，  
 幻灵也会迷失方向。  

@@ -3,14 +3,14 @@ layout: post
 title: 中国不会亡——China will not Perish
 date: 2020-09-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 中国：有着上下五千年悠久历史，是世界四大文明古国之一。
 

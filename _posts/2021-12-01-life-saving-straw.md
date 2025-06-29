@@ -3,14 +3,14 @@ layout: post
 title: 救命稻草——Life Saving Straw
 date: 2021-12-01
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 压垮个人的，从来都不是稻草和周围的环境。而是你自己，没有拉着整个时代一起沉沦或飞升的信念和担当！哪怕粉身碎骨，万世不得超生。
 

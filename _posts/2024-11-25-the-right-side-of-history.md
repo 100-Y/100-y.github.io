@@ -3,14 +3,14 @@ layout: post
 title: 历史正确的一边——The Right Side of History
 date: 2024-11-25
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 她站在时间的断崖上，身后是燃烧的旗帜与沉默的墓碑，面前是一片无法标注的地图。有人说那叫“历史的正确之路”。
 

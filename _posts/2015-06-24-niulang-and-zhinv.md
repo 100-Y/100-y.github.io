@@ -3,14 +3,14 @@ layout: post
 title: 牛郎和织女——NiuLang and ZhiNv
 date: 2015-06-24
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 她披着凤求凰，她身着紫金衣；  
 她脚踏般若琉璃心樽，她裹携五彩斑斓裙带。  

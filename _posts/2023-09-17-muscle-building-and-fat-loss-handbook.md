@@ -3,14 +3,14 @@ layout: post
 title: 增肌减脂终极指南：系统饮食+训练计划
 date: 2023-09-17
 description: 增肌减脂训练手册，涵盖科学饮食、系统训练与营养补充，助你高效实现健身目标。A complete muscle gain and fat loss manual with smart meal planning, structured workouts, and key nutrition tips for efficient fitness results.
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 ### 一、正餐（中、晚）+辅食（起、睡）仅适合增重选手
 

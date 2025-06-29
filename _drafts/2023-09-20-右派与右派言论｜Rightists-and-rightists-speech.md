@@ -3,14 +3,14 @@ layout: post
 title: 右派与右派言论｜Rightists and rightists speech
 date: 2023-09-20
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/09/20右派——新中国，最具有朝气和活力的一代人，也是遭受压迫和打击最为残酷的一批。从那之后，中国人“骨子里百折不挠的精神”逐渐变了、没了。
 

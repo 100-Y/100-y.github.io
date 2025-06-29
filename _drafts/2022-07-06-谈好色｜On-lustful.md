@@ -3,14 +3,14 @@ layout: post
 title: 谈好色｜On lustful
 date: 2022-07-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/07/06  
 有人好色，是真的好色，现实一看见美丽、帅气外表的异性，ta就心生涟漪，甚至图谋不轨：是显性。有人好色，ta也是真的，网络里、无人知道的角落，尽情发泄ta的原始兽欲：是隐性。有的人告诉你，ta好色；有的人说ta自己是颜狗……有的人不说。

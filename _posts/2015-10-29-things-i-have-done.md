@@ -3,14 +3,14 @@ layout: post
 title: 我已经完成的事——Things I Have Done
 date: 2015-10-29
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 大地在凝固，生活在忙着挣钱，  
 岁月正慢慢落入冬季的圈套：  

@@ -3,14 +3,14 @@ layout: post
 title: 低级红的赞美，高级黑的抨击｜low-level-red-praise-high-level-black-slander
 date: 2024-05-26
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/05/26所谓的“低级红”，指的是那些过于简单化、庸俗化的支持表达，而“高级黑”则是指那些表面上看似赞美，实际上却含有讽刺和批评的言论。这些术语通常用来描述在舆论场上的某些现象，其中“低级红”可能因为过于夸张或者不贴合实际而被人利用，进而转变成“高级黑”，即那些看似赞美实则贬损的言论。因此，从某种角度来看，“低级红”的赞美确实可能会被视为对“高级黑”的一种无意识的抨击，因为它可能无意中提供了“高级黑”攻击的抓手。
 

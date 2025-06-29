@@ -3,14 +3,14 @@ layout: post
 title: 机械儿童的命，也是命｜Mechanical child’s life, is also a life
 date: 2022-10-13
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/10/13  
 梦见怀里，不知怎的，一直抱着个\*\*机械儿童\*\*，四处奔波……一天，路过悬崖，儿童连同我一起，将要坠落……控制身体平衡，为了不至跌入\*\*深渊\*\*；我不小心压坏，控制儿童说话的电子线路……周围身边人，以为是我为了杀害它，而故意编造的\*\*谎言\*\*，纷纷要来拿我索命……

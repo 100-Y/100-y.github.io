@@ -3,14 +3,14 @@ layout: post
 title: 无脑噱头营销｜Brainless gimmick marketing
 date: 2024-02-17
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/02/17某些群体为了挣钱，可以有多无耻？利用认知和信息差，搞挂羊头卖狗肉的无脑噱头营销，赚取成本价值不相符的快钱。这本身就是一件恶臭的事情。
 

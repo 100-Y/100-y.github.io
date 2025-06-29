@@ -3,14 +3,14 @@ layout: post
 title: 药神中的洛基：吞咽之死的技术暴力
 date: 2025-04-16
 description: 当药物剥夺进食能力，生的尊严悄然被抽空——这不是拯救，而是无声的谋杀。When medicine deprives one of the ability to eat, dignity of life is quietly hollowed out—this is not salvation, but a silent murder.
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 “凡使人不再吞咽者，皆为药神中的洛基。”
 

@@ -3,14 +3,14 @@ layout: post
 title: 全民抓间谍｜Catch spies from the whole people
 date: 2023-08-13
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/08/13  
 问：“全民抓间谍”，为什么不先拿体制内的开刀？

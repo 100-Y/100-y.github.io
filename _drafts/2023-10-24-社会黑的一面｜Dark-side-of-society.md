@@ -3,14 +3,14 @@ layout: post
 title: 社会黑的一面｜Dark side of society
 date: 2023-10-24
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/10/24“工会和学生会”与“小区网格员”——能够/应该/要——起到的作用是一样的：福利汲取和行政传达，以及有限范围与取得额外权力之下的“监督、约束和管控人民”。本质上，与“狗腿”无异。
 

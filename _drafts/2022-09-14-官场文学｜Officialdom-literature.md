@@ -3,14 +3,14 @@ layout: post
 title: 官场文学｜Officialdom literature
 date: 2022-09-14
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/09/14  
 从毛泽东开始，新中国每一代行政官员任内，都会主动著书立说：提出自己特色的语录和见解。用以：对应天时，优良传承，彰显时代，彪炳后世。上行下效，从古至今。也算是我国官场文学独有的一种创作形式。

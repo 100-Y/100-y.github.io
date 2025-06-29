@@ -3,14 +3,14 @@ layout: post
 title: 教育是口锅——Education is an Old Pot
 date: 2025-02-23
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 教育，是一口旧锅，  
 被时代的手反复搬动：  

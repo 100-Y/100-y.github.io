@@ -3,14 +3,14 @@ layout: post
 title: 遥远的温柔——Distant Gentleness
 date: 2024-11-08
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 在那光影交错的黄昏里，  
 你是隐匿于风中的一抹温柔，  

@@ -3,14 +3,14 @@ layout: post
 title: 这是爱情啊，更是诗歌——This is Love, but also Poetry
 date: 2017-10-10
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 睡不着时，我就静静地看你。  
 幻想与你手拉手，一起拍照、旅行，亲吻：  

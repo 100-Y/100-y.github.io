@@ -3,14 +3,14 @@ layout: post
 title: 不当人的后果｜Consequences of not being a human
 date: 2023-09-16
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/09/16自己\*\*不当人\*\*，然后把别人也不当人……当大家都不当人的时候，人类原始丑陋的兽性，就彻底释放给暴露出来了。
 

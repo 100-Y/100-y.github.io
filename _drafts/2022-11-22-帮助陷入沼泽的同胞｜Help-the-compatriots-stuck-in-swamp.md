@@ -3,14 +3,14 @@ layout: post
 title: 帮助陷入沼泽的同胞｜Help the compatriots stuck in swamp
 date: 2022-11-22
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/11/22  
 很多人，都忘本了。包括以前的自己，忘了最初一开始，应该成为怎样的一个人。一个能同情ta人遭遇，可以伸出援助之手，而不是“事不关己高高挂起”，抛弃一部分良知，也要努力奋进向上爬的冷漠之徒。

@@ -3,14 +3,14 @@ layout: post
 title: 八月、花儿与微风——August, Flowers and Breeze
 date: 2017-09-22
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 八月，绚烂如彩虹。  
 花儿，你比笑脸更迎，火花更焰……  

@@ -3,14 +3,14 @@ layout: post
 title: 红与黑｜Redden and Blacken
 date: 2023-02-26
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/02/26  
 何为高级黑？举例：像环球这种自家媒体，选择爆料与否。好心办坏事，不知不觉间的一个对比，却起到反讽效果。低级红的意思，就更好理解了。无脑吹自己的同时，也可以干些全力贬损ta人的活路。

@@ -3,14 +3,14 @@ layout: post
 title: 蛆的认知｜Cognition of maggots
 date: 2023-03-20
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/03/20  
 共产党，是爹！说不得，爹都是好的！先有共产党，才有爹！——这是蛆的认知。共产党是朋友，可以说得！不一定全都是好的。爹和共产党，可以同时存在。——这是正常人的认知。同理，蛆的反面。（共产党：泛指）

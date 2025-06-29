@@ -3,14 +3,14 @@ layout: post
 title: 如果明天我离开——If I Die Tomorrow
 date: 2016-07-21
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 如果明天我离开，  
 就变卖我的家财，  

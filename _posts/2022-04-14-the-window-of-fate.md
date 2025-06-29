@@ -3,14 +3,14 @@ layout: post
 title: 命运的窗口——The Window of Fate
 date: 2022-04-14
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 高中毕业，填报志愿，选了西藏的大学。开学第一天，认识了当地的一个女同学。
 

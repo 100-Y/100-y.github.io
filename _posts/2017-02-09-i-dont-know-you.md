@@ -3,14 +3,14 @@ layout: post
 title: 吾系不知汝——I Don&#8217;t Know You
 date: 2017-02-09
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 吾系不知汝，因难知吾身。  
 愿予吾心交，恨不与同俦。  

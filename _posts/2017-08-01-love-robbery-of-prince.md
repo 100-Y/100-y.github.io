@@ -3,14 +3,14 @@ layout: post
 title: 王子的情劫——Love Robbery of Prince (4-)
 date: 2017-08-01
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Sea-Wall
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 墙端，  
 虚抹世界的一道阴影，  

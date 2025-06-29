@@ -3,14 +3,14 @@ layout: post
 title: 顶尖人物：象牙塔与知行合一｜Top figures: Ivory tower and Unity of knowledge and action
 date: 2024-01-09
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/01/09“象牙塔”里，不谙世事的顶尖人物；亦是，傻白甜群体中，“知行合一”的典型代表。
 

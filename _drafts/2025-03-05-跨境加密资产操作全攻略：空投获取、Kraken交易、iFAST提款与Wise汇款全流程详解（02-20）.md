@@ -3,14 +3,14 @@ layout: post
 title: 跨境加密资产操作全攻略：空投获取、Kraken交易、iFAST提款与Wise汇款全流程详解（02-20）
 date: 2025-03-05
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 0220
 

@@ -3,14 +3,14 @@ layout: post
 title: 共产主义和资本主义的优缺点｜Pros and cons of Communism and Capitalism
 date: 2023-08-24
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/08/24这是两种不同的政治和经济制度，影响了世界上许多国家和地区的历史和发展。共产主义和资本主义有各自的优缺点，也有各自的支持者和批评者。以下是一些可能需要考虑的要点：
 

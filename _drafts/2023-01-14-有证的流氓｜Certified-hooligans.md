@@ -3,14 +3,14 @@ layout: post
 title: 有证的流氓｜Certified hooligans
 date: 2023-01-14
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/01/14  
 个人，利用ta人提供的“信道”，浏览网络“非法”内容。算不得很大的一个问题。但要是独自搭建，再有偿付费给ta人。就要被定性为“现行犯”了。

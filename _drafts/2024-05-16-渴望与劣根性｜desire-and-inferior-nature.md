@@ -3,14 +3,14 @@ layout: post
 title: 渴望与劣根性｜desire-and-inferior-nature
 date: 2024-05-16
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/05/16渴望，本身就是一种劣根性。好比，碳基生物，渴望硅基的本体。好比：
 

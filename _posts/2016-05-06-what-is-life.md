@@ -3,14 +3,14 @@ layout: post
 title: 生活是什么——What is Life
 date: 2016-05-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 生活似狂风，呼啸，  
 树木静静的听它摇摆；  

@@ -3,14 +3,14 @@ layout: post
 title: 郑州富士康徒步事件｜The hiking incident of Zhengzhou Foxconn
 date: 2022-10-30
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/10/30  
 先是正常上班，后来疫情管控，再出现多个敏感事件，发生哄抢、打成一片、安排不当等。后一方组织“联合力量”，撕开破口，致使某方无法再全力控管。

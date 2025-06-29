@@ -3,14 +3,14 @@ layout: post
 title: 工具与阶级：如何摆脱奴役｜Tools and class: how to break free from slavery
 date: 2023-06-29
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/06/29  
 让脑力劳动人员，去从事一成不变的体力行业。是持续的资源不合理与分配不公，作为集体变相剥削与控制的一种手段！还是个人命运被迫、妥协之下，为数不多自己还有的一些选择？（引题）

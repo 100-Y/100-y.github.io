@@ -3,14 +3,14 @@ layout: post
 title: 最大的公平与正义——The Greatest Fairness and Justice
 date: 2021-10-13
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 法律人定，由人参与和判决；而人有缺陷。所以其规定的公平、正义，只是相对客观、正确。如果连，相对（和稀泥），都保证和维持不了；那么，此刻，对“法律”进行践踏便就成了最大的公平与正义！
 

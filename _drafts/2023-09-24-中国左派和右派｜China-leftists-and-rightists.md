@@ -3,14 +3,14 @@ layout: post
 title: 中国左派和右派｜China leftists and rightists
 date: 2023-09-24
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/09/24“左派”保皇、认爹，爹/皇=权力。改革开放是“修正主义”，为了避免权力的坍塌，主要开放外国资本进入，带动资本的同时权力先富（占有全国资源，吸纳大量社会生产价值）；政治体制等的改革，基本停滞不前。只有“右派”真心实意地，寄希望于真正改革，为了全国人民。
 

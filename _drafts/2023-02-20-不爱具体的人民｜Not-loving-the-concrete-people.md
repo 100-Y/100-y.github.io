@@ -3,14 +3,14 @@ layout: post
 title: 不爱具体的人民｜Not loving the concrete people
 date: 2023-02-20
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/02/20  
 一般来说，它指的是一种对人类的抽象爱，而不是对个人的具体爱。暗示了一种自恋或道德优越感，不是真正的关怀或同情。

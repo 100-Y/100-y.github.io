@@ -3,14 +3,14 @@ layout: post
 title: 鸡尸粉｜Chicken corpse powder
 date: 2023-03-12
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/03/12  
 在梦中，小李是一名侦探，他被派去调查一个村子发生的一起离奇的命案。案发现场没有任何线索，只有被咬得面目全非的尸体。小李怀疑这是一起人为制造的谋杀案，而且凶手就藏在这个村子里。

@@ -3,14 +3,14 @@ layout: post
 title: 监狱网评员｜Prison net commentator
 date: 2022-08-12
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/08/12  
 不是说，监狱人员就不得有改过自新的机会；而是讲，把原本有偿的工作，转嫁给，没有反抗能力的免费劳动力。这本身就是一种赚取额外利益的剥削。

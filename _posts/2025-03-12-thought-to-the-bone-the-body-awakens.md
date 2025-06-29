@@ -3,14 +3,14 @@ layout: post
 title: 思想入骨，肉身觉醒——Thought to the Bone, the Body Awakens
 date: 2025-03-12
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 <div class="wp-block-columns"><div class="wp-block-column">**引言：灵魂归乡**
 

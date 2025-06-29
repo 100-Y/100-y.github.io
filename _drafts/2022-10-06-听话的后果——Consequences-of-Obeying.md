@@ -3,14 +3,14 @@ layout: post
 title: 听话的后果——Consequences of Obeying
 date: 2022-10-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/10/06  
 听话：是让渡自己权利，开始变得卑微，“人为刀俎我为鱼肉”的第一步。也是，某些人放弃自我灵魂，成为ta人为达某种目的而供之使用工具的，第一步。

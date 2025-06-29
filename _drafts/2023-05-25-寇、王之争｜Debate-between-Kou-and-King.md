@@ -3,14 +3,14 @@ layout: post
 title: 寇、王之争｜Debate between Kou and King
 date: 2023-05-25
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/05/25  
 感性：“寇可往，吾亦可往。”——寇即是王，王亦是寇。

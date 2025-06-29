@@ -3,14 +3,14 @@ layout: post
 title: 人类之间的恶，是相通的。｜The evil among humans, is universal.
 date: 2024-01-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/01/06人类之间的恶，是指人类在追求自身利益或满足欲望时，对他人或社会造成的伤害或不公。这种恶的表现形式有很多，如暴力、欺诈、剥削、侵犯、腐败等。
 

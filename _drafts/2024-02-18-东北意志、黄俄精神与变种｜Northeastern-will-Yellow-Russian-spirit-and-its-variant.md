@@ -3,14 +3,14 @@ layout: post
 title: 东北意志、黄俄精神与变种｜Northeastern will, Yellow Russian spirit, and its variant
 date: 2024-02-18
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/02/18清朝（东北意志最佳的体现与代表），本质上看，不过左右逢源，不断摇摆的“墙头草”。可谓中国历史上，最“辣鸡”的一个政权和朝代。
 

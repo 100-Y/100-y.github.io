@@ -3,14 +3,14 @@ layout: post
 title: 大学本科毕业论文设计｜Design of undergraduate thesis
 date: 2022-08-14
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/08/14  
 做的\*\*不咋样\*\*，蒙混过关的同时。帮助好朋友，一道侥幸通关。

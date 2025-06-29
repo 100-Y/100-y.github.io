@@ -3,14 +3,14 @@ layout: post
 title: 圣战分子与国家总统｜Holy warrior and national president
 date: 2023-08-17
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/08/17  
 一个国家的总统，可能会是发动圣战成功夺取最高权力的极端主义分子；而被赶下台的国家总统也有很大可能重新走上，之前圣战分子走过的道路。

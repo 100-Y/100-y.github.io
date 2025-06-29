@@ -3,14 +3,14 @@ layout: post
 title: 皇室战争｜Royal battle
 date: 2023-02-24
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/02/24  
 皇室，身前生后，有数不清的金银财宝……需要管家、仆人看卫：一些人指挥，一些人发号施令。城门，开战前。只有炮兵”，无法享受以上人群所有的权益：须在战时玩命。

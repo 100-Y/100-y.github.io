@@ -3,14 +3,14 @@ layout: post
 title: 我的一个小小愿望｜A little wish of mine
 date: 2022-08-13
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/08/13  
 “朋友圈里”，所有好友都能正常浏览互联网；都有获得所有免费知识的权利和能力；也都能自由地思考，都有独立的意识。向外，不仅清晰知道ta人的优缺点；对内，同时还能深刻剖析自己。

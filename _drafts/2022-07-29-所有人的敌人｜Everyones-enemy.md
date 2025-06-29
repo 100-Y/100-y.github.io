@@ -3,14 +3,14 @@ layout: post
 title: 所有人的敌人｜Everyone’s enemy
 date: 2022-07-29
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/07/29  
 把所有人看得很好，你将遭受社会带给你的毒打；把所有人看得都坏，你将感受社会带给你的温情。社会，温情、毒打；所有人，很好、都坏。

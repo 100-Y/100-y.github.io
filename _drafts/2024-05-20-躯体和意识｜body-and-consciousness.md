@@ -3,14 +3,14 @@ layout: post
 title: 躯体和意识｜body-and-consciousness
 date: 2024-05-20
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/05/20躯体、意识，不过1和0的一个区别和集合。
 

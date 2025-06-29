@@ -3,14 +3,14 @@ layout: post
 title: 只讲党性的人｜People who only talk about party spirit
 date: 2023-04-22
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/04/22  
 只讲党性不讲人性，形容的是那些忽视或压抑人性多样性、个性特色、情感需求的人，ta们可能过于强调党性的普遍性和一致性，而忽视了党性与个性的辩证关系。ta们可能认为党性就是绝对正确和高尚的，而人性就是相对错误和低下的。

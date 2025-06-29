@@ -3,14 +3,14 @@ layout: post
 title: 小区与政府｜Community and government
 date: 2023-08-17
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/08/17  
 连一个小区的物业，资金支出都无法做到透明公开，况且一个大规模性质的政府。

@@ -3,14 +3,14 @@ layout: post
 title: 写的三个步骤｜Three steps of writing
 date: 2023-10-17
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/10/17要尝试去“写”，才会更好地“安排字句、组织语言”。“写”的三个步骤：1.出口成脏（行为上的潜意识）、2.入脑封存（思想上的纠结），3.随心雕磨（人格意义上的突破）。
 

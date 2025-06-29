@@ -3,14 +3,14 @@ layout: post
 title: AI 内容生成与分发聚合系统
 date: 2025-03-06
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags: internet
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 **1. 系统目标：一站式自动生成与分发**
 

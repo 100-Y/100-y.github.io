@@ -3,14 +3,14 @@ layout: post
 title: 创造的过程｜The process of creation
 date: 2024-02-16
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2024/02/16文字、语言，是一切创意创作，呈现、表达的开始。想象力与思想，则是这一切来自的根源。
 

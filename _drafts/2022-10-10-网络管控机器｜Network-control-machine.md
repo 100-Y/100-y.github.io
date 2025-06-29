@@ -3,14 +3,14 @@ layout: post
 title: 网络管控机器｜Network control machine
 date: 2022-10-10
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/10/10  
 现在是到了，商鞅禁言的那一套了。可以预见，不远的未来，几乎所有，有关舆情的关键字，都将被强大的网络管控机器，拦截、屏蔽和删除。

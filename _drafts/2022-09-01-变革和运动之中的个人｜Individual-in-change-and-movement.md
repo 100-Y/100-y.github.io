@@ -3,14 +3,14 @@ layout: post
 title: 变革和运动之中的个人｜Individual in change and movement
 date: 2022-09-01
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2022/09/01  
 每一场变革和运动之中的个人，都是渺小的。

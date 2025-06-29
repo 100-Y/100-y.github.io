@@ -3,14 +3,14 @@ layout: post
 title: 人性之恶｜Evil of human nature
 date: 2023-05-03
 description:
-og_image: /assets/img/blog/
-thumbnail: /assets/img/blog/
+og_image: /assets/img/blog/png/
+thumbnail: /assets/img/blog/svg/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/" style="width:100%;" alt="">
+<img src="/assets/img/blog/svg/" alt="" style="width:100%">
 
 2023/05/03  
 把人性往最坏处想，总是可以避免一些悲剧始料不及地发生。比如路上“挑衅”行驶不规范车辆的行人，车辆转头就可能选择将挑衅的行人碾死。不胜枚举的案例……
