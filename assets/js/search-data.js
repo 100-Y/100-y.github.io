@@ -180,15 +180,15 @@ ninja.data = [{
             window.location.href = "/blog/2025-05-08/pigs-utopia/";
           
         },
-      },{id: "post-安全的定义权-信任结构之争",
+      },{id: "post-安全-无需遮蔽的共识-safety-is-transparent-consensus",
         
-          title: "安全的定义权：信任结构之争",
+          title: "安全，无需遮蔽的共识 / Safety Is Transparent Consensus",
         
-        description: "Citizen揭示安全并非技术产物，而是信任结构中的制度投射与参与权力之争。Citizen reveals that safety is not technological outcome, but projection of institutional trust and right to define danger.",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025-05-07/define-safety/";
+            window.location.href = "/blog/2025-05-07/safety-is-transparent-consensus/";
           
         },
       },{id: "post-新时代的支黑-anti-chinese-of-new-era",
