@@ -50,7 +50,7 @@ ninja.data = [{
         },
       },{id: "post-1925年的中国战略-china-strategy-in-1925",
         
-          title: "1925年的中国战略 / China Strategy in 1925",
+          title: "1925年的中国战略 / China Strategy In 1925",
         
         description: "拥有更强境外支持的你，能否在1925年中国重构统一与现代化？With stronger external support, could you reshape unification and modernization in China in 1925?",
         section: "Posts",
@@ -193,7 +193,7 @@ ninja.data = [{
         },
       },{id: "post-新时代的支黑-anti-chinese-of-new-era",
         
-          title: "新时代的支黑 / Anti-Chinese of New Era",
+          title: "新时代的支黑 / Anti-Chinese Of New Era",
         
         description: "不是远方敌人，而是身边压迫者，披着忠诚外衣以信仰之名燃烧人民。Not far enemies, are near oppressors cloaked in loyalty, burning people in the name of faith.",
         section: "Posts",
@@ -204,7 +204,7 @@ ninja.data = [{
         },
       },{id: "post-domains-for-sale",
         
-          title: "Domains for Sale",
+          title: "Domains For Sale",
         
         description: "",
         section: "Posts",
