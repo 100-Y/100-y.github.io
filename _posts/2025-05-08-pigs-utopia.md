@@ -5,7 +5,7 @@ date: 2025-05-08
 description: 逃出屠宰场的猪建起乌托邦，却在幸福托管中陷入新围栏。这是结构性的问题。Pigs escaped slaughterhouse to build a utopia—only to find new fences in the name of protection. This is about structure.
 og_image: /assets/img/blog/png/pigs-utopia.png
 thumbnail: /assets/img/blog/svg/pigs-utopia.svg
-categories: Notes Poems
+categories: Poems
 tags: utopia
 giscus_comments: true
 featured: true

@@ -5,7 +5,7 @@ date: 2025-05-06
 description: 新时代的支黑，不是远方敌人，而是身边压迫者，披着忠诚外衣以信仰之名燃烧人民。The new-era anti-Chinese, not far enemies, are near oppressors cloaked in loyalty, burning people in the name of faith.
 og_image: /assets/img/blog/png/anti-chinese-of-new-era.png
 thumbnail: /assets/img/blog/svg/anti-chinese-of-new-era.svg
-categories: Notes Poems
+categories: Poems
 tags: anti-chinese
 giscus_comments: true
 ---
