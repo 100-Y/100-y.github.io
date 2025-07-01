@@ -52,7 +52,7 @@ ninja.data = [{
         
           title: "1925年的中国战略 / China Strategy in 1925",
         
-        description: "拥有更强境外支持的你，能否在1925年中国重构统一与现代化？从教育、外交、治理到经济，设想一套超越历史局限的战略。With stronger external support, could you reshape unification and modernization in China in 1925? From education and diplomacy to governance and the economy, this is a strategy that seeks to transcend the historical constraints of the time.",
+        description: "拥有更强境外支持的你，能否在1925年中国重构统一与现代化？With stronger external support, could you reshape unification and modernization in China in 1925?",
         section: "Posts",
         handler: () => {
           
@@ -107,7 +107,7 @@ ninja.data = [{
         
           title: "GitHub Pages + Cloudflare 自定义域名 HTTPS 配置指南",
         
-        description: "使用 GitHub Pages 与 Cloudflare 配置自定义域名与 HTTPS，加速部署个人网站。Configure custom domains and HTTPS with GitHub Pages and Cloudflare to securely deploy personal websites.",
+        description: "使用 GitHub Pages 与 Cloudflare 配置自定义域名与 HTTPS，加速部署个人网站。",
         section: "Posts",
         handler: () => {
           
@@ -151,7 +151,7 @@ ninja.data = [{
         
           title: "危机生存法则 / Crisis Survival Rules",
         
-        description: "在生命威胁、求助无门或体制失灵的危机中，理性与坚韧才是手中最锋利的剑刃，劈开一条通向生存与正义的幽径。In times of crisis, when life is threatened, help is unavailable, or systems fail, reason and tenacity are the sharpest blades in hands, cutting a hidden path toward survival and justice.",
+        description: "在生命威胁、求助无门或体制失灵的危机中，理性与坚韧才是手中最锋利的剑刃。In times of crisis, when life is threatened, help is unavailable, or systems fail, reason and tenacity are the sharpest blades in hands.",
         section: "Posts",
         handler: () => {
           
@@ -173,7 +173,7 @@ ninja.data = [{
         
           title: "被托管的世界，猪的乌托邦 / The Managed World, Pig&#39;s Utopia",
         
-        description: "逃出屠宰场的猪建起乌托邦，却在幸福托管中陷入新围栏。这是结构性的问题。Pigs escaped slaughterhouse to build a utopia—only to find new fences in the name of protection. This is about structure.",
+        description: "逃出屠宰场的猪建起乌托邦，却在幸福托管中陷入新围栏。Pigs escaped slaughterhouse to build a utopia—only to find new fences in the name of protection.",
         section: "Posts",
         handler: () => {
           
@@ -184,7 +184,7 @@ ninja.data = [{
         
           title: "安全，无需遮蔽的共识 / Safety Is Transparent Consensus",
         
-        description: "",
+        description: "安全，不是对危险的隐藏，而是对真相的共识与参与。Safety is not the concealment of danger, but the consensus and participation in truth.",
         section: "Posts",
         handler: () => {
           
@@ -195,7 +195,7 @@ ninja.data = [{
         
           title: "新时代的支黑 / Anti-Chinese of New Era",
         
-        description: "新时代的支黑，不是远方敌人，而是身边压迫者，披着忠诚外衣以信仰之名燃烧人民。The new-era anti-Chinese, not far enemies, are near oppressors cloaked in loyalty, burning people in the name of faith.",
+        description: "不是远方敌人，而是身边压迫者，披着忠诚外衣以信仰之名燃烧人民。Not far enemies, are near oppressors cloaked in loyalty, burning people in the name of faith.",
         section: "Posts",
         handler: () => {
           
