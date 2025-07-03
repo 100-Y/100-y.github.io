@@ -27,15 +27,14 @@ youtube_id: 36525_day # your youtube channel id (youtube.com/@<youtube_id>)
 medium_username: 36525.day # your Medium username
 github_username: 100-Y/100-y.github.io # your GitHub user name
 wechat_qr: weixin.webp # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-pinterest_id: 36525day # your pinterest id
+rss_icon: true # comment this line to hide the RSS icon
 
 # x_username: 36525_day # your X handle
 # email: # your email address
-
+#pinterest_id:  # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-# rss_icon: true # comment this line to hide the RSS icon
 
 # scopus_id: # your profile on Scopus
 
