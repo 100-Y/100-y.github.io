@@ -3,7 +3,7 @@ layout: post
 title: GitHub Pages + Cloudflare 自定义域名 HTTPS 配置指南
 date: 2025-06-20
 description: 使用 GitHub Pages 与 Cloudflare 配置自定义域名与 HTTPS，加速部署个人网站。
-og_image: /assets/img/blog/https-github-pages-and-cloudflare.png
+og_image: /assets/img/blog/https-github-pages-and-cloudflare.svg
 thumbnail: /assets/img/blog/https-github-pages-and-cloudflare.svg
 categories: Internet
 tags: gh-pages cloudflare

@@ -3,7 +3,7 @@ layout: post
 title: 换气过度综合征 / Hyperventilation Syndrome
 date: 2025-05-01
 description: 从心理疏导到急性应对，掌握换气过度综合征的标准处理路径。A clear treatment approach for hyperventilation syndrome—from psychological relief to acute-phase rebreathing techniques.
-og_image: /assets/img/blog/hyperventilation-syndrome.png
+og_image: /assets/img/blog/hyperventilation-syndrome.svg
 thumbnail: /assets/img/blog/hyperventilation-syndrome.svg
 categories: Notes
 tags:

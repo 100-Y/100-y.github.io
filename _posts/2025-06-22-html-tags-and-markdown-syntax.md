@@ -3,7 +3,7 @@ layout: post
 title: HTML 标签 + Markdown 语法：在 VS Code 中结合使用的实战指南
 date: 2025-06-22
 description: 通过 VS Code 快捷键与 Emmet 包裹功能，实现 Markdown 文本加粗、高亮、下划线等扩展格式，全面掌握 Markdown 语法 × HTML 标签 的实战技巧。
-og_image: /assets/img/blog/html-tags-and-markdown-syntax.png
+og_image: /assets/img/blog/html-tags-and-markdown-syntax.svg
 thumbnail: /assets/img/blog/html-tags-and-markdown-syntax.svg
 categories: Internet
 tags: markdown html

@@ -3,7 +3,7 @@ layout: post
 title: 上海密局 / The Shanghai Gambit
 date: 2025-06-24
 description: 一场关于信念与现实冲突的惊悚小说。A political thriller about belief colliding with reality.
-og_image: /assets/img/blog/the-shanghai-gambit.png
+og_image: /assets/img/blog/the-shanghai-gambit.svg
 thumbnail: /assets/img/blog/the-shanghai-gambit.svg
 categories: Essays
 tags: shanghai

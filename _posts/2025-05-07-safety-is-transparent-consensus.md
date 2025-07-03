@@ -3,7 +3,7 @@ layout: post
 title: 安全，无需遮蔽的共识 / Safety Is Transparent Consensus
 date: 2025-05-07
 description: 安全，不是对危险的隐藏，而是对真相的共识与参与。Safety is not the concealment of danger, but the consensus and participation in truth.
-og_image: /assets/img/blog/safety-is-transparent-consensus.png
+og_image: /assets/img/blog/safety-is-transparent-consensus.svg
 thumbnail: /assets/img/blog/safety-is-transparent-consensus.svg
 categories: Notes
 tags: safety consensus

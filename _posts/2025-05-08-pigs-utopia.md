@@ -3,7 +3,7 @@ layout: post
 title: 被托管的世界，猪的乌托邦 / The Managed World, Pig's Utopia
 date: 2025-05-08
 description: 逃出屠宰场的猪建起乌托邦，却在幸福托管中陷入新围栏。Pigs escaped slaughterhouse to build a utopia—only to find new fences in the name of protection.
-og_image: /assets/img/blog/pigs-utopia.png
+og_image: /assets/img/blog/pigs-utopia.svg
 thumbnail: /assets/img/blog/pigs-utopia.svg
 categories: Poems
 tags: utopia

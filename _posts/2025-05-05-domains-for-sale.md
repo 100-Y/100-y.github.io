@@ -3,7 +3,7 @@ layout: post
 title: Domains For Sale
 date: 2025-05-05
 description:
-og_image: /assets/img/blog/domains-for-sale.png
+og_image: /assets/img/blog/domains-for-sale.svg
 thumbnail: /assets/img/blog/domains-for-sale.svg
 categories: Internet
 tags: domain
