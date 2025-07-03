@@ -26,7 +26,7 @@
 youtube_id: 36525_day # your youtube channel id (youtube.com/@<youtube_id>)
 medium_username: 36525.day # your Medium username
 github_username: 100-Y/100-y.github.io # your GitHub user name
-wechat_qr: weixin.webp # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+wechat_qr: weixin.svg # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 rss_icon: true # comment this line to hide the RSS icon
 
 # x_username: 36525_day # your X handle
