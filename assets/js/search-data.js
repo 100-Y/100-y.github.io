@@ -246,15 +246,15 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-30/a-hidden-breakout/";
           
         },
-      },{id: "post-真正的爱-是在慌乱中稳住船",
+      },{id: "post-真正的爱-是在慌乱中稳住船-true-love-to-steady-the-boat-in-panic",
         
-          title: "真正的爱，是在慌乱中稳住船",
+          title: "真正的爱，是在慌乱中稳住船 / True Love, To Steady The Boat In Panic",
         
         description: "真正的爱，不是陪同献祭，而是在慌乱中按下暂停键，拒绝让恐惧替代判断。True love is not rushing into sacrifice, but pausing in chaos to resist fear-based decisions.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025-04-25/true-love-steady-the-boat/";
+            window.location.href = "/blog/2025-04-25/true-love-to-steady-the-boat-in-panic/";
           
         },
       },{id: "post-契合度的探讨",
