@@ -3,14 +3,14 @@ layout: post
 title: 假——死的意义 / Hypothesis - Meaning of Death
 date: 2021-11-19
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 **假使当你明白**，人类存在于这个世界上，根本没有任何意义。以后，你就会觉得，你可以什么都不用期待，也没有任何必要。什么喜乐悲欢、俗世凡尘，通通都与你无关。
 

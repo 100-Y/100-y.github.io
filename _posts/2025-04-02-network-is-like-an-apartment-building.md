@@ -3,14 +3,14 @@ layout: post
 title: 网络就像一栋楼——Network Is Like an Apartment Building
 date: 2025-04-02
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 **整体比喻：**
 

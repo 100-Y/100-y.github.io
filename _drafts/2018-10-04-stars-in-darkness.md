@@ -3,14 +3,14 @@ layout: post
 title: 黑暗中的星——Stars in Darkness
 date: 2018-10-04
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 每一颗星星都有它自己的去处。  
 一些坠落，走向毁亡；  

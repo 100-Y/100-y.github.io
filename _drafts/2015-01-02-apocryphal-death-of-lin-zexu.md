@@ -3,14 +3,14 @@ layout: post
 title: 杜撰，林则徐之死——Apocryphal Death of Lin Zexu
 date: 2015-01-02
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 某天林兄（林则徐）和辫子哥（某皇帝）又畅步在御花园：“林兄，听说最近有人吸毒身亡，看来邪恶的毒品又滋生力量了！”辫子哥。
 

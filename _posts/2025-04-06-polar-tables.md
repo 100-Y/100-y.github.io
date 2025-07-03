@@ -3,14 +3,14 @@ layout: post
 title: 两极餐桌——Polar Tables
 date: 2025-04-06
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 一端是盐水浸泡的忍耐，  
 一端是糖霜包裹的误解。  

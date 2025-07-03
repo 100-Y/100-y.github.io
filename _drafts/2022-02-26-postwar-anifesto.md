@@ -3,14 +3,14 @@ layout: post
 title: 战后宣言——Postwar Anifesto
 date: 2022-02-26
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 俄方的导弹，不比美方的精准；  
 中方的爱国者，不比乌方的民族英雄差。  

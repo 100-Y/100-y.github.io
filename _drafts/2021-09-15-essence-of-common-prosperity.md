@@ -3,14 +3,14 @@ layout: post
 title: 共同富裕的本质——Essence of Common Prosperity
 date: 2021-09-15
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 节，挽救、控制；  
 富，财富、资本家。  

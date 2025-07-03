@@ -3,14 +3,14 @@ layout: post
 title: 人物关系——城墙内的居民 / Characters Relationship - Residents inside the Wall
 date: 2017-12-10
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Sea-Wall
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 **怛、王国居民、城墙守卫军、各部落族群等**
 

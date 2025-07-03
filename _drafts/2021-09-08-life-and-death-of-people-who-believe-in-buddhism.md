@@ -3,14 +3,14 @@ layout: post
 title: 修行人的生、死——Life and Death of People who Believe in Buddhism
 date: 2021-09-08
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 修行的人，相信死后有灵魂：“她/他们的灵魂，终将引领着她/他们去到她/他们想去的地方”。说生死，说“生”它就是死，说“死”它就是生……怎样看待的一个问题。这点，我、和我们……也都应和她/他们一样，十分确信。
 

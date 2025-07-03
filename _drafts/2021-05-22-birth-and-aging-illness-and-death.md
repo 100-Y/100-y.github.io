@@ -3,14 +3,14 @@ layout: post
 title: 生老病死｜Birth and Aging, Illness and Death
 date: 2021-05-22
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 生老病死，过程难免。有的“讶异”，有的“无感”；有的发文删帖，有的辟谣打脸。人老了，自然就会离死亡更近一步啊！讳疾忌医的道理大家都懂；可讳莫如深谈论一些事情，真的没有必要。死亡的一层本意，指的是灵魂解脱身体，或许灵魂能找到更好的“归宿”，虽然只是或许，但死亡，这样也不见得总是会成为一件不好的事情。
 

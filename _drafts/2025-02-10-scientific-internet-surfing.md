@@ -3,14 +3,14 @@ layout: post
 title: 科学上网——Scientific Internet Surfing
 date: 2025-02-10
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags: internet
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 **IOS用户**（关闭iCloud同步，避免锁区），只需在苹果官网注册一个境外“#苹果账号”，登陆应用商店下载“vpn”和其它AI工具（如#Gemini 、#ChatGPT ）即可。
 

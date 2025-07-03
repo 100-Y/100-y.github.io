@@ -3,14 +3,14 @@ layout: post
 title: 死亡的贡献——Contribution of Death
 date: 2024-11-19
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 眼看ta人，不顾劝导，执拗地走向深渊、走进死亡，写下同类的赞歌；也是在为ta、为自己，乃至为全人类，做出的应有和巨大的贡献。
 

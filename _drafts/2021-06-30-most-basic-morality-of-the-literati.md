@@ -3,14 +3,14 @@ layout: post
 title: 文人最基本的道德——Most Basic Morality of the Literati
 date: 2021-06-30
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 问题总是存在的！睁眼瞎的人不少，自个儿瞎就算了；再忽悠其他人说：瞎有它的好处！这类人，已全然忘记自身所处的阶层，沦为既得利益者的口舌；成为拱卫他们力量的“打手”。
 

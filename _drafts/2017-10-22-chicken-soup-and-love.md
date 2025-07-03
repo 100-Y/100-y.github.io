@@ -3,14 +3,14 @@ layout: post
 title: 鸡汤和爱情——Chicken Soup and Love
 date: 2017-10-22
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 有很多想说的话，  
 因为害怕说错，就不说了！  

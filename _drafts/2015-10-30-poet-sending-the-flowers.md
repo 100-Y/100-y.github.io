@@ -3,14 +3,14 @@ layout: post
 title: 诗人送花——Poet Sending the Flowers
 date: 2015-10-30
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 诗人想写一首诗——  
 浪人送花给他的情人。  

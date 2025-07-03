@@ -3,14 +3,14 @@ layout: post
 title: 它们，他们——They and Them
 date: 2015-10-17
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 放弃毁灭一切，  
 在它们“杀死”你以前；  

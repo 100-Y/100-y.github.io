@@ -3,14 +3,14 @@ layout: post
 title: 谁动了奶酪？——Who Moved the Cheese?
 date: 2025-03-19
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 一池春水起伏不定，  
 加密的潮汐悄然涌动。  

@@ -3,14 +3,14 @@ layout: post
 title: 一场隐秘突围 / A Hidden Breakout
 date: 2025-04-30
 description: 在情绪混乱与集体愚昧的环境中，悄然构建心理独立系统。Amid emotional turmoil and collective ignorance, quietly build a mentally independent system.
-og_image: /assets/img/blog/png/a-hidden-breakout.png
-thumbnail: /assets/img/blog/svg/a-hidden-breakout.svg
+og_image: /assets/img/blog/a-hidden-breakout.png
+thumbnail: /assets/img/blog/a-hidden-breakout.svg
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/a-hidden-breakout.svg" alt="a-hidden-breakout" style="width:100%">
+<img src="/assets/img/blog/a-hidden-breakout.svg" alt="a-hidden-breakout" style="width:100%">
 
 ---
 

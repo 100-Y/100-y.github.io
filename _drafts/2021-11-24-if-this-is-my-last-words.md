@@ -3,14 +3,14 @@ layout: post
 title: 若这就是我的遗言——If This is My Last Words
 date: 2021-11-24
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 正因为现实残酷，才会有很多的人仰望星空、归隐山林，或是遁入空门、坠入“地狱”。房子，一些物质的东西，对某些人而言，根本没有任何意义。任何事物都是没有意义的啊！
 

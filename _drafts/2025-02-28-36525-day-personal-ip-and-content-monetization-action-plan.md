@@ -3,14 +3,14 @@ layout: post
 title: 36525.day：个人IP与内容变现行动方案
 date: 2025-02-28
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags: internet
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 ### 🧭 引言｜从思想出发，以信任为路径
 

@@ -3,14 +3,14 @@ layout: post
 title: 体能训练与营养补给：癌症干预的生活式可能
 date: 2025-03-08
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: AI-Assisted
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 **一、引言：生活方式，能否成为抗癌武器？**
 

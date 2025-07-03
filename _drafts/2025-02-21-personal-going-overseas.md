@@ -3,14 +3,14 @@ layout: post
 title: 个人出海——Personal Going Overseas
 date: 2025-02-21
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 虚假的，洗“钱”和“转移”资产的具体流程……（非贬义）注：钱：币，“羊毛”，广告和打赏（网站、各平台）等收益；转移：账号激活，服务购买等。真实，投机和知识变现的行为……
 

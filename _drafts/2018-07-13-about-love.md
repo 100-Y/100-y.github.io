@@ -3,14 +3,14 @@ layout: post
 title: 关于爱情——About Love
 date: 2018-07-13
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 一段感情，经历过后，最害怕的不是两个人没在一起；而是身处漩涡中的两人，没有获得成长。成长了，那么这段感情经历的双方，无论怎样，最后都不要觉得后悔！因为经历了各自的高兴，也经历了彼此所带来的悲伤。
 

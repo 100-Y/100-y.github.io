@@ -3,14 +3,14 @@ layout: post
 title: Cudy 路由器完全配置手册——从原厂到 OpenWRT / The Complete Cudy Router Setup Guide - From Factory to OpenWRT
 date: 2025-04-02
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags: internet
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 第一部分：Cudy 原厂初始配置，离线模式。
 

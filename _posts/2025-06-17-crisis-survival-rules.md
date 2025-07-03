@@ -3,14 +3,14 @@ layout: post
 title: 危机生存法则 / Crisis Survival Rules
 date: 2025-06-17
 description: 在生命威胁、求助无门或体制失灵的危机中，理性与坚韧才是手中最锋利的剑刃。In times of crisis, when life is threatened, help is unavailable, or systems fail, reason and tenacity are the sharpest blades in hands.
-og_image: /assets/img/blog/png/crisis-survival-rules.png
-thumbnail: /assets/img/blog/svg/crisis-survival-rules.svg
+og_image: /assets/img/blog/crisis-survival-rules.png
+thumbnail: /assets/img/blog/crisis-survival-rules.svg
 categories: Notes
 tags: crisis survival
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/crisis-survival-rules.svg" alt="crisis-survival-rules" style="width:100%">
+<img src="/assets/img/blog/crisis-survival-rules.svg" alt="crisis-survival-rules" style="width:100%">
 
 ---
 

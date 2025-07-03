@@ -3,14 +3,14 @@ layout: post
 title: 苦难人的爱情——Love of Victims
 date: 2017-08-22
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 天空划过一片黑色云彩，那是苦难人正在经历的爱情。  
 一如懦弱少年，飞蛾扑火，  

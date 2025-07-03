@@ -3,14 +3,14 @@ layout: post
 title: 线装书的制法——Method of Making Thread Bound Books
 date: 2018-08-02
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 ## 纸（A4纸等）
 

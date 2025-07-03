@@ -3,14 +3,14 @@ layout: post
 title: 企业、领导、狗——Enterprises, Leaders and Dogs
 date: 2022-03-24
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 政治觉悟高的企业，不能劝它善良，得夸它精明。同理，促进经济发展的领导，不能总讲ta向钱看，还要看ta帮扶了多少精明的企业。
 

@@ -3,14 +3,14 @@ layout: post
 title: 要过的日子——Days to Live
 date: 2018-11-05
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 记：似乎突然一晚上，就想好了以后要过的是怎样的日子。
 

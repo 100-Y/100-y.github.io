@@ -3,14 +3,14 @@ layout: post
 title: 诗人的海洋——Poet’s Ocean
 date: 2018-01-18
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 我可以睡到中午自然醒，  
 我可以不用忙着吃饭。  

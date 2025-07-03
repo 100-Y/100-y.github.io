@@ -3,14 +3,14 @@ layout: post
 title: 恰似冬风——Just Like Winter Wind
 date: 2016-08-09
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 体面生活的憧憬崩溃，  
 好人都落入缓慢、绝望的衰落深渊。  

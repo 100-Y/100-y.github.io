@@ -3,14 +3,14 @@ layout: post
 title: 锥子之死——Death of the Awl
 date: 2015-10-28
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 待订装的书籍，  
 捕捉到一丝焦虑的气息；  

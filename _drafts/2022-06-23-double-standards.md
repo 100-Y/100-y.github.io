@@ -3,14 +3,14 @@ layout: post
 title: 双重标准——Double Standards
 date: 2022-06-23
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 双标就是，高考前、查分后。是，鸡同鸭讲（互动）；是，对牛弹琴（单向输出）。是：打孩子给颗糖，婚前婚后变大样。婆说婆有理……
 

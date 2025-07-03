@@ -3,14 +3,14 @@ layout: post
 title: 对话——嘴炮与官员和资本家 / Dialogue - Mouth Cannon with Officials and Capitalists
 date: 2022-02-23
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 抢占ta们信仰、道德的至高点
 

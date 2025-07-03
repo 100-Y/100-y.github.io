@@ -3,14 +3,14 @@ layout: post
 title: Domains For Sale
 date: 2025-05-05
 description:
-og_image: /assets/img/blog/png/domains-for-sale.png
-thumbnail: /assets/img/blog/svg/domains-for-sale.svg
+og_image: /assets/img/blog/domains-for-sale.png
+thumbnail: /assets/img/blog/domains-for-sale.svg
 categories: Internet
 tags: domain
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/domains-for-sale.svg" alt="domains-for-sale" style="width:100%">
+<img src="/assets/img/blog/domains-for-sale.svg" alt="domains-for-sale" style="width:100%">
 
 **<mark>rips.rip</mark>** 分析：
 

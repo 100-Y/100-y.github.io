@@ -3,14 +3,14 @@ layout: post
 title: 僵化的思想——Rigid Thoughts
 date: 2015-01-15
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 如果引导人们的新闻，一直是翻旧账，那么人的思维观念将永远是僵化的！七八年前是这样，现在是这样，将来还是一样！谈话、评论，鼓吹、传播；无知与盲目……没有一点点进步，毕生都在腐朽。
 

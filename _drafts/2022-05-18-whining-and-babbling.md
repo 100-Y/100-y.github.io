@@ -3,14 +3,14 @@ layout: post
 title: 呜呜喳喳——Whining and Babbling
 date: 2022-05-18
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 楼下一群小年轻闹麻了，像是夜宵喝酒，收费停靠的车子开不出栏杆外，呜呜喳喳……那声音：尖而穿透，急而绵长。一阵比划过后，现在，城里的公鸡和我，都被ta们叫醒。
 

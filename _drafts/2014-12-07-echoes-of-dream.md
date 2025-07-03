@@ -3,14 +3,14 @@ layout: post
 title: 梦的回响——Echoes of Dream
 date: 2014-12-07
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 讲出去的梦想，会变质；  
 憋在脑海中的，才会升华。  

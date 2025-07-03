@@ -3,14 +3,14 @@ layout: post
 title: 生命中的河流，女鬼与我——Rivers in Life, Ghost and Me
 date: 2017-10-12
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 生命中的河流，密密麻麻，挤满了各式各样的人形动物肢体；  
 无知的人们以为是珍奇鱼类，纷纷将他们打捞上岸。  

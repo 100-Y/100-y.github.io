@@ -3,14 +3,14 @@ layout: post
 title: 3月8日成都的雨——March 8th, Rain in Chengdu
 date: 2017-03-08
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 雨仿佛每天都要下那么一会儿，  
 街上的行人，也都没做好带伞的准备。  

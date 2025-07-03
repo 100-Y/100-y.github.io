@@ -3,14 +3,14 @@ layout: post
 title: 布达拉宫——The Potala Palace
 date: 2015-01-31
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 想现在就坐火车去看你，  
 想你维持这模样就一直。  

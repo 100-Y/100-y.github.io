@@ -3,14 +3,14 @@ layout: post
 title: 尸体——The Corpse
 date: 2015-12-09
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 没有思想，躺坐在床上  
 就好比死后被安置在棺材。  

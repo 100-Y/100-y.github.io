@@ -3,14 +3,14 @@ layout: post
 title: 引力之下——全球秩序的无声重构 / Under the Pull of Gravity - The Silent Restructuring of Global Order
 date: 2025-04-04
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 在无形杠杆的引力之中，税制如月之潮汐，悄然操纵着商品的走向与资本的归宿。关税只是泛起波澜的表层风浪，深层的推力埋藏于制度的骨架。
 

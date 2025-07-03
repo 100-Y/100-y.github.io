@@ -3,14 +3,14 @@ layout: post
 title: 人民之词——The Word People
 date: 2024-11-30
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 我听见“人民”这个词在广播里重复，沙哑、铿锵，像一枚旧铜币在空碗里翻滚。它有时像父亲的鞋印，踩在泥地上，有力却模糊；有时像广场上的喊声，被扩音器拉长，空洞而嘹亮。
 

@@ -3,14 +3,14 @@ layout: post
 title: 怛的战后庆典——Da&#8217;s Postwar Celebration (3-)
 date: 2022-09-10
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Sea-Wall
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 攻破海城墙，  
 薨、怛，至少需要，  

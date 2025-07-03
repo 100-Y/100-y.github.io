@@ -3,14 +3,14 @@ layout: post
 title: 生活、诗和远方——Life, Poetry and Distance
 date: 2018-01-02
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 生活是你自己的，诗和远方，又何尝不是另一种苟且。
 

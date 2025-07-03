@@ -3,14 +3,14 @@ layout: post
 title: 编织彩虹的人——The man Weaving Rainbows
 date: 2022-05-18
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 校园里，有人徒手，在艰难地攀爬。一层又一层的阶梯。顾不及拉上快隐约掉落的裤子。旁边一侧寝室的学生，不理解，有些充满着鄙视；有些说着什么，好奇看ta接下来的行动。
 

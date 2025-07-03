@@ -3,14 +3,14 @@ layout: post
 title: 谈爱国——On Patriotism
 date: 2022-05-31
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 “爱国”，是一种理念、某种认同；也可以是一种刑罚、施与枷锁。“爱国”，应该，爱是大家；国不只是王土……
 

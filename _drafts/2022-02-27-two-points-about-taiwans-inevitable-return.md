@@ -3,14 +3,14 @@ layout: post
 title: 台湾必然回归的两点说明——Two Points about Taiwan’s Inevitable Return
 date: 2022-02-27
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 1. 台湾内部，派系林立。社会撕裂严重，意见不一。
 2. 大陆具有绝对力量。

@@ -3,14 +3,14 @@ layout: post
 title: 洒米驱邪的隔房幺娘 / The Aunt Scattering Rice To Ward Off Evil Spirits
 date: 2025-05-02
 description: 在面对危机时，洒米驱邪是一种带有安慰性质的传统行为。Scattering rice to ward off evil spirits during crisis, is a comforting traditional act.
-og_image: /assets/img/blog/png/the-aunt-scattering-rice-to-ward-off-evil-spirits.png
-thumbnail: /assets/img/blog/svg/the-aunt-scattering-rice-to-ward-off-evil-spirits.svg
+og_image: /assets/img/blog/the-aunt-scattering-rice-to-ward-off-evil-spirits.png
+thumbnail: /assets/img/blog/the-aunt-scattering-rice-to-ward-off-evil-spirits.svg
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/the-aunt-scattering-rice-to-ward-off-evil-spirits.svg" alt="the-aunt-scattering-rice-to-ward-off-evil-spirits" style="width:100%">
+<img src="/assets/img/blog/the-aunt-scattering-rice-to-ward-off-evil-spirits.svg" alt="the-aunt-scattering-rice-to-ward-off-evil-spirits" style="width:100%">
 
 ---
 

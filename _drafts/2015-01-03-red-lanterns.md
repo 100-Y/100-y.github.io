@@ -3,14 +3,14 @@ layout: post
 title: 红灯笼——Red Lanterns
 date: 2015-01-03
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 小李看见张三家阳台挂起了高高的红灯笼，于是想把自家的阳台也挂上。
 

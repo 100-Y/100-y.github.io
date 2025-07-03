@@ -3,14 +3,14 @@ layout: post
 title: 香港，海参崴、伯力——Xiāng Gǎng，Hǎi\_Shēn\_Wǎi\_and\_Bó\_Lì
 date: 2022-04-05
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 香港：1842年8月29日《南京条约》的香港；海参崴和伯力：1860年11月14日《北京条约》的海参崴和伯力。
 

@@ -3,14 +3,14 @@ layout: post
 title: 流氓、富人——Rogues and Rich Men
 date: 2021-11-22
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 听话的流氓和有用的富人，会替主人办好事，也会偶尔索了主人的命。
 

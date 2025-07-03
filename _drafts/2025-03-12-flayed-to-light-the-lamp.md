@@ -3,14 +3,14 @@ layout: post
 title: 剥皮点灯——Flayed to Light the Lamp
 date: 2025-03-12
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 <div class="wp-block-columns"><div class="wp-block-column">在流量称王的时代，  
 每次点击、每秒驻足，  

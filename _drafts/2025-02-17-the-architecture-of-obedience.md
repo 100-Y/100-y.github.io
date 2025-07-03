@@ -3,14 +3,14 @@ layout: post
 title: 顺从的建筑学——The Architecture of Obedience
 date: 2025-02-17
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 回声先抵达，再是我的声音——它早已被审批、复制、归档。
 

@@ -3,14 +3,14 @@ layout: post
 title: 真相与视角——Truth and Perspective
 date: 2024-10-25
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 真相像一颗宝石，不同的角度反射出不同的光芒。每个人的观点和经历，注定了ta们所看到的光彩都有所不同。我们的任务，不就是去理解和欣赏这颗宝石的多样性吗？
 

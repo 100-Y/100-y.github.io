@@ -3,14 +3,14 @@ layout: post
 title: 如何自定义ChatGPT——How to Customize Chatgpt
 date: 2024-11-08
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 1、提供文本（个人网站内容等）  
 2、分析作者相应的写作风格  

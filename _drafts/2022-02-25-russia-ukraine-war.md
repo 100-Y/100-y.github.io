@@ -3,14 +3,14 @@ layout: post
 title: 俄乌战争｜Russia Ukraine War
 date: 2022-02-25
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 乌克兰侵略战争，从一开始俄罗斯就输了。
 

@@ -3,14 +3,14 @@ layout: post
 title: 1925年的中国战略 / China Strategy In 1925
 date: 2025-06-23
 description: 拥有更强境外支持的你，能否在1925年中国重构统一与现代化？With stronger external support, could you reshape unification and modernization in China in 1925?
-og_image: /assets/img/blog/png/china-strategy-in-1925.png
-thumbnail: /assets/img/blog/svg/china-strategy-in-1925.svg
+og_image: /assets/img/blog/china-strategy-in-1925.png
+thumbnail: /assets/img/blog/china-strategy-in-1925.svg
 categories: Notes
 tags: strategy china
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/china-strategy-in-1925.svg" alt="china-strategy-in-1925" style="width:100%">
+<img src="/assets/img/blog/china-strategy-in-1925.svg" alt="china-strategy-in-1925" style="width:100%">
 
 ---
 

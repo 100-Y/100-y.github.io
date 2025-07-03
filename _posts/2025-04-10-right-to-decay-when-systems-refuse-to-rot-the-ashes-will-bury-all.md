@@ -3,14 +3,14 @@ layout: post
 title: 代谢的权利：当系统拒绝腐烂，骨灰终将埋葬一切
 date: 2025-04-10
 description: 一篇以“代谢”为象征的深度社会批评文章，揭示系统拒绝腐烂所引发的慢性崩坏。骨灰终将掩埋的，不只是制度本身，还有我们逃避的改变。A profound societal critique using "metabolism" as metaphor, exposing how the refusal to decay leads to systemic stagnation. The ashes will bury not just the system, but the change we feared to face.
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 一个无法自我代谢的系统，终将被牛马的骨灰所掩埋。
 

@@ -3,14 +3,14 @@ layout: post
 title: 上海密局 / The Shanghai Gambit
 date: 2025-06-24
 description: 一场关于信念与现实冲突的惊悚小说。A political thriller about belief colliding with reality.
-og_image: /assets/img/blog/png/the-shanghai-gambit.png
-thumbnail: /assets/img/blog/svg/the-shanghai-gambit.svg
+og_image: /assets/img/blog/the-shanghai-gambit.png
+thumbnail: /assets/img/blog/the-shanghai-gambit.svg
 categories: Essays
 tags: shanghai
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/the-shanghai-gambit.svg" alt="the-shanghai-gambit" style="width:100%"/>
+<img src="/assets/img/blog/the-shanghai-gambit.svg" alt="the-shanghai-gambit" style="width:100%"/>
 
 ---
 

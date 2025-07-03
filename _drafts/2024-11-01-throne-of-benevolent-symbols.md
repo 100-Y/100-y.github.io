@@ -3,14 +3,14 @@ layout: post
 title: 善意象征的王座——Throne of Benevolent Symbols
 date: 2024-11-01
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 纵使恶鬼坐上善意象征的王座，也会变成斯德哥尔摩城至高无上的天使。
 

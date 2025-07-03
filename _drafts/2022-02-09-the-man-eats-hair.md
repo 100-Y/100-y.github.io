@@ -3,14 +3,14 @@ layout: post
 title: 吃头发的人——The Man Eats Hair
 date: 2022-02-09
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 梦里，**地毯下有一股十分怪异的东西在来回奔跑**。我追它，拿屋内的东西，也用脚。
 

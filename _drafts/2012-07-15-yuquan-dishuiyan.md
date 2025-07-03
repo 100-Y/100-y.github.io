@@ -3,14 +3,14 @@ layout: post
 title: 玉泉-滴水岩——YuQuan DiShuiYan
 date: 2012-07-15
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 飞鸟戏荷滴水下，  
 鸭潜浮水风拂。  

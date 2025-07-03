@@ -3,14 +3,14 @@ layout: post
 title: 同性恋是不是病｜Is Homosexuality a Disease
 date: 2021-01-31
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 在我看来，至少男同是。年龄差距很大的更是。这是一种对于人格意义上的操控。国家应该建立、健全有关变性人的法案，鼓励这类人士，自愿接受心理治疗，甚至为他们提供免费的性别改造服务。
 

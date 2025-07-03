@@ -3,14 +3,14 @@ layout: post
 title: 裂缝里的回声：那些未说出口的理想之声
 date: 2025-04-04
 description: 裂缝中的低语也能震响历史。在静默中传承理想，这是一段属于众人的无声史诗。Whispers in the cracks can still shake history. This is a silent epic of ideals passed on by the voices of the many.
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 光线一寸一寸从窗台流进来，照亮旧桌上摊开的宣言书，笔迹被汗水晕开。那一夜我在狭小的阁楼中，一边念着“平等”一边听远处铁轨上的吼鸣声。有人躲在天花板夹层，有人穿越雪原带回一封信。更多的人坐在会场角落里，从未说过一句口号，但眼神发光。他们在时间缝隙里留下了未完成的句子，不是英雄，是众声，是裂缝里的回声。
 

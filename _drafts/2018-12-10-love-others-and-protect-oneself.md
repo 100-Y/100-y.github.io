@@ -3,14 +3,14 @@ layout: post
 title: 爱人与护己——Love Others and Protect Oneself
 date: 2018-12-10
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 请不要把一个人想的很好，也不要把一个人看得很坏！打的坐出租车，一定开窗留个缝隙。洗澡，也一定留个风口。学会预见！尤其关乎身家性命的事情，务必联想其有可能导致的最坏过程和后果。
 

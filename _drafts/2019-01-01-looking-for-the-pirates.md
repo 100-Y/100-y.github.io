@@ -3,14 +3,14 @@ layout: post
 title: 寻找海盗——Looking for the Pirates (4-)
 date: 2019-01-01
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Sea-Wall
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 “亲爱的王子，要知道啊，  
 即使是最亲密无间的朋友，  

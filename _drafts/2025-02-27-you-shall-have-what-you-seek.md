@@ -3,14 +3,14 @@ layout: post
 title: 你将获得你所求的一切——You Shall Have What You Seek
 date: 2025-02-27
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 夜幕低垂。空气沉闷，像一层无形的压迫。身后传来低声的窃语，是非交错，悄然刺穿夜色。我静静地听着，直到话语的锋芒割破底线，胸腔翻涌，无法再忍。猛然起身，声音在寂静中炸裂，惊得众人对视，目光交错间，是错愕、惊惧，还是暗藏的幸灾乐祸？
 

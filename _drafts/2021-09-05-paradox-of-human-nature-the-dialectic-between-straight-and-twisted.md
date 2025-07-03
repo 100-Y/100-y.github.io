@@ -3,14 +3,14 @@ layout: post
 title: 人性悖论——直曲之间的辩证 / Paradox of Human Nature - The Dialectic Between Straight and Twisted
 date: 2021-09-05
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 人性，本质上很纠结。双重、多重性格，不可避免。好的、坏的；又好、又坏；不好、不坏；又不好，又不坏……相对笔直，绝对扭曲。不清不楚，不明不白。对人性进行探讨，本质上是在反人性。与其探讨，不如反。反也是一种探讨……
 

@@ -3,14 +3,14 @@ layout: post
 title: 谁能被点名，谁须要供奉——Who Bears a Name, and Who Bears the Altar
 date: 2025-03-08
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 风从远山吹来，拂过园外的野草，又绕进院中，摇曳树影下的花草。有人轻声点名远方的身影，笑谈它们的模样；可若目光转向院里那棵树，声音便低了下去，只余静默的供奉。这片园子不大，却藏着风与影的秘密——谁能被随意点画，谁须被小心呵护，而风吹过时，又是谁在借力低语。
 

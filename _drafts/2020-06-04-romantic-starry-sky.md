@@ -3,14 +3,14 @@ layout: post
 title: 浪漫星空——Romantic Starry Sky
 date: 2020-06-04
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 星空下，最浪漫的是诗！  
 星空里，则是你和我。

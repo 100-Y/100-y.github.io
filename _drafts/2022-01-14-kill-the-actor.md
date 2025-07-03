@@ -3,14 +3,14 @@ layout: post
 title: 杀死该演员——Kill the Actor
 date: 2022-01-14
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 2018年深夜初秋的某个夜晚，一对男女走在宽阔明亮的大街上。（伏笔）
 

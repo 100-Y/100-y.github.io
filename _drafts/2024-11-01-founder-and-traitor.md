@@ -3,14 +3,14 @@ layout: post
 title: 缔造者与卖国贼——Founder and Traitor
 date: 2024-11-01
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 一个国家的缔造者，亦是另一个国家的卖国贼。
 

@@ -3,14 +3,14 @@ layout: post
 title: 梦中梦——鬼魅娃娃 / Dream in a Dream - Ghost Doll
 date: 2024-08-26
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 一天，孙婆带着她的家人以及半岁小孩去爬山。小孩光着脚丫屁颠屁颠走在长满杂草的小道。我跟在小孩最后边。小孩要求抱抱，前面的其它孩子已经走很快，隔了有一段路程了。无奈，只好有我来，担负这个责任。
 

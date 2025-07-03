@@ -3,14 +3,14 @@ layout: post
 title: 香蕉和牛奶的狂欢——A Carnival of Bananas and Milk
 date: 2025-04-01
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Essays
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 空气里弥漫着一股让人心跳加速的味道，像夏夜里熟透了的果实，又甜又腻，勾得人喉咙发干。李昊站在她面前，鼻尖轻轻耸动，那股味道从她身上飘过来，像一只无形的手，钻进他的衣服，撩拨着他的每一寸皮肤。他低头一看，她穿着那件薄得几乎透明的白衬衫，领口松松垮垮，隐约露出锁骨下的弧线，汗水顺着她的脖颈滑下来，滴在胸口，湿漉漉地贴着布料，把那两团软肉的形状勾勒得一清二楚。
 

@@ -3,8 +3,8 @@ layout: post
 title: 凡星——Ordinary Stars
 date: 2010-09-15
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
@@ -12,7 +12,7 @@ giscus_comments: true
 
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 我能够企及的只有，  
 眼前的那几颗凡星；  

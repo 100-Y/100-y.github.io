@@ -12,7 +12,7 @@ tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 步骤1。定义自己给出的“专有名词”。  
 步骤2。类比“专有名词”。  

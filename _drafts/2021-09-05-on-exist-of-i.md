@@ -3,14 +3,14 @@ layout: post
 title: 论我的存在——On Exist of I
 date: 2021-09-05
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 “我”，压根就不存在。“我”之所以存在，是因为我的父母。而我的父母的存在，则是因为他们各自父母的存在。他们各自父母，又因为他们各自父母的存在……所以，没有他们的存在，就没有“我”。
 

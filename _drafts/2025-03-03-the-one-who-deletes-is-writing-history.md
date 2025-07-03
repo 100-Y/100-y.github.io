@@ -3,14 +3,14 @@ layout: post
 title: 删句的，在编史——The One Who Deletes Is Writing History
 date: 2025-03-03
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 谁在编史？谁在删句？在胜利者的笔下，忠诚与背叛常常易位，不是因为道德模糊，而是因为历史的舞台从未平坦。如果和平得以书写，是否战争便成为罪孽？如果投降换来完整，是否坚持才是毁灭的开端？汪精卫的胜败，不只是一个人的命运，而是整个评价体系的镜像倒转。 动摇的不是真相，而是谁有权述说。
 

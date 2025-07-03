@@ -3,14 +3,14 @@ layout: post
 title: 挺胸和收腹——Chest out and Stomach in
 date: 2024-11-30
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 他不记得什么时候学会了这个动作——不是为了好看，是因为有一回在雨里走太久，他的身体开始往下坠，像布娃娃断了线。那时候他突然收腹，像是从水底蹬了一脚回来。
 

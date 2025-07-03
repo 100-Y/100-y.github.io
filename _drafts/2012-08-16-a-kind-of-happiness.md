@@ -3,14 +3,14 @@ layout: post
 title: 一种幸福——A Kind of Happiness
 date: 2012-08-16
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 用心在梦里，对望永不知疲倦；同床共枕抑或一桌之隔，都是一种幸福。
 

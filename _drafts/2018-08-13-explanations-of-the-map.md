@@ -3,14 +3,14 @@ layout: post
 title: 地图的一些讲解——Explanations of the Map
 date: 2018-08-13
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Sea-Wall
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 世界的“本初”，前面已经提到了是大洋（Big Ocean）。回归现实生活，最初生命的诞生就是在海洋。而构成大洋的两个对立面，分别是现世（the World）和异界（the Outsider），又各自被海、洋包围。
 

@@ -3,14 +3,14 @@ layout: post
 title: 平凡的人——Ordinary Human Being
 date: 2022-03-09
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 和大多数人一样，在现实生活里，是个普通、平凡的人类，思想，或许会有一些突出和闪光的点，但终究还是逃脱不了，人类某些无法逃脱的桎梏。
 

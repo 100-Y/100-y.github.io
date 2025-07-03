@@ -3,14 +3,14 @@ layout: post
 title: 一篇“狗撵科学”的短文——A Short Piece on Dogs Chasing Science
 date: 2024-11-11
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 夜深，废弃的广场上，一团漂浮的“科学”悄然现身，像一段未解的公式，摇曳在月光下。一群流浪狗缓缓围拢过来，眼中闪着迷惘的光芒。科学时而飘忽，时而停驻，像在挑衅，又似在引诱。狗们缓慢地追逐，瘦骨嶙峋的身影在光圈里拉得长长，仿佛紧抓着某种命运的尾巴。
 

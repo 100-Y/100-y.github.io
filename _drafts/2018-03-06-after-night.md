@@ -3,14 +3,14 @@ layout: post
 title: 黑夜过后——After Night
 date: 2018-03-06
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 夜晚，抬头当凝视映照在玻璃上的灯光，  
 未来的自己，也透着光亮看你：  

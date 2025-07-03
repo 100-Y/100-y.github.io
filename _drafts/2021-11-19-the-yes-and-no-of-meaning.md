@@ -3,14 +3,14 @@ layout: post
 title: 意义的有无——The Yes and No of Meaning
 date: 2021-11-19
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 意义是相对的，在同世界的人眼中，它有；在相对与绝对的比较之下，它又是无的！
 

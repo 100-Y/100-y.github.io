@@ -3,14 +3,14 @@ layout: post
 title: 退守迷蒙森林——Retreat to Misty Forest (3-99)
 date: 2019-09-22
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Sea-Wall
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 用爱浇筑的城堡，有人，用恨的眼泪冲毁了它；以仇的名义打造的和平庄园，有人，心甘情愿成为了它的奴仆……
 

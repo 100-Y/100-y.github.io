@@ -3,14 +3,14 @@ layout: post
 title: 最终结局——The Final End
 date: 2018-08-21
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Cloud-Country
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 王城活下来的人升为新的云国人，旧王城淹没成为新大洋，新大洋里，正逐渐诞生新的人类。
 

@@ -3,14 +3,14 @@ layout: post
 title: 新域名计划——New Domain Plan
 date: 2025-02-26
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags: internet
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 “新域名计划”的第一步：注册一个新的谷歌账号（包括Gmail），将域名解析到Cloudflare的同时，设置自定义域名邮箱（1#36525.day）并转移（谷歌邮箱），然后利用自定义域名邮箱或谷歌账号，注册或绑定，其它平台各类账号。
 

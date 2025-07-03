@@ -3,14 +3,14 @@ layout: post
 title: 未即当下——Future is Now
 date: 2020-06-17
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 人类出生的目的，是获得灵魂的解脱。死亡，只是灵魂得到解脱的一条真理。真理，虽其它还有很多条，包括做人类自己！包括开导和解脱自己、乃至其它同胞的灵魂！包括诚实、无惧面对所有！但最大的真理，还是莫过于第一条！
 

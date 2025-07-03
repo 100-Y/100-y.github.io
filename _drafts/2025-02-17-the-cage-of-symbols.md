@@ -3,14 +3,14 @@ layout: post
 title: 符号的囚笼——The Cage of Symbols
 date: 2025-02-17
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 在意义的雾中，符号如裂镜，映出凝视者的欲望与惧怕。它不再中性，而是被光影涂抹成旗帜、刀锋。叙事由目光完成，观看成了编码，转发成了立场，符号沦为情绪的兵器。
 

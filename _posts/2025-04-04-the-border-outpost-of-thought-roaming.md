@@ -3,14 +3,14 @@ layout: post
 title: 思想漫游的边境哨站——The Border Outpost of Thought Roaming
 date: 2025-04-04
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 在流动空间的临界点，路由器如同一座隐形的思想中转站，它以无声的脉冲穿越城市间隙，将现实的屏障转译为数字的自由。
 

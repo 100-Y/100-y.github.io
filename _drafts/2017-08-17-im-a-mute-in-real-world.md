@@ -3,14 +3,14 @@ layout: post
 title: 现实世界我是一个哑巴——I’m a Mute in Real World
 date: 2017-08-17
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Poems
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 现实的世界我是一个哑巴，  
 于是偶尔会与心里的那个它谈话。  

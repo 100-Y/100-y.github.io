@@ -3,14 +3,14 @@ layout: post
 title: 文盲不识字，发文凭就好了——The Illiterate May Not Read, But a Diploma Will Be Fine
 date: 2024-11-08
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Notes
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 发文凭，不过是蒙上一层光鲜的外衣，把无知装扮成一张无害的证书。可字里行间的空白，像是静默的荒野。证书在手，真相却无处可藏——那是一场自欺的盛宴，是无知在礼堂中央的舞步，背后是知识的缺席，是思想的荒芜。
 

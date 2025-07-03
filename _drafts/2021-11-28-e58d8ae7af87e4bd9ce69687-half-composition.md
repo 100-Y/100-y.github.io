@@ -3,14 +3,14 @@ layout: post
 title: 半篇作文——Half Composition
 date: 2021-11-28
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Dreams
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 梦里初中、课上，手写了半篇8、9万字的作文。四处找订书机，怎么排队与借，也轮不到我。在同学们都差不多装订好、上交完毕的时候，我的作业本子又突然变成了一本厚的书……
 

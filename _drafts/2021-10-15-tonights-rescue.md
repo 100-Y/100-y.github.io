@@ -3,14 +3,14 @@ layout: post
 title: 今夜的拯救——Tonight’s Rescue
 date: 2021-10-15
 description:
-og_image: /assets/img/blog/png/
-thumbnail: /assets/img/blog/svg/
+og_image: /assets/img/blog/
+thumbnail: /assets/img/blog/
 categories: Phrases
 tags:
 giscus_comments: true
 ---
 
-<img src="/assets/img/blog/svg/" alt="" style="width:100%">
+<img src="/assets/img/blog/" alt="" style="width:100%">
 
 今夜，我拯救了一个人的生命、生活；尽管如此，可ta一点都不觉得。
 
