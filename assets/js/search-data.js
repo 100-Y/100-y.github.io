@@ -213,20 +213,20 @@ ninja.data = [{
             window.location.href = "/blog/2025-05-05/domains-for-sale/";
           
         },
-      },{id: "post-洒米驱赶邪祟的隔房幺娘",
+      },{id: "post-洒米驱邪的隔房幺娘-the-aunt-scattering-rice-to-ward-off-evil-spirits",
         
-          title: "洒米驱赶邪祟的隔房幺娘",
+          title: "洒米驱邪的隔房幺娘 / The Aunt Scattering Rice To Ward Off Evil Spirits",
         
-        description: "在面对危机时，洒米驱邪是一种带有安慰性质的传统行为，它揭示了民间信仰在人类情感应对机制中的价值。Scattering rice during crisis is a comforting traditional act, revealing the value of folk beliefs in human emotional coping.",
+        description: "在面对危机时，洒米驱邪是一种带有安慰性质的传统行为。Scattering rice to ward off evil spirits during crisis, is a comforting traditional act.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025-05-02/rice-to-ward-off-evil-spirits/";
+            window.location.href = "/blog/2025-05-02/aunt-the-aunt-scattering-rice-to-ward-off-evil-spirits/";
           
         },
-      },{id: "post-换气过度综合征处理指南",
+      },{id: "post-换气过度综合征-hyperventilation-syndrome",
         
-          title: "换气过度综合征处理指南",
+          title: "换气过度综合征 / Hyperventilation Syndrome",
         
         description: "从心理疏导到急性应对，掌握换气过度综合征的标准处理路径。A clear treatment approach for hyperventilation syndrome—from psychological relief to acute-phase rebreathing techniques.",
         section: "Posts",
@@ -235,37 +235,15 @@ ninja.data = [{
             window.location.href = "/blog/2025-05-01/hyperventilation-syndrome/";
           
         },
-      },{id: "post-隐秘突围-在集体愚昧中构建心理独立的认知系统",
+      },{id: "post-一场隐秘突围-a-hidden-breakout",
         
-          title: "隐秘突围：在集体愚昧中构建心理独立的认知系统",
+          title: "一场隐秘突围 / A Hidden Breakout",
         
-        description: "在情绪混乱与集体愚昧的环境中，悄然构建心理独立系统，完成一场温柔而坚定的自我突围。Amid emotional turmoil and collective ignorance, quietly build a mentally independent system for a gentle yet resolute breakout.",
+        description: "在情绪混乱与集体愚昧的环境中，悄然构建心理独立系统。Amid emotional turmoil and collective ignorance, quietly build a mentally independent system.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025-04-30/hidden-breakout/";
-          
-        },
-      },{id: "post-要做勤快的懒人",
-        
-          title: "要做勤快的懒人",
-        
-        description: "懒≠低效，勤快≠聪明。本篇文章带你识别四种行动模型，理解如何选择适合自己的“效率路径”。Laziness doesn’t mean inefficiency, and diligence isn’t always smart. This article helps you identify four action models and choose your personal path to efficiency.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-04-29/diligent-lazy-man/";
-          
-        },
-      },{id: "post-chatgpt中国用户估算-免费与付费结构",
-        
-          title: "ChatGPT中国用户估算：免费与付费结构",
-        
-        description: "2025年4月中国大陆约有1000万活跃用户与100万付费用户，折射VPN与支付结构下的真实使用图景。As of April 2025, around 10 million active and 1 million paid users in China reflect real usage under VPN and payment constraints.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025-04-29/chatgpt-china-users/";
+            window.location.href = "/blog/2025-04-30/a-hidden-breakout/";
           
         },
       },{id: "post-真正的爱-是在慌乱中稳住船",
