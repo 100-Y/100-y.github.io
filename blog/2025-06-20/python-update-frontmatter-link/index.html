@@ -29,14 +29,14 @@
 <span class="k">for</span> <span class="n">post_file</span> <span class="ow">in</span> <span class="n">post_files</span><span class="p">:</span>
     <span class="n">post_name</span> <span class="o">=</span> <span class="n">os</span><span class="p">.</span><span class="n">path</span><span class="p">.</span><span class="nf">splitext</span><span class="p">(</span><span class="n">post_file</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
 
-    <span class="c1"># 🟡 去除日期前缀，只保留 slug 作为图片名匹配
+    <span class="c1"># 去除日期前缀，只保留 slug 作为图片名匹配
 </span>    <span class="n">slug</span> <span class="o">=</span> <span class="n">re</span><span class="p">.</span><span class="nf">sub</span><span class="p">(</span><span class="sa">r</span><span class="sh">'</span><span class="s">^\d{4}-\d{2}-\d{2}-</span><span class="sh">'</span><span class="p">,</span> <span class="sh">''</span><span class="p">,</span> <span class="n">post_name</span><span class="p">)</span>
     <span class="n">expected_img</span> <span class="o">=</span> <span class="n">slug</span> <span class="o">+</span> <span class="sh">"</span><span class="s">.webp</span><span class="sh">"</span>
     <span class="n">img_path</span> <span class="o">=</span> <span class="n">os</span><span class="p">.</span><span class="n">path</span><span class="p">.</span><span class="nf">join</span><span class="p">(</span><span class="n">img_dir</span><span class="p">,</span> <span class="n">expected_img</span><span class="p">)</span>
 
     <span class="c1"># 如果图片不存在，跳过
 </span>    <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="p">.</span><span class="n">path</span><span class="p">.</span><span class="nf">exists</span><span class="p">(</span><span class="n">img_path</span><span class="p">):</span>
-        <span class="nf">print</span><span class="p">(</span><span class="sa">f</span><span class="sh">"</span><span class="s">⚠️ 缺少图片：</span><span class="si">{</span><span class="n">expected_img</span><span class="si">}</span><span class="s">，跳过 </span><span class="si">{</span><span class="n">post_file</span><span class="si">}</span><span class="sh">"</span><span class="p">)</span>
+        <span class="nf">print</span><span class="p">(</span><span class="sa">f</span><span class="sh">"</span><span class="s">缺少图片：</span><span class="si">{</span><span class="n">expected_img</span><span class="si">}</span><span class="s">，跳过 </span><span class="si">{</span><span class="n">post_file</span><span class="si">}</span><span class="sh">"</span><span class="p">)</span>
         <span class="k">continue</span>
 
     <span class="n">img_name</span> <span class="o">=</span> <span class="n">expected_img</span>
@@ -90,7 +90,7 @@
     <span class="k">with</span> <span class="nf">open</span><span class="p">(</span><span class="n">post_path</span><span class="p">,</span> <span class="sh">'</span><span class="s">w</span><span class="sh">'</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="sh">'</span><span class="s">utf-8</span><span class="sh">'</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
         <span class="n">f</span><span class="p">.</span><span class="nf">writelines</span><span class="p">(</span><span class="n">new_lines</span><span class="p">)</span>
 
-    <span class="nf">print</span><span class="p">(</span><span class="sa">f</span><span class="sh">"</span><span class="s">✅ 已更新 Front Matter：</span><span class="si">{</span><span class="n">post_file</span><span class="si">}</span><span class="s"> → 图片 </span><span class="si">{</span><span class="n">img_name</span><span class="si">}</span><span class="sh">"</span><span class="p">)</span>
+    <span class="nf">print</span><span class="p">(</span><span class="sa">f</span><span class="sh">"</span><span class="s">已更新 Front Matter：</span><span class="si">{</span><span class="n">post_file</span><span class="si">}</span><span class="s"> → 图片 </span><span class="si">{</span><span class="n">img_name</span><span class="si">}</span><span class="sh">"</span><span class="p">)</span>
 </code></pre></div></div> <hr> <h2 id="五使用说明">五、使用说明</h2> <hr> <ul> <li> <p>将脚本保存为 <code class="language-plaintext highlighter-rouge">update_thumbnail.py</code> 放在文件夹根目录（比如<code class="language-plaintext highlighter-rouge">xx</code>）</p> </li> <li> <p>确保目录结构如下：</p> <div class="language-plaintext highlighter-rouge"> <div class="highlight"><pre class="highlight"><code>xx/
 ├── update_thumbnail.py
 ├── _posts/
