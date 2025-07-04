@@ -73,14 +73,14 @@ post_files = sorted([f for f in os.listdir(posts_dir) if f.endswith('.md')])
 for post_file in post_files:
     post_name = os.path.splitext(post_file)[0]
 
-    # 🟡 去除日期前缀，只保留 slug 作为图片名匹配
+    # 去除日期前缀，只保留 slug 作为图片名匹配
     slug = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', post_name)
     expected_img = slug + ".webp"
     img_path = os.path.join(img_dir, expected_img)
 
     # 如果图片不存在，跳过
     if not os.path.exists(img_path):
-        print(f"⚠️ 缺少图片：{expected_img}，跳过 {post_file}")
+        print(f"缺少图片：{expected_img}，跳过 {post_file}")
         continue
 
     img_name = expected_img
@@ -134,7 +134,7 @@ for post_file in post_files:
     with open(post_path, 'w', encoding='utf-8') as f:
         f.writelines(new_lines)
 
-    print(f"✅ 已更新 Front Matter：{post_file} → 图片 {img_name}")
+    print(f"已更新 Front Matter：{post_file} → 图片 {img_name}")
 ```
 
 ---
