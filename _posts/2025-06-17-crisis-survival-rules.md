@@ -8,6 +8,7 @@ thumbnail: /assets/img/blog/crisis-survival-rules.svg
 categories: Notes
 tags: crisis survival
 giscus_comments: true
+featured: true
 ---
 
 <img src="/assets/img/blog/crisis-survival-rules.svg" alt="crisis-survival-rules" style="width:100%">
