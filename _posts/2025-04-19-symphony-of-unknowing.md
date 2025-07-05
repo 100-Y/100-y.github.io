@@ -2,11 +2,11 @@
 layout: post
 title: 无知的协奏曲 / The Symphony Of Unknowing
 date: 2025-04-19
-description: 无知不是知识缺失，而是系统性合谋；它令化疗在终末期悄然加速崩塌。Ignorance is not lack of knowledge, but systemic collusion; It lets chemotherapy quietly dismantle life at the end.
+description: 无知不是知识缺失，而是系统性失语。Unknowing is not lack of knowledge, but a systemic aphasia.
 og_image: /assets/img/blog/the-symphony-of-unknowing.svg
 thumbnail: /assets/img/blog/the-symphony-of-unknowing.svg
 categories: Notes
-tags:
+tags: systemic
 giscus_comments: true
 ---
 
@@ -30,4 +30,4 @@ giscus_comments: true
 
 In chemotherapy, medical decisions, and end-of-life care, what truly destroys a person's life is often not the illness itself, but **<mark>the collective ignorance</mark>** surrounding it. The patient mistakenly believes there are no other options; the doctor overlooks the physical and psychological limits the patient can bear; the family treats the insistence on rescue and refusal to give up as an expression of love. There is a **<mark>lack of communication, avoidance within the system, and the absence of truth</mark>**... And society as a whole has never taught or learned how to say goodbye calmly. Amid these layers of misalignment and concealment, life collapses quietly and without anyone noticing.
 
-This is not an individual failure, but **<mark>a systemic breakdown</mark>** — <u>a collective silence of medical culture, emotional logic, and social education</u> in the face of death.
+This is not an individual failure, but **<mark>a systemic aphasia</mark>** — <u>a collective silence of medical culture, emotional logic, and social education</u> in the face of death.
