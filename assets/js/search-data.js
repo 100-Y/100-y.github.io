@@ -268,9 +268,9 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-21/on-alignment/";
           
         },
-      },{id: "post-无知的协奏曲-化疗如何悄然毁灭一个生命",
+      },{id: "post-无知的协奏曲-the-symphony-of-unknowing",
         
-          title: "无知的协奏曲：化疗如何悄然毁灭一个生命",
+          title: "无知的协奏曲 / The Symphony Of Unknowing",
         
         description: "无知不是知识缺失，而是系统性合谋；它令化疗在终末期悄然加速崩塌。Ignorance is not lack of knowledge, but systemic collusion; It lets chemotherapy quietly dismantle life at the end.",
         section: "Posts",
