@@ -7,19 +7,15 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-# facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
-# instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
-# mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # orcid_id: # your ORCID ID
 # osf_id: # your OSF ID
 
@@ -27,11 +23,16 @@ youtube_id: 36525_day # your youtube channel id (youtube.com/@<youtube_id>)
 medium_username: 36525.day # your Medium username
 github_username: 100-Y/100-y.github.io # your GitHub user name
 wechat_qr: weixin.svg # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-rss_icon: true # comment this line to hide the RSS icon
+email: 1#36525.day # your email address
 
+# linkedin_username: # your LinkedIn user name
+# mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+# instagram_id: # your instagram id
+# facebook_id: # your facebook id
+# rss_icon: true # comment this line to hide the RSS icon
 # x_username: 36525_day # your X handle
-# email: # your email address
-#pinterest_id:  # your pinterest id
+# pinterest_id:  # your pinterest id
+
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate

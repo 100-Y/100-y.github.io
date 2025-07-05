@@ -2,14 +2,13 @@
 layout: about
 title: 关于 / About
 permalink: /
-subtitle: 1#36525.day
+subtitle: 一生写就的一本书。A book written across a lifetime.
 
 profile:
   align: right
   image: logo.svg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>100-Y</p>
 
 social: true # includes social icons at the bottom of the page
 
