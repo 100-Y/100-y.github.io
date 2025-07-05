@@ -257,15 +257,15 @@ ninja.data = [{
             window.location.href = "/blog/2025-04-25/true-love-to-steady-the-boat-in-panic/";
           
         },
-      },{id: "post-契合度的探讨",
+      },{id: "post-契合的探讨-on-alignment",
         
-          title: "契合度的探讨",
+          title: "契合的探讨 / On Alignment",
         
         description: "契合不是同频，而是在差异中仍能共振的能力，是一种持续生成的关系。Compatibility is not sameness but the capacity to resonate through difference—a dynamic, ongoing relation.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025-04-21/nature-of-compatibility/";
+            window.location.href = "/blog/2025-04-21/on-alignment/";
           
         },
       },{id: "post-无知的协奏曲-化疗如何悄然毁灭一个生命",
