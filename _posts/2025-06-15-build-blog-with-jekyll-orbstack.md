@@ -8,6 +8,7 @@ thumbnail: /assets/img/blog/build-blog-with-jekyll-orbstack.svg
 categories: Internet
 tags: jekyll orbstack github
 giscus_comments: true
+featured: true
 ---
 
 <img src="/assets/img/blog/build-blog-with-jekyll-orbstack.svg" alt="build-blog-with-jekyll-orbstack" style="width:100%">
